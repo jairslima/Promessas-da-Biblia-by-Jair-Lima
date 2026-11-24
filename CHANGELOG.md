@@ -1,9 +1,10 @@
-# CHANGELOG
+# Histórico de Versões (`CHANGELOG.md`)
 
 ## [1.0.0] - 2026-11-24
-### Adicionado
-- Fechamento definitivo da Fase 3 (arbitragem exegética independente sobre os 1.808 casos divergentes dos 56 livros restantes), consolidando **3.224 unidades promissórias confirmadas** (1.211 por acordo direto e 2.013 por arbitragem independente; zero candidatos pendentes).
-- Recuperação integral dos 276 resumos de passes tolerantes, estabelecendo a estimativa de **2.945 promessas distintas** no limiar de Jaccard 0,45 (**1.481** de bênção divina).
-- Separação formal entre `promitente` (sempre divino nas promessas divinas e garantias apostólicas) e `comunicador` humano (1.487 registros).
-- Conciliação documental completa das 3.609 unidades preliminares para as 3.224 confirmadas e dos 1.808 casos para 1.843 decisões de unidades.
-- 12 gráficos em alta resolução (coloridos e P&B), artigo científico bilíngue, relatório de originalidade e site interativo *Observatório das Promessas Bíblicas*.
+### Publicação Oficial — Observatório das Promessas Bíblicas
+* **Pesquisa e autoria:** Jair Lima (Lima Editora do Brasil).
+* Consolidação integral das três etapas metodológicas sobre os 66 livros, 1.189 capítulos e 31.104 versículos da *Bíblia Almeida Livre* (CC BY-ND 4.0).
+* Catálogo estruturado com **3.224 unidades promissórias confirmadas** (`1.211` por acordo direto nas Etapas 1 e 2 e `2.013` por arbitragem exegética na Etapa 3; `0` candidatos pendentes) em 64 livros com registros catalogados e 4.373 versículos associados (14,1% do corpus).
+* Recuperação integral de 276 resumos e agrupamento lexical por similaridade de Jaccard ($\tau = 0,45$), estabelecendo a estimativa de **2.945 promessas distintas** (**1.481 promessas distintas de bênção divina**, dentre **1.622 unidades de bênção divina**).
+* Separação formal entre `promitente` (autor do compromisso) e `comunicador` humano em 1.487 registros de origem divina ou garantia apostólica.
+* Publicação do portal institucional interativo (**Observatório das Promessas Bíblicas**), artigo científico bilíngue revisado, memória de cálculo, revisão do estado da arte e apêndice técnico de reprodutibilidade.

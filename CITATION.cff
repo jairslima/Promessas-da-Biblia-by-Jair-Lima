@@ -1,17 +1,19 @@
 cff-version: 1.2.0
-message: "Se você utilizar este conjunto de dados ou código em sua pesquisa, cite-o conforme abaixo."
-title: "Promessas da Bíblia by Jair Lima: Catálogo Científico e Análise Computacional e Exegética dos 66 Livros do Cânon Protestante"
-version: 1.0.0
-date-released: 2026-11-24
+message: "Para citar esta pesquisa e seu conjunto de dados, utilize os metadados abaixo."
+title: "Observatório das Promessas Bíblicas: Uma investigação integral das promessas de Gênesis a Apocalipse"
 authors:
   - family-names: "Lima"
     given-names: "Jair"
     affiliation: "Lima Editora do Brasil"
-license: CC-BY-4.0
+version: "1.0.0"
+date-released: "2026-11-24"
+url: "https://jairslima.github.io/Promessas-da-Biblia-by-Jair-Lima/"
 repository-code: "https://github.com/jairslima/Promessas-da-Biblia-by-Jair-Lima"
+license: "CC-BY-4.0"
 keywords:
-  - "promessas bíblicas"
-  - "biblical promises"
-  - "teologia computacional"
-  - "computational theology"
+  - "Promessas bíblicas"
+  - "Exegese bíblica"
+  - "Teologia bíblica"
+  - "Humanidades digitais"
+  - "Linguística de corpus"
   - "Bíblia Almeida Livre"

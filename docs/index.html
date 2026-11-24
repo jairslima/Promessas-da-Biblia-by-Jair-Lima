@@ -3,97 +3,1086 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Observatório das Promessas Bíblicas | Biblical Promises Observatory — by Jair Lima</title>
+  <meta name="description" content="Observatório das Promessas Bíblicas: Uma investigação integral das promessas de Gênesis a Apocalipse. Pesquisa e autoria de Jair Lima (Lima Editora do Brasil, 2026). 3.224 unidades promissórias confirmadas e 2.945 promessas distintas estimadas nos 66 livros do cânon protestante." />
+  <meta name="author" content="Jair Lima" />
+  <title>Observatório das Promessas Bíblicas | Pesquisa e autoria: Jair Lima</title>
   <style>
     :root {
-      --primary: #1e3a5f;
+      --navy-dark: #10233f;
+      --navy: #1b365d;
+      --navy-light: #2b4c7e;
       --gold: #8b6914;
-      --bg: #f5f7fa;
-      --card: #ffffff;
-      --text: #1a202c;
-      --muted: #4a5568;
-      --border: #e2e8f0;
+      --gold-accent: #b88b1d;
+      --gold-soft: #f9f5eb;
+      --bg-page: #faf8f3;
+      --bg-card: #ffffff;
+      --bg-subtle: #f3f0e8;
+      --text-main: #1d2430;
+      --text-body: #2c3545;
+      --text-muted: #546072;
+      --border: #dfd9cc;
+      --border-strong: #c7beab;
+      --font-serif: Georgia, 'Palatino Linotype', 'Book Antiqua', 'Times New Roman', serif;
+      --font-sans: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;
     }
     * { box-sizing: border-box; margin: 0; padding: 0; }
-    body { font-family: 'Segoe UI', system-ui, -apple-system, sans-serif; background: var(--bg); color: var(--text); line-height: 1.55; }
-    header { background: linear-gradient(135deg, #13294b 0%, #1e3a5f 100%); color: #fff; padding: 2.2rem 1.5rem; text-align: center; border-bottom: 4px solid #d4ac0d; }
-    header h1 { font-size: 1.95rem; margin-bottom: 0.4rem; letter-spacing: 0.3px; }
-    header p { color: #e2e8f0; max-width: 880px; margin: 0 auto 1rem; font-size: 1rem; }
-    .topbar { display: flex; justify-content: center; gap: 0.75rem; flex-wrap: wrap; margin-top: 0.8rem; }
-    .btn { display: inline-block; padding: 0.5rem 1rem; border-radius: 6px; font-weight: 600; font-size: 0.88rem; text-decoration: none; cursor: pointer; border: 1px solid transparent; transition: 0.15s; }
-    .btn-gold { background: #d4ac0d; color: #13294b; }
-    .btn-outline { background: rgba(255,255,255,0.12); color: #fff; border-color: rgba(255,255,255,0.35); }
-    .btn:hover { opacity: 0.92; }
-    main { max-width: 1280px; margin: 1.8rem auto; padding: 0 1.2rem; }
-    .kpi-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(195px, 1fr)); gap: 1rem; margin-bottom: 2rem; }
-    .kpi { background: var(--card); border: 1px solid var(--border); border-top: 4px solid var(--primary); border-radius: 8px; padding: 1.1rem; text-align: center; box-shadow: 0 1px 3px rgba(0,0,0,0.04); }
-    .kpi.highlight { border-top-color: #d4ac0d; }
-    .kpi .label { font-size: 0.78rem; text-transform: uppercase; color: var(--muted); font-weight: 700; letter-spacing: 0.5px; }
-    .kpi .value { font-size: 1.85rem; font-weight: 800; color: var(--primary); margin: 0.25rem 0; }
-    .kpi.highlight .value { color: var(--gold); }
-    .kpi .sub { font-size: 0.8rem; color: var(--muted); }
-    section { background: var(--card); border: 1px solid var(--border); border-radius: 10px; padding: 1.5rem; margin-bottom: 1.8rem; box-shadow: 0 1px 3px rgba(0,0,0,0.04); }
-    section h2 { font-size: 1.3rem; color: var(--primary); margin-bottom: 1rem; border-bottom: 2px solid var(--border); padding-bottom: 0.5rem; }
-    .filters { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 0.8rem; margin-bottom: 1rem; }
-    .filters input, .filters select { width: 100%; padding: 0.55rem 0.75rem; border: 1px solid #cbd5e0; border-radius: 6px; font-size: 0.9rem; }
-    .table-wrap { overflow-x: auto; max-height: 620px; overflow-y: auto; border: 1px solid var(--border); border-radius: 6px; }
-    table { width: 100%; border-collapse: collapse; font-size: 0.86rem; }
-    th, td { padding: 0.6rem 0.75rem; border-bottom: 1px solid var(--border); text-align: left; vertical-align: top; }
-    th { background: #f1f5f9; color: var(--primary); position: sticky; top: 0; z-index: 2; font-weight: 700; }
-    tr:hover { background: #f8fafc; }
-    .badge { display: inline-block; padding: 0.15rem 0.5rem; border-radius: 4px; font-size: 0.75rem; font-weight: 600; background: #e2e8f0; color: #1e293b; }
-    .badge.bencao { background: #dbeafe; color: #1e40af; }
-    .badge.juizo { background: #fee2e2; color: #991b1b; }
-    .charts-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(380px, 1fr)); gap: 1.2rem; }
-    .charts-grid img { width: 100%; height: auto; border: 1px solid var(--border); border-radius: 8px; }
-    .citation-box { background: #f8fafc; border-left: 4px solid var(--primary); padding: 1rem; font-family: Consolas, monospace; font-size: 0.85rem; white-space: pre-wrap; margin-top: 0.6rem; }
-    footer { text-align: center; padding: 2rem 1rem; color: var(--muted); font-size: 0.85rem; border-top: 1px solid var(--border); }
+    html { scroll-behavior: smooth; }
+    body {
+      font-family: var(--font-sans);
+      background-color: var(--bg-page);
+      color: var(--text-body);
+      line-height: 1.7;
+      font-size: 16px;
+    }
+    /* 1. Identidade institucional */
+    .inst-header {
+      background: linear-gradient(180deg, var(--navy-dark) 0%, var(--navy) 100%);
+      color: #ffffff;
+      border-bottom: 4px solid var(--gold-accent);
+      padding: 3.2rem 1.5rem 2.4rem;
+      text-align: center;
+    }
+    .inst-overline {
+      font-family: var(--font-sans);
+      text-transform: uppercase;
+      letter-spacing: 2.2px;
+      font-size: 0.78rem;
+      color: #e6c875;
+      font-weight: 700;
+      margin-bottom: 0.65rem;
+    }
+    .inst-title {
+      font-family: var(--font-serif);
+      font-size: 2.55rem;
+      font-weight: 700;
+      letter-spacing: 0.2px;
+      line-height: 1.2;
+      margin-bottom: 0.65rem;
+      color: #ffffff;
+    }
+    .inst-subtitle {
+      font-family: var(--font-serif);
+      font-style: italic;
+      font-size: 1.28rem;
+      color: #e9eef5;
+      max-width: 780px;
+      margin: 0 auto 1.2rem;
+      font-weight: 400;
+    }
+    .inst-authorship {
+      font-size: 0.98rem;
+      color: #ffffff;
+      font-weight: 600;
+      letter-spacing: 0.4px;
+    }
+    .inst-publisher {
+      font-size: 0.88rem;
+      color: #cbd5e1;
+      margin-top: 0.2rem;
+    }
+    .lang-bar {
+      margin-top: 1.4rem;
+      display: inline-flex;
+      gap: 0.5rem;
+      background: rgba(255, 255, 255, 0.08);
+      padding: 0.3rem;
+      border-radius: 6px;
+      border: 1px solid rgba(255, 255, 255, 0.2);
+    }
+    .lang-btn {
+      background: transparent;
+      color: #e2e8f0;
+      border: none;
+      padding: 0.38rem 0.95rem;
+      font-size: 0.84rem;
+      font-weight: 600;
+      border-radius: 4px;
+      cursor: pointer;
+      transition: background 0.15s, color 0.15s;
+    }
+    .lang-btn.active {
+      background: var(--gold-accent);
+      color: var(--navy-dark);
+    }
+    .nav-bar {
+      background: #ffffff;
+      border-bottom: 1px solid var(--border);
+      position: sticky;
+      top: 0;
+      z-index: 50;
+      box-shadow: 0 2px 6px rgba(16, 35, 63, 0.05);
+    }
+    .nav-inner {
+      max-width: 1220px;
+      margin: 0 auto;
+      padding: 0.6rem 1rem;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 0.35rem 0.9rem;
+    }
+    .nav-inner a {
+      color: var(--navy);
+      text-decoration: none;
+      font-size: 0.84rem;
+      font-weight: 600;
+      padding: 0.25rem 0.45rem;
+      border-radius: 4px;
+      transition: color 0.15s, background 0.15s;
+    }
+    .nav-inner a:hover {
+      color: var(--gold);
+      background: var(--gold-soft);
+    }
+
+    /* Container principal e seções editoriais */
+    main {
+      max-width: 1140px;
+      margin: 2.2rem auto 3.5rem;
+      padding: 0 1.25rem;
+    }
+    .editorial-section {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 2.3rem 2.4rem;
+      margin-bottom: 2.2rem;
+      box-shadow: 0 2px 8px rgba(16, 35, 63, 0.03);
+    }
+    .sec-number {
+      font-size: 0.76rem;
+      text-transform: uppercase;
+      letter-spacing: 1.6px;
+      color: var(--gold);
+      font-weight: 700;
+      display: block;
+      margin-bottom: 0.3rem;
+    }
+    .editorial-section h2 {
+      font-family: var(--font-serif);
+      font-size: 1.68rem;
+      color: var(--navy-dark);
+      margin-bottom: 1.15rem;
+      padding-bottom: 0.65rem;
+      border-bottom: 2px solid var(--border);
+      line-height: 1.3;
+    }
+    .editorial-section h3 {
+      font-family: var(--font-serif);
+      font-size: 1.22rem;
+      color: var(--navy);
+      margin: 1.5rem 0 0.65rem;
+    }
+    .editorial-section p {
+      margin-bottom: 1rem;
+      color: var(--text-body);
+      text-align: justify;
+    }
+    .lead-box {
+      background: var(--gold-soft);
+      border-left: 4px solid var(--gold);
+      padding: 1.35rem 1.6rem;
+      border-radius: 0 6px 6px 0;
+      margin: 1.1rem 0;
+    }
+    .lead-box p:last-child { margin-bottom: 0; }
+
+    /* 3. Painel de resultados com números grandes */
+    .kpi-primary-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+      gap: 1.15rem;
+      margin-bottom: 1.25rem;
+    }
+    .kpi-secondary-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+      gap: 0.95rem;
+      margin-bottom: 1.4rem;
+    }
+    .kpi-card {
+      background: #ffffff;
+      border: 1px solid var(--border);
+      border-top: 4px solid var(--navy);
+      border-radius: 6px;
+      padding: 1.3rem 1.1rem;
+      text-align: center;
+    }
+    .kpi-card.gold {
+      border-top-color: var(--gold-accent);
+      background: #fffdf8;
+    }
+    .kpi-card .kpi-num {
+      font-family: var(--font-serif);
+      font-size: 2.55rem;
+      font-weight: 700;
+      color: var(--navy-dark);
+      line-height: 1.1;
+      margin-bottom: 0.35rem;
+    }
+    .kpi-card.gold .kpi-num {
+      color: var(--gold);
+    }
+    .kpi-card.secondary .kpi-num {
+      font-size: 1.85rem;
+    }
+    .kpi-card .kpi-title {
+      font-size: 0.83rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      color: var(--navy);
+      margin-bottom: 0.3rem;
+    }
+    .kpi-card .kpi-desc {
+      font-size: 0.82rem;
+      color: var(--text-muted);
+      line-height: 1.4;
+      text-align: center;
+    }
+
+    /* Tabelas acadêmicas */
+    .table-container {
+      overflow-x: auto;
+      margin: 1.2rem 0;
+      border: 1px solid var(--border);
+      border-radius: 6px;
+    }
+    table.academic-table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.91rem;
+      background: #ffffff;
+    }
+    table.academic-table th,
+    table.academic-table td {
+      padding: 0.7rem 0.9rem;
+      border-bottom: 1px solid var(--border);
+      text-align: left;
+      vertical-align: top;
+    }
+    table.academic-table th {
+      background: var(--bg-subtle);
+      color: var(--navy-dark);
+      font-weight: 700;
+      border-bottom: 2px solid var(--border-strong);
+    }
+    table.academic-table td.num,
+    table.academic-table th.num {
+      text-align: right;
+      font-variant-numeric: tabular-nums;
+    }
+    table.academic-table tr:last-child td {
+      border-bottom: none;
+    }
+    table.academic-table tr.total-row td {
+      background: var(--gold-soft);
+      font-weight: 700;
+      border-top: 2px solid var(--border-strong);
+    }
+
+    /* Gráficos e figuras */
+    .figure-block {
+      margin: 1.6rem 0;
+      text-align: center;
+      background: #ffffff;
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 1.2rem;
+    }
+    .figure-block img {
+      max-width: 100%;
+      height: auto;
+      max-height: 480px;
+      display: block;
+      margin: 0 auto;
+    }
+    .figure-caption {
+      margin-top: 0.75rem;
+      font-size: 0.86rem;
+      color: var(--text-muted);
+      font-style: italic;
+      text-align: center !important;
+    }
+    .figures-two-col {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(380px, 1fr));
+      gap: 1.4rem;
+      margin: 1.4rem 0;
+    }
+
+    /* Pilares e cartões */
+    .pillars-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: 1.1rem;
+      margin: 1.3rem 0;
+    }
+    .pillar-card {
+      background: #fdfcf9;
+      border: 1px solid var(--border);
+      border-left: 3px solid var(--navy);
+      border-radius: 6px;
+      padding: 1.1rem 1.25rem;
+    }
+    .pillar-card h4 {
+      font-family: var(--font-serif);
+      color: var(--navy-dark);
+      font-size: 1.02rem;
+      margin-bottom: 0.4rem;
+    }
+    .pillar-card p {
+      font-size: 0.9rem;
+      margin-bottom: 0;
+      text-align: left;
+    }
+
+    /* Etapas da pesquisa */
+    .stages-flow {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+      gap: 1.1rem;
+      margin: 1.35rem 0;
+    }
+    .stage-box {
+      background: var(--bg-subtle);
+      border: 1px solid var(--border-strong);
+      border-top: 4px solid var(--navy);
+      border-radius: 6px;
+      padding: 1.25rem;
+    }
+    .stage-box.gold { border-top-color: var(--gold); background: var(--gold-soft); }
+    .stage-step {
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      color: var(--gold);
+      margin-bottom: 0.25rem;
+    }
+    .stage-box h4 {
+      font-family: var(--font-serif);
+      font-size: 1.1rem;
+      color: var(--navy-dark);
+      margin-bottom: 0.5rem;
+    }
+    .stage-box p {
+      font-size: 0.89rem;
+      margin-bottom: 0;
+      text-align: left;
+    }
+
+    /* 9. Consulta interativa ao catálogo */
+    .filters-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+      gap: 0.85rem;
+      margin-bottom: 1rem;
+      background: var(--bg-subtle);
+      padding: 1.15rem;
+      border-radius: 6px;
+      border: 1px solid var(--border);
+    }
+    .filter-field label {
+      display: block;
+      font-size: 0.76rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      color: var(--navy);
+      margin-bottom: 0.3rem;
+      letter-spacing: 0.4px;
+    }
+    .filter-field input,
+    .filter-field select {
+      width: 100%;
+      padding: 0.55rem 0.7rem;
+      border: 1px solid var(--border-strong);
+      border-radius: 4px;
+      font-size: 0.9rem;
+      background: #ffffff;
+      color: var(--text-main);
+    }
+    .catalog-toolbar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 0.75rem;
+      margin-bottom: 0.75rem;
+    }
+    .catalog-scroll {
+      max-height: 600px;
+      overflow-y: auto;
+      overflow-x: auto;
+      border: 1px solid var(--border-strong);
+      border-radius: 6px;
+    }
+    .cat-tag {
+      display: inline-block;
+      padding: 0.18rem 0.55rem;
+      border-radius: 4px;
+      font-size: 0.76rem;
+      font-weight: 600;
+    }
+    .cat-tag.bencao { background: #e6effa; color: #163a66; border: 1px solid #bfd4ee; }
+    .cat-tag.juizo { background: #faeaea; color: #7a1c1c; border: 1px solid #e9c0c0; }
+
+    /* Botões e Downloads */
+    .btn-action {
+      display: inline-block;
+      padding: 0.6rem 1.2rem;
+      border-radius: 5px;
+      font-weight: 600;
+      font-size: 0.9rem;
+      text-decoration: none;
+      cursor: pointer;
+      transition: all 0.15s;
+      border: 1px solid transparent;
+    }
+    .btn-navy { background: var(--navy); color: #ffffff; }
+    .btn-navy:hover { background: var(--navy-dark); }
+    .btn-gold { background: var(--gold); color: #ffffff; }
+    .btn-gold:hover { background: #70530e; }
+    .btn-ghost { background: #ffffff; color: var(--navy); border-color: var(--navy); }
+    .btn-ghost:hover { background: var(--gold-soft); }
+
+    .downloads-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 1.1rem;
+      margin-top: 1.1rem;
+    }
+    .download-card {
+      background: #fdfcf9;
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 1.25rem;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+    }
+    .download-card h4 {
+      font-family: var(--font-serif);
+      color: var(--navy-dark);
+      font-size: 1.05rem;
+      margin-bottom: 0.4rem;
+    }
+    .download-card p {
+      font-size: 0.87rem;
+      color: var(--text-muted);
+      margin-bottom: 1rem;
+      text-align: left;
+    }
+
+    /* Citações e livro */
+    .citation-block {
+      background: var(--bg-subtle);
+      border-left: 4px solid var(--navy);
+      padding: 1rem 1.25rem;
+      font-family: 'Consolas', 'Courier New', monospace;
+      font-size: 0.84rem;
+      white-space: pre-wrap;
+      margin: 0.7rem 0 1.2rem;
+      border-radius: 0 5px 5px 0;
+      color: var(--text-main);
+    }
+    .book-showcase {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 1.4rem;
+      background: linear-gradient(135deg, #132847 0%, #1f3d68 100%);
+      color: #ffffff;
+      padding: 2.2rem;
+      border-radius: 8px;
+      border: 1px solid var(--gold-accent);
+    }
+    .book-showcase h3 {
+      color: #f3d47c !important;
+      font-size: 1.45rem;
+      margin-top: 0 !important;
+    }
+    .book-showcase p {
+      color: #edf2f7 !important;
+      text-align: left;
+    }
+    .book-motto {
+      font-family: var(--font-serif);
+      font-style: italic;
+      font-size: 1.15rem;
+      color: #f3d47c !important;
+      border-top: 1px solid rgba(255, 255, 255, 0.2);
+      padding-top: 1rem;
+      margin-top: 0.5rem;
+    }
+
+    footer {
+      background: var(--navy-dark);
+      color: #cbd5e1;
+      text-align: center;
+      padding: 2.5rem 1.25rem;
+      font-size: 0.88rem;
+      border-top: 3px solid var(--gold-accent);
+    }
+    footer a { color: #f3d47c; text-decoration: none; }
+    footer a:hover { text-decoration: underline; }
+
+    @media (max-width: 768px) {
+      .inst-title { font-size: 1.85rem; }
+      .inst-subtitle { font-size: 1.08rem; }
+      .editorial-section { padding: 1.5rem 1.25rem; }
+      .figures-two-col { grid-template-columns: 1fr; }
+      .editorial-section p { text-align: left; }
+    }
   </style>
 </head>
 <body>
-  <header>
-    <h1 id="t-title">Observatório das Promessas Bíblicas <span style="font-weight:400;font-size:1.1rem;">by Jair Lima</span></h1>
-    <p id="t-sub">Base científica aberta, auditável e reprodutível das 3.224 unidades promissórias confirmadas (2.945 promessas distintas) nos 66 livros, 1.189 capítulos e 31.104 versículos da Bíblia Almeida Livre.</p>
-    <div class="topbar">
-      <button class="btn btn-gold" onclick="setLang('pt')">Português (PT-BR)</button>
-      <button class="btn btn-outline" onclick="setLang('en')">English (EN)</button>
-      <a class="btn btn-outline" href="../catalogo-digital-completo.csv" download>Baixar CSV (3.224 registros)</a>
-      <a class="btn btn-outline" href="../catalogo-digital-completo.xlsx" download>Baixar Excel (.XLSX)</a>
-      <a class="btn btn-outline" href="../ARTIGO_CIENTIFICO_PROMESSAS_DA_BIBLIA.md">Artigo Científico (PT/EN)</a>
-      <a class="btn btn-outline" href="../MEMORIA_DE_CALCULO.md">Memória de Cálculo</a>
+
+  <!-- 1. IDENTIDADE INSTITUCIONAL -->
+  <header class="inst-header" id="topo">
+    <div class="inst-overline" data-i18n="overline">Pesquisa Teológica, Exegética e de Humanidades Digitais</div>
+    <h1 class="inst-title" data-i18n="main_title">Observatório das Promessas Bíblicas</h1>
+    <p class="inst-subtitle" data-i18n="main_subtitle">Uma investigação integral das promessas de Gênesis a Apocalipse.</p>
+    <div class="inst-authorship" data-i18n="main_author">Pesquisa e autoria: Jair Lima.</div>
+    <div class="inst-publisher" data-i18n="main_publisher">Lima Editora do Brasil, 2026.</div>
+    <div class="lang-bar" role="group" aria-label="Seleção de idioma">
+      <button type="button" class="lang-btn active" id="btn-pt" onclick="setLanguage('pt')">Português (PT-BR)</button>
+      <button type="button" class="lang-btn" id="btn-en" onclick="setLanguage('en')">English (EN)</button>
     </div>
   </header>
 
-  <main>
-    <div class="kpi-grid" id="kpi-container"></div>
+  <nav class="nav-bar" aria-label="Navegação principal">
+    <div class="nav-inner">
+      <a href="#sobre-a-pesquisa" data-i18n="nav_about">Sobre a Pesquisa</a>
+      <a href="#resultados" data-i18n="nav_results">Resultados</a>
+      <a href="#questao-central" data-i18n="nav_question">Questão Central</a>
+      <a href="#nova-abordagem" data-i18n="nav_approach">Nova Abordagem</a>
+      <a href="#mito-oito-mil" data-i18n="nav_myth">O Mito das 8 Mil</a>
+      <a href="#categorias" data-i18n="nav_categories">Categorias</a>
+      <a href="#etapas" data-i18n="nav_stages">Etapas</a>
+      <a href="#catalogo-interativo" data-i18n="nav_catalog">Catálogo Interativo</a>
+      <a href="#metodologia" data-i18n="nav_method">Metodologia</a>
+      <a href="#artigo-cientifico" data-i18n="nav_paper">Artigo Científico</a>
+      <a href="#downloads" data-i18n="nav_downloads">Downloads</a>
+      <a href="#pesquisador" data-i18n="nav_researcher">Sobre o Pesquisador</a>
+      <a href="#citacao" data-i18n="nav_citation">Citação</a>
+      <a href="#livro" data-i18n="nav_book">O Livro</a>
+    </div>
+  </nav>
 
-    <section>
-      <h2 id="t-search-heading">Consulta Interativa às 3.224 Unidades Promissórias Confirmadas</h2>
-      <div class="filters">
-        <input type="text" id="f-busca" placeholder="Pesquisar referência, objeto prometido, promitente..." oninput="filtrar()" />
-        <select id="f-livro" onchange="filtrar()"><option value="">Todos os 66 livros</option></select>
-        <select id="f-cat" onchange="filtrar()"><option value="">Todas as 10 categorias</option></select>
-        <select id="f-nat" onchange="filtrar()">
-          <option value="">Todas as naturezas</option>
-          <option value="bencao">Bênção / Benefício</option>
-          <option value="juizo">Juízo / Prejuízo</option>
-        </select>
-        <select id="f-prom" onchange="filtrar()"><option value="">Todos os promitentes / comunicadores</option></select>
-        <select id="f-dest" onchange="filtrar()"><option value="">Todos os destinatários</option></select>
+  <main>
+
+    <!-- 2. TÍTULO E AUTORIA DA PESQUISA -->
+    <section class="editorial-section" id="sobre-a-pesquisa">
+      <span class="sec-number" data-i18n="s2_label">Apresentação Institucional e Autoria</span>
+      <h2 data-i18n="s2_title">Sobre a pesquisa</h2>
+      <div id="s2_content">
+        <p>O <strong>Observatório das Promessas Bíblicas</strong> é uma iniciativa de pesquisa de <strong>Jair Lima</strong>, desenvolvida a partir da investigação integral dos 66 livros do cânon protestante, utilizando como referência textual a <em>Bíblia Almeida Livre</em>.</p>
+        <p>O estudo foi estruturado em três etapas de identificação, conferência e arbitragem exegética, com auxílio de ferramentas computacionais de análise textual e processamento de linguagem natural.</p>
+        <p>A metodologia permitiu identificar, classificar e organizar <strong>3.224 unidades promissórias</strong>, das quais se estimam <strong>2.945 compromissos distintos</strong>.</p>
+        <p>Os resultados, critérios metodológicos, catálogos e memórias de cálculo são disponibilizados publicamente, permitindo sua consulta, verificação e utilização em estudos posteriores.</p>
+        <div class="lead-box">
+          <p><strong>A concepção, a direção intelectual e a responsabilidade autoral da pesquisa pertencem a Jair Lima.</strong></p>
+        </div>
       </div>
-      <p id="contagem-filtro" style="font-size:0.88rem;color:var(--muted);margin-bottom:0.6rem;font-weight:600;"></p>
-      <div class="table-wrap">
-        <table>
+    </section>
+
+    <!-- 3. PAINEL DE RESULTADOS COM NÚMEROS GRANDES -->
+    <section class="editorial-section" id="resultados">
+      <span class="sec-number" data-i18n="s3_label">Síntese Quantitativa Oficial</span>
+      <h2 data-i18n="s3_title">Resultados da investigação em números</h2>
+
+      <div class="kpi-primary-grid">
+        <div class="kpi-card">
+          <div class="kpi-num" id="kpi-unidades">3.224</div>
+          <div class="kpi-title" data-i18n="k1_title">Unidades Promissórias Confirmadas</div>
+          <div class="kpi-desc" data-i18n="k1_desc">Contagem efetiva confirmada pelo método (1.211 por acordo direto e 2.013 por arbitragem exegética)</div>
+        </div>
+        <div class="kpi-card gold">
+          <div class="kpi-num" id="kpi-distintas">2.945</div>
+          <div class="kpi-title" data-i18n="k2_title">Promessas Distintas Estimadas</div>
+          <div class="kpi-desc" data-i18n="k2_desc">Estimativa lexical por similaridade de Jaccard (limiar padrão 0,45) descontando reafirmações</div>
+        </div>
+        <div class="kpi-card">
+          <div class="kpi-num" id="kpi-bencao-unid">1.622</div>
+          <div class="kpi-title" data-i18n="k3_title">Unidades de Bênção Divina</div>
+          <div class="kpi-desc" data-i18n="k3_desc">Indicador principal: bênção divina (1.448), garantia apostólica (161) e bênção patriarcal (13)</div>
+        </div>
+        <div class="kpi-card gold">
+          <div class="kpi-num" id="kpi-bencao-dist">1.481</div>
+          <div class="kpi-title" data-i18n="k4_title">Promessas Distintas de Bênção Divina</div>
+          <div class="kpi-desc" data-i18n="k4_desc">Compromissos distintos estimados de bênção divina no limiar padrão de similaridade (0,45)</div>
+        </div>
+      </div>
+
+      <div class="kpi-secondary-grid">
+        <div class="kpi-card secondary">
+          <div class="kpi-num">66</div>
+          <div class="kpi-title" data-i18n="k5_title">Livros Examinados</div>
+          <div class="kpi-desc" data-i18n="k5_desc">39 AT e 27 NT (64 livros com registros catalogados)</div>
+        </div>
+        <div class="kpi-card secondary">
+          <div class="kpi-num" id="kpi-caps">1.189</div>
+          <div class="kpi-title" data-i18n="k6_title">Capítulos Investigados</div>
+          <div class="kpi-desc" data-i18n="k6_desc">Leitura sequencial capítulo a capítulo</div>
+        </div>
+        <div class="kpi-card secondary">
+          <div class="kpi-num" id="kpi-vers">31.104</div>
+          <div class="kpi-title" data-i18n="k7_title">Versículos Examinados</div>
+          <div class="kpi-desc" data-i18n="k7_desc">Texto integral da Bíblia Almeida Livre</div>
+        </div>
+        <div class="kpi-card secondary">
+          <div class="kpi-num" id="kpi-vers-prom">4.373</div>
+          <div class="kpi-title" data-i18n="k8_title">Versículos Associados</div>
+          <div class="kpi-desc" data-i18n="k8_desc">14,1% de todos os versículos das Escrituras</div>
+        </div>
+        <div class="kpi-card secondary">
+          <div class="kpi-num">100%</div>
+          <div class="kpi-title" data-i18n="k9_title">Corpus Examinado</div>
+          <div class="kpi-desc" data-i18n="k9_desc">Investigação integral sem amostragem seletiva</div>
+        </div>
+        <div class="kpi-card secondary">
+          <div class="kpi-num">10</div>
+          <div class="kpi-title" data-i18n="k10_title">Categorias</div>
+          <div class="kpi-desc" data-i18n="k10_desc">Taxonomia por origem, natureza e promitente</div>
+        </div>
+        <div class="kpi-card secondary">
+          <div class="kpi-num">0</div>
+          <div class="kpi-title" data-i18n="k11_title">Candidatos Pendentes</div>
+          <div class="kpi-desc" data-i18n="k11_desc">Catálogo consolidado e integralmente arbitrado</div>
+        </div>
+      </div>
+
+      <div class="lead-box" id="s3_distinction">
+        <p><strong>Distinção metodológica rigorosa entre as grandezas:</strong> A pesquisa diferencia estritamente: (1) a <strong>contagem efetiva de unidades confirmadas</strong> (<strong>3.224</strong> ocorrências textuais promissórias verificadas no corpus, sendo <strong>1.622</strong> de bênção divina); (2) a <strong>estimativa lexical de promessas distintas</strong> (<strong>2.945</strong> compromissos distintos no total e <strong>1.481</strong> de bênção divina no limiar de Jaccard de 0,45, após descontar reafirmações e relatos paralelos); e (3) a <strong>projeção estatística corrigida pela taxa empírica de revocação de 0,84</strong> (<strong>3.506</strong> no total e <strong>1.763</strong> de bênção divina), que constitui exercício analítico de sensibilidade derivado de amostra piloto e não uma medição exata de todas as promessas existentes.</p>
+      </div>
+    </section>
+
+    <!-- 4. APRESENTAÇÃO DA QUESTÃO CENTRAL -->
+    <section class="editorial-section" id="questao-central">
+      <span class="sec-number" data-i18n="s4_label">Problema de Pesquisa e Fundamentação Teológica</span>
+      <h2 data-i18n="s4_title">A questão central: quantas promessas existem na Bíblia?</h2>
+      <div id="s4_content">
+        <p>Responder quantas promessas existem na Bíblia exige enfrentar antes uma pergunta hermenêutica fundamental: <em>o que constitui uma promessa nas Escrituras Sagradas?</em> Diferentemente da contagem de palavras, versículos ou capítulos, atividade consolidada desde a tradição massorética, a identificação de uma promessa não depende apenas da presença do vocábulo "promessa" nem do simples emprego de verbos no tempo futuro.</p>
+        <p>Nas Escrituras, Deus e os agentes históricos prometem mesmo quando o termo "promessa" não é pronunciado, como no protoevangelho de Gênesis 3.15, no chamado de Abraão em Gênesis 12.1-3 ou na aliança davídica de 2 Samuel 7.12-16. Em sentido inverso, nem toda frase no tempo futuro constitui uma promessa: as Escrituras contêm mandamentos, advertências condicionais, provérbios morais de sabedoria, descrições históricas, confissões doutrinárias em terceira pessoa e orações devocionais.</p>
+        <p>Esta pesquisa submeteu a totalidade dos 31.104 versículos do cânon protestante a uma definição exegética explícita fundamentada na teoria dos atos de fala comissivos: conta-se como unidade promissória toda declaração textual em que um <strong>promitente identificável</strong> assume perante um <strong>destinatário reconhecível</strong> o <strong>compromisso futuro ou continuado</strong> de realizar, garantir, manter ou executar determinado benefício ou juízo. O resultado substitui estimativas anônimas por um catálogo verificável versículo a versículo.</p>
+      </div>
+    </section>
+
+    <!-- 5. ORIGINALIDADE E RELEVÂNCIA DO ESTUDO -->
+    <section class="editorial-section" id="nova-abordagem">
+      <span class="sec-number" data-i18n="s5_label">Originalidade e Contribuição Científica</span>
+      <h2 data-i18n="s5_title">Uma nova abordagem para o estudo das promessas bíblicas</h2>
+      <p id="s5_intro">A revisão bibliográfica realizada nas bases acadêmicas internacionais demonstra que, embora existam antologias pastorais clássicas desde o século XVIII e bases morfossintáticas de excelência para o hebraico e o grego bíblicos, faltava aos estudos bíblicos um catálogo integral, estruturado e auditável dos compromissos promissórios do cânon. Sem reivindicar pioneirismo mundial absoluto sobre iniciativas não indexadas, esta pesquisa reúne onze diferenciais metodológicos articulados:</p>
+
+      <div class="pillars-grid" id="s5_pillars">
+        <div class="pillar-card">
+          <h4>1. Investigação integral do cânon</h4>
+          <p>Exame sequencial de 100% dos 66 livros, 1.189 capítulos e 31.104 versículos do cânon protestante, sem depender de coletâneas prévias.</p>
+        </div>
+        <div class="pillar-card">
+          <h4>2. Definição operacional de promessa</h4>
+          <p>Aplicação consistente do critério de ato comissivo (promitente, objeto prometido futuro ou continuado e destinatário reconhecível).</p>
+        </div>
+        <div class="pillar-card">
+          <h4>3. Classificação sistemática em 10 categorias</h4>
+          <p>Distinção precisa entre bênção divina, juízo divino, sentença divina, garantias apostólicas, bênção e juízo patriarcais, compromissos humanos e promessas adversárias.</p>
+        </div>
+        <div class="pillar-card">
+          <h4>4. Conferência cruzada independente</h4>
+          <p>Duas etapas iniciais de análise textual conduzidas de maneira independente sobre todo o corpus para medir convergências e divergências reais.</p>
+        </div>
+        <div class="pillar-card">
+          <h4>5. Arbitragem exegética das divergências</h4>
+          <p>Terceira etapa de avaliação dedicada aos 1.808 casos de identificação unilateral ou divergência classificatória, eliminando aprovações automáticas sem revisão.</p>
+        </div>
+        <div class="pillar-card">
+          <h4>6. Promitentes, comunicadores e destinatários</h4>
+          <p>Separação formal entre a origem divina do compromisso e o comunicador humano (profeta, apóstolo ou personagem) que anuncia ou recorda a promessa em 1.487 registros.</p>
+        </div>
+        <div class="pillar-card">
+          <h4>7. Promessas, reafirmações e cumprimentos</h4>
+          <p>Preservação das 3.224 ocorrências textuais no catálogo bruto aliada ao agrupamento lexical para estimar 2.945 promessas distintas.</p>
+        </div>
+        <div class="pillar-card">
+          <h4>8. Critérios documentados de inclusão e exclusão</h4>
+          <p>Separação fundamentada entre promessas, máximas sapienciais gerais (Provérbios), declarações doutrinárias em 3ª pessoa (Ec 12.14) e votos devocionais humanos.</p>
+        </div>
+        <div class="pillar-card">
+          <h4>9. Disponibilização pública dos dados</h4>
+          <p>Acesso aberto e permanente ao catálogo completo em CSV, Excel e JSONL para cada um dos 64 livros com registros confirmados.</p>
+        </div>
+        <div class="pillar-card">
+          <h4>10. Reprodutibilidade dos cálculos</h4>
+          <p>Memória de cálculo aritmética integral, análise de sensibilidade de limiar (0,35 a 0,65) e scripts de validação abertos.</p>
+        </div>
+        <div class="pillar-card">
+          <h4>11. Teologia bíblica e humanidades digitais</h4>
+          <p>Integração entre rigor exegético, teoria hermenêutica dos atos de fala e análise computacional de corpus a serviço da compreensão das Escrituras.</p>
+        </div>
+      </div>
+
+      <h3 data-i18n="s5_matrix_title">Matriz comparativa com o estado da arte</h3>
+      <div class="table-container">
+        <table class="academic-table">
           <thead>
             <tr>
-              <th>ID</th>
+              <th>Dimensão Analítica</th>
+              <th>Samuel Clarke (1720 / 1738)</th>
+              <th>Everek R. Storms (1956) / Lockyer (1962)</th>
+              <th>Corpora Morfossintáticos (ETCBC / MACULA / STEPBible)</th>
+              <th>Pesquisa Atual: Jair Lima (2026)</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><strong>Cobertura do cânon</strong></td>
+              <td>Seletiva (tópicos devocionais)</td>
+              <td>66 livros (leitura individual manual)</td>
+              <td>66 livros (hebraico e grego)</td>
+              <td><strong>66 livros, 1.189 capítulos, 31.104 versículos (100%)</strong></td>
+            </tr>
+            <tr>
+              <td><strong>Unidade de registro auditável</strong></td>
+              <td>Tópicos pastorais com versículos</td>
+              <td>Apenas totais agregados publicados (8.810 / 7.487)</td>
+              <td>Morfema, palavra e oração sintática</td>
+              <td><strong>3.224 unidades catalogadas com ID (<code>P-LIV-NNNN</code>)</strong></td>
+            </tr>
+            <tr>
+              <td><strong>Definição operacional</strong></td>
+              <td>Consolação espiritual e deveres</td>
+              <td>Critérios internos caso a caso não publicados (inclui votos do homem a Deus)</td>
+              <td>Gramatical e sintática (sem camada promissória)</td>
+              <td><strong>Ato comissivo futuro/continuado com promitente, objeto e destinatário</strong></td>
+            </tr>
+            <tr>
+              <td><strong>Verificação e arbitragem</strong></td>
+              <td>Seleção autoral única</td>
+              <td>Contagem manual única sem conferência cruzada</td>
+              <td>Anotação morfossintática</td>
+              <td><strong>3 etapas: conferência cruzada + arbitragem nos 1.808 casos divergentes</strong></td>
+            </tr>
+            <tr>
+              <td><strong>Distinção unidades vs. distintas</strong></td>
+              <td>Não</td>
+              <td>Não</td>
+              <td>Não aplicável</td>
+              <td><strong>3.224 unidades confirmadas e 2.945 promessas distintas estimadas</strong></td>
+            </tr>
+            <tr>
+              <td><strong>Conjunto de dados público</strong></td>
+              <td>Livro impresso em domínio público</td>
+              <td>Catálogo individual não localizado</td>
+              <td>Sim (morfologia e sintaxe)</td>
+              <td><strong>Sim: CSV, Excel, JSONL, memória de cálculo e scripts abertos</strong></td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- 6. CONTEXTUALIZAÇÃO HISTÓRICA DAS OITO MIL PROMESSAS -->
+    <section class="editorial-section" id="mito-oito-mil">
+      <span class="sec-number" data-i18n="s6_label">Historiografia e Comparação Metodológica</span>
+      <h2 data-i18n="s6_title">O mito das oito mil promessas</h2>
+
+      <div class="kpi-primary-grid">
+        <div class="kpi-card">
+          <div class="kpi-num">8.810</div>
+          <div class="kpi-title">Contagem Histórica (Storms, 1956)</div>
+          <div class="kpi-desc">Total geral divulgado por Everek R. Storms na revista <em>Time</em> (24 dez. 1956), incluindo votos humanos a Deus</div>
+        </div>
+        <div class="kpi-card">
+          <div class="kpi-num">7.487</div>
+          <div class="kpi-title">Promessas Divinas (Storms, 1956)</div>
+          <div class="kpi-desc">Parcela atribuída por Storms a promessas de Deus ao homem, sem separação publicada entre bênção e juízo</div>
+        </div>
+        <div class="kpi-card gold">
+          <div class="kpi-num">3.224</div>
+          <div class="kpi-title">Unidades Confirmadas (Lima, 2026)</div>
+          <div class="kpi-desc">Ocorrências promissórias confirmadas nesta pesquisa com registro individual auditável versículo a versículo</div>
+        </div>
+        <div class="kpi-card gold">
+          <div class="kpi-num">2.945</div>
+          <div class="kpi-title">Promessas Distintas (Lima, 2026)</div>
+          <div class="kpi-desc">Estimativa lexical de compromissos distintos no limiar padrão de Jaccard (0,45), sendo 1.481 de bênção divina</div>
+        </div>
+      </div>
+
+      <div id="s6_content">
+        <p>A cifra de oito mil promessas bíblicas, frequentemente repetida em sermões e obras devocionais como se fosse um dado estabelecido pelas próprias Escrituras, tem origem histórica documentada: trata-se do levantamento manual realizado entre 1954 e 1956 por <strong>Everek Richard Storms</strong> (1914 a 1995), professor e historiador canadense ligado à <em>United Missionary Church</em> em Kitchener, Ontário. Durante sua vigésima sétima leitura da Bíblia, Storms buscou responder a uma lenda popular que falava em trinta mil promessas. Seu recenseamento foi noticiado pela revista <em>Time</em> em 24 de dezembro de 1956 (seção <em>Religion</em>, "Promises") e posteriormente difundido por <strong>Herbert Lockyer</strong> em <em>All the Promises of the Bible</em> (Grand Rapids: Zondervan, 1962). Séculos antes, em 1720, <strong>Samuel Clarke</strong> (com segunda edição em 1738 recomendada por <strong>Isaac Watts</strong>) havia compilado promessas bíblicas por tópicos pastorais, sem finalidade de recenseamento estatístico.</p>
+        <p>Storms contabilizou <strong>8.810 promessas</strong>: 7.487 de Deus ao homem, 991 de um ser humano a outro, 290 do homem a Deus, 28 de anjos, 9 de Satanás, 2 de Deus Pai a Deus Filho, 2 de espíritos malignos ao Senhor e 1 de um homem a um anjo. Como o catálogo versículo a versículo de suas 8.810 anotações não foi publicado nas fontes históricas disponíveis, não é possível auditar individualmente seus registros nem atribuir-lhe critérios internos que a documentação não preserva.</p>
+        <p>A divergência entre os 8.810 registros históricos de Storms e as <strong>3.224 unidades confirmadas</strong> (<strong>2.945 promessas distintas estimadas</strong>) na presente pesquisa não autoriza classificar o levantamento anterior como falso. Demonstra que a contagem histórica não foi reproduzida pela metodologia adotada neste estudo — que exige ato comissivo verificável, exclui votos devocionais do homem a Deus e máximas sapienciais sem falante comissivo em primeira pessoa, separa bênção (1.622 unidades) de juízo divino (1.065 unidades) e disponibiliza todos os registros para verificação pública.</p>
+      </div>
+
+      <div class="figure-block">
+        <img src="./graficos/grafico_07_comparacao_storms_cor.svg" alt="Comparação entre a contagem histórica de Everek R. Storms e a pesquisa atual de Jair Lima" />
+        <p class="figure-caption">Figura 1: Comparação entre os totais históricos divulgados por Everek R. Storms (1956) e os resultados auditáveis da pesquisa atual de Jair Lima (2026).</p>
+      </div>
+    </section>
+
+    <!-- 7. DISTRIBUIÇÃO DAS CATEGORIAS -->
+    <section class="editorial-section" id="categorias">
+      <span class="sec-number" data-i18n="s7_label">Taxonomia Exegética e Distribuição Canônica</span>
+      <h2 data-i18n="s7_title">Distribuição das dez categorias promissórias</h2>
+      <p id="s7_intro">Para evitar que promessas de naturezas e origens distintas fossem misturadas em um único número opaco, as 3.224 unidades confirmadas foram classificadas em dez categorias taxonômicas que distinguem a origem do compromisso, sua polaridade (bênção/benefício ou juízo/prejuízo) e a autoridade do promitente:</p>
+
+      <div class="table-container">
+        <table class="academic-table">
+          <thead>
+            <tr>
+              <th>Categoria de Classificação</th>
+              <th>Código Técnico</th>
+              <th>Natureza e Escopo Teológico</th>
+              <th class="num">Unidades Confirmadas</th>
+              <th class="num">% do Total</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><strong>Bênção divina</strong> <em>(Indicador Principal)</em></td>
+              <td><code>divina_bencao</code></td>
+              <td>Compromissos divinos diretos ou relatados de graça, aliança, proteção, provisão, salvação e restauração</td>
+              <td class="num">1.448</td>
+              <td class="num">44,91%</td>
+            </tr>
+            <tr>
+              <td><strong>Juízo divino</strong></td>
+              <td><code>divina_juizo</code></td>
+              <td>Compromissos e oráculos divinos de retribuição, disciplina pactual e punição histórica ou escatológica</td>
+              <td class="num">952</td>
+              <td class="num">29,53%</td>
+            </tr>
+            <tr>
+              <td><strong>Compromisso humano (benefício)</strong></td>
+              <td><code>humana_beneficio</code></td>
+              <td>Promessas, alianças e juramentos assumidos por agentes humanos em nome próprio para benefício de outrem</td>
+              <td class="num">432</td>
+              <td class="num">13,40%</td>
+            </tr>
+            <tr>
+              <td><strong>Garantia apostólica de bênção</strong> <em>(Ind. Principal)</em></td>
+              <td><code>apostolica_garantia_bencao</code></td>
+              <td>Garantias promissórias de graça, ressurreição e vida eterna enunciadas com autoridade apostólica no NT</td>
+              <td class="num">161</td>
+              <td class="num">4,99%</td>
+            </tr>
+            <tr>
+              <td><strong>Compromisso humano (prejuízo)</strong></td>
+              <td><code>humana_prejuizo</code></td>
+              <td>Juramentos ou ameaças comissivas de dano assumidas por personagens humanos em nome próprio</td>
+              <td class="num">82</td>
+              <td class="num">2,54%</td>
+            </tr>
+            <tr>
+              <td><strong>Sentença divina</strong></td>
+              <td><code>divina_sentenca</code></td>
+              <td>Decretos judiciais solenes pronunciados por Deus sobre indivíduos, dinastias ou nações</td>
+              <td class="num">73</td>
+              <td class="num">2,26%</td>
+            </tr>
+            <tr>
+              <td><strong>Garantia apostólica de juízo</strong></td>
+              <td><code>apostolica_garantia_juizo</code></td>
+              <td>Declarações apostólicas comissivas de retribuição e juízo divino futuro</td>
+              <td class="num">37</td>
+              <td class="num">1,15%</td>
+            </tr>
+            <tr>
+              <td><strong>Promessa adversária ou falsa</strong></td>
+              <td><code>adversaria_ou_falsa</code></td>
+              <td>Ofertas enganosas de Satanás, da serpente, de falsos profetas (como Hananias) ou de inimigos de Deus</td>
+              <td class="num">23</td>
+              <td class="num">0,71%</td>
+            </tr>
+            <tr>
+              <td><strong>Bênção patriarcal</strong> <em>(Indicador Principal)</em></td>
+              <td><code>patriarcal_bencao</code></td>
+              <td>Bênçãos testamentárias proféticas transmitidas pelos patriarcas em Gênesis</td>
+              <td class="num">13</td>
+              <td class="num">0,40%</td>
+            </tr>
+            <tr>
+              <td><strong>Juízo patriarcal</strong></td>
+              <td><code>patriarcal_juizo</code></td>
+              <td>Sentenças proféticas restritivas pronunciadas no contexto testamentário patriarcal</td>
+              <td class="num">3</td>
+              <td class="num">0,09%</td>
+            </tr>
+            <tr class="total-row">
+              <td><strong>Total Consolidado</strong></td>
+              <td></td>
+              <td><strong>1.622 de bênção divina (50,31%) • 1.065 de juízo/sentença (33,03%) • 514 humanas (15,94%) • 23 adversárias (0,71%)</strong></td>
+              <td class="num"><strong>3.224</strong></td>
+              <td class="num"><strong>100,00%</strong></td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <div class="figure-block">
+        <img src="./graficos/grafico_02_dez_categorias_cor.svg" alt="Distribuição das 3.224 unidades confirmadas nas 10 categorias da pesquisa" />
+        <p class="figure-caption">Figura 2: Distribuição das 3.224 unidades promissórias confirmadas nas dez categorias de classificação.</p>
+      </div>
+
+      <div class="figures-two-col">
+        <div class="figure-block" style="margin:0;">
+          <img src="./graficos/grafico_05_divisoes_canon_cor.svg" alt="Distribuição das unidades confirmadas pelas 7 divisões do cânon bíblico" />
+          <p class="figure-caption">Figura 3: Distribuição pelas sete divisões do cânon protestante (Profetas Maiores concentram 1.006 unidades; Livros Históricos, 595; Pentateuco, 560).</p>
+        </div>
+        <div class="figure-block" style="margin:0;">
+          <img src="./graficos/grafico_04_top15_livros_cor.svg" alt="Os 15 livros bíblicos com maior número de unidades promissórias confirmadas" />
+          <p class="figure-caption">Figura 4: Os 15 livros bíblicos com maior volume de unidades confirmadas, liderados por Jeremias (389), Isaías (350), Ezequiel (241) e Gênesis (181).</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- 8. REPRESENTAÇÃO VISUAL DAS ETAPAS DA PESQUISA -->
+    <section class="editorial-section" id="etapas">
+      <span class="sec-number" data-i18n="s8_label">Arquitetura de Verificação e Conciliação Aritmética</span>
+      <h2 data-i18n="s8_title">As três etapas metodológicas da pesquisa</h2>
+
+      <div class="stages-flow">
+        <div class="stage-box">
+          <div class="stage-step">Etapa 1</div>
+          <h4>Identificação Inicial</h4>
+          <p>Análise sequencial dos 66 livros, 1.189 capítulos e 31.104 versículos da Bíblia Almeida Livre, com mapeamento de cobertura versículo a versículo, extração de âncora textual literal e classificação de origem, natureza, promitente, destinatário e condição.</p>
+        </div>
+        <div class="stage-box">
+          <div class="stage-step">Etapa 2</div>
+          <h4>Conferência Cruzada Independente</h4>
+          <p>Segunda análise integral dos 1.189 capítulos conduzida de maneira independente, sem acesso aos resultados da Etapa 1. O pareamento por sobreposição de versículos e âncoras confirmou <strong>1.211 unidades por acordo direto</strong> e identificou <strong>1.808 casos divergentes</strong>.</p>
+        </div>
+        <div class="stage-box">
+          <div class="stage-step">Etapa 3</div>
+          <h4>Arbitragem Exegética</h4>
+          <p>Avaliação individualizada de todos os 1.808 casos de identificação unilateral ou divergência classificatória: <strong>332 casos foram rejeitados</strong> como falsos positivos (334 unidades), <strong>37 subdivisões excedentes</strong> foram consolidadas em 34 casos e <strong>2.013 unidades</strong> foram confirmadas por arbitragem.</p>
+        </div>
+        <div class="stage-box gold">
+          <div class="stage-step">Consolidação Final</div>
+          <h4>Catálogo e Agrupamento Lexical</h4>
+          <p>Remoção de <strong>14 duplicatas técnicas estritas</strong>, recuperação integral de <strong>276 resumos</strong>, separação entre promitente e comunicador humano (1.487 registros) e agrupamento lexical de Jaccard: <strong>3.224 unidades confirmadas</strong> e <strong>2.945 promessas distintas estimadas</strong>.</p>
+        </div>
+      </div>
+
+      <div class="table-container">
+        <table class="academic-table">
+          <thead>
+            <tr>
+              <th>Etapa de Conciliação Aritmética</th>
+              <th class="num">Unidades / Casos</th>
+              <th>Efeito Metodológico</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Unidades candidatas inicialmente identificadas (Etapas 1 e 2)</td>
+              <td class="num">3.609</td>
+              <td>Levantamento preliminar antes da arbitragem de terceira etapa</td>
+            </tr>
+            <tr>
+              <td>$( - )$ Unidades em casos rejeitados como falsos positivos na Etapa 3</td>
+              <td class="num">-334</td>
+              <td>332 casos rejeitados (mandamentos sem garantia, desejos votivos, relatos consumados; 2 casos continham 2 unidades)</td>
+            </tr>
+            <tr>
+              <td>$( - )$ Subdivisões excedentes consolidadas por granularidade na Etapa 3</td>
+              <td class="num">-37</td>
+              <td>34 casos confirmados na formulação mais coesa (evitando contagem múltipla do mesmo compromisso)</td>
+            </tr>
+            <tr>
+              <td>$( - )$ Duplicatas técnicas estritas removidas</td>
+              <td class="num">-14</td>
+              <td>Registros com mesma referência, mesma categoria e mesmo objeto prometido</td>
+            </tr>
+            <tr class="total-row">
+              <td><strong>$( = )$ Unidades promissórias confirmadas no catálogo final</strong></td>
+              <td class="num"><strong>3.224</strong></td>
+              <td><strong>1.211 por acordo direto + 2.013 por arbitragem exegética (zero candidatos pendentes)</strong></td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <div class="figures-two-col">
+        <div class="figure-block" style="margin:0;">
+          <img src="./graficos/grafico_03_funil_conciliacao_cor.svg" alt="Conciliação das 3 etapas: de 3.609 candidatas a 3.224 confirmadas" />
+          <p class="figure-caption">Figura 5: Funil de conciliação aritmética das três etapas metodológicas (3.609 − 334 − 37 − 14 = 3.224).</p>
+        </div>
+        <div class="figure-block" style="margin:0;">
+          <img src="./graficos/grafico_06_sensibilidade_jaccard_cor.svg" alt="Sensibilidade da estimativa de promessas distintas ao limiar de Jaccard" />
+          <p class="figure-caption">Figura 6: Impacto da recuperação dos 276 resumos e curva de sensibilidade das promessas distintas entre os limiares 0,35 (2.729) e 0,65 (3.096).</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- 9. CONSULTA INTERATIVA AO CATÁLOGO -->
+    <section class="editorial-section" id="catalogo-interativo">
+      <span class="sec-number" data-i18n="s9_label">Base de Dados Pública Auditável</span>
+      <h2 data-i18n="s9_title">Consulta interativa ao catálogo das 3.224 unidades promissórias</h2>
+      <p id="s9_intro">Explore abaixo todas as 3.224 unidades promissórias confirmadas pela pesquisa. Utilize os filtros para pesquisar por livro bíblico, categoria taxonômica, polaridade (bênção ou juízo), promitente, comunicador humano, destinatário, etapa de confirmação ou palavras do resumo exegético:</p>
+
+      <div class="filters-grid">
+        <div class="filter-field">
+          <label for="f-busca" data-i18n="f_search_lbl">Busca textual livre</label>
+          <input type="text" id="f-busca" placeholder="Ex.: Gn 3.15, Davi, aliança, vida eterna..." oninput="resetAndFilter()" />
+        </div>
+        <div class="filter-field">
+          <label for="f-livro" data-i18n="f_book_lbl">Livro bíblico (64 com registros)</label>
+          <select id="f-livro" onchange="resetAndFilter()">
+            <option value="">Todos os livros</option>
+          </select>
+        </div>
+        <div class="filter-field">
+          <label for="f-cat" data-i18n="f_cat_lbl">Categoria taxonômica (10)</label>
+          <select id="f-cat" onchange="resetAndFilter()">
+            <option value="">Todas as 10 categorias</option>
+          </select>
+        </div>
+        <div class="filter-field">
+          <label for="f-nat" data-i18n="f_nat_lbl">Natureza / Polaridade</label>
+          <select id="f-nat" onchange="resetAndFilter()">
+            <option value="">Todas (Bênção e Juízo)</option>
+            <option value="bencao">Bênção / Benefício</option>
+            <option value="juizo">Juízo / Sentença / Prejuízo</option>
+          </select>
+        </div>
+        <div class="filter-field">
+          <label for="f-via" data-i18n="f_via_lbl">Etapa de confirmação</label>
+          <select id="f-via" onchange="resetAndFilter()">
+            <option value="">Todas as vias (3.224)</option>
+            <option value="Acordo direto (Etapas 1 e 2)">Acordo direto — Etapas 1 e 2 (1.211)</option>
+            <option value="Arbitragem exegética (Etapa 3)">Arbitragem exegética — Etapa 3 (2.013)</option>
+          </select>
+        </div>
+        <div class="filter-field">
+          <label for="f-dest" data-i18n="f_dest_lbl">Destinatário</label>
+          <select id="f-dest" onchange="resetAndFilter()">
+            <option value="">Todos os destinatários</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="catalog-toolbar">
+        <div id="contagem-filtro" style="font-size:0.92rem;font-weight:700;color:var(--navy-dark);"></div>
+        <div style="display:flex;gap:0.5rem;flex-wrap:wrap;">
+          <button type="button" class="btn-action btn-ghost" style="padding:0.38rem 0.85rem;font-size:0.82rem;" onclick="limparFiltros()" data-i18n="btn_clear_filters">Limpar filtros</button>
+          <button type="button" class="btn-action btn-navy" style="padding:0.38rem 0.85rem;font-size:0.82rem;" id="btn-mostrar-todos" onclick="mostrarTodosRegistros()" data-i18n="btn_show_all">Exibir todos os resultados filtrados</button>
+        </div>
+      </div>
+
+      <div class="catalog-scroll">
+        <table class="academic-table">
+          <thead>
+            <tr>
+              <th>Código ID</th>
               <th>Referência</th>
               <th>Categoria</th>
               <th>Objeto Prometido (Resumo Exegético)</th>
-              <th>Promitente (e Comunicador)</th>
+              <th>Promitente e Comunicador</th>
               <th>Destinatário</th>
-              <th>Via de Confirmação</th>
-              <th>Cap. no Livro</th>
+              <th>Validação</th>
+              <th>Cap. Livro</th>
             </tr>
           </thead>
           <tbody id="tabela-corpo"></tbody>
@@ -101,78 +1090,465 @@
       </div>
     </section>
 
-    <section>
-      <h2 id="t-charts-heading">Painel Visual e Conciliação Metodológica das Três Fases</h2>
-      <div class="charts-grid">
-        <img src="graficos/grafico_01_painel_geral_cor.png" alt="Painel Geral" />
-        <img src="graficos/grafico_02_dez_categorias_cor.png" alt="Dez Categorias" />
-        <img src="graficos/grafico_03_funil_conciliacao_cor.png" alt="Funil das Três Fases" />
-        <img src="graficos/grafico_04_top15_livros_cor.png" alt="Top 15 Livros" />
-        <img src="graficos/grafico_05_divisoes_canon_cor.png" alt="Divisões do Cânon" />
-        <img src="graficos/grafico_06_sensibilidade_e_comparacao_cor.png" alt="Sensibilidade e Comparação com Storms" />
+    <!-- 10. METODOLOGIA RESUMIDA -->
+    <section class="editorial-section" id="metodologia">
+      <span class="sec-number" data-i18n="s10_label">Critérios Exegéticos e Procedimentos Computacionais</span>
+      <h2 data-i18n="s10_title">Metodologia resumida</h2>
+      <div id="s10_content">
+        <h3>1. Definição operacional e critérios de exclusão</h3>
+        <p>A pesquisa adota uma definição operacional fundamentada na pragmática e na teoria dos atos ilocucionários comissivos: uma unidade promissória requer um <strong>promitente identificável</strong> que assuma o <strong>compromisso futuro ou continuado</strong> de realizar, garantir ou executar algo em relação a um <strong>destinatário reconhecível</strong>. Ficam excluídos do cômputo: (a) mandamentos e imperativos sem garantia de benefício; (b) saudações e desejos votivos humanos sem obrigação assumida pelo falante; (c) relatos históricos de eventos já consumados sem projeção futura; (d) máximas sapienciais gerais de causa e efeito moral sem falante que se obrigue em primeira pessoa; (e) afirmações doutrinárias em terceira pessoa sobre atributos divinos sem forma de oráculo promissório; e (f) votos devocionais do homem a Deus.</p>
+
+        <h3>2. Comportamento dos livros sapienciais e poéticos (Provérbios, Eclesiastes e Lamentações)</h3>
+        <p>O rigor dessa definição explica por que 64 dos 66 livros examinados possuem registros catalogados, enquanto <strong>Eclesiastes</strong> e <strong>Lamentações</strong> encerraram com zero unidades promissórias confirmadas e <strong>Provérbios</strong> registrou apenas um compromisso explícito (<strong>Pv 1.13-14</strong>, <code>P-PRO-0001</code>, onde o grupo de pecadores assume compromisso em primeira pessoa do plural do futuro perante o jovem). As mais de seiscentas máximas de Provérbios e noventa de Eclesiastes foram mapeadas como princípios sapienciais gerais. Em <strong>Eclesiastes 12.14</strong> (<em>"Porque Deus há de trazer a juízo toda obra..."</em>) e em <strong>Lamentações 3.22-32</strong>, o texto enuncia em terceira pessoa a doutrina do juízo final e a confissão da misericórdia divina, sem que um promitente tome a palavra em primeira pessoa para obrigar-se perante um destinatário.</p>
+
+        <h3>3. Distinção entre promitente divino e comunicador humano</h3>
+        <p>Nos oráculos proféticos, narrativas históricas e garantias apostólicas, o catálogo distingue formalmente o <strong>promitente</strong> (Deus Pai, Filho, Espírito Santo ou Deus sem distinção de pessoa) do <strong>comunicador humano</strong> que profetiza, relata ou recorda a promessa (1.487 registros possuem comunicador humano identificado). Em <strong>1 Crônicas 11.2</strong> (<code>P-1CH-0001</code>), por exemplo, o promitente do compromisso de que Davi apascentaria Israel é o SENHOR, enquanto o comunicador que recorda e invoca essa palavra em Hebrom é <em>"todo o Israel"</em>.</p>
+
+        <h3>4. Declaração sobre o emprego de recursos computacionais e inteligência artificial</h3>
+        <div class="lead-box">
+          <p>A concepção intelectual do estudo, a definição dos critérios exegéticos de inclusão e exclusão, o desenho metodológico das três etapas, os algoritmos de verificação programática e a responsabilidade autoral pertencem integralmente a <strong>Jair Lima</strong>. Ferramentas computacionais de análise textual e processamento de linguagem natural, incluindo modelos de linguagem operando sob isolamento de contexto e conferência cruzada, foram utilizadas como instrumentos técnicos de análise e arbitragem, submetidos à validação determinística de estrutura, conferência literal das âncoras contra a <em>Bíblia Almeida Livre</em> e conciliação aritmética integral. As especificações técnicas de implementação para reprodução computacional encontram-se no apêndice <a href="./DOCUMENTACAO_TECNICA_REPRODUTIBILIDADE.md">DOCUMENTACAO_TECNICA_REPRODUTIBILIDADE.md</a>.</p>
+        </div>
       </div>
     </section>
 
-    <section>
-      <h2 id="t-book-heading">Sobre o Livro Comercial e Como Citar a Pesquisa Científica</h2>
-      <p id="t-book-desc" style="margin-bottom:0.8rem;">
-        Esta base científica fundamenta o livro <strong>As 3 Mil Promessas da Bíblia: Da criação à eternidade: a história de um Deus que cumpre sua Palavra</strong>, de <strong>Jair Lima</strong> (Lima Editora do Brasil, 2026, 7 partes, 53 capítulos). O texto narrativo e exegético do livro é uma obra comercial protegida por direitos autorais e não é distribuído gratuitamente neste repositório; aqui estão integralmente abertos (CC BY 4.0) todos os dados científicos, catálogos, scripts de validação e evidências de arbitragem para verificação acadêmica.
-      </p>
-      <div class="citation-box">LIMA, Jair. Quantas promessas existem na Bíblia? Uma análise computacional e exegética dos 66 livros do cânon protestante (Dataset &amp; Catálogo v1.0.0 — 3.224 unidades confirmadas / 2.945 promessas distintas). Três Coroas: Lima Editora do Brasil, 2026. Corpus: Bíblia Almeida Livre (CC BY-ND 4.0).</div>
+    <!-- 11. ARTIGO CIENTÍFICO -->
+    <section class="editorial-section" id="artigo-cientifico">
+      <span class="sec-number" data-i18n="s11_label">Publicação Acadêmica Bilíngue (Preprint)</span>
+      <h2 data-i18n="s11_title">Artigo científico</h2>
+      <p><strong>Título:</strong> <em>Quantas promessas existem na Bíblia? Uma análise computacional e exegética dos 66 livros do cânon protestante</em> (<em>How Many Promises Are in the Bible? A Computational and Exegetical Analysis of the 66 Books of the Protestant Canon</em>)</p>
+      <p><strong>Autor:</strong> Jair Lima (Lima Editora do Brasil, 2026) • <strong>Status editorial:</strong> Preprint de pesquisa, ainda não submetido à avaliação acadêmica por pares.</p>
+
+      <div class="lead-box">
+        <p><strong>Resumo:</strong> Quantificar as promessas bíblicas exige distinguir compromissos de outras formas de discurso presentes nas Escrituras. Este estudo investiga a totalidade dos 66 livros, 1.189 capítulos e 31.104 versículos do cânon protestante, tendo como referência a Bíblia Almeida Livre. A metodologia combina definição operacional de promessa, duas análises textuais independentes assistidas por computador, arbitragem das divergências e consolidação dos registros. Das 3.609 unidades inicialmente identificadas, 3.224 foram confirmadas segundo os critérios adotados, abrangendo 4.373 versículos (14,1% do corpus). O agrupamento dos registros por similaridade lexical, no limiar de Jaccard de 0,45, produziu uma estimativa de 2.945 promessas distintas. O indicador de bênção divina reuniu 1.622 unidades, correspondentes a 1.481 compromissos distintos estimados. A comparação com a contagem histórica de 8.810 promessas atribuída a Everek R. Storms demonstra que essa cifra não foi reproduzida pelo método empregado. A contribuição do estudo consiste na organização de um catálogo estruturado, com critérios explícitos, memória de cálculo e documentação aberta à verificação.</p>
+        <p style="margin-top:0.6rem;"><strong>Palavras-chave:</strong> <em>Promessas bíblicas; Exegese bíblica; Teologia bíblica; Teoria dos atos de fala; Humanidades digitais; Linguística de corpus; Bíblia Almeida Livre.</em></p>
+      </div>
+
+      <div style="display:flex;gap:0.8rem;flex-wrap:wrap;margin-top:1.2rem;">
+        <a class="btn-action btn-navy" href="./artigo.html">Ler Artigo Científico Completo no Navegador</a>
+        <a class="btn-action btn-gold" href="./ARTIGO_CIENTIFICO_PROMESSAS_DA_BIBLIA.md" download="ARTIGO_CIENTIFICO_PROMESSAS_DA_BIBLIA.md">Baixar Artigo Revisado (.MD)</a>
+        <a class="btn-action btn-ghost" href="./memoria-de-calculo.html">Ler Memória de Cálculo no Navegador</a>
+      </div>
     </section>
+
+    <!-- 12. DOWNLOADS -->
+    <section class="editorial-section" id="downloads">
+      <span class="sec-number" data-i18n="s12_label">Ciência Aberta e Dados Verificáveis</span>
+      <h2 data-i18n="s12_title">Downloads do conjunto de dados e documentação científica</h2>
+      <p id="s12_intro">Todos os arquivos abaixo estão hospedados diretamente no portal oficial do Observatório das Promessas Bíblicas e no repositório público, com integridade verificada e acesso gratuito sob licença aberta:</p>
+
+      <div class="downloads-grid">
+        <div class="download-card">
+          <div>
+            <h4>Catálogo Completo em CSV</h4>
+            <p>Arquivo tabular universal (UTF-8 com BOM, 3.224 registros confirmados) com código ID, livro, referência, categoria, objeto prometido, promitente, comunicador, destinatário, validação e capítulo.</p>
+          </div>
+          <a class="btn-action btn-navy" href="./catalogo-digital-completo.csv" download="catalogo-digital-completo.csv">Baixar CSV (813 KB)</a>
+        </div>
+
+        <div class="download-card">
+          <div>
+            <h4>Catálogo Completo em Excel (.XLSX)</h4>
+            <p>Planilha formatada para Microsoft Excel e LibreOffice Calc com cabeçalho congelado, filtros automáticos por coluna e as 3.224 unidades promissórias confirmadas.</p>
+          </div>
+          <a class="btn-action btn-gold" href="./catalogo-digital-completo.xlsx" download="catalogo-digital-completo.xlsx">Baixar Excel .XLSX (369 KB)</a>
+        </div>
+
+        <div class="download-card">
+          <div>
+            <h4>Artigo Científico Revisado (PT/EN)</h4>
+            <p>Versão integral revisada do artigo científico bilíngue com resumo, abstract, revisão da literatura, metodologia, resultados, tabelas, limitações e referências ABNT.</p>
+          </div>
+          <div style="display:flex;gap:0.5rem;flex-wrap:wrap;">
+            <a class="btn-action btn-navy" href="./artigo.html">Ler Online</a>
+            <a class="btn-action btn-ghost" href="./ARTIGO_CIENTIFICO_PROMESSAS_DA_BIBLIA.md" download="ARTIGO_CIENTIFICO_PROMESSAS_DA_BIBLIA.md">Baixar .MD</a>
+          </div>
+        </div>
+
+        <div class="download-card">
+          <div>
+            <h4>Memória de Cálculo Integral</h4>
+            <p>Conciliação aritmética exata das três etapas (3.609 para 3.224), relação entre os 1.808 casos arbitrados e 1.843 decisões, impacto dos 276 resumos e exame de Pv, Ec 12.14 e Lm.</p>
+          </div>
+          <div style="display:flex;gap:0.5rem;flex-wrap:wrap;">
+            <a class="btn-action btn-navy" href="./memoria-de-calculo.html">Ler Online</a>
+            <a class="btn-action btn-ghost" href="./MEMORIA_DE_CALCULO.md" download="MEMORIA_DE_CALCULO.md">Baixar .MD</a>
+          </div>
+        </div>
+
+        <div class="download-card">
+          <div>
+            <h4>Relatório de Originalidade e Estado da Arte</h4>
+            <p>Revisão bibliográfica internacional em português, inglês e espanhol e matriz comparativa de 7 dimensões analíticas.</p>
+          </div>
+          <a class="btn-action btn-ghost" href="./RELATORIO_ORIGINALIDADE_CIENTIFICA.md" download="RELATORIO_ORIGINALIDADE_CIENTIFICA.md">Baixar Relatório (.MD)</a>
+        </div>
+
+        <div class="download-card">
+          <div>
+            <h4>Dicionário de Campos e Limitações</h4>
+            <p>Especificação formal de todas as variáveis do conjunto de dados, relatório de limitações metodológicas e apêndice técnico de reprodutibilidade.</p>
+          </div>
+          <div style="display:flex;gap:0.4rem;flex-wrap:wrap;">
+            <a class="btn-action btn-ghost" style="padding:0.45rem 0.7rem;font-size:0.82rem;" href="./DICIONARIO_DE_CAMPOS.md" download="DICIONARIO_DE_CAMPOS.md">Dicionário</a>
+            <a class="btn-action btn-ghost" style="padding:0.45rem 0.7rem;font-size:0.82rem;" href="./RELATORIO_LIMITACOES.md" download="RELATORIO_LIMITACOES.md">Limitações</a>
+            <a class="btn-action btn-ghost" style="padding:0.45rem 0.7rem;font-size:0.82rem;" href="./DOCUMENTACAO_TECNICA_REPRODUTIBILIDADE.md" download="DOCUMENTACAO_TECNICA_REPRODUTIBILIDADE.md">Apêndice Técnico</a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 13. INFORMAÇÕES SOBRE O PESQUISADOR -->
+    <section class="editorial-section" id="pesquisador">
+      <span class="sec-number" data-i18n="s13_label">Direção Intelectual e Responsabilidade Autoral</span>
+      <h2 data-i18n="s13_title">Sobre o pesquisador</h2>
+      <div id="s13_content">
+        <p><strong>Jair Lima</strong> é pastor sênior da Assembleia de Deus de Três Coroas (RS), jornalista registrado (MTE nº 0024314/RS), escritor, capelão e pesquisador. É membro da Academia de Letras dos Municípios do Rio Grande do Sul (ALMURS), membro da Convenção Geral das Assembleias de Deus no Brasil (CGADB), conselheiro da CIEPADERGS, membro do Instituto Brasileiro de Direito e Religião (IBDR) e coordenador do GEIC (Grupo Ecumênico de Igrejas Cristãs de Três Coroas).</p>
+        <p>Sua trajetória acadêmica e profissional articula a teologia bíblica e pastoral com a governança tecnológica, a investigação forense e a ciência de dados: é Especialista em Teologia (2024), Especialista em Direito Religioso (2025), com formação em <em>Derecho y Religión</em> pela Universidad Autónoma de Madrid (Espanha, 2025), Graduado em Redes de Computadores (2014), Pós-Graduado em Governança de Tecnologia da Informação (2015), Pós-Graduado em Tecnologia Google for Education (2019), Pós-Graduado em Investigação Forense e Perícia Criminal (2021), MBA em Contabilidade Empresarial (2022), Certificado <em>Chronicle Security Operations Platform – Deep Dive</em> (Google Cloud, 2024) e MBA em Design Thinking (2025).</p>
+        <p>Essa formação interdisciplinar fundamenta a metodologia do <strong>Observatório das Promessas Bíblicas</strong>, aplicando procedimentos de auditoria documental, verificação cruzada e análise computacional de corpus à investigação exegética das Escrituras. É autor e editor responsável da <em>Bíblia Almeida Livre</em> e da <em>Bíblia Católica Livre</em>, além de obras teológicas, históricas e devocionais publicadas pela Lima Editora do Brasil, como <em>Simplesmente Servindo</em>, <em>Dicionário Bíblico Temático Pentecostal Clássico</em>, <em>Mil Dias com Jesus: A Jornada de Pedro, a Rocha</em> e <em>Os Sete Sinais e os 24 Milagres de Jesus</em>.</p>
+        <div class="lead-box">
+          <p><strong>Canais oficiais do pesquisador:</strong><br />
+          • E-mail institucional: <a href="mailto:jairslima@gmail.com">jairslima@gmail.com</a><br />
+          • Portal oficial: <a href="https://www.jairlima.com.br" target="_blank" rel="noopener">www.jairlima.com.br</a><br />
+          • Publicações e perfis: <a href="https://linktr.ee/Jairslima" target="_blank" rel="noopener">https://linktr.ee/Jairslima</a><br />
+          • Repositório de pesquisa no GitHub: <a href="https://github.com/jairslima/Promessas-da-Biblia-by-Jair-Lima" target="_blank" rel="noopener">github.com/jairslima/Promessas-da-Biblia-by-Jair-Lima</a></p>
+        </div>
+      </div>
+    </section>
+
+    <!-- 14. REFERÊNCIA BIBLIOGRÁFICA E FORMAS DE CITAÇÃO -->
+    <section class="editorial-section" id="citacao">
+      <span class="sec-number" data-i18n="s14_label">Padronização Bibliográfica</span>
+      <h2 data-i18n="s14_title">Referência bibliográfica e formas de citação</h2>
+      <p id="s14_intro">Para citar esta pesquisa, seu conjunto de dados ou o artigo científico em trabalhos acadêmicos, dissertações, teses, livros e artigos, utilize um dos padrões bibliográficos abaixo:</p>
+
+      <h3>Padrão ABNT (NBR 6023)</h3>
+      <div class="citation-block">LIMA, Jair. Observatório das Promessas Bíblicas: Uma investigação integral das promessas de Gênesis a Apocalipse (Conjunto de dados e catálogo estruturado v1.0.0: 3.224 unidades promissórias confirmadas e 2.945 promessas distintas estimadas). Três Coroas: Lima Editora do Brasil, 2026. Disponível em: https://jairslima.github.io/Promessas-da-Biblia-by-Jair-Lima/. Acesso em: 24 nov. 2026.</div>
+
+      <h3>Padrão APA (7th Edition)</h3>
+      <div class="citation-block">Lima, J. (2026). Observatório das Promessas Bíblicas: Uma investigação integral das promessas de Gênesis a Apocalipse — Quantas promessas existem na Bíblia? Uma análise computacional e exegética dos 66 livros do cânon protestante (Version 1.0.0) [Data set and research report]. Lima Editora do Brasil. https://jairslima.github.io/Promessas-da-Biblia-by-Jair-Lima/</div>
+
+      <h3>BibTeX</h3>
+      <div class="citation-block">@misc{lima2026observatorio,
+  author       = {Lima, Jair},
+  title        = {{Observat{\'o}rio das Promessas B{\'i}blicas: Uma investiga{\c{c}}{\~a}o integral das promessas de G{\^e}nesis a Apocalipse (v1.0.0)}},
+  year         = {2026},
+  publisher    = {Lima Editora do Brasil},
+  address      = {Tr{\^e}s Coroas, RS, Brasil},
+  url          = {https://jairslima.github.io/Promessas-da-Biblia-by-Jair-Lima/}
+}</div>
+
+      <h3>Referências históricas e acadêmicas verificadas</h3>
+      <ul style="margin-left:1.3rem;font-size:0.9rem;color:var(--text-body);line-height:1.65;">
+        <li>AUSTIN, John Langshaw. <em>How to Do Things with Words</em>. Oxford: Clarendon Press, 1962.</li>
+        <li>BRIGGS, Richard S. <em>Words in Action: Speech Act Theory and Biblical Interpretation</em>. Edinburgh: T&amp;T Clark, 2001.</li>
+        <li>CLARKE, Samuel. <em>A Collection of the Promises of Scripture, under their Proper Heads: Representing I. The Blessings Promised. II. The Duties to which Promises are Made</em>. 2. ed. London: J. and J. Knapton, 1738. (1. ed. London: John Clark, 1720; inclui recomendação introdutória de Isaac Watts datada de 19 jan. 1738).</li>
+        <li>LIMA, Jair. <em>Bíblia Almeida Livre by Jair Lima</em>. Três Coroas: Lima Editora do Brasil, 2026. Licenciada sob Creative Commons Atribuição-SemDerivações 4.0 Internacional (CC BY-ND 4.0).</li>
+        <li>LIMA, Jair. <em>As 3 Mil Promessas da Bíblia: Da criação à eternidade: a história de um Deus que cumpre sua Palavra</em>. Três Coroas: Lima Editora do Brasil, 2026.</li>
+        <li>LOCKYER, Herbert. <em>All the Promises of the Bible: A Unique Compilation and Exposition of Divine Promises in Scripture</em>. Grand Rapids: Zondervan Publishing House, 1962. 351 p.</li>
+        <li>PROMISES. <em>Time</em>, New York, v. 68, n. 26, seção Religion, 24 dez. 1956. Registro histórico do levantamento de Everek Richard Storms (Kitchener, Ontário), com 8.810 promessas totais e 7.487 promessas de Deus ao homem.</li>
+        <li>SEARLE, John R. <em>Speech Acts: An Essay in the Philosophy of Language</em>. Cambridge: Cambridge University Press, 1969.</li>
+        <li>SEARLE, John R. <em>Expression and Meaning: Studies in the Theory of Speech Acts</em>. Cambridge: Cambridge University Press, 1979.</li>
+        <li>THISELTON, Anthony C. <em>New Horizons in Hermeneutics: The Theory and Practice of Transforming Biblical Reading</em>. Grand Rapids: Zondervan, 1992.</li>
+        <li>VANHOOZER, Kevin J. <em>Is There a Meaning in This Text? The Bible, the Reader, and the Morality of Literary Knowledge</em>. Grand Rapids: Zondervan, 1998.</li>
+      </ul>
+    </section>
+
+    <!-- 15. APRESENTAÇÃO DO LIVRO COMERCIAL -->
+    <section class="editorial-section" id="livro">
+      <span class="sec-number" data-i18n="s15_label">Dimensão Literária, Exegética e Pastoral</span>
+      <h2 data-i18n="s15_title">Da pesquisa ao livro</h2>
+      <div class="book-showcase" id="s15_content">
+        <div>
+          <h3>As 3 Mil Promessas da Bíblia: Da criação à eternidade: a história de um Deus que cumpre sua Palavra</h3>
+          <p>Os resultados desta investigação fundamentam a obra <strong>As 3 Mil Promessas da Bíblia: Da criação à eternidade: a história de um Deus que cumpre sua Palavra</strong>, de <strong>Jair Lima</strong> (Lima Editora do Brasil, 2026).</p>
+          <p>Em sete partes e 53 capítulos, o autor conduz o leitor por uma jornada histórica, teológica e espiritual, revelando como as promessas atravessam as gerações e encontram sua expressão nos propósitos eternos de Deus.</p>
+          <p>A pesquisa permanece aberta à consulta pública. O livro desenvolve sua dimensão narrativa, exegética e pastoral. O manuscrito comercial, os capítulos literários e as edições impressa e digital da obra são protegidos por direitos autorais e não integram o depósito público de dados.</p>
+          <p class="book-motto">Uma pesquisa para compreender as promessas. Uma obra para compreender aquele que promete.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- 16. LICENÇAS E INFORMAÇÕES INSTITUCIONAIS -->
+    <section class="editorial-section" id="licencas">
+      <span class="sec-number" data-i18n="s16_label">Direitos Autorais, Ciência Aberta e Governança</span>
+      <h2 data-i18n="s16_title">Licenças e informações institucionais</h2>
+      <div id="s16_content">
+        <p>O <strong>Observatório das Promessas Bíblicas</strong> adota um modelo de licenciamento em três camadas que concilia a ciência aberta com a proteção da integridade do texto bíblico e dos direitos autorais da obra literária comercial:</p>
+        <ul style="margin-left:1.3rem;margin-bottom:1rem;line-height:1.75;">
+          <li><strong>Metadados analíticos, catálogos tabulares e memória de cálculo (<code>catalogo-digital-completo.csv</code>, <code>.xlsx</code>, <code>MEMORIA_DE_CALCULO.md</code>):</strong> disponibilizados sob licença <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">Creative Commons Atribuição 4.0 Internacional (CC BY 4.0)</a>, permitindo livre compartilhamento, verificação e reutilização acadêmica mediante crédito expresso a <strong>Jair Lima</strong>.</li>
+          <li><strong>Scripts de verificação, cálculo e interface web (<code>scripts/</code>, <code>testes/</code>, <code>docs/</code>):</strong> licenciados sob <a href="https://opensource.org/licenses/MIT" target="_blank" rel="noopener">Licença MIT</a> — Copyright (c) 2026 Jair Lima.</li>
+          <li><strong>Texto bíblico de referência (<em>Bíblia Almeida Livre by Jair Lima</em>):</strong> licenciado sob <a href="https://creativecommons.org/licenses/by-nd/4.0/legalcode" target="_blank" rel="noopener">Creative Commons Atribuição-SemDerivações 4.0 Internacional (CC BY-ND 4.0)</a>, vedada qualquer alteração da redação bíblica.</li>
+          <li><strong>Obra comercial (<em>As 3 Mil Promessas da Bíblia</em>):</strong> todos os direitos reservados a Jair Lima e Lima Editora do Brasil (2026).</li>
+        </ul>
+      </div>
+    </section>
+
   </main>
 
   <footer>
-    Observatório das Promessas Bíblicas by Jair Lima (2026) • Dados calculados dinamicamente de <code>catalogo/*/*.jsonl</code> • Licença dos metadados: CC BY 4.0 • Código: MIT License.
+    <p><strong>Observatório das Promessas Bíblicas</strong> — Uma investigação integral das promessas de Gênesis a Apocalipse.</p>
+    <p style="margin-top:0.3rem;">Pesquisa e autoria: <strong>Jair Lima</strong> • Lima Editora do Brasil, 2026 • Três Coroas, Rio Grande do Sul, Brasil.</p>
+    <p style="margin-top:0.6rem;">
+      <a href="#topo">Voltar ao topo</a> •
+      <a href="./artigo.html">Artigo Científico</a> •
+      <a href="./memoria-de-calculo.html">Memória de Cálculo</a> •
+      <a href="./catalogo-digital-completo.csv" download>Catálogo CSV</a> •
+      <a href="./catalogo-digital-completo.xlsx" download>Catálogo Excel</a> •
+      <a href="https://github.com/jairslima/Promessas-da-Biblia-by-Jair-Lima" target="_blank" rel="noopener">Repositório GitHub</a>
+    </p>
   </footer>
 
-  <script src="dados_observatorio.js"></script>
+  <script src="./dados_observatorio.js"></script>
   <script>
     const D = window.DADOS_OBSERVATORIO;
-    const M = D.meta;
     let LANG = 'pt';
+    let LIMIT_EXIBIR = 250;
 
-    function fmt(n) { return n.toLocaleString(LANG === 'pt' ? 'pt-BR' : 'en-US'); }
+    const NOMES_LIVROS_PT = {
+      "GEN": "Gênesis", "EXO": "Êxodo", "LEV": "Levítico", "NUM": "Números", "DEU": "Deuteronômio",
+      "JOS": "Josué", "JDG": "Juízes", "RUT": "Rute", "1SA": "1 Samuel", "2SA": "2 Samuel",
+      "1KI": "1 Reis", "2KI": "2 Reis", "1CH": "1 Crônicas", "2CH": "2 Crônicas", "EZR": "Esdras",
+      "NEH": "Neemias", "EST": "Ester", "JOB": "Jó", "PSA": "Salmos", "PRO": "Provérbios",
+      "ECC": "Eclesiastes", "SNG": "Cantares", "ISA": "Isaías", "JER": "Jeremias", "LAM": "Lamentações",
+      "EZK": "Ezequiel", "DAN": "Daniel", "HOS": "Oseias", "JOL": "Joel", "AMO": "Amós",
+      "OBA": "Obadias", "JON": "Jonas", "MIC": "Miqueias", "NAM": "Naum", "HAB": "Habacuque",
+      "ZEP": "Sofonias", "HAG": "Ageu", "ZEC": "Zacarias", "MAL": "Malaquias",
+      "MAT": "Mateus", "MRK": "Marcos", "LUK": "Lucas", "JHN": "João", "ACT": "Atos",
+      "ROM": "Romanos", "1CO": "1 Coríntios", "2CO": "2 Coríntios", "GAL": "Gálatas", "EPH": "Efésios",
+      "PHP": "Filipenses", "COL": "Colossenses", "1TH": "1 Tessalonicenses", "2TH": "2 Tessalonicenses",
+      "1TI": "1 Timóteo", "2TI": "2 Timóteo", "TIT": "Tito", "PHM": "Filemom", "HEB": "Hebreus",
+      "JAS": "Tiago", "1PE": "1 Pedro", "2PE": "2 Pedro", "1JN": "1 João", "2JN": "2 João",
+      "3JN": "3 João", "JUD": "Judas", "REV": "Apocalipse"
+    };
 
-    function renderKPIs() {
-      const kpis = LANG === 'pt' ? [
-        { l: 'Corpus Examinado', v: `${M.livros} Livros`, s: `${fmt(M.capitulos)} capítulos • ${fmt(M.versiculos_corpus)} versículos (100%)`, h: false },
-        { l: 'Unidades Confirmadas', v: fmt(M.unidades_confirmadas), s: `De ${fmt(M.candidatas_iniciais)} candidatas iniciais (${M.pendentes} pendentes)`, h: true },
-        { l: 'Promessas Distintas', v: fmt(M.promessas_distintas), s: `Limiar Jaccard 0,45 (até ${fmt(M.promessas_distintas_revocacao)} c/ revocação)`, h: true },
-        { l: 'Bênção Divina', v: fmt(M.bencao_unidades), s: `${fmt(M.bencao_distintas)} promessas distintas de bênção`, h: true },
-        { l: 'Cobertura Bíblica', v: `${fmt(M.versiculos_com_promessa)} vers.`, s: `${M.percentual_corpus}% de toda a Bíblia contém promessas`, h: false },
-        { l: 'Auditoria em 3 Fases', v: `${fmt(M.acordo_direto)} + ${fmt(M.arbitragem_fase3)}`, s: `1.211 acordo direto • 2.013 arbitragem Fase 3`, h: false }
-      ] : [
-        { l: 'Examined Corpus', v: `${M.livros} Books`, s: `${fmt(M.capitulos)} chapters • ${fmt(M.versiculos_corpus)} verses (100%)`, h: false },
-        { l: 'Confirmed Units', v: fmt(M.unidades_confirmadas), s: `From ${fmt(M.candidatas_iniciais)} initial candidates (${M.pendentes} pending)`, h: true },
-        { l: 'Distinct Promises', v: fmt(M.promessas_distintas), s: `Jaccard 0.45 (up to ${fmt(M.promessas_distintas_revocacao)} recall-adjusted)`, h: true },
-        { l: 'Divine Blessing', v: fmt(M.bencao_unidades), s: `${fmt(M.bencao_distintas)} distinct promises of blessing`, h: true },
-        { l: 'Biblical Coverage', v: `${fmt(M.versiculos_com_promessa)} verses`, s: `${M.percentual_corpus}% of the entire Bible contains promises`, h: false },
-        { l: '3-Phase Audit', v: `${fmt(M.acordo_direto)} + ${fmt(M.arbitragem_fase3)}`, s: `1,211 direct agreement • 2,013 Phase-3 arbitrated`, h: false }
-      ];
-      document.getElementById('kpi-container').innerHTML = kpis.map(k => `
-        <div class="kpi ${k.h ? 'highlight' : ''}">
-          <div class="label">${k.l}</div>
-          <div class="value">${k.v}</div>
-          <div class="sub">${k.s}</div>
-        </div>
-      `).join('');
+    const I18N = {
+      pt: {
+        overline: "Pesquisa Teológica, Exegética e de Humanidades Digitais",
+        main_title: "Observatório das Promessas Bíblicas",
+        main_subtitle: "Uma investigação integral das promessas de Gênesis a Apocalipse.",
+        main_author: "Pesquisa e autoria: Jair Lima.",
+        main_publisher: "Lima Editora do Brasil, 2026.",
+        nav_about: "Sobre a Pesquisa",
+        nav_results: "Resultados",
+        nav_question: "Questão Central",
+        nav_approach: "Nova Abordagem",
+        nav_myth: "O Mito das 8 Mil",
+        nav_categories: "Categorias",
+        nav_stages: "Etapas",
+        nav_catalog: "Catálogo Interativo",
+        nav_method: "Metodologia",
+        nav_paper: "Artigo Científico",
+        nav_downloads: "Downloads",
+        nav_researcher: "Sobre o Pesquisador",
+        nav_citation: "Citação",
+        nav_book: "O Livro",
+        s2_label: "Apresentação Institucional e Autoria",
+        s2_title: "Sobre a pesquisa",
+        s3_label: "Síntese Quantitativa Oficial",
+        s3_title: "Resultados da investigação em números",
+        k1_title: "Unidades Promissórias Confirmadas",
+        k1_desc: "Contagem efetiva confirmada pelo método (1.211 por acordo direto e 2.013 por arbitragem exegética)",
+        k2_title: "Promessas Distintas Estimadas",
+        k2_desc: "Estimativa lexical por similaridade de Jaccard (limiar padrão 0,45) descontando reafirmações",
+        k3_title: "Unidades de Bênção Divina",
+        k3_desc: "Indicador principal: bênção divina (1.448), garantia apostólica (161) e bênção patriarcal (13)",
+        k4_title: "Promessas Distintas de Bênção Divina",
+        k4_desc: "Compromissos distintos estimados de bênção divina no limiar padrão de similaridade (0,45)",
+        k5_title: "Livros Examinados",
+        k5_desc: "39 AT e 27 NT (64 livros com registros catalogados)",
+        k6_title: "Capítulos Investigados",
+        k6_desc: "Leitura sequencial capítulo a capítulo",
+        k7_title: "Versículos Examinados",
+        k7_desc: "Texto integral da Bíblia Almeida Livre",
+        k8_title: "Versículos Associados",
+        k8_desc: "14,1% de todos os versículos das Escrituras",
+        k9_title: "Corpus Examinado",
+        k9_desc: "Investigação integral sem amostragem seletiva",
+        k10_title: "Categorias",
+        k10_desc: "Taxonomia por origem, natureza e promitente",
+        k11_title: "Candidatos Pendentes",
+        k11_desc: "Catálogo consolidado e integralmente arbitrado",
+        s4_label: "Problema de Pesquisa e Fundamentação Teológica",
+        s4_title: "A questão central: quantas promessas existem na Bíblia?",
+        s5_label: "Originalidade e Contribuição Científica",
+        s5_title: "Uma nova abordagem para o estudo das promessas bíblicas",
+        s5_matrix_title: "Matriz comparativa com o estado da arte",
+        s6_label: "Historiografia e Comparação Metodológica",
+        s6_title: "O mito das oito mil promessas",
+        s7_label: "Taxonomia Exegética e Distribuição Canônica",
+        s7_title: "Distribuição das dez categorias promissórias",
+        s8_label: "Arquitetura de Verificação e Conciliação Aritmética",
+        s8_title: "As três etapas metodológicas da pesquisa",
+        s9_label: "Base de Dados Pública Auditável",
+        s9_title: "Consulta interativa ao catálogo das 3.224 unidades promissórias",
+        s10_label: "Critérios Exegéticos e Procedimentos Computacionais",
+        s10_title: "Metodologia resumida",
+        s11_label: "Publicação Acadêmica Bilíngue (Preprint)",
+        s11_title: "Artigo científico",
+        s12_label: "Ciência Aberta e Dados Verificáveis",
+        s12_title: "Downloads do conjunto de dados e documentação científica",
+        s13_label: "Direção Intelectual e Responsabilidade Autoral",
+        s13_title: "Sobre o pesquisador",
+        s14_label: "Padronização Bibliográfica",
+        s14_title: "Referência bibliográfica e formas de citação",
+        s15_label: "Dimensão Literária, Exegética e Pastoral",
+        s15_title: "Da pesquisa ao livro",
+        s16_label: "Direitos Autorais, Ciência Aberta e Governança",
+        s16_title: "Licenças e informações institucionais",
+        f_search_lbl: "Busca textual livre",
+        f_book_lbl: "Livro bíblico (64 com registros)",
+        f_cat_lbl: "Categoria taxonômica (10)",
+        f_nat_lbl: "Natureza / Polaridade",
+        f_via_lbl: "Etapa de confirmação",
+        f_dest_lbl: "Destinatário",
+        btn_clear_filters: "Limpar filtros",
+        btn_show_all: "Exibir todos os resultados filtrados"
+      },
+      en: {
+        overline: "Theological, Exegetical, and Digital Humanities Research",
+        main_title: "Biblical Promises Observatory",
+        main_subtitle: "A full-canon investigation of the promises from Genesis to Revelation.",
+        main_author: "Research and authorship: Jair Lima.",
+        main_publisher: "Lima Editora do Brasil, 2026.",
+        nav_about: "About the Research",
+        nav_results: "Key Findings",
+        nav_question: "Central Question",
+        nav_approach: "New Approach",
+        nav_myth: "The 8,000 Myth",
+        nav_categories: "Categories",
+        nav_stages: "Research Stages",
+        nav_catalog: "Interactive Catalogue",
+        nav_method: "Methodology",
+        nav_paper: "Scientific Paper",
+        nav_downloads: "Downloads",
+        nav_researcher: "About the Researcher",
+        nav_citation: "Citation",
+        nav_book: "The Book",
+        s2_label: "Institutional Presentation and Authorship",
+        s2_title: "About the research",
+        s3_label: "Official Quantitative Synthesis",
+        s3_title: "Research findings in numbers",
+        k1_title: "Confirmed Promissory Units",
+        k1_desc: "Effective count confirmed by the method (1,211 by direct agreement and 2,013 by exegetical arbitration)",
+        k2_title: "Estimated Distinct Promises",
+        k2_desc: "Lexical similarity estimate (Jaccard threshold 0.45) discounting reaffirmations",
+        k3_title: "Divine Blessing Units",
+        k3_desc: "Primary indicator: divine blessing (1,448), apostolic guarantee (161), and patriarchal blessing (13)",
+        k4_title: "Distinct Divine Blessing Promises",
+        k4_desc: "Estimated distinct divine blessing commitments at the standard 0.45 threshold",
+        k5_title: "Books Examined",
+        k5_desc: "39 OT and 27 NT (64 books with catalogued records)",
+        k6_title: "Chapters Investigated",
+        k6_desc: "Sequential chapter-by-chapter analysis",
+        k7_title: "Verses Examined",
+        k7_desc: "Full text of the Bíblia Almeida Livre",
+        k8_title: "Associated Verses",
+        k8_desc: "14.1% of all verses in Scripture",
+        k9_title: "Examined Corpus",
+        k9_desc: "Full-canon investigation without selective sampling",
+        k10_title: "Categories",
+        k10_desc: "Taxonomy by origin, polarity, and promisor",
+        k11_title: "Pending Candidates",
+        k11_desc: "Consolidated and fully arbitrated catalogue",
+        s4_label: "Research Problem and Theological Foundation",
+        s4_title: "The central question: how many promises are in the Bible?",
+        s5_label: "Originality and Scientific Contribution",
+        s5_title: "A new approach to the study of biblical promises",
+        s5_matrix_title: "Comparative matrix with the state of the art",
+        s6_label: "Historiography and Methodological Comparison",
+        s6_title: "The myth of the eight thousand promises",
+        s7_label: "Exegetical Taxonomy and Canonical Distribution",
+        s7_title: "Distribution across the ten promissory categories",
+        s8_label: "Verification Architecture and Arithmetic Reconciliation",
+        s8_title: "The three methodological stages of the research",
+        s9_label: "Auditable Public Dataset",
+        s9_title: "Interactive catalogue of the 3,224 confirmed promissory units",
+        s10_label: "Exegetical Criteria and Computational Procedures",
+        s10_title: "Methodological summary",
+        s11_label: "Bilingual Academic Preprint",
+        s11_title: "Scientific paper",
+        s12_label: "Open Science and Verifiable Data",
+        s12_title: "Dataset and scientific documentation downloads",
+        s13_label: "Intellectual Direction and Authorial Responsibility",
+        s13_title: "About the researcher",
+        s14_label: "Bibliographic Standards",
+        s14_title: "Bibliographic references and citation formats",
+        s15_label: "Literary, Exegetical, and Pastoral Dimension",
+        s15_title: "From the research to the book",
+        s16_label: "Copyright, Open Science, and Governance",
+        s16_title: "Licenses and institutional information",
+        f_search_lbl: "Free-text search",
+        f_book_lbl: "Biblical book (64 with records)",
+        f_cat_lbl: "Taxonomic category (10)",
+        f_nat_lbl: "Polarity / Nature",
+        f_via_lbl: "Confirmation stage",
+        f_dest_lbl: "Recipient",
+        btn_clear_filters: "Clear filters",
+        btn_show_all: "Show all filtered records"
+      }
+    };
+
+    function fmt(n) {
+      return n.toLocaleString(LANG === 'pt' ? 'pt-BR' : 'en-US');
+    }
+
+    function normalizarVia(via) {
+      if (!via) return '';
+      if (via.toLowerCase().includes('acordo')) return 'Acordo direto (Etapas 1 e 2)';
+      return 'Arbitragem exegética (Etapa 3)';
     }
 
     function popularSelects() {
       const livros = [...new Set(D.registros.map(r => r.liv))];
       const cats = [...new Set(D.registros.map(r => r.cat))].sort();
-      const proms = [...new Set(D.registros.map(r => r.prom))].sort();
       const dests = [...new Set(D.registros.map(r => r.dest))].sort();
 
       const selLiv = document.getElementById('f-livro');
-      livros.forEach(l => { const o = document.createElement('option'); o.value = l; o.textContent = l; selLiv.appendChild(o); });
+      livros.forEach(l => {
+        const o = document.createElement('option');
+        o.value = l;
+        const nomePt = NOMES_LIVROS_PT[l] || l;
+        const qtd = D.registros.filter(r => r.liv === l).length;
+        o.textContent = `${nomePt} (${l}) — ${qtd}`;
+        selLiv.appendChild(o);
+      });
+
       const selCat = document.getElementById('f-cat');
-      cats.forEach(c => { const o = document.createElement('option'); o.value = c; o.textContent = c; selCat.appendChild(o); });
-      const selProm = document.getElementById('f-prom');
-      proms.forEach(p => { const o = document.createElement('option'); o.value = p; o.textContent = p; selProm.appendChild(o); });
+      cats.forEach(c => {
+        const o = document.createElement('option');
+        o.value = c;
+        const qtd = D.registros.filter(r => r.cat === c).length;
+        o.textContent = `${c} (${qtd})`;
+        selCat.appendChild(o);
+      });
+
       const selDest = document.getElementById('f-dest');
-      dests.forEach(d => { const o = document.createElement('option'); o.value = d; o.textContent = d; selDest.appendChild(o); });
+      dests.forEach(d => {
+        const o = document.createElement('option');
+        o.value = d;
+        o.textContent = d;
+        selDest.appendChild(o);
+      });
+    }
+
+    function resetAndFilter() {
+      LIMIT_EXIBIR = 250;
+      filtrar();
+    }
+
+    function mostrarTodosRegistros() {
+      LIMIT_EXIBIR = 5000;
+      filtrar();
+    }
+
+    function limparFiltros() {
+      document.getElementById('f-busca').value = '';
+      document.getElementById('f-livro').value = '';
+      document.getElementById('f-cat').value = '';
+      document.getElementById('f-nat').value = '';
+      document.getElementById('f-via').value = '';
+      document.getElementById('f-dest').value = '';
+      resetAndFilter();
     }
 
     function filtrar() {
@@ -180,59 +1556,95 @@
       const liv = document.getElementById('f-livro').value;
       const cat = document.getElementById('f-cat').value;
       const nat = document.getElementById('f-nat').value;
-      const prom = document.getElementById('f-prom').value;
+      const via = document.getElementById('f-via').value;
       const dest = document.getElementById('f-dest').value;
 
       const filtrados = D.registros.filter(r => {
+        const viaLimpa = normalizarVia(r.via);
         if (liv && r.liv !== liv) return false;
         if (cat && r.cat !== cat) return false;
         if (nat && r.nat !== nat) return false;
-        if (prom && r.prom !== prom) return false;
+        if (via && viaLimpa !== via) return false;
         if (dest && r.dest !== dest) return false;
-        if (q && !(r.id.toLowerCase().includes(q) || r.ref.toLowerCase().includes(q) || r.obj.toLowerCase().includes(q) || r.prom.toLowerCase().includes(q) || r.dest.toLowerCase().includes(q))) return false;
+        if (q) {
+          const nomeLiv = (NOMES_LIVROS_PT[r.liv] || '').toLowerCase();
+          const alvo = `${r.id} ${r.ref} ${nomeLiv} ${r.cat} ${r.obj} ${r.prom} ${r.dest}`.toLowerCase();
+          if (!alvo.includes(q)) return false;
+        }
         return true;
       });
 
-      document.getElementById('contagem-filtro').textContent = LANG === 'pt'
-        ? `Exibindo ${fmt(filtrados.length)} de ${fmt(D.registros.length)} unidades promissórias confirmadas.`
-        : `Showing ${fmt(filtrados.length)} of ${fmt(D.registros.length)} confirmed promissory units.`;
+      const fatia = filtrados.slice(0, LIMIT_EXIBIR);
+      const msg = LANG === 'pt'
+        ? `Exibindo ${fmt(fatia.length)} de ${fmt(filtrados.length)} unidades filtradas (total do catálogo: ${fmt(D.registros.length)} unidades confirmadas).`
+        : `Showing ${fmt(fatia.length)} of ${fmt(filtrados.length)} filtered units (catalogue total: ${fmt(D.registros.length)} confirmed units).`;
+      document.getElementById('contagem-filtro').textContent = msg;
 
-      const maxExibir = 600;
-      const fatia = filtrados.slice(0, maxExibir);
-      document.getElementById('tabela-corpo').innerHTML = fatia.map(r => `
-        <tr>
-          <td><strong>${r.id}</strong></td>
-          <td style="white-space:nowrap;">${r.ref}</td>
-          <td><span class="badge ${r.nat}">${r.cat}</span></td>
-          <td>${r.obj}</td>
-          <td>${r.prom}</td>
-          <td>${r.dest}</td>
-          <td>${r.via}</td>
-          <td>${r.cap}</td>
-        </tr>
-      `).join('');
+      const btnTodos = document.getElementById('btn-mostrar-todos');
+      btnTodos.style.display = filtrados.length > fatia.length ? 'inline-block' : 'none';
+
+      document.getElementById('tabela-corpo').innerHTML = fatia.map(r => {
+        const viaLimpa = normalizarVia(r.via);
+        return `
+          <tr>
+            <td><strong>${r.id}</strong></td>
+            <td style="white-space:nowrap;font-weight:600;color:var(--navy);">${r.ref}</td>
+            <td><span class="cat-tag ${r.nat}">${r.cat}</span></td>
+            <td>${r.obj}</td>
+            <td>${r.prom}</td>
+            <td>${r.dest}</td>
+            <td style="font-size:0.82rem;color:var(--text-muted);">${viaLimpa}</td>
+            <td style="white-space:nowrap;">${r.cap}</td>
+          </tr>
+        `;
+      }).join('');
     }
 
-    function setLang(l) {
+    function setLanguage(l) {
       LANG = l;
-      document.getElementById('t-title').innerHTML = l === 'pt'
-        ? 'Observatório das Promessas Bíblicas <span style="font-weight:400;font-size:1.1rem;">by Jair Lima</span>'
-        : 'Biblical Promises Observatory <span style="font-weight:400;font-size:1.1rem;">by Jair Lima</span>';
-      document.getElementById('t-sub').textContent = l === 'pt'
-        ? 'Base científica aberta, auditável e reprodutível das 3.224 unidades promissórias confirmadas (2.945 promessas distintas) nos 66 livros, 1.189 capítulos e 31.104 versículos da Bíblia Almeida Livre.'
-        : 'Open, auditable, and reproducible scientific dataset of the 3,224 confirmed promissory units (2,945 distinct promises) across the 66 books, 1,189 chapters, and 31,104 verses of the Bíblia Almeida Livre.';
-      document.getElementById('t-search-heading').textContent = l === 'pt'
-        ? 'Consulta Interativa às 3.224 Unidades Promissórias Confirmadas'
-        : 'Interactive Explorer of the 3,224 Confirmed Promissory Units';
-      document.getElementById('t-charts-heading').textContent = l === 'pt'
-        ? 'Painel Visual e Conciliação Metodológica das Três Fases'
-        : 'Visual Dashboard and Three-Phase Methodological Reconciliation';
-      renderKPIs();
+      document.documentElement.lang = l === 'pt' ? 'pt-BR' : 'en';
+      document.getElementById('btn-pt').classList.toggle('active', l === 'pt');
+      document.getElementById('btn-en').classList.toggle('active', l === 'en');
+
+      const dict = I18N[l];
+      document.querySelectorAll('[data-i18n]').forEach(el => {
+        const k = el.getAttribute('data-i18n');
+        if (dict[k]) el.textContent = dict[k];
+      });
+
+      document.getElementById('kpi-unidades').textContent = fmt(3224);
+      document.getElementById('kpi-distintas').textContent = fmt(2945);
+      document.getElementById('kpi-bencao-unid').textContent = fmt(1622);
+      document.getElementById('kpi-bencao-dist').textContent = fmt(1481);
+      document.getElementById('kpi-caps').textContent = fmt(1189);
+      document.getElementById('kpi-vers').textContent = fmt(31104);
+      document.getElementById('kpi-vers-prom').textContent = fmt(4373);
+
+      if (l === 'en') {
+        document.getElementById('s2_content').innerHTML = `
+          <p>The <strong>Biblical Promises Observatory</strong> (<em>Observatório das Promessas Bíblicas</em>) is a research initiative by <strong>Jair Lima</strong>, developed from an exhaustive investigation of all 66 books of the Protestant canon, using the <em>Bíblia Almeida Livre</em> as its reference text.</p>
+          <p>The study was structured in three methodological stages of identification, cross-checking, and exegetical arbitration, assisted by computational tools for textual analysis and natural language processing.</p>
+          <p>This methodology identified, classified, and organized <strong>3,224 confirmed promissory units</strong>, from which <strong>2,945 distinct commitments</strong> are estimated.</p>
+          <p>The findings, methodological criteria, catalogues, and calculation records are made publicly available for consultation, verification, and use in future studies.</p>
+          <div class="lead-box">
+            <p><strong>The intellectual conception, scholarly direction, and authorial responsibility of the research belong to Jair Lima.</strong></p>
+          </div>
+        `;
+      } else {
+        document.getElementById('s2_content').innerHTML = `
+          <p>O <strong>Observatório das Promessas Bíblicas</strong> é uma iniciativa de pesquisa de <strong>Jair Lima</strong>, desenvolvida a partir da investigação integral dos 66 livros do cânon protestante, utilizando como referência textual a <em>Bíblia Almeida Livre</em>.</p>
+          <p>O estudo foi estruturado em três etapas de identificação, conferência e arbitragem exegética, com auxílio de ferramentas computacionais de análise textual e processamento de linguagem natural.</p>
+          <p>A metodologia permitiu identificar, classificar e organizar <strong>3.224 unidades promissórias</strong>, das quais se estimam <strong>2.945 compromissos distintos</strong>.</p>
+          <p>Os resultados, critérios metodológicos, catálogos e memórias de cálculo são disponibilizados publicamente, permitindo sua consulta, verificação e utilização em estudos posteriores.</p>
+          <div class="lead-box">
+            <p><strong>A concepção, a direção intelectual e a responsabilidade autoral da pesquisa pertencem a Jair Lima.</strong></p>
+          </div>
+        `;
+      }
       filtrar();
     }
 
     popularSelects();
-    renderKPIs();
     filtrar();
   </script>
 </body>
