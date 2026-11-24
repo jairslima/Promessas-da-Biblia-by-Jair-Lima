@@ -252,6 +252,9 @@ O manuscrito literário de *As 3 Mil Promessas da Bíblia* não integra o conjun
 
 A concepção do estudo, a definição dos critérios exegéticos, a direção da pesquisa e a responsabilidade intelectual são de Jair Lima. Foram empregados recursos computacionais, incluindo modelos de linguagem, na análise textual, na classificação e na arbitragem das divergências. Os detalhes de implementação e identificação das ferramentas pertencem à documentação técnica de reprodutibilidade. Os resultados devem ser interpretados à luz das limitações metodológicas apresentadas neste artigo.
 
+**Como citar este artigo:**  
+LIMA, Jair. Quantas promessas existem na Bíblia? Uma análise computacional e exegética dos 66 livros do cânon protestante. Três Coroas, RS: Lima Editora do Brasil, 2026. 13 p. Preprint. Disponível em: https://jairslima.github.io/Promessas-da-Biblia-by-Jair-Lima/.
+
 ---
 
 ## Referências bibliográficas
@@ -262,6 +265,7 @@ A concepção do estudo, a definição dos critérios exegéticos, a direção d
 * CLEAR BIBLE, INC. *MACULA Hebrew and Greek Syntax Datasets: Open-Access Linguistic Datasets for the Hebrew Bible and the Greek New Testament*. 2023. Disponível em: https://github.com/Clear-Bible/macula-hebrew e https://github.com/Clear-Bible/macula-greek. Acesso em: 24 nov. 2026.
 * LIMA, Jair. *Bíblia Almeida Livre*. Três Coroas: Lima Editora do Brasil, 2026. Licenciada sob Creative Commons Atribuição-SemDerivações 4.0 Internacional (CC BY-ND 4.0).
 * LIMA, Jair. *As 3 Mil Promessas da Bíblia: Da criação à eternidade: a história de um Deus que cumpre sua Palavra*. Três Coroas: Lima Editora do Brasil, 2026. Manuscrito.
+* LIMA, Jair. *Quantas promessas existem na Bíblia? Uma análise computacional e exegética dos 66 livros do cânon protestante*. Três Coroas, RS: Lima Editora do Brasil, 2026. 13 p. Preprint. Disponível em: https://jairslima.github.io/Promessas-da-Biblia-by-Jair-Lima/.
 * LOCKYER, Herbert. *All the Promises of the Bible: A Unique Compilation and Exposition of Divine Promises in Scripture*. Grand Rapids: Zondervan Publishing House, 1962. 351 p. (esp. cap. 1, "The Nature and Number of the Promises", p. 10).
 * PROMISES. *Time*, New York, v. 68, n. 26, seção Religion, p. 49, 24 dez. 1956. Registro histórico do levantamento de Everek Richard Storms (Kitchener, Ontário), com 8.810 promessas totais e 7.487 promessas de Deus ao homem.
 * ROORDA, Dirk; VAN PEURSEM, Wido et al. *Biblia Hebraica Stuttgartensia Amstelodamensis (BHSA)*. Amsterdam: Eep Talstra Centre for Bible and Computer (ETCBC), Vrije Universiteit Amsterdam; Data Archiving and Networked Services (DANS), 2018. Disponível em: https://github.com/ETCBC/bhsa. Acesso em: 24 nov. 2026.

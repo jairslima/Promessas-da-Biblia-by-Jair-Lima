@@ -1,6 +1,6 @@
 cff-version: 1.2.0
-message: "Para citar esta pesquisa e seu conjunto de dados, utilize os metadados abaixo."
-title: "Observatório das Promessas Bíblicas: Uma investigação integral das promessas de Gênesis a Apocalipse"
+message: "Para citar esta pesquisa, seu conjunto de dados ou o artigo científico, utilize os metadados abaixo."
+title: "Quantas promessas existem na Bíblia? Uma análise computacional e exegética dos 66 livros do cânon protestante"
 authors:
   - family-names: "Lima"
     given-names: "Jair"
@@ -12,8 +12,23 @@ repository-code: "https://github.com/jairslima/Promessas-da-Biblia-by-Jair-Lima"
 license: "CC-BY-4.0"
 keywords:
   - "Promessas bíblicas"
-  - "Exegese bíblica"
   - "Teologia bíblica"
-  - "Humanidades digitais"
+  - "Exegese bíblica"
+  - "Teoria dos atos de fala"
   - "Linguística de corpus"
+  - "Humanidades digitais"
   - "Bíblia Almeida Livre"
+preferred-citation:
+  type: report
+  authors:
+    - family-names: "Lima"
+      given-names: "Jair"
+      affiliation: "Lima Editora do Brasil"
+  title: "Quantas promessas existem na Bíblia? Uma análise computacional e exegética dos 66 livros do cânon protestante"
+  year: 2026
+  publisher:
+    name: "Lima Editora do Brasil"
+    city: "Três Coroas, RS"
+  pages: 13
+  notes: "Preprint"
+  url: "https://jairslima.github.io/Promessas-da-Biblia-by-Jair-Lima/"
