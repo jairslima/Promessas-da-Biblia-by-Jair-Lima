@@ -3,12 +3,14 @@
 **Research and Authorship: Jair Lima**  
 *Lima Editora do Brasil, 2026*
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24510901.svg)](https://doi.org/10.5281/zenodo.24510901)
 [![Code License: MIT](https://img.shields.io/badge/Code_License-MIT-1e3a5f.svg)](LICENSE)
 [![Data License: CC BY 4.0](https://img.shields.io/badge/Data_License-CC_BY_4.0-8b6914.svg)](LICENSE-DATA)
 [![Corpus: Bíblia Almeida Livre](https://img.shields.io/badge/Corpus-B%C3%ADblia_Almeida_Livre_(CC_BY--ND_4.0)-2c5282.svg)](https://jairslima.github.io/Promessas-da-Biblia-by-Jair-Lima/)
 
 > 🌐 **Institutional Portal & Interactive Catalogue:** [**Observatório das Promessas Bíblicas**](https://jairslima.github.io/Promessas-da-Biblia-by-Jair-Lima/)  
-> 📄 **Scientific Paper (PT/EN):** [**ARTIGO_CIENTIFICO_PROMESSAS_DA_BIBLIA.md**](ARTIGO_CIENTIFICO_PROMESSAS_DA_BIBLIA.md)  
+> 🏛️ **Permanent Scientific Deposit (Zenodo DOI):** [**10.5281/zenodo.24510901**](https://doi.org/10.5281/zenodo.24510901)  
+> 📄 **Scientific Paper (PT/EN):** [**ARTIGO_CIENTIFICO_PROMESSAS_DA_BIBLIA.pdf**](ARTIGO_CIENTIFICO_PROMESSAS_DA_BIBLIA.pdf) | [**Markdown**](ARTIGO_CIENTIFICO_PROMESSAS_DA_BIBLIA.md)  
 > 🇧🇷 **Documentação em Português:** [**README.md**](README.md)
 
 ---
@@ -63,10 +65,10 @@ The research data remains open to public verification; the commercial manuscript
 ## 4. Citation & Licenses
 
 **Official Citation for the Scientific Preprint:**
-> LIMA, Jair. Quantas promessas existem na Bíblia? Uma análise computacional e exegética dos 66 livros do cânon protestante. Três Coroas, RS: Lima Editora do Brasil, 2026. 13 p. Preprint. Disponível em: https://jairslima.github.io/Promessas-da-Biblia-by-Jair-Lima/.
+> LIMA, Jair. Quantas promessas existem na Bíblia? Uma análise computacional e exegética dos 66 livros do cânon protestante. Três Coroas, RS: Lima Editora do Brasil, 2026. 13 p. Preprint. DOI: https://doi.org/10.5281/zenodo.24510901. Disponível em: https://jairslima.github.io/Promessas-da-Biblia-by-Jair-Lima/.
 
 **Citation for the Dataset & Observatory:**
-> LIMA, Jair. **Observatório das Promessas Bíblicas: Uma investigação integral das promessas de Gênesis a Apocalipse** (Dataset and Structured Catalogue v1.0.0: 3,224 confirmed units and 2,945 estimated distinct promises). Três Coroas, RS: Lima Editora do Brasil, 2026. Available at: https://jairslima.github.io/Promessas-da-Biblia-by-Jair-Lima/.
+> LIMA, Jair. **Observatório das Promessas Bíblicas: Uma investigação integral das promessas de Gênesis a Apocalipse** (Dataset and Structured Catalogue v1.0.0: 3,224 confirmed units and 2,945 estimated distinct promises). Três Coroas, RS: Lima Editora do Brasil, 2026. Zenodo. DOI: https://doi.org/10.5281/zenodo.24510901. Available at: https://jairslima.github.io/Promessas-da-Biblia-by-Jair-Lima/.
 
 * **Code (`scripts/`, `testes/`, `docs/`):** [MIT License](LICENSE) — Copyright (c) 2026 Jair Lima.
 * **Catalogue Metadata (`catalogo-digital-completo.*`, `MEMORIA_DE_CALCULO.md`):** [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE-DATA).

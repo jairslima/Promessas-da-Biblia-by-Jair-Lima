@@ -6,6 +6,7 @@ authors:
     given-names: "Jair"
     affiliation: "Lima Editora do Brasil"
 version: "1.0.0"
+doi: "10.5281/zenodo.24510901"
 date-released: "2026-11-24"
 url: "https://jairslima.github.io/Promessas-da-Biblia-by-Jair-Lima/"
 repository-code: "https://github.com/jairslima/Promessas-da-Biblia-by-Jair-Lima"
@@ -31,4 +32,5 @@ preferred-citation:
     city: "Três Coroas, RS"
   pages: 13
   notes: "Preprint"
+  doi: "10.5281/zenodo.24510901"
   url: "https://jairslima.github.io/Promessas-da-Biblia-by-Jair-Lima/"
