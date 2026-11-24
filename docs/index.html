@@ -3,6 +3,9 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+  <meta http-equiv="Pragma" content="no-cache" />
+  <meta http-equiv="Expires" content="0" />
   <meta name="description" content="Observatório das Promessas Bíblicas: Uma investigação integral das promessas de Gênesis a Apocalipse. Pesquisa e autoria de Jair Lima (Lima Editora do Brasil, 2026). 3.224 unidades promissórias confirmadas e 2.945 promessas distintas estimadas nos 66 livros do cânon protestante." />
   <meta name="author" content="Jair Lima" />
   <title>Observatório das Promessas Bíblicas | Pesquisa e autoria: Jair Lima</title>
@@ -1298,7 +1301,7 @@
     </p>
   </footer>
 
-  <script src="./dados_observatorio.js"></script>
+  <script src="./dados_observatorio.js?v=20261124v2"></script>
   <script>
     const D = window.DADOS_OBSERVATORIO;
     let LANG = 'pt';
@@ -1630,6 +1633,23 @@
             <p><strong>The intellectual conception, scholarly direction, and authorial responsibility of the research belong to Jair Lima.</strong></p>
           </div>
         `;
+        document.getElementById('s3_distinction').innerHTML = `
+          <p><strong>Strict methodological distinction between metrics:</strong> This research strictly differentiates: (1) the <strong>effective count of confirmed units</strong> (<strong>3,224</strong> verified textual promissory occurrences in the corpus, including <strong>1,622</strong> of divine blessing); (2) the <strong>lexical estimate of distinct promises</strong> (<strong>2,945</strong> distinct commitments in total and <strong>1,481</strong> of divine blessing at the 0.45 Jaccard threshold, discounting reaffirmations and parallel accounts); and (3) the <strong>statistical projection adjusted by the 0.84 pilot recall rate</strong> (<strong>3,506</strong> total and <strong>1,763</strong> divine blessing), which represents an analytical sensitivity exercise rather than an exact measurement of all existing promises.</p>
+        `;
+        document.getElementById('s4_content').innerHTML = `
+          <p>Answering how many promises exist in the Bible requires first addressing a foundational hermeneutical question: <em>what constitutes a promise in Sacred Scripture?</em> Unlike counting words, verses, or chapters, identifying a promise does not depend merely on the presence of the word "promise" or the future tense.</p>
+          <p>Throughout Scripture, God and historical agents make commitments even where the noun "promise" is absent (such as Genesis 3:15, Genesis 12:1-3, or 2 Samuel 7:12-16). Conversely, not every future statement is a promise: Scripture contains commands, conditional warnings, sapiential maxims, historical narratives, third-person doctrinal assertions, and devotional prayers.</p>
+          <p>This study examined all 31,104 verses of the Protestant canon under an explicit exegetical definition grounded in commissive speech-act theory: a promissory unit is counted wherever an <strong>identifiable promisor</strong> assumes toward a <strong>recognizable recipient</strong> a <strong>future or continuing commitment</strong> to accomplish, guarantee, sustain, or execute a blessing or judgment.</p>
+        `;
+        document.getElementById('s15_content').innerHTML = `
+          <div>
+            <h3>As 3 Mil Promessas da Bíblia: Da criação à eternidade: a história de um Deus que cumpre sua Palavra</h3>
+            <p>The findings of this investigation underpin the book <strong>As 3 Mil Promessas da Bíblia: Da criação à eternidade: a história de um Deus que cumpre sua Palavra</strong>, by <strong>Jair Lima</strong> (Lima Editora do Brasil, 2026).</p>
+            <p>Across seven parts and 53 chapters, the author leads the reader through a historical, theological, and spiritual journey, revealing how biblical promises cross generations and find their fulfillment in God's eternal purposes.</p>
+            <p>The scientific research remains open to public consultation. The commercial book develops its narrative, exegetical, and pastoral dimension and remains protected by copyright.</p>
+            <p class="book-motto">A research project to understand the promises. A book to understand the One who promises.</p>
+          </div>
+        `;
       } else {
         document.getElementById('s2_content').innerHTML = `
           <p>O <strong>Observatório das Promessas Bíblicas</strong> é uma iniciativa de pesquisa de <strong>Jair Lima</strong>, desenvolvida a partir da investigação integral dos 66 livros do cânon protestante, utilizando como referência textual a <em>Bíblia Almeida Livre</em>.</p>
@@ -1638,6 +1658,23 @@
           <p>Os resultados, critérios metodológicos, catálogos e memórias de cálculo são disponibilizados publicamente, permitindo sua consulta, verificação e utilização em estudos posteriores.</p>
           <div class="lead-box">
             <p><strong>A concepção, a direção intelectual e a responsabilidade autoral da pesquisa pertencem a Jair Lima.</strong></p>
+          </div>
+        `;
+        document.getElementById('s3_distinction').innerHTML = `
+          <p><strong>Distinção metodológica rigorosa entre as grandezas:</strong> A pesquisa diferencia estritamente: (1) a <strong>contagem efetiva de unidades confirmadas</strong> (<strong>3.224</strong> ocorrências textuais promissórias verificadas no corpus, sendo <strong>1.622</strong> de bênção divina); (2) a <strong>estimativa lexical de promessas distintas</strong> (<strong>2.945</strong> compromissos distintos no total e <strong>1.481</strong> de bênção divina no limiar de Jaccard de 0,45, após descontar reafirmações e relatos paralelos); e (3) a <strong>projeção estatística corrigida pela taxa empírica de revocação de 0,84</strong> (<strong>3.506</strong> no total e <strong>1.763</strong> de bênção divina), que constitui exercício analítico de sensibilidade derivado de amostra piloto e não uma medição exata de todas as promessas existentes.</p>
+        `;
+        document.getElementById('s4_content').innerHTML = `
+          <p>Responder quantas promessas existem na Bíblia exige enfrentar antes uma pergunta hermenêutica fundamental: <em>o que constitui uma promessa nas Escrituras Sagradas?</em> Diferentemente da contagem de palavras, versículos ou capítulos, atividade consolidada desde a tradição massorética, a identificação de uma promessa não depende apenas da presença do vocábulo "promessa" nem do simples emprego de verbos no tempo futuro.</p>
+          <p>Nas Escrituras, Deus e os agentes históricos prometem mesmo quando o termo "promessa" não é pronunciado, como no protoevangelho de Gênesis 3.15, no chamado de Abraão em Gênesis 12.1-3 ou na aliança davídica de 2 Samuel 7.12-16. Em sentido inverso, nem toda frase no tempo futuro constitui uma promessa: as Escrituras contêm mandamentos, advertências condicionais, provérbios morais de sabedoria, descrições históricas, confissões doutrinárias em terceira pessoa e orações devocionais.</p>
+          <p>Esta pesquisa submeteu a totalidade dos 31.104 versículos do cânon protestante a uma definição exegética explícita fundamentada na teoria dos atos de fala comissivos: conta-se como unidade promissória toda declaração textual em que um <strong>promitente identificável</strong> assume perante um <strong>destinatário reconhecível</strong> o <strong>compromisso futuro ou continuado</strong> de realizar, garantir, manter ou executar determinado benefício ou juízo. O resultado substitui estimativas anônimas por um catálogo verificável versículo a versículo.</p>
+        `;
+        document.getElementById('s15_content').innerHTML = `
+          <div>
+            <h3>As 3 Mil Promessas da Bíblia: Da criação à eternidade: a história de um Deus que cumpre sua Palavra</h3>
+            <p>Os resultados desta investigação fundamentam a obra <strong>As 3 Mil Promessas da Bíblia: Da criação à eternidade: a história de um Deus que cumpre sua Palavra</strong>, de <strong>Jair Lima</strong> (Lima Editora do Brasil, 2026).</p>
+            <p>Em sete partes e 53 capítulos, o autor conduz o leitor por uma jornada histórica, teológica e espiritual, revelando como as promessas atravessam as gerações e encontram sua expressão nos propósitos eternos de Deus.</p>
+            <p>A pesquisa permanece aberta à consulta pública. O livro desenvolve sua dimensão narrativa, exegética e pastoral. O manuscrito comercial, os capítulos literários e as edições impressa e digital da obra são protegidos por direitos autorais e não integram o depósito público de dados.</p>
+            <p class="book-motto">Uma pesquisa para compreender as promessas. Uma obra para compreender aquele que promete.</p>
           </div>
         `;
       }
