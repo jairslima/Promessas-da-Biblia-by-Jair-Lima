@@ -1,0 +1,1218 @@
+[
+ {
+  "id": "F3-1SA-009",
+  "livro": "1SA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1SA 11:10",
+  "fim": "1SA 11:10",
+  "texto": {
+   "1SA 11:10": "Os homens de Jabes disseram aos amonitas: Amanhã sairemos até vocês, e vocês poderão fazer conosco tudo o que parecer bem aos seus olhos."
+  },
+  "p1": [
+   {
+    "uid": "U1-1SA-011:010-1",
+    "ref": "1SA 11:10",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "homens de Jabes",
+    "ancora": "vocês poderão fazer conosco tudo o que parecer bem aos seus olhos",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-1SA-011:010-1",
+    "ref": "1SA 11:10",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "nacoes_especificas",
+    "condicao": "nenhuma",
+    "promitente": "Os homens de Jabes",
+    "ancora": "Amanhã sairemos até vocês, e vocês poderão fazer conosco tudo o que parecer bem aos seus olhos.",
+    "resumo": "Os homens de Jabes dizem aos amonitas que sairão no dia seguinte para que façam com eles o que lhes parecer bem."
+   }
+  ]
+ },
+ {
+  "id": "F3-1SA-010",
+  "livro": "1SA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1SA 12:22",
+  "fim": "1SA 12:22",
+  "texto": {
+   "1SA 12:22": "Por causa de seu grande nome, o SENHOR não abandonará seu povo, pois agradou ao SENHOR fazer de vocês seu povo."
+  },
+  "p1": [
+   {
+    "uid": "U1-1SA-012:022-1",
+    "ref": "1SA 12:22",
+    "tipo": "indeterminada",
+    "origem": "indeterminada",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "o SENHOR não abandonará seu povo",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-1SA-012:022-1",
+    "ref": "1SA 12:22",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": "Samuel",
+    "ancora": "Por causa de seu grande nome, o SENHOR não abandonará seu povo, pois agradou ao SENHOR fazer de vocês seu povo.",
+    "resumo": "Garantia profética de que o SENHOR não abandonará seu povo por causa de seu grande nome."
+   }
+  ]
+ },
+ {
+  "id": "F3-1SA-011",
+  "livro": "1SA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1SA 15:28",
+  "fim": "1SA 15:28",
+  "texto": {
+   "1SA 15:28": "Então Samuel lhe disse: Hoje o SENHOR rasgou de você o reino de Israel e o deu a alguém próximo de você, melhor do que você."
+  },
+  "p1": [
+   {
+    "uid": "U1-1SA-015:028-1",
+    "ref": "1SA 15:28",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "Samuel",
+    "ancora": "Hoje o SENHOR rasgou de você o reino de Israel e o deu a alguém próximo de você",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-1SA-015:028-1",
+    "ref": "1SA 15:28",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "Samuel",
+    "ancora": "Hoje o SENHOR rasgou de você o reino de Israel",
+    "resumo": "Samuel declara que o SENHOR rasgou de Saul o reino de Israel, tomando o manto rasgado como sinal."
+   },
+   {
+    "uid": "U2-1SA-015:028-2",
+    "ref": "1SA 15:28",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "Samuel",
+    "ancora": "e o deu a alguém próximo de você, melhor do que você.",
+    "resumo": "Samuel anuncia que o SENHOR entregou o reino de Israel a alguém próximo de Saul e melhor do que ele."
+   }
+  ]
+ },
+ {
+  "id": "F3-1SA-012",
+  "livro": "1SA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1SA 16:1",
+  "fim": "1SA 16:1",
+  "texto": {
+   "1SA 16:1": "O SENHOR disse a Samuel: Até quando você terá pesar por Saul, tendo eu o rejeitado para que não reine sobre Israel? Encha seu chifre de azeite e vá. Eu o enviarei a Jessé, o belemita, pois escolhi para mim um rei entre seus filhos."
+  },
+  "p1": [
+   {
+    "uid": "U1-1SA-016:001-1",
+    "ref": "1SA 16:1",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Eu o enviarei a Jessé",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-1SA-016:001-1",
+    "ref": "1SA 16:1",
+    "tipo": "declaracao_sem_compromisso",
+    "origem": "divina_direta",
+    "natureza": null,
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Eu o enviarei a Jessé, o belemita, pois escolhi para mim um rei entre seus filhos.",
+    "resumo": "O SENHOR declara a Samuel que o enviará a Jessé porque escolheu um rei entre os filhos dele."
+   }
+  ]
+ },
+ {
+  "id": "F3-1SA-013",
+  "livro": "1SA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1SA 17:9",
+  "fim": "1SA 17:9",
+  "texto": {
+   "1SA 17:9": "Se puder lutar comigo e me matar, seremos servos de vocês. Porém, se eu o vencer e matar, vocês serão nossos servos e nos servirão."
+  },
+  "p1": [
+   {
+    "uid": "U1-1SA-017:009-1",
+    "ref": "1SA 17:9",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": "explicita",
+    "promitente": "Golias",
+    "ancora": "vocês serão nossos servos e nos servirão",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-1SA-017:009-1",
+    "ref": "1SA 17:9",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "explicita",
+    "promitente": "Golias",
+    "ancora": "Se puder lutar comigo e me matar, seremos servos de vocês.",
+    "resumo": "Golias promete que os filisteus se tornarão servos de Israel se um guerreiro israelita o vencer e matar."
+   },
+   {
+    "uid": "U2-1SA-017:009-2",
+    "ref": "1SA 17:9",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": "explicita",
+    "promitente": "Golias",
+    "ancora": "Porém, se eu o vencer e matar, vocês serão nossos servos e nos servirão.",
+    "resumo": "Golias declara que os israelitas se tornarão servos dos filisteus caso ele vença e mate o campeão de Israel."
+   }
+  ]
+ },
+ {
+  "id": "F3-1SA-014",
+  "livro": "1SA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1SA 17:25",
+  "fim": "1SA 17:25",
+  "texto": {
+   "1SA 17:25": "Os homens de Israel diziam: Vocês viram aquele homem que subiu? Ele veio desafiar Israel. O rei dará grandes riquezas ao homem que o matar, lhe dará sua filha e isentará de tributos a casa de seu pai em Israel."
+  },
+  "p1": [
+   {
+    "uid": "U1-1SA-017:025-1",
+    "ref": "1SA 17:25",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "explicita",
+    "promitente": "Saul",
+    "ancora": "O rei dará grandes riquezas ao homem que o matar",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-1SA-017:025-1",
+    "ref": "1SA 17:25",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "explicita",
+    "promitente": "Saul",
+    "ancora": "O rei dará grandes riquezas ao homem que o matar",
+    "resumo": "Os homens de Israel relatam que o rei Saul dará grandes riquezas a quem matar Golias."
+   },
+   {
+    "uid": "U2-1SA-017:025-2",
+    "ref": "1SA 17:25",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "explicita",
+    "promitente": "Saul",
+    "ancora": "lhe dará sua filha",
+    "resumo": "Os homens de Israel relatam que o rei Saul dará sua filha em casamento a quem matar Golias."
+   }
+  ]
+ },
+ {
+  "id": "F3-1SA-015",
+  "livro": "1SA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1SA 18:3",
+  "fim": "1SA 18:3",
+  "texto": {
+   "1SA 18:3": "Jônatas fez uma aliança com Davi, porque o amava como à própria alma."
+  },
+  "p1": [
+   {
+    "uid": "U1-1SA-018:003-1",
+    "ref": "1SA 18:3",
+    "tipo": "indeterminada",
+    "origem": "humana_em_nome_proprio",
+    "natureza": null,
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "Jônatas",
+    "ancora": "Jônatas fez uma aliança com Davi",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-1SA-018:003-1",
+    "ref": "1SA 18:3",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "Jônatas",
+    "ancora": "Jônatas fez uma aliança com Davi",
+    "resumo": "Jônatas celebra aliança com Davi sem detalhamento explícito dos termos no texto"
+   }
+  ]
+ },
+ {
+  "id": "F3-1SA-016",
+  "livro": "1SA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1SA 20:2",
+  "fim": "1SA 20:2",
+  "texto": {
+   "1SA 20:2": "Jônatas respondeu: Jamais! Você não morrerá. Eis que meu pai não faz coisa alguma, grande ou pequena, sem revelar a meus ouvidos. Por que meu pai esconderia de mim este assunto? Não é assim."
+  },
+  "p1": [
+   {
+    "uid": "U1-1SA-020:002-1",
+    "ref": "1SA 20:2",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "Jônatas",
+    "ancora": "Você não morrerá",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-1SA-020:002-1",
+    "ref": "1SA 20:2",
+    "tipo": "declaracao_sem_compromisso",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "Jônatas",
+    "ancora": "Você não morrerá.",
+    "resumo": "Jônatas assegura a Davi que ele não morrerá, confiando que Saul nada faria sem lhe revelar."
+   }
+  ]
+ },
+ {
+  "id": "F3-1SA-017",
+  "livro": "1SA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1SA 20:12",
+  "fim": "1SA 20:13",
+  "texto": {
+   "1SA 20:12": "Jônatas disse a Davi: O SENHOR, Deus de Israel, seja testemunha. Amanhã ou depois de amanhã, a esta hora, sondarei meu pai. Se houver boa disposição para com Davi e eu não mandar avisá-lo,",
+   "1SA 20:13": "assim faça o SENHOR a Jônatas e outro tanto lhe acrescente. Se meu pai decidir fazer-lhe mal, eu o revelarei a seus ouvidos e o deixarei partir, para que vá em paz. E o SENHOR esteja com você, assim como esteve com meu pai."
+  },
+  "p1": [
+   {
+    "uid": "U1-1SA-020:012-1",
+    "ref": "1SA 20:12-20:13",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "explicita",
+    "promitente": "Jônatas",
+    "ancora": "eu o revelarei a seus ouvidos e o deixarei partir, para que vá em paz",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-1SA-018",
+  "livro": "1SA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1SA 20:16",
+  "fim": "1SA 20:16",
+  "texto": {
+   "1SA 20:16": "Assim Jônatas fez aliança com a casa de Davi, dizendo: O SENHOR pedirá contas aos inimigos de Davi."
+  },
+  "p1": [
+   {
+    "uid": "U1-1SA-020:016-1",
+    "ref": "1SA 20:16",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "familia_ou_linhagem",
+    "condicao": null,
+    "promitente": "Jônatas",
+    "ancora": "O SENHOR pedirá contas aos inimigos de Davi",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-1SA-020:016-1",
+    "ref": "1SA 20:16",
+    "tipo": "desejo_ou_bencao_votiva",
+    "origem": "humana_votiva",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "Jônatas",
+    "ancora": "O SENHOR pedirá contas aos inimigos de Davi.",
+    "resumo": "Ao selar a aliança, Jônatas declara ou invoca que o SENHOR pedirá contas aos inimigos de Davi."
+   }
+  ]
+ },
+ {
+  "id": "F3-1SA-019",
+  "livro": "1SA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1SA 20:21",
+  "fim": "1SA 20:21",
+  "texto": {
+   "1SA 20:21": "Então enviarei o jovem, dizendo: ‘Vá, procure as flechas.’ Se eu lhe disser claramente: ‘Eis que as flechas estão mais para cá de você, pegue-as’, então venha, pois há paz para você e nenhum perigo, tão certo como vive o SENHOR."
+  },
+  "p1": [
+   {
+    "uid": "U1-1SA-020:021-1",
+    "ref": "1SA 20:21",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "explicita",
+    "promitente": "Jônatas",
+    "ancora": "há paz para você e nenhum perigo",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-1SA-020",
+  "livro": "1SA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1SA 23:4",
+  "fim": "1SA 23:4",
+  "texto": {
+   "1SA 23:4": "Então Davi tornou a consultar o SENHOR, e o SENHOR lhe respondeu: Levante-se e desça a Queila, pois entregarei os filisteus em suas mãos."
+  },
+  "p1": [
+   {
+    "uid": "U1-1SA-023:004-1",
+    "ref": "1SA 23:4",
+    "tipo": "mandamento",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "entregarei os filisteus em suas mãos",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-1SA-023:004-1",
+    "ref": "1SA 23:4",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": null,
+    "ancora": "pois entregarei os filisteus em suas mãos.",
+    "resumo": "O SENHOR promete entregar os filisteus nas mãos de Davi em Queila."
+   }
+  ]
+ },
+ {
+  "id": "F3-1SA-021",
+  "livro": "1SA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1SA 23:18",
+  "fim": "1SA 23:18",
+  "texto": {
+   "1SA 23:18": "Ambos fizeram aliança diante do SENHOR. Davi permaneceu em Horesa, e Jônatas foi para sua casa."
+  },
+  "p1": [
+   {
+    "uid": "U1-1SA-023:018-1",
+    "ref": "1SA 23:18",
+    "tipo": "indeterminada",
+    "origem": "humana_em_nome_proprio",
+    "natureza": null,
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Ambos fizeram aliança diante do SENHOR",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-1SA-023:018-1",
+    "ref": "1SA 23:18",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "Davi e Jônatas",
+    "ancora": "Ambos fizeram aliança diante do SENHOR.",
+    "resumo": "Davi e Jônatas celebram aliança solene diante do SENHOR."
+   }
+  ]
+ },
+ {
+  "id": "F3-1SA-022",
+  "livro": "1SA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1SA 24:12",
+  "fim": "1SA 24:13",
+  "texto": {
+   "1SA 24:12": "Julgue o SENHOR entre mim e o senhor, e o SENHOR me vingue do senhor, porém minha mão não será contra o senhor.",
+   "1SA 24:13": "Como diz o provérbio dos antigos: ‘Dos perversos procede perversidade.’ Porém minha mão não será contra o senhor."
+  },
+  "p1": [
+   {
+    "uid": "U1-1SA-024:012-1",
+    "ref": "1SA 24:12-24:13",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "Davi",
+    "ancora": "minha mão não será contra o senhor",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-1SA-024:012-2",
+    "ref": "1SA 24:12",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "Davi",
+    "ancora": "porém minha mão não será contra o senhor.",
+    "resumo": "Davi compromete-se perante Saul a não levantar a mão contra ele."
+   },
+   {
+    "uid": "U2-1SA-024:013-2",
+    "ref": "1SA 24:13",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "Davi",
+    "ancora": "Porém minha mão não será contra o senhor.",
+    "resumo": "Davi reitera seu compromisso de não agir contra Saul."
+   }
+  ]
+ },
+ {
+  "id": "F3-1SA-023",
+  "livro": "1SA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1SA 24:21",
+  "fim": "1SA 24:22",
+  "texto": {
+   "1SA 24:21": "Portanto, jure-me agora pelo SENHOR que não eliminará minha descendência depois de mim, nem apagará meu nome da casa de meu pai.",
+   "1SA 24:22": "Davi jurou a Saul. Saul foi para sua casa, mas Davi e seus homens subiram à fortaleza."
+  },
+  "p1": [
+   {
+    "uid": "U1-1SA-024:021-1",
+    "ref": "1SA 24:21-24:22",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "familia_ou_linhagem",
+    "condicao": null,
+    "promitente": "Davi",
+    "ancora": "Davi jurou a Saul",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-1SA-024",
+  "livro": "1SA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1SA 25:28",
+  "fim": "1SA 25:28",
+  "texto": {
+   "1SA 25:28": "Perdoe, por favor, a transgressão de sua serva, pois certamente o SENHOR fará uma casa duradoura para meu senhor, porque meu senhor luta as guerras do SENHOR, e não se tem achado maldade em você durante seus dias."
+  },
+  "p1": [
+   {
+    "uid": "U1-1SA-025:028-1",
+    "ref": "1SA 25:28",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "Abigail",
+    "ancora": "o SENHOR fará uma casa duradoura para meu senhor",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-1SA-025:028-1",
+    "ref": "1SA 25:28",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "Abigail",
+    "ancora": "pois certamente o SENHOR fará uma casa duradoura para meu senhor, porque meu senhor luta as guerras do SENHOR, e não se tem achado maldade em você durante seus dias.",
+    "resumo": "Abigail prediz que o SENHOR edificará uma casa duradoura para Davi."
+   }
+  ]
+ },
+ {
+  "id": "F3-1SA-025",
+  "livro": "1SA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1SA 25:29",
+  "fim": "1SA 25:29",
+  "texto": {
+   "1SA 25:29": "Ainda que alguém se levante para persegui-lo e procurar tirar-lhe a vida, a vida de meu senhor estará ligada ao feixe dos vivos junto ao SENHOR, seu Deus. Porém ele lançará a vida de seus inimigos como do meio da cavidade de uma funda."
+  },
+  "p1": [
+   {
+    "uid": "U1-1SA-025:029-1",
+    "ref": "1SA 25:29",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "explicita",
+    "promitente": "Abigail",
+    "ancora": "a vida de meu senhor estará ligada ao feixe dos vivos junto ao SENHOR, seu Deus",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-1SA-025:029-1",
+    "ref": "1SA 25:29",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "Abigail",
+    "ancora": "Ainda que alguém se levante para persegui-lo e procurar tirar-lhe a vida, a vida de meu senhor estará ligada ao feixe dos vivos junto ao SENHOR, seu Deus.",
+    "resumo": "Abigail prediz que a vida de Davi será preservada junto ao SENHOR diante de seus perseguidores."
+   }
+  ]
+ },
+ {
+  "id": "F3-1SA-026",
+  "livro": "1SA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1SA 25:30",
+  "fim": "1SA 25:30",
+  "texto": {
+   "1SA 25:30": "Quando o SENHOR fizer ao meu senhor todo o bem que prometeu a seu respeito e o estabelecer como líder sobre Israel,"
+  },
+  "p1": [
+   {
+    "uid": "U1-1SA-025:030-1",
+    "ref": "1SA 25:30",
+    "tipo": "declaracao_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": null,
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "todo o bem que prometeu a seu respeito",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-1SA-025:030-1",
+    "ref": "1SA 25:30",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "Quando o SENHOR fizer ao meu senhor todo o bem que prometeu a seu respeito e o estabelecer como líder sobre Israel,",
+    "resumo": "Abigail invoca a promessa do SENHOR de fazer todo o bem a Davi e estabelecê-lo como líder sobre Israel."
+   }
+  ]
+ },
+ {
+  "id": "F3-1SA-027",
+  "livro": "1SA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1SA 25:41",
+  "fim": "1SA 25:41",
+  "texto": {
+   "1SA 25:41": "Ela se levantou, inclinou-se com o rosto em terra e disse: Eis que sua serva está pronta para servir e lavar os pés dos servos de meu senhor."
+  },
+  "p1": [
+   {
+    "uid": "U1-1SA-025:041-1",
+    "ref": "1SA 25:41",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "Abigail",
+    "ancora": "sua serva está pronta para servir e lavar os pés dos servos de meu senhor",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-1SA-028",
+  "livro": "1SA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1SA 30:8",
+  "fim": "1SA 30:8",
+  "texto": {
+   "1SA 30:8": "Davi consultou o SENHOR: Perseguirei este bando? Eu o alcançarei? O SENHOR lhe respondeu: Persiga-o, pois certamente o alcançará e certamente libertará tudo."
+  },
+  "p1": [
+   {
+    "uid": "U1-1SA-030:008-1",
+    "ref": "1SA 30:8",
+    "tipo": "mandamento",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "certamente o alcançará e certamente libertará tudo",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-1SA-030:008-1",
+    "ref": "1SA 30:8",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "deus_indistinto",
+    "ancora": "Persiga-o, pois certamente o alcançará",
+    "resumo": "O SENHOR garante a Davi que ele certamente alcançará o bando amalequita ao persegui-lo."
+   },
+   {
+    "uid": "U2-1SA-030:008-2",
+    "ref": "1SA 30:8",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "deus_indistinto",
+    "ancora": "certamente libertará tudo.",
+    "resumo": "O SENHOR garante a Davi que ele certamente libertará tudo o que foi levado pelos amalequitas."
+   }
+  ]
+ },
+ {
+  "id": "F3-1SA-029",
+  "livro": "1SA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1SA 1:22",
+  "fim": "1SA 1:22",
+  "texto": {
+   "1SA 1:22": "Ana, porém, não subiu, pois disse a seu marido: Quando o menino for desmamado, eu o levarei, para que apareça diante do SENHOR e ali permaneça para sempre."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-1SA-001:022-1",
+    "ref": "1SA 1:22",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "Ana",
+    "ancora": "Quando o menino for desmamado, eu o levarei, para que apareça diante do SENHOR e ali permaneça para sempre.",
+    "resumo": "Ana promete a Elcana levar Samuel à presença do SENHOR assim que o menino for desmamado, para que ali permaneça para sempre."
+   }
+  ]
+ },
+ {
+  "id": "F3-1SA-030",
+  "livro": "1SA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1SA 2:32",
+  "fim": "1SA 2:32",
+  "texto": {
+   "1SA 2:32": "Você verá a aflição de minha habitação em meio a todo o bem que será feito a Israel, e nunca mais haverá idoso algum em sua casa."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-1SA-002:032-1",
+    "ref": "1SA 2:32",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": "homem de Deus",
+    "ancora": "todo o bem que será feito a Israel",
+    "resumo": "O SENHOR anuncia que todo o bem será feito a Israel."
+   }
+  ]
+ },
+ {
+  "id": "F3-1SA-031",
+  "livro": "1SA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1SA 9:8",
+  "fim": "1SA 9:8",
+  "texto": {
+   "1SA 9:8": "O servo tornou a responder a Saul: Eis que ainda tenho em minha mão um quarto de siclo de prata. Eu o darei ao homem de Deus, para que nos mostre o caminho."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-1SA-009:008-1",
+    "ref": "1SA 9:8",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "servo de Saul",
+    "ancora": "Eu o darei ao homem de Deus, para que nos mostre o caminho.",
+    "resumo": "O servo se compromete a entregar um quarto de siclo de prata ao homem de Deus."
+   }
+  ]
+ },
+ {
+  "id": "F3-1SA-032",
+  "livro": "1SA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1SA 9:19",
+  "fim": "1SA 9:19",
+  "texto": {
+   "1SA 9:19": "Samuel respondeu a Saul: Eu sou o vidente. Suba adiante de mim ao lugar alto, pois hoje vocês comerão comigo. Pela manhã eu o despedirei e lhe declararei tudo o que está em seu coração."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-1SA-009:019-1",
+    "ref": "1SA 9:19",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "Samuel",
+    "ancora": "hoje vocês comerão comigo.",
+    "resumo": "Samuel garante a Saul e a seu servo que comerão com ele naquele dia."
+   }
+  ]
+ },
+ {
+  "id": "F3-1SA-033",
+  "livro": "1SA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1SA 9:26",
+  "fim": "1SA 9:26",
+  "texto": {
+   "1SA 9:26": "Levantaram-se de madrugada. Ao nascer da alvorada, Samuel chamou Saul no terraço e disse: Levante-se, e eu o despedirei. Saul se levantou, e ambos, ele e Samuel, saíram."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-1SA-009:026-1",
+    "ref": "1SA 9:26",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "Samuel",
+    "ancora": "Levante-se, e eu o despedirei.",
+    "resumo": "Samuel chama Saul ao amanhecer prometendo despedi-lo."
+   }
+  ]
+ },
+ {
+  "id": "F3-1SA-034",
+  "livro": "1SA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1SA 10:6",
+  "fim": "1SA 10:6",
+  "texto": {
+   "1SA 10:6": "O Espírito do SENHOR virá poderosamente sobre você, você profetizará com eles e será transformado em outro homem."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-1SA-010:006-1",
+    "ref": "1SA 10:6",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "Samuel",
+    "ancora": "O Espírito do SENHOR virá poderosamente sobre você, você profetizará com eles e será transformado em outro homem.",
+    "resumo": "Samuel anuncia a Saul que o Espírito do SENHOR virá poderosamente sobre ele, que ele profetizará com os profetas e será transformado em outro homem."
+   }
+  ]
+ },
+ {
+  "id": "F3-1SA-035",
+  "livro": "1SA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1SA 12:23",
+  "fim": "1SA 12:23",
+  "texto": {
+   "1SA 12:23": "Quanto a mim, longe de mim pecar contra o SENHOR, deixando de orar por vocês. Eu lhes ensinarei o caminho bom e reto."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-1SA-012:023-1",
+    "ref": "1SA 12:23",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": "Samuel",
+    "ancora": "longe de mim pecar contra o SENHOR, deixando de orar por vocês.",
+    "resumo": "Samuel se compromete a continuar orando pelo povo."
+   }
+  ]
+ },
+ {
+  "id": "F3-1SA-036",
+  "livro": "1SA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1SA 13:14",
+  "fim": "1SA 13:14",
+  "texto": {
+   "1SA 13:14": "Agora, porém, seu reino não subsistirá. O SENHOR buscou para si um homem segundo seu coração e o designou governante sobre seu povo, porque você não guardou o que o SENHOR lhe ordenou."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-1SA-013:014-2",
+    "ref": "1SA 13:14",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "Samuel",
+    "ancora": "O SENHOR buscou para si um homem segundo seu coração e o designou governante sobre seu povo",
+    "resumo": "Samuel anuncia que o SENHOR já buscou e designou outro homem, segundo o seu coração, como governante sobre o seu povo."
+   }
+  ]
+ },
+ {
+  "id": "F3-1SA-037",
+  "livro": "1SA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1SA 14:7",
+  "fim": "1SA 14:7",
+  "texto": {
+   "1SA 14:7": "Seu escudeiro lhe disse: Faça tudo o que está em seu coração. Vá adiante. Eis que estou com você, conforme seu coração."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-1SA-014:007-1",
+    "ref": "1SA 14:7",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "escudeiro de Jônatas",
+    "ancora": "Eis que estou com você, conforme seu coração.",
+    "resumo": "O escudeiro compromete-se a acompanhar e apoiar Jônatas no ataque."
+   }
+  ]
+ },
+ {
+  "id": "F3-1SA-038",
+  "livro": "1SA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1SA 14:12",
+  "fim": "1SA 14:12",
+  "texto": {
+   "1SA 14:12": "Os homens da guarnição disseram a Jônatas e a seu escudeiro: Subam até nós, e lhes ensinaremos uma coisa. Então Jônatas disse a seu escudeiro: Suba atrás de mim, pois o SENHOR os entregou nas mãos de Israel."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-1SA-014:012-1",
+    "ref": "1SA 14:12",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": "explicita",
+    "promitente": "homens da guarnição dos filisteus",
+    "ancora": "Subam até nós, e lhes ensinaremos uma coisa.",
+    "resumo": "Os filisteus ameaçam Jônatas e seu escudeiro caso subam até a guarnição."
+   }
+  ]
+ },
+ {
+  "id": "F3-1SA-039",
+  "livro": "1SA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1SA 15:26",
+  "fim": "1SA 15:26",
+  "texto": {
+   "1SA 15:26": "Porém Samuel disse a Saul: Não voltarei com você, pois rejeitou a palavra do SENHOR, e o SENHOR o rejeitou como rei sobre Israel."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-1SA-015:026-1",
+    "ref": "1SA 15:26",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "Samuel",
+    "ancora": "e o SENHOR o rejeitou como rei sobre Israel.",
+    "resumo": "Samuel reitera a sentença de que o SENHOR rejeitou Saul como rei sobre Israel."
+   }
+  ]
+ },
+ {
+  "id": "F3-1SA-040",
+  "livro": "1SA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1SA 16:11",
+  "fim": "1SA 16:11",
+  "texto": {
+   "1SA 16:11": "Samuel perguntou a Jessé: Acabaram-se os jovens? Ele respondeu: Ainda falta o mais novo, que está apascentando as ovelhas. Samuel disse a Jessé: Mande buscá-lo, pois não nos assentaremos até que ele venha aqui."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-1SA-016:011-1",
+    "ref": "1SA 16:11",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "explicita",
+    "promitente": "Samuel",
+    "ancora": "Mande buscá-lo, pois não nos assentaremos até que ele venha aqui.",
+    "resumo": "Samuel compromete-se diante de Jessé a não se assentar até que o filho mais novo seja trazido."
+   }
+  ]
+ },
+ {
+  "id": "F3-1SA-041",
+  "livro": "1SA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1SA 17:25",
+  "fim": "1SA 17:25",
+  "texto": {
+   "1SA 17:25": "Os homens de Israel diziam: Vocês viram aquele homem que subiu? Ele veio desafiar Israel. O rei dará grandes riquezas ao homem que o matar, lhe dará sua filha e isentará de tributos a casa de seu pai em Israel."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-1SA-017:025-3",
+    "ref": "1SA 17:25",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "familia_ou_linhagem",
+    "condicao": "explicita",
+    "promitente": "Saul",
+    "ancora": "e isentará de tributos a casa de seu pai em Israel.",
+    "resumo": "Os homens de Israel relatam que o rei Saul isentará de tributos a casa paterna de quem matar Golias."
+   }
+  ]
+ },
+ {
+  "id": "F3-1SA-042",
+  "livro": "1SA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1SA 17:32",
+  "fim": "1SA 17:32",
+  "texto": {
+   "1SA 17:32": "Davi disse a Saul: Que ninguém perca o ânimo por causa desse filisteu. Seu servo irá e lutará contra ele."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-1SA-017:032-1",
+    "ref": "1SA 17:32",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "Davi",
+    "ancora": "Seu servo irá e lutará contra ele.",
+    "resumo": "Davi se compromete perante Saul a ir enfrentar o filisteu."
+   }
+  ]
+ },
+ {
+  "id": "F3-1SA-043",
+  "livro": "1SA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1SA 17:46",
+  "fim": "1SA 17:46",
+  "texto": {
+   "1SA 17:46": "Hoje o SENHOR o entregará em minhas mãos. Eu o ferirei e lhe cortarei a cabeça. Hoje darei os cadáveres do acampamento dos filisteus às aves do céu e aos animais da terra. Toda a terra saberá que há Deus em Israel."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-1SA-017:046-3",
+    "ref": "1SA 17:46",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": "nenhuma",
+    "promitente": "Davi",
+    "ancora": "Hoje darei os cadáveres do acampamento dos filisteus às aves do céu e aos animais da terra.",
+    "resumo": "Davi declara que entregará os cadáveres do exército filisteu às aves e aos animais."
+   }
+  ]
+ }
+]

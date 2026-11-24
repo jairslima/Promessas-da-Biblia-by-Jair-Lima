@@ -1,0 +1,2049 @@
+[
+ {
+  "id": "F3-EZK-025",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 18:4",
+  "fim": "EZK 18:4",
+  "texto": {
+   "EZK 18:4": "Eis que todas as vidas me pertencem. Tanto a vida do pai como a vida do filho são minhas. A pessoa que pecar, essa morrerá."
+  },
+  "p1": [
+   {
+    "uid": "U1-EZK-018:004-1",
+    "ref": "EZK 18:4",
+    "tipo": "principio_sapiencial",
+    "origem": "indeterminada",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "A pessoa que pecar, essa morrerá",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-EZK-018:004-1",
+    "ref": "EZK 18:4",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "A pessoa que pecar, essa morrerá",
+    "resumo": "Sentença: quem peca morre."
+   }
+  ]
+ },
+ {
+  "id": "F3-EZK-026",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 18:26",
+  "fim": "EZK 18:26",
+  "texto": {
+   "EZK 18:26": "Se o justo se afastar de sua justiça e praticar iniquidade, morrerá por ela. Morrerá por causa da iniquidade que cometeu."
+  },
+  "p1": [
+   {
+    "uid": "U1-EZK-018:026-1",
+    "ref": "EZK 18:26",
+    "tipo": "advertencia",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "morrerá por ela",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-EZK-018:026-1",
+    "ref": "EZK 18:26",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": "explicita",
+    "promitente": null,
+    "ancora": "Morrerá por causa da iniquidade que cometeu.",
+    "resumo": "O justo que pratica iniquidade morrerá por ela."
+   }
+  ]
+ },
+ {
+  "id": "F3-EZK-027",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 18:27",
+  "fim": "EZK 18:28",
+  "texto": {
+   "EZK 18:27": "Mas, se o perverso se afastar da perversidade que cometeu e praticar o direito e a justiça, preservará sua vida.",
+   "EZK 18:28": "Porque refletiu e se afastou de todas as transgressões que cometeu, certamente viverá; não morrerá."
+  },
+  "p1": [
+   {
+    "uid": "U1-EZK-018:027-1",
+    "ref": "EZK 18:27-18:28",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "indeterminado",
+    "condicao": "explicita",
+    "promitente": "pai",
+    "ancora": "preservará sua vida",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-EZK-028",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 20:34",
+  "fim": "EZK 20:34",
+  "texto": {
+   "EZK 20:34": "Eu os tirarei dentre os povos e os reunirei das terras pelas quais foram espalhados, com mão forte, braço estendido e furor derramado."
+  },
+  "p1": [
+   {
+    "uid": "U1-EZK-020:034-1",
+    "ref": "EZK 20:34",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Eu os tirarei dentre os povos e os reunirei",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-EZK-029",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 20:35",
+  "fim": "EZK 20:36",
+  "texto": {
+   "EZK 20:35": "Eu os levarei ao deserto dos povos e ali entrarei em juízo com vocês face a face.",
+   "EZK 20:36": "Assim como entrei em juízo com seus pais no deserto da terra do Egito, assim entrarei em juízo com vocês, diz o Senhor SENHOR."
+  },
+  "p1": [
+   {
+    "uid": "U1-EZK-020:035-1",
+    "ref": "EZK 20:35-20:36",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "entrarei em juízo com vocês face a face",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-EZK-030",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 20:40",
+  "fim": "EZK 20:42",
+  "texto": {
+   "EZK 20:40": "Pois em meu santo monte, no alto monte de Israel, diz o Senhor SENHOR, ali toda a casa de Israel, toda ela, me servirá na terra. Ali me agradarei deles, requererei suas ofertas e as primícias de suas dádivas, com todas as suas coisas santas.",
+   "EZK 20:41": "Eu me agradarei de vocês como aroma agradável, quando os tirar dentre os povos e os reunir das terras pelas quais foram espalhados. Serei santificado em vocês diante dos olhos das nações.",
+   "EZK 20:42": "Vocês saberão que eu sou o SENHOR quando eu os levar à terra de Israel, à terra que, com a mão levantada, jurei dar a seus pais."
+  },
+  "p1": [
+   {
+    "uid": "U1-EZK-020:040-1",
+    "ref": "EZK 20:40-20:42",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "toda a casa de Israel, toda ela, me servirá na terra",
+    "resumo": "restauração e culto no monte santo"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-EZK-031",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 20:43",
+  "fim": "EZK 20:44",
+  "texto": {
+   "EZK 20:43": "Ali vocês se lembrarão de seus caminhos e de todas as ações com que se contaminaram, e sentirão repulsa de si mesmos por todas as maldades que cometeram.",
+   "EZK 20:44": "Vocês saberão que eu sou o SENHOR quando eu agir com vocês por causa do meu nome, e não segundo seus maus caminhos nem segundo suas ações corruptas, casa de Israel, diz o Senhor SENHOR."
+  },
+  "p1": [
+   {
+    "uid": "U1-EZK-020:043-1",
+    "ref": "EZK 20:43-20:44",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Vocês saberão que eu sou o SENHOR quando eu agir com vocês por causa do meu nome",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-EZK-032",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 21:14",
+  "fim": "EZK 21:17",
+  "texto": {
+   "EZK 21:14": "Portanto, filho do homem, profetize e bata uma mão contra a outra. Que a espada golpeie duas vezes, até três vezes. É a espada dos mortos, a espada da grande matança, que os cerca por todos os lados.",
+   "EZK 21:15": "Para que os corações desfaleçam e muitos tropecem, coloquei a ponta da espada contra todas as portas deles. Ah, ela foi feita para reluzir e está preparada para a matança.",
+   "EZK 21:16": "Espada, reúna suas forças. Volte-se para a direita, prepare-se e volte-se para a esquerda, para onde quer que seu corte seja dirigido.",
+   "EZK 21:17": "Eu também baterei uma mão contra a outra e farei descansar minha indignação. Eu, o SENHOR, falei."
+  },
+  "p1": [
+   {
+    "uid": "U1-EZK-021:014-1",
+    "ref": "EZK 21:14-21:17",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "farei descansar minha indignação",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-EZK-033",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 21:19",
+  "fim": "EZK 21:23",
+  "texto": {
+   "EZK 21:19": "Filho do homem, trace dois caminhos pelos quais possa vir a espada do rei da Babilônia. Ambos partirão da mesma terra. Faça um marco no começo do caminho que leva a cada cidade.",
+   "EZK 21:20": "Trace um caminho para a espada chegar a Rabá dos filhos de Amom e outro para chegar a Judá, em Jerusalém fortificada.",
+   "EZK 21:21": "Pois o rei da Babilônia parará na encruzilhada, no começo dos dois caminhos, para recorrer à adivinhação. Sacudirá as flechas, consultará os ídolos domésticos e examinará o fígado.",
+   "EZK 21:22": "Em sua mão direita estará a adivinhação que aponta para Jerusalém, para ordenar que tragam aríetes, abrir a boca para a matança, levantar a voz em grito de guerra, colocar aríetes contra as portas, levantar um aterro e construir uma rampa de cerco.",
+   "EZK 21:23": "Aos olhos daqueles que lhes fizeram juramentos, isso parecerá uma adivinhação falsa. Contudo, ele os fará lembrar de sua culpa e os prenderá."
+  },
+  "p1": [
+   {
+    "uid": "U1-EZK-021:019-1",
+    "ref": "EZK 21:19-21:23",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "ele os fará lembrar de sua culpa e os prenderá",
+    "resumo": "o rei da Babilônia atacará Jerusalém"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-EZK-034",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 21:28",
+  "fim": "EZK 21:32",
+  "texto": {
+   "EZK 21:28": "Filho do homem, profetize e diga: Assim diz o Senhor SENHOR a respeito dos filhos de Amom e de seu desprezo: A espada, a espada está desembainhada para a matança, polida para consumir e reluzir.",
+   "EZK 21:29": "Enquanto têm para você visões falsas e adivinhações mentirosas, ela será colocada sobre o pescoço dos perversos mortos, cujo dia chegou no tempo do castigo final.",
+   "EZK 21:30": "Devolva a espada à bainha. Eu o julgarei no lugar em que você foi criado, na terra de sua origem.",
+   "EZK 21:31": "Derramarei sobre você minha indignação, soprarei contra você o fogo do meu furor e o entregarei nas mãos de homens brutais, habilidosos em destruir.",
+   "EZK 21:32": "Você servirá de alimento ao fogo. Seu sangue ficará no meio da terra, e você não será mais lembrado, pois eu, o SENHOR, falei."
+  },
+  "p1": [
+   {
+    "uid": "U1-EZK-021:028-1",
+    "ref": "EZK 21:28-21:32",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Eu o julgarei no lugar em que você foi criado",
+    "resumo": "juízo contra Amom"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-EZK-035",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 22:14",
+  "fim": "EZK 22:16",
+  "texto": {
+   "EZK 22:14": "Seu coração resistirá e suas mãos permanecerão fortes nos dias em que eu tratar com você? Eu, o SENHOR, falei e farei.",
+   "EZK 22:15": "Eu a dispersarei entre as nações, a espalharei pelas terras e consumirei de você sua impureza.",
+   "EZK 22:16": "Você será profanada em si mesma diante dos olhos das nações e saberá que eu sou o SENHOR."
+  },
+  "p1": [
+   {
+    "uid": "U1-EZK-022:014-1",
+    "ref": "EZK 22:14-22:16",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Eu a dispersarei entre as nações",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-EZK-036",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 24:9",
+  "fim": "EZK 24:9",
+  "texto": {
+   "EZK 24:9": "Portanto, assim diz o Senhor SENHOR: Ai da cidade sanguinária! Eu também farei uma grande fogueira."
+  },
+  "p1": [
+   {
+    "uid": "U1-EZK-024:009-1",
+    "ref": "EZK 24:9",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Eu também farei uma grande fogueira",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-EZK-037",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 24:13",
+  "fim": "EZK 24:14",
+  "texto": {
+   "EZK 24:13": "Em sua impureza há perversidade. Eu quis purificá-la, mas você não se deixou purificar. Não será purificada de sua impureza até que eu faça descansar meu furor sobre você.",
+   "EZK 24:14": "Eu, o SENHOR, falei. Isso virá, e eu o farei. Não voltarei atrás, não pouparei nem mudarei de propósito. Eles a julgarão segundo seus caminhos e suas ações, diz o Senhor SENHOR."
+  },
+  "p1": [
+   {
+    "uid": "U1-EZK-024:013-1",
+    "ref": "EZK 24:13-24:14",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Não será purificada de sua impureza até que eu faça descansar meu furor sobre você",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-EZK-038",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 25:7",
+  "fim": "EZK 25:7",
+  "texto": {
+   "EZK 25:7": "estenderei minha mão contra você e o entregarei como saque às nações. Eu o eliminarei dentre os povos, farei desaparecer dentre as terras e o destruirei. Então você saberá que eu sou o SENHOR."
+  },
+  "p1": [
+   {
+    "uid": "U1-EZK-025:007-1",
+    "ref": "EZK 25:7",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "estenderei minha mão contra você",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-EZK-039",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 26:13",
+  "fim": "EZK 26:14",
+  "texto": {
+   "EZK 26:13": "Farei cessar o som de suas canções, e o som de suas harpas não será mais ouvido.",
+   "EZK 26:14": "Transformarei você em rocha lisa. Servirá de lugar para estender redes e nunca mais será reconstruída, pois eu, o SENHOR, falei, diz o Senhor SENHOR."
+  },
+  "p1": [
+   {
+    "uid": "U1-EZK-026:013-1",
+    "ref": "EZK 26:13-26:14",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Farei cessar o som de suas canções",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-EZK-040",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 26:19",
+  "fim": "EZK 26:21",
+  "texto": {
+   "EZK 26:19": "Pois assim diz o Senhor SENHOR: Quando eu fizer de você uma cidade desolada, como as cidades que não são habitadas, quando fizer o abismo subir contra você e as muitas águas a cobrirem,",
+   "EZK 26:20": "farei você descer com os que descem à cova, ao povo antigo. Eu a farei habitar nas regiões mais baixas da terra, em lugares antigos e desolados, com os que descem à cova, para que não volte a ser habitada. Então estabelecerei glória na terra dos viventes.",
+   "EZK 26:21": "Farei de você motivo de espanto, e deixará de existir. Ainda que a procurem, nunca mais será encontrada, diz o Senhor SENHOR."
+  },
+  "p1": [
+   {
+    "uid": "U1-EZK-026:019-1",
+    "ref": "EZK 26:19-26:21",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "farei você descer com os que descem à cova",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-EZK-041",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 27:27",
+  "fim": "EZK 27:36",
+  "texto": {
+   "EZK 27:27": "Suas riquezas, mercadorias, comércio, marinheiros, pilotos, reparadores de fendas, negociantes, todos os soldados que estão em você e toda a multidão que está em seu meio cairão no coração dos mares no dia de sua queda.",
+   "EZK 27:28": "Ao som do grito de seus pilotos, as praias tremerão.",
+   "EZK 27:29": "Todos os que manejam remos, os marinheiros e todos os pilotos do mar descerão de seus navios e ficarão em terra.",
+   "EZK 27:30": "Levantarão a voz por sua causa e gritarão amargamente. Lançarão pó sobre a cabeça e se revolverão em cinzas.",
+   "EZK 27:31": "Rasparão completamente a cabeça por sua causa, vestirão pano de saco e chorarão por você com amargura de alma e amarga lamentação.",
+   "EZK 27:32": "Em seu pranto, levantarão uma lamentação sobre você e dirão: Quem era como Tiro, agora silenciada no meio do mar?",
+   "EZK 27:33": "Quando suas mercadorias saíam pelos mares, você satisfazia muitos povos. Com a abundância de suas riquezas e de seu comércio, enriquecia os reis da terra.",
+   "EZK 27:34": "Agora você foi despedaçada pelos mares, nas profundezas das águas. Seu comércio e toda a multidão que estava em seu meio afundaram com você.",
+   "EZK 27:35": "Todos os moradores das ilhas estão horrorizados por sua causa. Seus reis tremem intensamente e seus rostos ficam perturbados.",
+   "EZK 27:36": "Os comerciantes entre os povos assobiam diante de você. Você se tornou motivo de espanto e nunca mais existirá."
+  },
+  "p1": [
+   {
+    "uid": "U1-EZK-027:027-1",
+    "ref": "EZK 27:27-27:36",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "cairão no coração dos mares no dia de sua queda",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-EZK-042",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 28:18",
+  "fim": "EZK 28:19",
+  "texto": {
+   "EZK 28:18": "Pela abundância de suas culpas e pela injustiça de seu comércio, você profanou seus santuários. Fiz sair fogo do meio de você, e ele o consumiu. Transformei-o em cinzas sobre a terra diante dos olhos de todos os que o viam.",
+   "EZK 28:19": "Todos os que o conhecem entre os povos estão horrorizados por sua causa. Você se tornou motivo de espanto e nunca mais existirá."
+  },
+  "p1": [
+   {
+    "uid": "U1-EZK-028:018-1",
+    "ref": "EZK 28:18-28:19",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Fiz sair fogo do meio de você",
+    "resumo": "juízo sobre o rei de Tiro, narrado como já feito"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-EZK-043",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 28:25",
+  "fim": "EZK 28:26",
+  "texto": {
+   "EZK 28:25": "Assim diz o Senhor SENHOR: Quando eu reunir a casa de Israel dentre os povos pelos quais foi espalhada e me santificar nela diante dos olhos das nações, então habitará em sua terra, que dei a meu servo Jacó.",
+   "EZK 28:26": "Habitarão nela em segurança, construirão casas e plantarão vinhas. Habitarão em segurança quando eu executar juízos contra todos os vizinhos que os desprezam. Então saberão que eu sou o SENHOR, seu Deus."
+  },
+  "p1": [
+   {
+    "uid": "U1-EZK-028:025-1",
+    "ref": "EZK 28:25-28:26",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "explicita",
+    "promitente": "pai",
+    "ancora": "então habitará em sua terra, que dei a meu servo Jacó",
+    "resumo": "Israel reunido habitará em segurança"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-EZK-044",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 29:3",
+  "fim": "EZK 29:5",
+  "texto": {
+   "EZK 29:3": "Fale e diga: Assim diz o Senhor SENHOR: Estou contra você, Faraó, rei do Egito, grande monstro que se deita no meio dos canais do Nilo e diz: Meu Nilo me pertence, e eu o fiz para mim.",
+   "EZK 29:4": "Colocarei ganchos em suas mandíbulas e farei os peixes de seus canais se prenderem a suas escamas. Eu o tirarei do meio de seus canais, com todos os peixes presos a suas escamas.",
+   "EZK 29:5": "Abandonarei você e todos os peixes de seus canais no deserto. Você cairá em campo aberto, sem ser recolhido nem ajuntado. Eu o dei como alimento aos animais da terra e às aves do céu."
+  },
+  "p1": [
+   {
+    "uid": "U1-EZK-029:003-1",
+    "ref": "EZK 29:3-29:5",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Colocarei ganchos em suas mandíbulas",
+    "resumo": "juízo sobre Faraó"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-EZK-045",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 29:13",
+  "fim": "EZK 29:15",
+  "texto": {
+   "EZK 29:13": "Contudo, assim diz o Senhor SENHOR: Ao fim de quarenta anos, reunirei os egípcios dentre os povos pelos quais foram espalhados.",
+   "EZK 29:14": "Restaurarei os exilados do Egito e os levarei de volta à terra de Patros, sua terra de origem. Ali serão um reino humilde.",
+   "EZK 29:15": "Será o mais humilde dos reinos e nunca mais se elevará sobre as nações. Eu os diminuirei, para que não dominem as nações."
+  },
+  "p1": [
+   {
+    "uid": "U1-EZK-029:013-1",
+    "ref": "EZK 29:13-29:15",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "reunirei os egípcios dentre os povos",
+    "resumo": "restauração do Egito como reino humilde"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-EZK-046",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 29:15",
+  "fim": "EZK 29:16",
+  "texto": {
+   "EZK 29:15": "Será o mais humilde dos reinos e nunca mais se elevará sobre as nações. Eu os diminuirei, para que não dominem as nações.",
+   "EZK 29:16": "O Egito nunca mais será motivo de confiança para a casa de Israel, mas fará sua culpa ser lembrada quando ela se voltar para os egípcios. Então saberão que eu sou o Senhor SENHOR."
+  },
+  "p1": [
+   {
+    "uid": "U1-EZK-029:016-1",
+    "ref": "EZK 29:16",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "O Egito nunca mais será motivo de confiança",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-EZK-029:015-1",
+    "ref": "EZK 29:15-29:16",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Será o mais humilde dos reinos e nunca mais se elevará sobre as nações",
+    "resumo": "Deus promete que o Egito restaurado será humilde e não será mais motivo de confiança para Israel."
+   }
+  ]
+ },
+ {
+  "id": "F3-EZK-047",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 29:19",
+  "fim": "EZK 29:20",
+  "texto": {
+   "EZK 29:19": "Portanto, assim diz o Senhor SENHOR: Entregarei a terra do Egito a Nabucodonosor, rei da Babilônia. Ele levará sua riqueza, tomará seu despojo e saqueará sua presa. Esse será o pagamento para seu exército.",
+   "EZK 29:20": "Dei-lhe a terra do Egito como pagamento pelo trabalho que realizou, porque trabalharam para mim, diz o Senhor SENHOR."
+  },
+  "p1": [
+   {
+    "uid": "U1-EZK-029:019-1",
+    "ref": "EZK 29:19-29:20",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Entregarei a terra do Egito a Nabucodonosor",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-EZK-029:019-1",
+    "ref": "EZK 29:19-29:20",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Entregarei a terra do Egito a Nabucodonosor, rei da Babilônia",
+    "resumo": "Deus promete entregar a terra do Egito a Nabucodonosor e a seu exército como pagamento."
+   }
+  ]
+ },
+ {
+  "id": "F3-EZK-048",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 30:4",
+  "fim": "EZK 30:9",
+  "texto": {
+   "EZK 30:4": "A espada virá contra o Egito, e haverá angústia em Cuxe quando os mortos caírem no Egito, sua riqueza for levada e seus fundamentos forem destruídos.",
+   "EZK 30:5": "Cuxe, Pute, Lude, toda a população misturada, Cube e os filhos da terra da aliança cairão com eles à espada.",
+   "EZK 30:6": "Assim diz o SENHOR: Cairão os que sustentam o Egito, e o orgulho de sua força descerá. Desde Migdol até Sevene, cairão à espada dentro dele, diz o Senhor SENHOR.",
+   "EZK 30:7": "Serão desolados no meio de terras desoladas, e suas cidades ficarão no meio de cidades devastadas.",
+   "EZK 30:8": "Saberão que eu sou o SENHOR quando eu puser fogo no Egito e todos os seus aliados forem destruídos.",
+   "EZK 30:9": "Naquele dia, mensageiros sairão de diante de mim em navios para aterrorizar Cuxe, que vive despreocupada. Haverá entre eles angústia como no dia do Egito, pois isso certamente vem."
+  },
+  "p1": [
+   {
+    "uid": "U1-EZK-030:004-1",
+    "ref": "EZK 30:4-30:8",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "A espada virá contra o Egito",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-EZK-030:006-1",
+    "ref": "EZK 30:6-30:9",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Cairão os que sustentam o Egito",
+    "resumo": "Queda e desolação do Egito e de seus aliados, com fogo e terror em Cuxe."
+   }
+  ]
+ },
+ {
+  "id": "F3-EZK-049",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 30:22",
+  "fim": "EZK 30:26",
+  "texto": {
+   "EZK 30:22": "Portanto, assim diz o Senhor SENHOR: Estou contra Faraó, rei do Egito, e quebrarei seus dois braços, tanto o forte como o já quebrado. Farei a espada cair de sua mão.",
+   "EZK 30:23": "Dispersarei os egípcios entre as nações e os espalharei pelas terras.",
+   "EZK 30:24": "Fortalecerei os braços do rei da Babilônia e colocarei minha espada em sua mão. Quebrarei os braços de Faraó, e ele gemerá diante do rei como alguém mortalmente ferido.",
+   "EZK 30:25": "Fortalecerei os braços do rei da Babilônia, mas os braços de Faraó cairão. Saberão que eu sou o SENHOR quando eu colocar minha espada na mão do rei da Babilônia e ele a estender contra a terra do Egito.",
+   "EZK 30:26": "Dispersarei os egípcios entre as nações e os espalharei pelas terras. Então saberão que eu sou o SENHOR."
+  },
+  "p1": [
+   {
+    "uid": "U1-EZK-030:022-1",
+    "ref": "EZK 30:22-30:26",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "quebrarei seus dois braços",
+    "resumo": "Faraó quebrado, Babilônia fortalecida"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-EZK-030:022-1",
+    "ref": "EZK 30:22-30:26",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "quebrarei seus dois braços",
+    "resumo": "Deus julgará Faraó e o Egito, quebrando seu poder e dispersando os egípcios."
+   },
+   {
+    "uid": "U2-EZK-030:024-1",
+    "ref": "EZK 30:24-30:25",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Fortalecerei os braços do rei da Babilônia",
+    "resumo": "Deus fortalecerá o rei da Babilônia e lhe dará a espada contra o Egito."
+   }
+  ]
+ },
+ {
+  "id": "F3-EZK-050",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 31:10",
+  "fim": "EZK 31:18",
+  "texto": {
+   "EZK 31:10": "Portanto, assim diz o Senhor SENHOR: Visto que se elevou em altura, levantou seu topo entre os ramos espessos e seu coração se exaltou por causa de sua altura,",
+   "EZK 31:11": "eu o entreguei nas mãos do poderoso das nações, que certamente o tratou segundo sua perversidade. Eu o expulsei.",
+   "EZK 31:12": "Estrangeiros, os mais violentos dentre as nações, cortaram-no e o abandonaram. Seus galhos caíram sobre os montes e em todos os vales, e seus ramos foram quebrados junto a todos os cursos de água da terra. Todos os povos da terra saíram de sua sombra e o abandonaram.",
+   "EZK 31:13": "Todas as aves do céu pousaram sobre seu tronco caído, e todos os animais do campo ficaram sobre seus ramos.",
+   "EZK 31:14": "Isso aconteceu para que nenhuma árvore junto às águas se exalte por sua altura, nem levante o topo entre os ramos espessos, e para que nenhuma das que bebem água confie em si por causa de sua grandeza. Todas estão entregues à morte, às regiões inferiores da terra, no meio dos seres humanos, com os que descem à cova.",
+   "EZK 31:15": "Assim diz o Senhor SENHOR: No dia em que ele desceu ao mundo dos mortos, fiz haver luto. Por causa dele, cobri o abismo, detive seus rios e interrompi as muitas águas. Vesti o Líbano de escuridão por causa dele, e todas as árvores do campo desfaleceram.",
+   "EZK 31:16": "Fiz as nações tremerem com o som de sua queda, quando o fiz descer ao mundo dos mortos com os que descem à cova. Nas regiões inferiores da terra, todas as árvores do Éden, as melhores e mais escolhidas do Líbano, todas as que bebiam água, foram consoladas.",
+   "EZK 31:17": "Também elas desceram com ele ao mundo dos mortos, aos que foram mortos à espada, junto com seus aliados, que habitavam à sua sombra entre as nações.",
+   "EZK 31:18": "A qual das árvores do Éden você se compara em glória e grandeza? Você será derrubado com as árvores do Éden às regiões inferiores da terra. Ficará deitado no meio dos incircuncisos, com os mortos à espada. Este é Faraó e toda a sua multidão, diz o Senhor SENHOR."
+  },
+  "p1": [
+   {
+    "uid": "U1-EZK-031:010-1",
+    "ref": "EZK 31:10-31:18",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Você será derrubado com as árvores do Éden",
+    "resumo": "queda do Faraó comparada à Assíria"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-EZK-031:018-1",
+    "ref": "EZK 31:18",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "Você será derrubado com as árvores do Éden às regiões inferiores da terra.",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-EZK-051",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 32:28",
+  "fim": "EZK 32:28",
+  "texto": {
+   "EZK 32:28": "Você também será quebrado no meio dos incircuncisos e ficará deitado com os mortos à espada."
+  },
+  "p1": [
+   {
+    "uid": "U1-EZK-032:028-1",
+    "ref": "EZK 32:28",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Você também será quebrado no meio dos incircuncisos",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-EZK-032:028-1",
+    "ref": "EZK 32:28",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": null,
+    "ancora": "Você também será quebrado no meio dos incircuncisos",
+    "resumo": "Faraó será quebrado e ficará entre os mortos à espada."
+   }
+  ]
+ },
+ {
+  "id": "F3-EZK-052",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 32:31",
+  "fim": "EZK 32:32",
+  "texto": {
+   "EZK 32:31": "Faraó os verá e será consolado a respeito de toda a sua multidão. Faraó e todo o seu exército serão mortos à espada, diz o Senhor SENHOR.",
+   "EZK 32:32": "Pois eu permiti que ele espalhasse terror na terra dos viventes. Agora Faraó e toda a sua multidão ficarão deitados no meio dos incircuncisos, com os mortos à espada, diz o Senhor SENHOR."
+  },
+  "p1": [
+   {
+    "uid": "U1-EZK-032:031-1",
+    "ref": "EZK 32:31-32:32",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Faraó e todo o seu exército serão mortos à espada",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-EZK-053",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 33:11",
+  "fim": "EZK 33:11",
+  "texto": {
+   "EZK 33:11": "Diga-lhes: Tão certo como eu vivo, diz o Senhor SENHOR, não tenho prazer na morte do perverso, mas em que ele se afaste de seu caminho e viva. Afastem-se, afastem-se de seus maus caminhos. Por que vocês morreriam, casa de Israel?"
+  },
+  "p1": [
+   {
+    "uid": "U1-EZK-033:011-1",
+    "ref": "EZK 33:11",
+    "tipo": "declaracao_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": null,
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "não tenho prazer na morte do perverso",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-EZK-033:011-1",
+    "ref": "EZK 33:11",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "explicita",
+    "promitente": null,
+    "ancora": "não tenho prazer na morte do perverso",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-EZK-054",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 33:18",
+  "fim": "EZK 33:19",
+  "texto": {
+   "EZK 33:18": "Quando o justo se afastar de sua justiça e praticar iniquidade, morrerá por causa dela.",
+   "EZK 33:19": "Quando o perverso se afastar de sua perversidade e praticar o direito e a justiça, viverá por causa deles."
+  },
+  "p1": [
+   {
+    "uid": "U1-EZK-033:018-1",
+    "ref": "EZK 33:18-33:19",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "indeterminado",
+    "condicao": "explicita",
+    "promitente": "pai",
+    "ancora": "viverá por causa deles",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-EZK-055",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 34:10",
+  "fim": "EZK 34:16",
+  "texto": {
+   "EZK 34:10": "Assim diz o Senhor SENHOR: Eu estou contra os pastores. Exigirei deles as minhas ovelhas e farei que deixem de apascentar o rebanho. Os pastores não apascentarão mais a si mesmos. Livrarei minhas ovelhas da boca deles, e elas já não lhes servirão de alimento.",
+   "EZK 34:11": "Pois assim diz o Senhor SENHOR: Eu mesmo procurarei minhas ovelhas e as buscarei.",
+   "EZK 34:12": "Como o pastor busca o seu rebanho no dia em que se encontra entre suas ovelhas dispersas, assim buscarei minhas ovelhas. Eu as livrarei de todos os lugares por onde foram dispersas no dia de nuvens e escuridão.",
+   "EZK 34:13": "Eu as tirarei dentre os povos, reunirei dentre as terras e as levarei para sua própria terra. Eu as apascentarei nos montes de Israel, junto aos cursos de água e em todos os lugares habitados da terra.",
+   "EZK 34:14": "Eu as apascentarei em bons pastos, e seu lugar de repouso estará nos altos montes de Israel. Ali repousarão em boa pastagem e se alimentarão em pastos férteis nos montes de Israel.",
+   "EZK 34:15": "Eu mesmo apascentarei minhas ovelhas e as farei repousar, diz o Senhor SENHOR.",
+   "EZK 34:16": "Buscarei a perdida, trarei de volta a desgarrada, tratarei a ferida e fortalecerei a fraca. Porém, destruirei a gorda e a forte. Eu as apascentarei com justiça."
+  },
+  "p1": [
+   {
+    "uid": "U1-EZK-034:010-1",
+    "ref": "EZK 34:10",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Exigirei deles as minhas ovelhas",
+    "resumo": "juízo sobre os pastores"
+   },
+   {
+    "uid": "U1-EZK-034:010-2",
+    "ref": "EZK 34:10",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Livrarei minhas ovelhas da boca deles",
+    "resumo": "livramento das ovelhas"
+   },
+   {
+    "uid": "U1-EZK-034:011-1",
+    "ref": "EZK 34:11-34:16",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Eu mesmo procurarei minhas ovelhas e as buscarei",
+    "resumo": "Deus como pastor reúne, apascenta e cura"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-EZK-034:010-1",
+    "ref": "EZK 34:10",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Eu estou contra os pastores. Exigirei deles as minhas ovelhas e farei que deixem de apascentar o rebanho. Os pastores não apascentarão mais a si mesmos.",
+    "resumo": "Deus se opõe aos pastores e lhes tira o rebanho."
+   },
+   {
+    "uid": "U2-EZK-034:010-2",
+    "ref": "EZK 34:10-34:15",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Livrarei minhas ovelhas da boca deles, e elas já não lhes servirão de alimento.",
+    "resumo": "Deus livra, reúne e apascenta as suas ovelhas."
+   }
+  ]
+ },
+ {
+  "id": "F3-EZK-056",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 35:10",
+  "fim": "EZK 35:15",
+  "texto": {
+   "EZK 35:10": "Porque você disse: As duas nações e as duas terras serão minhas, e nós as possuiremos, embora o SENHOR estivesse ali,",
+   "EZK 35:11": "por isso, tão certo como eu vivo, diz o Senhor SENHOR, tratarei você conforme a ira e a inveja que demonstrou em seu ódio contra elas. Eu me farei conhecido entre elas quando julgar você.",
+   "EZK 35:12": "Você saberá que eu, o SENHOR, ouvi todas as blasfêmias que pronunciou contra os montes de Israel, dizendo: Eles foram devastados e nos foram entregues para que os devoremos.",
+   "EZK 35:13": "Vocês se engrandeceram contra mim com sua boca e multiplicaram suas palavras contra mim. Eu as ouvi.",
+   "EZK 35:14": "Assim diz o Senhor SENHOR: Quando toda a terra se alegrar, farei de você uma desolação.",
+   "EZK 35:15": "Como você se alegrou quando a herança da casa de Israel foi devastada, assim farei com você. Monte Seir e todo o Edom se tornarão uma desolação. Então saberão que eu sou o SENHOR."
+  },
+  "p1": [
+   {
+    "uid": "U1-EZK-035:011-1",
+    "ref": "EZK 35:11-35:15",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "tratarei você conforme a ira e a inveja que demonstrou",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-EZK-035:010-1",
+    "ref": "EZK 35:10-35:11",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "tratarei você conforme a ira e a inveja que demonstrou",
+    "resumo": "Deus tratará Edom conforme sua ira e inveja contra as duas nações."
+   },
+   {
+    "uid": "U2-EZK-035:014-1",
+    "ref": "EZK 35:14-35:15",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "farei de você uma desolação",
+    "resumo": "Deus fará de Seir e de todo o Edom uma desolação, como se alegraram pela devastação de Israel."
+   }
+  ]
+ },
+ {
+  "id": "F3-EZK-057",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 37:19",
+  "fim": "EZK 37:22",
+  "texto": {
+   "EZK 37:19": "diga-lhes: Assim diz o Senhor SENHOR: Pegarei a madeira de José, que está na mão de Efraim, e as tribos de Israel associadas a ele. Eu a juntarei à madeira de Judá e farei delas uma só madeira. Elas serão uma só em minha mão.",
+   "EZK 37:20": "Segure diante dos olhos deles as madeiras nas quais você escreveu.",
+   "EZK 37:21": "Diga-lhes: Assim diz o Senhor SENHOR: Tirarei os filhos de Israel dentre as nações para onde foram, reunirei todos ao redor e os levarei para sua própria terra.",
+   "EZK 37:22": "Farei deles uma só nação na terra, nos montes de Israel, e um só rei será rei sobre todos eles. Nunca mais serão duas nações nem voltarão a ser divididos em dois reinos."
+  },
+  "p1": [
+   {
+    "uid": "U1-EZK-037:019-1",
+    "ref": "EZK 37:19-37:22",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Farei deles uma só nação na terra",
+    "resumo": "unificação de Judá e José, um só rei"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-EZK-058",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 37:23",
+  "fim": "EZK 37:23",
+  "texto": {
+   "EZK 37:23": "Nunca mais se contaminarão com seus ídolos, suas abominações e todas as suas transgressões. Eu os salvarei de todos os lugares onde pecaram e os purificarei. Eles serão meu povo, e eu serei seu Deus."
+  },
+  "p1": [
+   {
+    "uid": "U1-EZK-037:023-1",
+    "ref": "EZK 37:23",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Eles serão meu povo, e eu serei seu Deus",
+    "resumo": "purificação e aliança"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-EZK-059",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 38:3",
+  "fim": "EZK 38:9",
+  "texto": {
+   "EZK 38:3": "Diga: Assim diz o Senhor SENHOR: Eis que estou contra você, Gogue, príncipe-chefe de Meseque e Tubal.",
+   "EZK 38:4": "Farei que você volte, colocarei ganchos em suas queixadas e o farei sair com todo o seu exército, cavalos e cavaleiros, todos equipados completamente, uma grande multidão com escudos grandes e pequenos, todos empunhando espadas.",
+   "EZK 38:5": "Com eles estarão a Pérsia, Cuxe e Pute, todos com escudo e capacete;",
+   "EZK 38:6": "Gômer e todas as suas tropas, a casa de Togarma, dos confins do norte, com todas as suas tropas, e muitos povos com você.",
+   "EZK 38:7": "Prepare-se e esteja pronto, você e todas as multidões reunidas ao seu redor. Seja o comandante delas.",
+   "EZK 38:8": "Depois de muitos dias, você será convocado. Nos últimos anos, virá à terra restaurada da espada, cujo povo foi reunido dentre muitas nações sobre os montes de Israel, que por muito tempo estiveram em ruínas. Esse povo foi tirado dentre as nações, e todos habitarão em segurança.",
+   "EZK 38:9": "Você subirá e virá como uma tempestade. Será como uma nuvem que cobre a terra, você, todas as suas tropas e muitos povos com você."
+  },
+  "p1": [
+   {
+    "uid": "U1-EZK-038:003-1",
+    "ref": "EZK 38:3-38:9",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Farei que você volte, colocarei ganchos em suas queixadas",
+    "resumo": "Deus conduz Gogue contra Israel"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-EZK-060",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 38:14",
+  "fim": "EZK 38:16",
+  "texto": {
+   "EZK 38:14": "Portanto, filho do homem, profetize e diga a Gogue: Assim diz o Senhor SENHOR: Naquele dia, quando meu povo Israel habitar em segurança, você não o saberá?",
+   "EZK 38:15": "Você virá de seu lugar, dos confins do norte, acompanhado de muitos povos, todos montados em cavalos, uma grande multidão e um exército poderoso.",
+   "EZK 38:16": "Subirá contra meu povo Israel como uma nuvem que cobre a terra. Isso acontecerá nos últimos dias. Eu o trarei contra minha terra, para que as nações me conheçam quando eu me santificar por meio de você diante dos olhos delas, ó Gogue."
+  },
+  "p1": [
+   {
+    "uid": "U1-EZK-038:014-1",
+    "ref": "EZK 38:14-38:16",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Eu o trarei contra minha terra, para que as nações me conheçam",
+    "resumo": "santificação do nome de Deus por meio de Gogue"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-EZK-038:014-1",
+    "ref": "EZK 38:14-38:16",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Eu o trarei contra minha terra",
+    "resumo": "Deus diz que trará Gogue contra Israel nos últimos dias para se santificar diante das nações."
+   }
+  ]
+ },
+ {
+  "id": "F3-EZK-061",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 39:27",
+  "fim": "EZK 39:29",
+  "texto": {
+   "EZK 39:27": "Quando eu os trouxer de volta dentre os povos e os reunir das terras de seus inimigos, serei santificado neles diante dos olhos de muitas nações.",
+   "EZK 39:28": "Saberão que eu sou o SENHOR, seu Deus, quando virem que os enviei ao exílio entre as nações e depois os reuni em sua própria terra, sem deixar nenhum deles para trás.",
+   "EZK 39:29": "Nunca mais esconderei deles meu rosto, quando eu derramar meu Espírito sobre a casa de Israel, diz o Senhor SENHOR."
+  },
+  "p1": [
+   {
+    "uid": "U1-EZK-039:027-1",
+    "ref": "EZK 39:27-39:29",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Nunca mais esconderei deles meu rosto, quando eu derramar meu Espírito sobre a casa de Israel",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-EZK-062",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 43:7",
+  "fim": "EZK 43:9",
+  "texto": {
+   "EZK 43:7": "Ele me disse: Filho do homem, este é o lugar do meu trono e o lugar onde repousam as plantas de meus pés. Aqui habitarei no meio dos filhos de Israel para sempre. A casa de Israel nunca mais contaminará meu santo nome, nem eles nem seus reis, com sua prostituição e com os cadáveres de seus reis em seus lugares altos.",
+   "EZK 43:8": "Eles colocaram sua soleira junto à minha soleira e seu batente junto ao meu batente, de modo que havia apenas uma parede entre mim e eles. Contaminaram meu santo nome com as abominações que praticaram, por isso os consumi em minha ira.",
+   "EZK 43:9": "Agora afastarão de mim sua prostituição e os cadáveres de seus reis, e habitarei no meio deles para sempre."
+  },
+  "p1": [
+   {
+    "uid": "U1-EZK-043:007-1",
+    "ref": "EZK 43:7",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Aqui habitarei no meio dos filhos de Israel para sempre",
+    "resumo": "habitação perpétua; Israel não contaminará mais o nome"
+   },
+   {
+    "uid": "U1-EZK-043:009-1",
+    "ref": "EZK 43:9",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "explicita",
+    "promitente": "pai",
+    "ancora": "habitarei no meio deles para sempre",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-EZK-043:007-1",
+    "ref": "EZK 43:7-43:9",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Aqui habitarei no meio dos filhos de Israel para sempre",
+    "resumo": "Deus habitará para sempre no meio de Israel, após afastarem a idolatria."
+   }
+  ]
+ },
+ {
+  "id": "F3-EZK-063",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 44:10",
+  "fim": "EZK 44:13",
+  "texto": {
+   "EZK 44:10": "Os levitas que se afastaram de mim quando Israel se desviou, seguindo seus ídolos, carregarão sua própria maldade.",
+   "EZK 44:11": "Contudo, serão ministros em meu santuário, encarregados das portas do templo e de seu serviço. Degolarão o holocausto e o sacrifício para o povo e estarão diante dele para servi-lo.",
+   "EZK 44:12": "Porque serviram o povo diante de seus ídolos e fizeram a casa de Israel tropeçar na maldade, levantei minha mão contra eles, diz o Senhor SENHOR, e carregarão sua própria maldade.",
+   "EZK 44:13": "Não se aproximarão de mim para me servir como sacerdotes nem se aproximarão de nenhuma de minhas coisas santas, das coisas santíssimas. Carregarão sua vergonha e as abominações que praticaram."
+  },
+  "p1": [
+   {
+    "uid": "U1-EZK-044:010-1",
+    "ref": "EZK 44:10-44:13",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "carregarão sua própria maldade",
+    "resumo": "levitas desviados excluídos do sacerdócio"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-EZK-044:010-1",
+    "ref": "EZK 44:10",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Os levitas que se afastaram de mim quando Israel se desviou, seguindo seus ídolos, carregarão sua própria maldade.",
+    "resumo": "Os levitas infiéis carregarão sua maldade."
+   },
+   {
+    "uid": "U2-EZK-044:012-1",
+    "ref": "EZK 44:12",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "levantei minha mão contra eles, diz o Senhor SENHOR, e carregarão sua própria maldade",
+    "resumo": "Deus jurou que os levitas infiéis carregarão sua maldade."
+   }
+  ]
+ },
+ {
+  "id": "F3-EZK-064",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 46:16",
+  "fim": "EZK 46:18",
+  "texto": {
+   "EZK 46:16": "Assim diz o Senhor SENHOR: Se o príncipe der parte de sua herança a um de seus filhos, ela pertencerá a seus filhos como propriedade hereditária.",
+   "EZK 46:17": "Porém, se der parte de sua herança a um de seus servos, ela pertencerá ao servo até o ano da liberdade. Então voltará ao príncipe. Somente seus filhos conservarão permanentemente a herança dele.",
+   "EZK 46:18": "O príncipe não tomará nada da herança do povo, expulsando-o de suas propriedades. Dará herança a seus filhos somente de sua própria propriedade, para que ninguém de meu povo seja disperso de sua propriedade."
+  },
+  "p1": [
+   {
+    "uid": "U1-EZK-046:016-1",
+    "ref": "EZK 46:16-46:18",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "ela pertencerá a seus filhos como propriedade hereditária",
+    "resumo": "regra de herança do príncipe (legislação, não promessa clara)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-EZK-046:016-1",
+    "ref": "EZK 46:16-46:17",
+    "tipo": "declaracao_sem_compromisso",
+    "origem": "divina_direta",
+    "natureza": null,
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Se o príncipe der parte de sua herança a um de seus filhos, ela pertencerá a seus filhos como propriedade hereditária.",
+    "resumo": "Regra divina sobre a herança dada pelo príncipe a filhos e servos."
+   }
+  ]
+ },
+ {
+  "id": "F3-EZK-065",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 47:8",
+  "fim": "EZK 47:12",
+  "texto": {
+   "EZK 47:8": "Ele me disse: Estas águas correm para a região oriental, descem para a Arabá e entram no mar. Quando entram no mar, suas águas são curadas.",
+   "EZK 47:9": "Por onde quer que passar esse rio, todo ser vivo que se move viverá. Haverá uma enorme quantidade de peixes, porque essas águas chegarão ali. As águas serão curadas, e tudo viverá por onde o rio passar.",
+   "EZK 47:10": "Pescadores ficarão junto a ele, desde En-Gedi até En-Eglaim. Haverá lugares para estender redes. Haverá peixes de muitas espécies, tão numerosos como os peixes do mar Grande.",
+   "EZK 47:11": "Porém, seus pântanos e brejos não serão curados, pois serão deixados para a produção de sal.",
+   "EZK 47:12": "Nas duas margens do rio crescerão árvores de toda espécie para alimento. Suas folhas não murcharão, e seus frutos não faltarão. Produzirão novos frutos todos os meses, porque suas águas saem do santuário. Seus frutos servirão de alimento, e suas folhas, de remédio."
+  },
+  "p1": [
+   {
+    "uid": "U1-EZK-047:008-1",
+    "ref": "EZK 47:8-47:12",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "todo ser vivo que se move viverá",
+    "resumo": "rio que sai do santuário cura as águas e dá vida"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-EZK-066",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 47:21",
+  "fim": "EZK 47:23",
+  "texto": {
+   "EZK 47:21": "Repartam esta terra entre vocês, conforme as tribos de Israel.",
+   "EZK 47:22": "Distribuam-na por sorte como herança para vocês e para os estrangeiros que vivem entre vocês e geraram filhos em seu meio. Eles serão para vocês como naturais entre os filhos de Israel. Receberão herança com vocês entre as tribos de Israel.",
+   "EZK 47:23": "Na tribo em que o estrangeiro estiver vivendo, ali vocês lhe darão sua herança, diz o Senhor SENHOR."
+  },
+  "p1": [
+   {
+    "uid": "U1-EZK-047:022-1",
+    "ref": "EZK 47:22-47:23",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Receberão herança com vocês entre as tribos de Israel",
+    "resumo": "estrangeiros residentes recebem herança"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-EZK-047:021-1",
+    "ref": "EZK 47:21-47:23",
+    "tipo": "mandamento",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Receberão herança com vocês entre as tribos de Israel",
+    "resumo": "Ordem de repartir a terra por sorte, incluindo os estrangeiros residentes, que receberão herança como os naturais"
+   }
+  ]
+ },
+ {
+  "id": "F3-EZK-067",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 48:35",
+  "fim": "EZK 48:35",
+  "texto": {
+   "EZK 48:35": "O perímetro da cidade será de dezoito mil côvados. Desde aquele dia, o nome da cidade será: O SENHOR Está Ali."
+  },
+  "p1": [
+   {
+    "uid": "U1-EZK-048:035-1",
+    "ref": "EZK 48:35",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "o nome da cidade será: O SENHOR Está Ali",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-EZK-048:035-1",
+    "ref": "EZK 48:35",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "Desde aquele dia, o nome da cidade será: O SENHOR Está Ali.",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-EZK-068",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 3:8",
+  "fim": "EZK 3:9",
+  "texto": {
+   "EZK 3:8": "Eis que tornei seu rosto tão firme quanto o rosto deles e sua testa tão firme quanto a testa deles.",
+   "EZK 3:9": "Tornei sua testa como diamante, mais dura que a rocha. Não tenha medo deles nem se apavore diante de seus rostos, pois são uma casa rebelde."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EZK-003:008-1",
+    "ref": "EZK 3:8-3:9",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": null,
+    "ancora": "Eis que tornei seu rosto tão firme quanto o rosto deles",
+    "resumo": "Deus afirma ter fortalecido o profeta para enfrentar a casa rebelde."
+   }
+  ]
+ },
+ {
+  "id": "F3-EZK-069",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 5:2",
+  "fim": "EZK 5:2",
+  "texto": {
+   "EZK 5:2": "Quando se completarem os dias do cerco, queime um terço no fogo no meio da cidade. Pegue outro terço e golpeie-o com a espada ao redor da cidade. Espalhe o último terço ao vento, pois desembainharei a espada atrás deles."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EZK-005:002-1",
+    "ref": "EZK 5:2",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "pois desembainharei a espada atrás deles",
+    "resumo": "Deus perseguirá à espada o terço disperso."
+   }
+  ]
+ },
+ {
+  "id": "F3-EZK-070",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 5:4",
+  "fim": "EZK 5:4",
+  "texto": {
+   "EZK 5:4": "Desses ainda pegue alguns, lance-os no meio do fogo e queime-os. Dali sairá fogo contra toda a casa de Israel."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EZK-005:004-1",
+    "ref": "EZK 5:4",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "Dali sairá fogo contra toda a casa de Israel",
+    "resumo": "Do juízo simbólico sairá fogo contra toda a casa de Israel."
+   }
+  ]
+ },
+ {
+  "id": "F3-EZK-071",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 5:8",
+  "fim": "EZK 5:9",
+  "texto": {
+   "EZK 5:8": "Por isso, assim diz o Senhor SENHOR: Eis que eu estou contra você. Executarei juízos em seu meio diante dos olhos das nações.",
+   "EZK 5:9": "Por causa de todas as suas abominações, farei em você o que nunca fiz e jamais tornarei a fazer."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EZK-005:008-1",
+    "ref": "EZK 5:8-5:9",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "Eis que eu estou contra você",
+    "resumo": "Deus executará juízos sem precedente contra Jerusalém."
+   }
+  ]
+ },
+ {
+  "id": "F3-EZK-072",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 5:10",
+  "fim": "EZK 5:10",
+  "texto": {
+   "EZK 5:10": "Por isso, pais comerão os filhos em seu meio, e filhos comerão os pais. Executarei juízos em você e espalharei todo o seu remanescente a todos os ventos."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EZK-005:010-1",
+    "ref": "EZK 5:10",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "pais comerão os filhos em seu meio, e filhos comerão os pais",
+    "resumo": "Fome e juízo levarão ao canibalismo."
+   }
+  ]
+ },
+ {
+  "id": "F3-EZK-073",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 5:11",
+  "fim": "EZK 5:11",
+  "texto": {
+   "EZK 5:11": "Portanto, tão certo como eu vivo, diz o Senhor SENHOR, porque você profanou meu santuário com todas as suas coisas detestáveis e todas as suas abominações, eu também a reduzirei. Meu olho não poupará, e não terei compaixão."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EZK-005:011-1",
+    "ref": "EZK 5:11",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "eu também a reduzirei",
+    "resumo": "Deus reduzirá Jerusalém sem poupar nem ter compaixão."
+   }
+  ]
+ },
+ {
+  "id": "F3-EZK-074",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 5:12",
+  "fim": "EZK 5:12",
+  "texto": {
+   "EZK 5:12": "Um terço dos seus habitantes morrerá de peste e será consumido pela fome em seu meio. Outro terço cairá à espada ao redor de você. O último terço espalharei a todos os ventos e desembainharei a espada atrás deles."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EZK-005:012-2",
+    "ref": "EZK 5:12",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "Outro terço cairá à espada ao redor de você",
+    "resumo": "Outro terço cairá à espada."
+   }
+  ]
+ },
+ {
+  "id": "F3-EZK-075",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 5:12",
+  "fim": "EZK 5:12",
+  "texto": {
+   "EZK 5:12": "Um terço dos seus habitantes morrerá de peste e será consumido pela fome em seu meio. Outro terço cairá à espada ao redor de você. O último terço espalharei a todos os ventos e desembainharei a espada atrás deles."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EZK-005:012-3",
+    "ref": "EZK 5:12",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "O último terço espalharei a todos os ventos e desembainharei a espada atrás deles",
+    "resumo": "O último terço será disperso e perseguido à espada."
+   }
+  ]
+ },
+ {
+  "id": "F3-EZK-076",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 5:17",
+  "fim": "EZK 5:17",
+  "texto": {
+   "EZK 5:17": "Enviarei contra vocês fome e animais ferozes, que os deixarão sem filhos. Peste e derramamento de sangue passarão por você, e trarei a espada sobre você. Eu, o SENHOR, falei."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EZK-005:017-2",
+    "ref": "EZK 5:17",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "Peste e derramamento de sangue passarão por você",
+    "resumo": "Peste e derramamento de sangue passarão por Jerusalém."
+   }
+  ]
+ },
+ {
+  "id": "F3-EZK-077",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 5:17",
+  "fim": "EZK 5:17",
+  "texto": {
+   "EZK 5:17": "Enviarei contra vocês fome e animais ferozes, que os deixarão sem filhos. Peste e derramamento de sangue passarão por você, e trarei a espada sobre você. Eu, o SENHOR, falei."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EZK-005:017-3",
+    "ref": "EZK 5:17",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "trarei a espada sobre você",
+    "resumo": "Deus trará a espada sobre Jerusalém."
+   }
+  ]
+ },
+ {
+  "id": "F3-EZK-078",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 6:11",
+  "fim": "EZK 6:13",
+  "texto": {
+   "EZK 6:11": "Assim diz o Senhor SENHOR: Bata palmas, golpeie o chão com o pé e diga: Ah! Por causa de todas as abominações perversas da casa de Israel, eles cairão pela espada, pela fome e pela peste.",
+   "EZK 6:12": "Quem estiver longe morrerá de peste; quem estiver perto cairá pela espada; quem sobreviver e for cercado morrerá de fome. Assim cumprirei meu furor contra eles.",
+   "EZK 6:13": "Vocês saberão que eu sou o SENHOR quando seus mortos estiverem no meio de seus ídolos, ao redor de seus altares, em toda colina elevada, em todos os cumes dos montes, debaixo de toda árvore verde e de todo carvalho frondoso, nos lugares onde ofereciam aroma agradável a todos os seus ídolos."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EZK-006:011-1",
+    "ref": "EZK 6:11-6:13",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": null,
+    "ancora": "eles cairão pela espada, pela fome e pela peste.",
+    "resumo": "Juízo por espada, fome e peste sobre os habitantes; os mortos ficarão entre os ídolos e saberão que o SENHOR é Deus."
+   }
+  ]
+ },
+ {
+  "id": "F3-EZK-079",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 7:19",
+  "fim": "EZK 7:22",
+  "texto": {
+   "EZK 7:19": "Lançarão sua prata nas ruas, e seu ouro será tratado como impureza. Nem sua prata nem seu ouro poderão livrá-los no dia do furor do SENHOR. Não saciarão a fome nem encherão o estômago, pois sua riqueza tornou-se o tropeço que os levou à culpa.",
+   "EZK 7:20": "Orgulharam-se da beleza de seus adornos e com eles fizeram imagens de suas abominações detestáveis. Por isso, transformarei esses adornos em impureza para eles.",
+   "EZK 7:21": "Entregarei tudo como presa nas mãos de estrangeiros e como despojo aos perversos da terra; eles o profanarão.",
+   "EZK 7:22": "Desviarei deles meu rosto, e profanarão meu lugar oculto. Invasores entrarão nele e o profanarão."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EZK-007:019-1",
+    "ref": "EZK 7:19-7:22",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": null,
+    "ancora": "Nem sua prata nem seu ouro poderão livrá-los no dia do furor do SENHOR.",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-EZK-080",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 12:23",
+  "fim": "EZK 12:25",
+  "texto": {
+   "EZK 12:23": "Portanto, diga-lhes: Assim diz o Senhor SENHOR: Farei cessar esse provérbio, e ele não será mais repetido em Israel. Diga-lhes: Aproximaram-se os dias e o cumprimento de toda visão.",
+   "EZK 12:24": "Não haverá mais visão falsa nem adivinhação lisonjeira no meio da casa de Israel.",
+   "EZK 12:25": "Pois eu, o SENHOR, falarei, e a palavra que eu disser se cumprirá. Não haverá mais demora. Em seus dias, casa rebelde, direi uma palavra e a cumprirei, diz o Senhor SENHOR."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EZK-012:023-1",
+    "ref": "EZK 12:23-12:25",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": null,
+    "ancora": "Pois eu, o SENHOR, falarei, e a palavra que eu disser se cumprirá.",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-EZK-081",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 13:3",
+  "fim": "EZK 13:9",
+  "texto": {
+   "EZK 13:3": "Assim diz o Senhor SENHOR: Ai dos profetas insensatos, que seguem o próprio espírito sem terem visto coisa alguma!",
+   "EZK 13:4": "Seus profetas, Israel, são como raposas entre ruínas.",
+   "EZK 13:5": "Vocês não subiram às brechas nem repararam o muro em favor da casa de Israel, para que ela pudesse resistir na batalha no dia do SENHOR.",
+   "EZK 13:6": "Eles têm visões falsas e adivinhações mentirosas. Dizem: O SENHOR declara, embora o SENHOR não os tenha enviado, e ainda esperam que sua palavra se cumpra.",
+   "EZK 13:7": "Acaso vocês não tiveram uma visão falsa e não pronunciaram uma adivinhação mentirosa quando disseram: O SENHOR declara, embora eu não tenha falado?",
+   "EZK 13:8": "Portanto, assim diz o Senhor SENHOR: Porque vocês falam falsidade e têm visões mentirosas, eis que eu estou contra vocês, diz o Senhor SENHOR.",
+   "EZK 13:9": "Minha mão será contra os profetas que têm visões falsas e pronunciam adivinhações mentirosas. Não estarão no conselho do meu povo, não serão inscritos no registro da casa de Israel nem entrarão na terra de Israel. Então saberão que eu sou o Senhor SENHOR."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EZK-013:003-1",
+    "ref": "EZK 13:3-13:9",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Ai dos profetas insensatos",
+    "resumo": "Juízo divino contra os falsos profetas de Israel."
+   }
+  ]
+ },
+ {
+  "id": "F3-EZK-082",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 13:10",
+  "fim": "EZK 13:16",
+  "texto": {
+   "EZK 13:10": "Tudo isso porque enganam meu povo, dizendo: Paz, quando não há paz. Quando alguém constrói uma parede frágil, eles a cobrem com cal solta.",
+   "EZK 13:11": "Diga aos que a cobrem com cal solta que ela cairá. Haverá chuva torrencial; grandes pedras de granizo cairão, e um vento tempestuoso a romperá.",
+   "EZK 13:12": "Quando a parede cair, acaso não lhes perguntarão: Onde está a cobertura que vocês aplicaram?",
+   "EZK 13:13": "Portanto, assim diz o Senhor SENHOR: Em meu furor farei irromper um vento tempestuoso. Em minha ira haverá chuva torrencial e, em minha indignação, grandes pedras de granizo para destruir.",
+   "EZK 13:14": "Derrubarei a parede que vocês cobriram com cal solta, farei que caia por terra e deixarei seu alicerce exposto. Ela cairá, e vocês perecerão no meio dela. Então saberão que eu sou o SENHOR.",
+   "EZK 13:15": "Assim cumprirei meu furor contra a parede e contra os que a cobriram com cal solta. Direi a vocês: A parede já não existe, nem os que a cobriram,",
+   "EZK 13:16": "isto é, os profetas de Israel que profetizam a respeito de Jerusalém e têm para ela visões de paz quando não há paz, diz o Senhor SENHOR."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EZK-013:010-1",
+    "ref": "EZK 13:10-13:16",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Paz, quando não há paz",
+    "resumo": "Juízo divino contra os que anunciam paz falsa; a parede e seus cobridores serão derrubados."
+   }
+  ]
+ },
+ {
+  "id": "F3-EZK-083",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 13:18",
+  "fim": "EZK 13:23",
+  "texto": {
+   "EZK 13:18": "Diga: Assim diz o Senhor SENHOR: Ai das que costuram faixas para todas as articulações dos braços e fazem véus para cabeças de pessoas de toda estatura, a fim de caçar vidas! Vocês caçarão as vidas do meu povo enquanto preservam a própria vida?",
+   "EZK 13:19": "Vocês me profanam diante do meu povo por punhados de cevada e pedaços de pão. Matam pessoas que não deveriam morrer e preservam pessoas que não deveriam viver, mentindo ao meu povo que escuta a mentira.",
+   "EZK 13:20": "Portanto, assim diz o Senhor SENHOR: Eis que estou contra suas faixas, com as quais vocês caçam vidas como aves. Eu as arrancarei de seus braços e libertarei as vidas que vocês caçam como aves.",
+   "EZK 13:21": "Rasgarei seus véus e livrarei meu povo das mãos de vocês. Eles já não serão presa em suas mãos. Então saberão que eu sou o SENHOR.",
+   "EZK 13:22": "Vocês entristeceram com falsidade o coração do justo, embora eu não lhe tenha causado tristeza, e fortaleceram as mãos do perverso para que não se desviasse de seu caminho mau e preservasse a vida.",
+   "EZK 13:23": "Por isso, vocês não terão mais visões falsas nem praticarão adivinhação. Livrarei meu povo das mãos de vocês, e saberão que eu sou o SENHOR."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EZK-013:018-1",
+    "ref": "EZK 13:18-13:23",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Ai das que costuram faixas",
+    "resumo": "Juízo divino contra as falsas profetisas; suas faixas e véus serão removidos e não terão mais visões falsas."
+   }
+  ]
+ },
+ {
+  "id": "F3-EZK-084",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 14:15",
+  "fim": "EZK 14:16",
+  "texto": {
+   "EZK 14:15": "Se eu fizer animais ferozes passarem pela terra, e eles a deixarem sem filhos, de modo que se torne desolada e ninguém possa atravessá-la por causa dos animais,",
+   "EZK 14:16": "ainda que esses três homens estivessem no meio dela, tão certo como eu vivo, diz o Senhor SENHOR, eles não livrariam filhos nem filhas. Somente eles seriam livrados, e a terra ficaria desolada."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EZK-014:015-1",
+    "ref": "EZK 14:15-14:16",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": "explicita",
+    "promitente": "pai",
+    "ancora": "ainda que esses três homens estivessem no meio dela, tão certo como eu vivo, diz o Senhor SENHOR, eles não livrariam filhos nem filhas.",
+    "resumo": "Se Deus enviar animais ferozes, nem os três justos livrariam filhos ou filhas; somente eles seriam livrados e a terra ficaria desolada."
+   }
+  ]
+ }
+]

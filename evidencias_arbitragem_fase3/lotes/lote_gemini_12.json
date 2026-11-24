@@ -1,0 +1,1778 @@
+[
+ {
+  "id": "F3-EZK-145",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 39:17",
+  "fim": "EZK 39:20",
+  "texto": {
+   "EZK 39:17": "Filho do homem, assim diz o Senhor SENHOR: Diga às aves de toda espécie e a todos os animais do campo: Reúnam-se e venham. Ajuntem-se de todos os lados para o sacrifício que preparo para vocês, um grande sacrifício sobre os montes de Israel. Vocês comerão carne e beberão sangue.",
+   "EZK 39:18": "Comerão a carne dos poderosos e beberão o sangue dos príncipes da terra, como se fossem carneiros, cordeiros, bodes e novilhos, todos eles cevados em Basã.",
+   "EZK 39:19": "Comerão gordura até se fartarem e beberão sangue até se embriagarem, no sacrifício que preparei para vocês.",
+   "EZK 39:20": "Em minha mesa, vocês se fartarão de cavalos e cavaleiros, de poderosos e de todos os homens de guerra, diz o Senhor SENHOR."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EZK-039:017-1",
+    "ref": "EZK 39:17-39:20",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "crente_individual",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Vocês comerão carne e beberão sangue",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-EZK-146",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 39:22",
+  "fim": "EZK 39:22",
+  "texto": {
+   "EZK 39:22": "A casa de Israel saberá, desde aquele dia em diante, que eu sou o SENHOR, seu Deus."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EZK-039:022-1",
+    "ref": "EZK 39:22",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "A casa de Israel saberá",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-EZK-147",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 43:7",
+  "fim": "EZK 43:9",
+  "texto": {
+   "EZK 43:7": "Ele me disse: Filho do homem, este é o lugar do meu trono e o lugar onde repousam as plantas de meus pés. Aqui habitarei no meio dos filhos de Israel para sempre. A casa de Israel nunca mais contaminará meu santo nome, nem eles nem seus reis, com sua prostituição e com os cadáveres de seus reis em seus lugares altos.",
+   "EZK 43:8": "Eles colocaram sua soleira junto à minha soleira e seu batente junto ao meu batente, de modo que havia apenas uma parede entre mim e eles. Contaminaram meu santo nome com as abominações que praticaram, por isso os consumi em minha ira.",
+   "EZK 43:9": "Agora afastarão de mim sua prostituição e os cadáveres de seus reis, e habitarei no meio deles para sempre."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EZK-043:007-2",
+    "ref": "EZK 43:7-43:9",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "A casa de Israel nunca mais contaminará meu santo nome",
+    "resumo": "Israel não mais contaminará o nome de Deus e afastará a prostituição."
+   }
+  ]
+ },
+ {
+  "id": "F3-EZK-148",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 44:3",
+  "fim": "EZK 44:3",
+  "texto": {
+   "EZK 44:3": "Quanto ao príncipe, ele se sentará ali para comer pão diante do SENHOR. Entrará pelo caminho do pórtico da porta e sairá pelo mesmo caminho."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EZK-044:003-1",
+    "ref": "EZK 44:3",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Quanto ao príncipe, ele se sentará ali para comer pão diante do SENHOR. Entrará pelo caminho do pórtico da porta e sairá pelo mesmo caminho.",
+    "resumo": "O príncipe terá acesso para comer diante do SENHOR e entrar e sair pelo pórtico."
+   }
+  ]
+ },
+ {
+  "id": "F3-EZK-149",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 44:9",
+  "fim": "EZK 44:9",
+  "texto": {
+   "EZK 44:9": "Assim diz o Senhor SENHOR: Nenhum estrangeiro incircunciso de coração e de carne entrará em meu santuário, nem mesmo qualquer estrangeiro que viva entre os filhos de Israel."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EZK-044:009-1",
+    "ref": "EZK 44:9",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Nenhum estrangeiro incircunciso de coração e de carne entrará em meu santuário, nem mesmo qualquer estrangeiro que viva entre os filhos de Israel.",
+    "resumo": "Nenhum estrangeiro incircunciso entrará no santuário."
+   }
+  ]
+ },
+ {
+  "id": "F3-EZK-150",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 44:13",
+  "fim": "EZK 44:13",
+  "texto": {
+   "EZK 44:13": "Não se aproximarão de mim para me servir como sacerdotes nem se aproximarão de nenhuma de minhas coisas santas, das coisas santíssimas. Carregarão sua vergonha e as abominações que praticaram."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EZK-044:013-1",
+    "ref": "EZK 44:13",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Não se aproximarão de mim para me servir como sacerdotes nem se aproximarão de nenhuma de minhas coisas santas, das coisas santíssimas. Carregarão sua vergonha e as abominações que praticaram.",
+    "resumo": "Os levitas não exercerão o sacerdócio e carregarão sua vergonha."
+   }
+  ]
+ },
+ {
+  "id": "F3-EZK-151",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 44:14",
+  "fim": "EZK 44:14",
+  "texto": {
+   "EZK 44:14": "Eu os encarregarei do serviço do templo, de todo o seu trabalho e de tudo o que nele deve ser feito."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EZK-044:014-1",
+    "ref": "EZK 44:14",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Eu os encarregarei do serviço do templo, de todo o seu trabalho e de tudo o que nele deve ser feito.",
+    "resumo": "Deus encarregará os levitas do serviço do templo."
+   }
+  ]
+ },
+ {
+  "id": "F3-EZK-152",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 44:29",
+  "fim": "EZK 44:29",
+  "texto": {
+   "EZK 44:29": "Comerão a oferta de cereal, a oferta pelo pecado e a oferta pela culpa. Toda coisa consagrada em Israel pertencerá a eles."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EZK-044:029-1",
+    "ref": "EZK 44:29",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Comerão a oferta de cereal, a oferta pelo pecado e a oferta pela culpa. Toda coisa consagrada em Israel pertencerá a eles.",
+    "resumo": "Os sacerdotes comerão das ofertas e receberão as coisas consagradas."
+   }
+  ]
+ },
+ {
+  "id": "F3-EZK-153",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 44:30",
+  "fim": "EZK 44:30",
+  "texto": {
+   "EZK 44:30": "As melhores partes de todas as primícias e toda contribuição de qualquer espécie pertencerão aos sacerdotes. Vocês também darão aos sacerdotes a primeira parte de sua massa, para que a bênção repouse sobre sua casa."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EZK-044:030-1",
+    "ref": "EZK 44:30",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "As melhores partes de todas as primícias e toda contribuição de qualquer espécie pertencerão aos sacerdotes.",
+    "resumo": "As melhores primícias e contribuições pertencerão aos sacerdotes."
+   }
+  ]
+ },
+ {
+  "id": "F3-EZK-154",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 48:1",
+  "fim": "EZK 48:1",
+  "texto": {
+   "EZK 48:1": "Estes são os nomes das tribos. No extremo norte, a fronteira seguirá pelo caminho de Hetlom até a entrada de Hamate e Hazar-Enã, junto à fronteira de Damasco, ao norte, ao lado de Hamate. De leste a oeste, Dan terá uma porção."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EZK-048:001-1",
+    "ref": "EZK 48:1",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "familia_ou_linhagem",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "De leste a oeste, Dan terá uma porção.",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-EZK-155",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 48:2",
+  "fim": "EZK 48:2",
+  "texto": {
+   "EZK 48:2": "Junto à fronteira de Dan, de leste a oeste, Aser terá uma porção."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EZK-048:002-1",
+    "ref": "EZK 48:2",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "familia_ou_linhagem",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "Aser terá uma porção.",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-EZK-156",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 48:3",
+  "fim": "EZK 48:3",
+  "texto": {
+   "EZK 48:3": "Junto à fronteira de Aser, de leste a oeste, Naftali terá uma porção."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EZK-048:003-1",
+    "ref": "EZK 48:3",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "familia_ou_linhagem",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "Naftali terá uma porção.",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-EZK-157",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 48:4",
+  "fim": "EZK 48:4",
+  "texto": {
+   "EZK 48:4": "Junto à fronteira de Naftali, de leste a oeste, Manassés terá uma porção."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EZK-048:004-1",
+    "ref": "EZK 48:4",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "familia_ou_linhagem",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "Manassés terá uma porção.",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-EZK-158",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 48:5",
+  "fim": "EZK 48:5",
+  "texto": {
+   "EZK 48:5": "Junto à fronteira de Manassés, de leste a oeste, Efraim terá uma porção."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EZK-048:005-1",
+    "ref": "EZK 48:5",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "familia_ou_linhagem",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "Efraim terá uma porção.",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-EZK-159",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 48:6",
+  "fim": "EZK 48:6",
+  "texto": {
+   "EZK 48:6": "Junto à fronteira de Efraim, de leste a oeste, Rúben terá uma porção."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EZK-048:006-1",
+    "ref": "EZK 48:6",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "familia_ou_linhagem",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "Rúben terá uma porção.",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-EZK-160",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 48:7",
+  "fim": "EZK 48:7",
+  "texto": {
+   "EZK 48:7": "Junto à fronteira de Rúben, de leste a oeste, Judá terá uma porção."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EZK-048:007-1",
+    "ref": "EZK 48:7",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "familia_ou_linhagem",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "Judá terá uma porção.",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-EZK-161",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 48:8",
+  "fim": "EZK 48:8",
+  "texto": {
+   "EZK 48:8": "Junto à fronteira de Judá, de leste a oeste, ficará a contribuição que vocês separarão. Ela terá vinte e cinco mil côvados de largura e, de leste a oeste, o mesmo comprimento das porções tribais. O santuário ficará no meio dela."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EZK-048:008-1",
+    "ref": "EZK 48:8",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "indeterminado",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "ficará a contribuição que vocês separarão",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-EZK-162",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 48:9",
+  "fim": "EZK 48:9",
+  "texto": {
+   "EZK 48:9": "A contribuição que vocês separarão para o SENHOR terá vinte e cinco mil côvados de comprimento e dez mil de largura."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EZK-048:009-1",
+    "ref": "EZK 48:9",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "indeterminado",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "A contribuição que vocês separarão para o SENHOR terá vinte e cinco mil côvados de comprimento e dez mil de largura.",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-EZK-163",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 48:10",
+  "fim": "EZK 48:10",
+  "texto": {
+   "EZK 48:10": "Esta será a contribuição santa para os sacerdotes: vinte e cinco mil côvados de comprimento ao norte e ao sul, e dez mil de largura a leste e a oeste. O santuário do SENHOR ficará no meio dela."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EZK-048:010-1",
+    "ref": "EZK 48:10",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "Esta será a contribuição santa para os sacerdotes",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-EZK-164",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 48:11",
+  "fim": "EZK 48:11",
+  "texto": {
+   "EZK 48:11": "Ela pertencerá aos sacerdotes consagrados, descendentes de Zadoque, que cumpriram o meu encargo e não se desviaram quando os filhos de Israel se desviaram, como fizeram os levitas."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EZK-048:011-1",
+    "ref": "EZK 48:11",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "Ela pertencerá aos sacerdotes consagrados, descendentes de Zadoque",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-EZK-165",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 48:12",
+  "fim": "EZK 48:12",
+  "texto": {
+   "EZK 48:12": "Esta parte da contribuição da terra será para eles uma porção santíssima, junto ao território dos levitas."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EZK-048:012-1",
+    "ref": "EZK 48:12",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "Esta parte da contribuição da terra será para eles uma porção santíssima",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-EZK-166",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 48:13",
+  "fim": "EZK 48:13",
+  "texto": {
+   "EZK 48:13": "Ao lado do território dos sacerdotes, os levitas terão uma área de vinte e cinco mil côvados de comprimento por dez mil de largura. O comprimento total será de vinte e cinco mil, e a largura, de dez mil."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EZK-048:013-1",
+    "ref": "EZK 48:13",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "os levitas terão uma área de vinte e cinco mil côvados de comprimento por dez mil de largura.",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-EZK-167",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 48:15",
+  "fim": "EZK 48:15",
+  "texto": {
+   "EZK 48:15": "A faixa restante, de cinco mil côvados de largura por vinte e cinco mil de comprimento, será de uso comum para a cidade, suas moradias e seus arredores. A cidade ficará no meio dela."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EZK-048:015-1",
+    "ref": "EZK 48:15",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "A faixa restante, de cinco mil côvados de largura por vinte e cinco mil de comprimento, será de uso comum para a cidade",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-EZK-168",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 48:16",
+  "fim": "EZK 48:16",
+  "texto": {
+   "EZK 48:16": "Estas serão as medidas da cidade: quatro mil e quinhentos côvados no lado norte, quatro mil e quinhentos no sul, quatro mil e quinhentos no leste e quatro mil e quinhentos no oeste."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EZK-048:016-1",
+    "ref": "EZK 48:16",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "Estas serão as medidas da cidade",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-EZK-169",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 48:17",
+  "fim": "EZK 48:17",
+  "texto": {
+   "EZK 48:17": "Os arredores da cidade terão duzentos e cinquenta côvados ao norte, duzentos e cinquenta ao sul, duzentos e cinquenta a leste e duzentos e cinquenta a oeste."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EZK-048:017-1",
+    "ref": "EZK 48:17",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "Os arredores da cidade terão duzentos e cinquenta côvados",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-EZK-170",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 48:18",
+  "fim": "EZK 48:18",
+  "texto": {
+   "EZK 48:18": "O restante do comprimento, ao lado da contribuição santa, será de dez mil côvados a leste e dez mil a oeste. Sua produção servirá de alimento aos trabalhadores da cidade."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EZK-048:018-1",
+    "ref": "EZK 48:18",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "Sua produção servirá de alimento aos trabalhadores da cidade.",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-EZK-171",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 48:19",
+  "fim": "EZK 48:19",
+  "texto": {
+   "EZK 48:19": "Os trabalhadores da cidade, vindos de todas as tribos de Israel, cultivarão essa área."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EZK-048:019-1",
+    "ref": "EZK 48:19",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "Os trabalhadores da cidade, vindos de todas as tribos de Israel, cultivarão essa área.",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-EZK-172",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 48:20",
+  "fim": "EZK 48:20",
+  "texto": {
+   "EZK 48:20": "A contribuição inteira formará um quadrado de vinte e cinco mil côvados de cada lado. Vocês separarão a contribuição santa juntamente com a propriedade da cidade."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EZK-048:020-1",
+    "ref": "EZK 48:20",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "indeterminado",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "A contribuição inteira formará um quadrado de vinte e cinco mil côvados de cada lado.",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-EZK-173",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 48:21",
+  "fim": "EZK 48:21",
+  "texto": {
+   "EZK 48:21": "O que restar dos dois lados da contribuição santa e da propriedade da cidade pertencerá ao príncipe. Estenderá para o leste desde os vinte e cinco mil côvados da contribuição até a fronteira oriental, e para o oeste desde os vinte e cinco mil côvados até a fronteira ocidental, acompanhando as porções tribais. A contribuição santa e o santuário do templo ficarão no meio dessa área."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EZK-048:021-1",
+    "ref": "EZK 48:21",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "O que restar dos dois lados da contribuição santa e da propriedade da cidade pertencerá ao príncipe.",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-EZK-174",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 48:22",
+  "fim": "EZK 48:22",
+  "texto": {
+   "EZK 48:22": "A propriedade dos levitas e a propriedade da cidade ficarão no meio da área do príncipe. O território entre a fronteira de Judá e a fronteira de Benjamim pertencerá ao príncipe."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EZK-048:022-1",
+    "ref": "EZK 48:22",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "A propriedade dos levitas e a propriedade da cidade ficarão no meio da área do príncipe.",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-EZK-175",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 48:23",
+  "fim": "EZK 48:23",
+  "texto": {
+   "EZK 48:23": "Quanto às tribos restantes, de leste a oeste, Benjamim terá uma porção."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EZK-048:023-1",
+    "ref": "EZK 48:23",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "familia_ou_linhagem",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "Benjamim terá uma porção.",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-EZK-176",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 48:24",
+  "fim": "EZK 48:24",
+  "texto": {
+   "EZK 48:24": "Junto à fronteira de Benjamim, de leste a oeste, Simeão terá uma porção."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EZK-048:024-1",
+    "ref": "EZK 48:24",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "familia_ou_linhagem",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "Simeão terá uma porção.",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-EZK-177",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 48:25",
+  "fim": "EZK 48:25",
+  "texto": {
+   "EZK 48:25": "Junto à fronteira de Simeão, de leste a oeste, Issacar terá uma porção."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EZK-048:025-1",
+    "ref": "EZK 48:25",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "familia_ou_linhagem",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "Issacar terá uma porção.",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-EZK-178",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 48:26",
+  "fim": "EZK 48:26",
+  "texto": {
+   "EZK 48:26": "Junto à fronteira de Issacar, de leste a oeste, Zebulom terá uma porção."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EZK-048:026-1",
+    "ref": "EZK 48:26",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "familia_ou_linhagem",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "Zebulom terá uma porção.",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-EZK-179",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 48:27",
+  "fim": "EZK 48:27",
+  "texto": {
+   "EZK 48:27": "Junto à fronteira de Zebulom, de leste a oeste, Gade terá uma porção."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EZK-048:027-1",
+    "ref": "EZK 48:27",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "familia_ou_linhagem",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "Gade terá uma porção.",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-EZK-180",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 48:28",
+  "fim": "EZK 48:28",
+  "texto": {
+   "EZK 48:28": "Junto à fronteira de Gade, no lado sul, a divisa irá desde Tamar até as águas de Meribá-Cades, seguirá o ribeiro e chegará ao mar Grande."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EZK-048:028-1",
+    "ref": "EZK 48:28",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "a divisa irá desde Tamar até as águas de Meribá-Cades",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-EZK-181",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 48:29",
+  "fim": "EZK 48:29",
+  "texto": {
+   "EZK 48:29": "Esta é a terra que vocês repartirão por sorte como herança entre as tribos de Israel, e estas serão as porções delas, diz o Senhor SENHOR."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EZK-048:029-1",
+    "ref": "EZK 48:29",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "Esta é a terra que vocês repartirão por sorte como herança entre as tribos de Israel",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-EZK-182",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 48:30",
+  "fim": "EZK 48:30",
+  "texto": {
+   "EZK 48:30": "Estas serão as saídas da cidade. O lado norte medirá quatro mil e quinhentos côvados."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EZK-048:030-1",
+    "ref": "EZK 48:30",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "Estas serão as saídas da cidade.",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-EZK-183",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 48:31",
+  "fim": "EZK 48:31",
+  "texto": {
+   "EZK 48:31": "As portas da cidade receberão os nomes das tribos de Israel. No lado norte haverá três portas: a porta de Rúben, a porta de Judá e a porta de Levi."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EZK-048:031-1",
+    "ref": "EZK 48:31",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "No lado norte haverá três portas",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-EZK-184",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 48:32",
+  "fim": "EZK 48:32",
+  "texto": {
+   "EZK 48:32": "No lado leste, que medirá quatro mil e quinhentos côvados, haverá três portas: a porta de José, a porta de Benjamim e a porta de Dan."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EZK-048:032-1",
+    "ref": "EZK 48:32",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "No lado leste, que medirá quatro mil e quinhentos côvados, haverá três portas",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-EZK-185",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 48:33",
+  "fim": "EZK 48:33",
+  "texto": {
+   "EZK 48:33": "No lado sul, que medirá quatro mil e quinhentos côvados, haverá três portas: a porta de Simeão, a porta de Issacar e a porta de Zebulom."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EZK-048:033-1",
+    "ref": "EZK 48:33",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "No lado sul, que medirá quatro mil e quinhentos côvados, haverá três portas",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-EZK-186",
+  "livro": "EZK",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EZK 48:34",
+  "fim": "EZK 48:34",
+  "texto": {
+   "EZK 48:34": "No lado oeste, que medirá quatro mil e quinhentos côvados, haverá três portas: a porta de Gade, a porta de Aser e a porta de Naftali."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EZK-048:034-1",
+    "ref": "EZK 48:34",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "No lado oeste, que medirá quatro mil e quinhentos côvados, haverá três portas",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-DAN-001",
+  "livro": "DAN",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "DAN 2:44",
+  "fim": "DAN 2:44",
+  "texto": {
+   "DAN 2:44": "Nos dias desses reis, o Deus do céu levantará um reino que jamais será destruído. Esse reino não será entregue a outro povo. Ele despedaçará e consumirá todos esses reinos, mas permanecerá para sempre."
+  },
+  "p1": [
+   {
+    "uid": "U1-DAN-002:044-1",
+    "ref": "DAN 2:44",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "humanidade",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "o Deus do céu levantará um reino que jamais será destruído",
+    "resumo": "reino eterno que destrói os demais"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-DAN-002:044-1",
+    "ref": "DAN 2:44",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "divina_relatada_por_humano",
+    "natureza": null,
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "Daniel",
+    "ancora": "o Deus do céu levantará um reino que jamais será destruído",
+    "resumo": "Deus levantará um reino que jamais será destruído, que despedaçará os outros e permanecerá para sempre."
+   }
+  ]
+ },
+ {
+  "id": "F3-DAN-002",
+  "livro": "DAN",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "DAN 3:29",
+  "fim": "DAN 3:29",
+  "texto": {
+   "DAN 3:29": "Por isso, decreto que qualquer pessoa, de qualquer povo, nação ou língua, que disser blasfêmia contra o Deus de Sadraque, Mesaque e Abede-Nego seja despedaçada, e sua casa seja transformada em monturo, pois não há outro deus que possa livrar dessa maneira."
+  },
+  "p1": [
+   {
+    "uid": "U1-DAN-003:029-1",
+    "ref": "DAN 3:29",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "juizo",
+    "destinatario": "humanidade",
+    "condicao": null,
+    "promitente": "Nabucodonosor",
+    "ancora": "decreto que qualquer pessoa",
+    "resumo": "decreto contra blasfêmia"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-DAN-003",
+  "livro": "DAN",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "DAN 4:32",
+  "fim": "DAN 4:32",
+  "texto": {
+   "DAN 4:32": "Você será expulso do meio dos homens e viverá com os animais do campo. Será alimentado com erva como os bois, e sete tempos passarão sobre você, até que reconheça que o Altíssimo domina sobre os reinos humanos e os dá a quem quer."
+  },
+  "p1": [
+   {
+    "uid": "U1-DAN-004:032-1",
+    "ref": "DAN 4:32",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Você será expulso do meio dos homens e viverá com os animais do campo",
+    "resumo": "voz do céu sentencia o rei"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-DAN-004",
+  "livro": "DAN",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "DAN 6:7",
+  "fim": "DAN 6:9",
+  "texto": {
+   "DAN 6:7": "Todos os administradores do reino, os prefeitos, sátrapas, conselheiros e governadores concordaram que o rei estabeleça um decreto e faça cumprir uma proibição: durante trinta dias, quem fizer uma petição a qualquer deus ou homem, exceto ao senhor, ó rei, será lançado na cova dos leões.",
+   "DAN 6:8": "Agora, ó rei, confirme a proibição e assine o documento, para que não seja alterado, conforme a lei dos medos e dos persas, que não pode ser revogada.",
+   "DAN 6:9": "Por isso, o rei Dario assinou o documento e a proibição."
+  },
+  "p1": [
+   {
+    "uid": "U1-DAN-006:007-1",
+    "ref": "DAN 6:7",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": "explicita",
+    "promitente": "administradores e sátrapas",
+    "ancora": "será lançado na cova dos leões",
+    "resumo": "proposta de proibição pelos conspiradores"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-DAN-006:007-1",
+    "ref": "DAN 6:7-6:9",
+    "tipo": "advertencia",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "Dario",
+    "ancora": "quem fizer uma petição a qualquer deus ou homem, exceto ao senhor, ó rei, será lançado na cova dos leões",
+    "resumo": "Decreto humano que proíbe petições e ameaça com a cova dos leões."
+   }
+  ]
+ },
+ {
+  "id": "F3-DAN-005",
+  "livro": "DAN",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "DAN 6:26",
+  "fim": "DAN 6:27",
+  "texto": {
+   "DAN 6:26": "Decreto que, em todo o domínio de meu reino, todos tremam e temam diante do Deus de Daniel, porque ele é o Deus vivo e permanece para sempre. Seu reino não será destruído, e seu domínio durará até o fim.",
+   "DAN 6:27": "Ele salva e livra, realiza sinais e maravilhas no céu e na terra. Foi ele quem livrou Daniel do poder dos leões."
+  },
+  "p1": [
+   {
+    "uid": "U1-DAN-006:026-1",
+    "ref": "DAN 6:26",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "humanidade",
+    "condicao": null,
+    "promitente": "Dario",
+    "ancora": "Seu reino não será destruído, e seu domínio durará até o fim",
+    "resumo": "decreto de Dario sobre o Deus de Daniel"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-DAN-006:026-1",
+    "ref": "DAN 6:26-6:27",
+    "tipo": "declaracao_sem_compromisso",
+    "origem": "humana_em_nome_proprio",
+    "natureza": null,
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "Dario",
+    "ancora": "Seu reino não será destruído, e seu domínio durará até o fim",
+    "resumo": "Dario decreta que todos temam o Deus vivo, cujo reino não será destruído e que livrou Daniel."
+   }
+  ]
+ },
+ {
+  "id": "F3-DAN-006",
+  "livro": "DAN",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "DAN 7:18",
+  "fim": "DAN 7:18",
+  "texto": {
+   "DAN 7:18": "Porém, os santos do Altíssimo receberão o reino e o possuirão para sempre, de eternidade em eternidade."
+  },
+  "p1": [
+   {
+    "uid": "U1-DAN-007:018-1",
+    "ref": "DAN 7:18",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "os santos do Altíssimo receberão o reino e o possuirão para sempre",
+    "resumo": "interpretação dada a Daniel por um dos que estavam em pé"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-DAN-007:018-1",
+    "ref": "DAN 7:18",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "os santos do Altíssimo receberão o reino e o possuirão para sempre, de eternidade em eternidade",
+    "resumo": "Profecia: os santos do Altíssimo receberão e possuirão o reino para sempre."
+   }
+  ]
+ },
+ {
+  "id": "F3-DAN-007",
+  "livro": "DAN",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "DAN 7:26",
+  "fim": "DAN 7:27",
+  "texto": {
+   "DAN 7:26": "Porém, o tribunal se assentará, e o domínio dele será retirado, destruído e aniquilado completamente.",
+   "DAN 7:27": "O reino, o domínio e a majestade dos reinos debaixo de todo o céu serão entregues ao povo dos santos do Altíssimo. Seu reino será eterno, e todos os domínios o servirão e lhe obedecerão."
+  },
+  "p1": [
+   {
+    "uid": "U1-DAN-007:026-1",
+    "ref": "DAN 7:26-7:27",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "O reino, o domínio e a majestade dos reinos debaixo de todo o céu serão entregues ao povo dos santos do Altíssimo",
+    "resumo": "julgamento do chifre e reino eterno aos santos"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-DAN-007:027-1",
+    "ref": "DAN 7:27",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "serão entregues ao povo dos santos do Altíssimo",
+    "resumo": "Profecia: o reino eterno é entregue ao povo dos santos do Altíssimo."
+   }
+  ]
+ },
+ {
+  "id": "F3-DAN-008",
+  "livro": "DAN",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "DAN 8:14",
+  "fim": "DAN 8:14",
+  "texto": {
+   "DAN 8:14": "Ele me respondeu: Até duas mil e trezentas tardes e manhãs. Então o santuário será restaurado à sua condição correta."
+  },
+  "p1": [
+   {
+    "uid": "U1-DAN-008:014-1",
+    "ref": "DAN 8:14",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "o santuário será restaurado à sua condição correta",
+    "resumo": "resposta de um santo após 2300 tardes e manhãs"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-DAN-008:014-1",
+    "ref": "DAN 8:14",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Até duas mil e trezentas tardes e manhãs. Então o santuário será restaurado à sua condição correta.",
+    "resumo": "Anúncio de que, após duas mil e trezentas tardes e manhãs, o santuário será restaurado."
+   }
+  ]
+ },
+ {
+  "id": "F3-DAN-009",
+  "livro": "DAN",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "DAN 9:24",
+  "fim": "DAN 9:24",
+  "texto": {
+   "DAN 9:24": "Setenta semanas estão determinadas sobre seu povo e sua santa cidade, para pôr fim à transgressão, selar os pecados, expiar a iniquidade, trazer justiça eterna, selar visão e profeta e ungir um lugar santíssimo."
+  },
+  "p1": [
+   {
+    "uid": "U1-DAN-009:024-1",
+    "ref": "DAN 9:24",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Setenta semanas estão determinadas sobre seu povo e sua santa cidade",
+    "resumo": "setenta semanas para pôr fim à transgressão e trazer justiça eterna"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-DAN-009:024-1",
+    "ref": "DAN 9:24",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": null,
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Setenta semanas estão determinadas sobre seu povo e sua santa cidade",
+    "resumo": "Profecia das setenta semanas determinadas sobre o povo e a santa cidade, com seus propósitos."
+   }
+  ]
+ },
+ {
+  "id": "F3-DAN-010",
+  "livro": "DAN",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "DAN 11:32",
+  "fim": "DAN 11:35",
+  "texto": {
+   "DAN 11:32": "Com lisonjas, ele levará à perversidade os que violam a aliança, mas o povo que conhece seu Deus permanecerá firme e agirá.",
+   "DAN 11:33": "Os sábios dentre o povo instruirão a muitos, mas cairão pela espada e pelo fogo, pelo cativeiro e pelo saque, durante muitos dias.",
+   "DAN 11:34": "Quando caírem, receberão pequena ajuda, mas muitos se juntarão a eles com lisonjas.",
+   "DAN 11:35": "Alguns dos sábios cairão para serem provados, purificados e embranquecidos até o tempo do fim, pois isso ainda será para o tempo determinado."
+  },
+  "p1": [
+   {
+    "uid": "U1-DAN-011:032-1",
+    "ref": "DAN 11:32-11:35",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "o povo que conhece seu Deus permanecerá firme e agirá",
+    "resumo": "o povo fiel permanece firme, sábios provados e purificados"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-DAN-011",
+  "livro": "DAN",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "DAN 12:1",
+  "fim": "DAN 12:1",
+  "texto": {
+   "DAN 12:1": "Naquele tempo se levantará Miguel, o grande príncipe que protege os filhos de seu povo. Haverá um tempo de angústia como nunca houve desde que existe nação até aquele tempo. Mas, naquele tempo, seu povo será livrado, todo aquele que for encontrado escrito no livro."
+  },
+  "p1": [
+   {
+    "uid": "U1-DAN-012:001-1",
+    "ref": "DAN 12:1",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "seu povo será livrado, todo aquele que for encontrado escrito no livro",
+    "resumo": "Miguel protege; o povo inscrito no livro é livrado"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-DAN-012:001-3",
+    "ref": "DAN 12:1",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "seu povo será livrado, todo aquele que for encontrado escrito no livro.",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-DAN-012",
+  "livro": "DAN",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "DAN 12:2",
+  "fim": "DAN 12:3",
+  "texto": {
+   "DAN 12:2": "Muitos dos que dormem no pó da terra despertarão, uns para a vida eterna, e outros para vergonha e desprezo eterno.",
+   "DAN 12:3": "Os sábios resplandecerão como o brilho do firmamento, e os que conduzem muitos à justiça, como as estrelas, para todo o sempre."
+  },
+  "p1": [
+   {
+    "uid": "U1-DAN-012:002-1",
+    "ref": "DAN 12:2-12:3",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "humanidade",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Muitos dos que dormem no pó da terra despertarão",
+    "resumo": "ressurreição para vida eterna ou desprezo; sábios resplandecerão"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-DAN-012:002-1",
+    "ref": "DAN 12:2",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Muitos dos que dormem no pó da terra despertarão, uns para a vida eterna",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-DAN-013",
+  "livro": "DAN",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "DAN 12:12",
+  "fim": "DAN 12:12",
+  "texto": {
+   "DAN 12:12": "Bem-aventurado aquele que esperar e chegar aos mil trezentos e trinta e cinco dias."
+  },
+  "p1": [
+   {
+    "uid": "U1-DAN-012:012-1",
+    "ref": "DAN 12:12",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "explicita",
+    "promitente": "pai",
+    "ancora": "Bem-aventurado aquele que esperar e chegar aos mil trezentos e trinta e cinco dias",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-DAN-012:012-1",
+    "ref": "DAN 12:12",
+    "tipo": "indeterminada",
+    "origem": "indeterminada",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "explicita",
+    "promitente": null,
+    "ancora": "Bem-aventurado aquele que esperar e chegar aos mil trezentos e trinta e cinco dias.",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-DAN-014",
+  "livro": "DAN",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "DAN 12:13",
+  "fim": "DAN 12:13",
+  "texto": {
+   "DAN 12:13": "Quanto a você, siga seu caminho até o fim. Você descansará e, no fim dos dias, se levantará para receber sua herança."
+  },
+  "p1": [
+   {
+    "uid": "U1-DAN-012:013-1",
+    "ref": "DAN 12:13",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Você descansará e, no fim dos dias, se levantará para receber sua herança",
+    "resumo": "promessa pessoal a Daniel"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-DAN-012:013-1",
+    "ref": "DAN 12:13",
+    "tipo": "indeterminada",
+    "origem": "indeterminada",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Você descansará e, no fim dos dias, se levantará para receber sua herança.",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-DAN-015",
+  "livro": "DAN",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "DAN 2:4",
+  "fim": "DAN 2:4",
+  "texto": {
+   "DAN 2:4": "Os caldeus disseram ao rei em aramaico: Ó rei, viva para sempre. Conte o sonho a seus servos, e declararemos a interpretação."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-DAN-002:004-1",
+    "ref": "DAN 2:4",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "explicita",
+    "promitente": "os caldeus",
+    "ancora": "declararemos a interpretação",
+    "resumo": "Os caldeus se comprometem a declarar a interpretação, se o rei lhes contar o sonho."
+   }
+  ]
+ },
+ {
+  "id": "F3-DAN-016",
+  "livro": "DAN",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "DAN 2:7",
+  "fim": "DAN 2:7",
+  "texto": {
+   "DAN 2:7": "Eles responderam pela segunda vez: Conte o rei o sonho a seus servos, e declararemos sua interpretação."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-DAN-002:007-1",
+    "ref": "DAN 2:7",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "explicita",
+    "promitente": "os caldeus",
+    "ancora": "declararemos sua interpretação",
+    "resumo": "Repetição do compromisso dos caldeus de declarar a interpretação, se o rei contar o sonho."
+   }
+  ]
+ },
+ {
+  "id": "F3-DAN-017",
+  "livro": "DAN",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "DAN 2:9",
+  "fim": "DAN 2:9",
+  "texto": {
+   "DAN 2:9": "Se não me fizerem saber o sonho, haverá uma só sentença para vocês. Prepararam palavras mentirosas e perversas para dizer diante de mim até que a situação mude. Portanto, contem-me o sonho, e saberei que podem declarar sua interpretação."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-DAN-002:009-1",
+    "ref": "DAN 2:9",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": "explicita",
+    "promitente": "Nabucodonosor",
+    "ancora": "haverá uma só sentença para vocês",
+    "resumo": "Sentença única contra os caldeus, caso não façam saber o sonho ao rei."
+   }
+  ]
+ },
+ {
+  "id": "F3-DAN-018",
+  "livro": "DAN",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "DAN 2:24",
+  "fim": "DAN 2:24",
+  "texto": {
+   "DAN 2:24": "Por isso, Daniel foi a Arioque, a quem o rei havia encarregado de matar os sábios da Babilônia, e lhe disse: Não mate os sábios da Babilônia. Leve-me à presença do rei, e declararei ao rei a interpretação."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-DAN-002:024-1",
+    "ref": "DAN 2:24",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "explicita",
+    "promitente": "Daniel",
+    "ancora": "declararei ao rei a interpretação",
+    "resumo": "Daniel se compromete a declarar ao rei a interpretação, se for levado à sua presença."
+   }
+  ]
+ }
+]

@@ -1,0 +1,1156 @@
+[
+ {
+  "id": "F3-JDG-008",
+  "livro": "JDG",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "JDG 9:29",
+  "fim": "JDG 9:29",
+  "texto": {
+   "JDG 9:29": "Quem dera este povo estivesse em minhas mãos! Eu expulsaria Abimeleque. E disse a Abimeleque: Aumenta teu exército e sai!"
+  },
+  "p1": [
+   {
+    "uid": "U1-JDG-009:029-1",
+    "ref": "JDG 9:29",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "Gaal",
+    "ancora": "Eu expulsaria Abimeleque",
+    "resumo": "Gaal diz que expulsaria Abimeleque se tivesse o povo"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JDG-009:029-1",
+    "ref": "JDG 9:29",
+    "tipo": "desejo_ou_bencao_votiva",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "Gaal",
+    "ancora": "Quem dera este povo estivesse em minhas mãos! Eu expulsaria Abimeleque.",
+    "resumo": "Gaal expressa o desejo de comandar o povo de Siquém e afirma que, se assim fosse, expulsaria Abimeleque."
+   }
+  ]
+ },
+ {
+  "id": "F3-JDG-009",
+  "livro": "JDG",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "JDG 11:24",
+  "fim": "JDG 11:24",
+  "texto": {
+   "JDG 11:24": "Não possuirás tu aquilo que Quemos, teu deus, te der para possuir? Nós possuiremos tudo o que o SENHOR, nosso Deus, expulsar de diante de nós."
+  },
+  "p1": [
+   {
+    "uid": "U1-JDG-011:024-1",
+    "ref": "JDG 11:24",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "explicita",
+    "promitente": "Jefté",
+    "ancora": "Nós possuiremos tudo o que o SENHOR, nosso Deus, expulsar de diante de nós",
+    "resumo": "Jefté afirma que Israel possuirá o que o SENHOR expulsar de diante dele"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JDG-011:024-1",
+    "ref": "JDG 11:24",
+    "tipo": "declaracao_sem_compromisso",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "Jefté",
+    "ancora": "Nós possuiremos tudo o que o SENHOR, nosso Deus, expulsar de diante de nós.",
+    "resumo": "Jefté declara ao rei de Amom que Israel possuirá tudo o que o SENHOR expulsar de diante dele."
+   }
+  ]
+ },
+ {
+  "id": "F3-JDG-010",
+  "livro": "JDG",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "JDG 15:3",
+  "fim": "JDG 15:3",
+  "texto": {
+   "JDG 15:3": "Sansão lhes disse: Desta vez serei inocente para com os filisteus quando lhes fizer mal."
+  },
+  "p1": [
+   {
+    "uid": "U1-JDG-015:003-1",
+    "ref": "JDG 15:3",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "Sansão",
+    "ancora": "Desta vez serei inocente para com os filisteus quando lhes fizer mal",
+    "resumo": "Sansão anuncia que fará mal aos filisteus"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JDG-015:003-1",
+    "ref": "JDG 15:3",
+    "tipo": "declaracao_sem_compromisso",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "Sansão",
+    "ancora": "Desta vez serei inocente para com os filisteus quando lhes fizer mal.",
+    "resumo": "Sansão declara que desta vez será inocente para com os filisteus quando lhes fizer mal."
+   }
+  ]
+ },
+ {
+  "id": "F3-JDG-011",
+  "livro": "JDG",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "JDG 17:3",
+  "fim": "JDG 17:3",
+  "texto": {
+   "JDG 17:3": "Ele devolveu as mil e cem peças de prata a sua mãe. Ela disse: Consagro inteiramente este dinheiro de minha mão ao SENHOR em favor de meu filho, para fazer uma imagem esculpida e uma imagem de metal fundido. Agora, portanto, eu o devolvo a ti."
+  },
+  "p1": [
+   {
+    "uid": "U1-JDG-017:003-1",
+    "ref": "JDG 17:3",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": null,
+    "destinatario": "indeterminado",
+    "condicao": null,
+    "promitente": "a mãe de Mica",
+    "ancora": "Consagro inteiramente este dinheiro de minha mão ao SENHOR em favor de meu filho",
+    "resumo": "A mãe de Mica consagra a prata ao SENHOR"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JDG-017:003-1",
+    "ref": "JDG 17:3",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "mãe de Mica",
+    "ancora": "Consagro inteiramente este dinheiro de minha mão ao SENHOR em favor de meu filho, para fazer uma imagem esculpida e uma imagem de metal fundido.",
+    "resumo": "A mãe de Mica consagra o dinheiro ao SENHOR em favor de seu filho com o propósito futuro de confeccionar uma imagem esculpida e uma imagem de metal fundido."
+   }
+  ]
+ },
+ {
+  "id": "F3-JDG-012",
+  "livro": "JDG",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "JDG 18:10",
+  "fim": "JDG 18:10",
+  "texto": {
+   "JDG 18:10": "Quando chegardes, encontrareis um povo confiante e uma terra espaçosa. Deus a entregou em vossas mãos, um lugar onde não falta coisa alguma que há na terra."
+  },
+  "p1": [
+   {
+    "uid": "U1-JDG-018:010-1",
+    "ref": "JDG 18:10",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "os cinco espias danitas",
+    "ancora": "Deus a entregou em vossas mãos",
+    "resumo": "Os espias afirmam que Deus entregou Laís aos danitas"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JDG-018:010-1",
+    "ref": "JDG 18:10",
+    "tipo": "declaracao_sem_compromisso",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "os cinco homens de Dã",
+    "ancora": "Deus a entregou em vossas mãos, um lugar onde não falta coisa alguma que há na terra.",
+    "resumo": "Os espias afirmam a seus irmãos que Deus entregou a terra espaçosa e próspera de Laís nas mãos dos danitas."
+   }
+  ]
+ },
+ {
+  "id": "F3-JDG-013",
+  "livro": "JDG",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "JDG 19:24",
+  "fim": "JDG 19:24",
+  "texto": {
+   "JDG 19:24": "Eis aqui minha filha virgem e a concubina dele. Eu as trarei para fora; humilhai-as e fazei com elas o que parecer bem aos vossos olhos. Porém não façais tal infâmia a este homem."
+  },
+  "p1": [
+   {
+    "uid": "U1-JDG-019:024-1",
+    "ref": "JDG 19:24",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "o velho de Gibeá",
+    "ancora": "Eu as trarei para fora",
+    "resumo": "O velho de Gibeá oferece sua filha e a concubina aos homens perversos"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JDG-019:024-1",
+    "ref": "JDG 19:24",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "contextual",
+    "promitente": "o dono da casa",
+    "ancora": "Eis aqui minha filha virgem e a concubina dele. Eu as trarei para fora; humilhai-as e fazei com elas o que parecer bem aos vossos olhos.",
+    "resumo": "O dono da casa oferece trazer para fora sua filha e a concubina do levita aos homens de Gibeá para que não façam mal ao hóspede."
+   }
+  ]
+ },
+ {
+  "id": "F3-JDG-014",
+  "livro": "JDG",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "JDG 21:18",
+  "fim": "JDG 21:18",
+  "texto": {
+   "JDG 21:18": "Contudo, não podemos dar-lhes mulheres dentre nossas filhas, pois os filhos de Israel juraram: ‘Maldito aquele que der mulher a Benjamim.’"
+  },
+  "p1": [
+   {
+    "uid": "U1-JDG-021:018-1",
+    "ref": "JDG 21:18",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "os filhos de Israel",
+    "ancora": "Maldito aquele que der mulher a Benjamim",
+    "resumo": "Os filhos de Israel juraram maldição contra quem desse mulher a Benjamim"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JDG-021:018-1",
+    "ref": "JDG 21:18",
+    "tipo": "declaracao_sem_compromisso",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "filhos de Israel",
+    "ancora": "pois os filhos de Israel juraram: ‘Maldito aquele que der mulher a Benjamim.’",
+    "resumo": "Os anciãos citam a fórmula de maldição do juramento anterior dos filhos de Israel contra quem der mulher a Benjamim."
+   }
+  ]
+ },
+ {
+  "id": "F3-JDG-015",
+  "livro": "JDG",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "JDG 1:3",
+  "fim": "JDG 1:3",
+  "texto": {
+   "JDG 1:3": "Então Judá disse a Simeão, seu irmão: Sobe comigo ao território que me coube por sorte, e lutemos contra os cananeus. Eu também irei contigo ao território que te coube. E Simeão foi com ele."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JDG-001:003-1",
+    "ref": "JDG 1:3",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "contextual",
+    "promitente": "Judá",
+    "ancora": "Eu também irei contigo ao território que te coube.",
+    "resumo": "Judá promete acompanhar Simeão para lutar pelo território dele em retribuição à sua ajuda."
+   }
+  ]
+ },
+ {
+  "id": "F3-JDG-016",
+  "livro": "JDG",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "JDG 4:8",
+  "fim": "JDG 4:8",
+  "texto": {
+   "JDG 4:8": "Baraque lhe disse: Se fores comigo, irei; porém, se não fores comigo, não irei."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JDG-004:008-1",
+    "ref": "JDG 4:8",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "explicita",
+    "promitente": "Baraque",
+    "ancora": "Se fores comigo, irei; porém, se não fores comigo, não irei.",
+    "resumo": "Baraque se compromete com Débora a ir à batalha sob a condição explícita de que ela vá com ele."
+   }
+  ]
+ },
+ {
+  "id": "F3-JDG-017",
+  "livro": "JDG",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "JDG 4:22",
+  "fim": "JDG 4:22",
+  "texto": {
+   "JDG 4:22": "Enquanto Baraque perseguia Sísera, Jael saiu ao encontro dele e disse: Vem, e eu te mostrarei o homem que procuras. Ele entrou com ela e viu Sísera caído morto, com a estaca atravessada na têmpora."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JDG-004:022-1",
+    "ref": "JDG 4:22",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "Jael",
+    "ancora": "Vem, e eu te mostrarei o homem que procuras.",
+    "resumo": "Jael promete a Baraque mostrar-lhe o homem que ele procura."
+   }
+  ]
+ },
+ {
+  "id": "F3-JDG-018",
+  "livro": "JDG",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "JDG 6:18",
+  "fim": "JDG 6:18",
+  "texto": {
+   "JDG 6:18": "Peço-te que não saias daqui até que eu volte, traga minha oferta e a coloque diante de ti. Ele respondeu: Esperarei até que voltes."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JDG-006:018-1",
+    "ref": "JDG 6:18",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "deus_indistinto",
+    "ancora": "Esperarei até que voltes.",
+    "resumo": "O SENHOR promete a Gideão que aguardará no local até que ele retorne com sua oferta."
+   }
+  ]
+ },
+ {
+  "id": "F3-JDG-019",
+  "livro": "JDG",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "JDG 6:23",
+  "fim": "JDG 6:23",
+  "texto": {
+   "JDG 6:23": "O SENHOR lhe disse: Paz seja contigo. Não temas, não morrerás."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JDG-006:023-1",
+    "ref": "JDG 6:23",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "deus_indistinto",
+    "ancora": "Paz seja contigo.",
+    "resumo": "O SENHOR pronuncia paz sobre Gideão após ele temer por ter visto o Anjo do SENHOR."
+   }
+  ]
+ },
+ {
+  "id": "F3-JDG-020",
+  "livro": "JDG",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "JDG 7:4",
+  "fim": "JDG 7:4",
+  "texto": {
+   "JDG 7:4": "O SENHOR disse a Gideão: O povo ainda é numeroso demais. Faze-os descer às águas, e ali os provarei para ti. Aquele de quem eu te disser: Este irá contigo, irá; e aquele de quem eu te disser: Este não irá contigo, não irá."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JDG-007:004-1",
+    "ref": "JDG 7:4",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "contextual",
+    "promitente": "deus_indistinto",
+    "ancora": "Faze-os descer às águas, e ali os provarei para ti.",
+    "resumo": "O SENHOR promete provar o povo junto às águas para Gideão, indicando quem irá com ele."
+   }
+  ]
+ },
+ {
+  "id": "F3-JDG-021",
+  "livro": "JDG",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "JDG 7:7",
+  "fim": "JDG 7:7",
+  "texto": {
+   "JDG 7:7": "O SENHOR disse a Gideão: Com os trezentos homens que lamberam a água eu os salvarei e entregarei Midiã em tuas mãos. Que todo o restante do povo volte, cada um para sua casa."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JDG-007:007-1",
+    "ref": "JDG 7:7",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": "deus_indistinto",
+    "ancora": "Com os trezentos homens que lamberam a água eu os salvarei",
+    "resumo": "O SENHOR promete salvar Israel por meio dos trezentos homens escolhidos."
+   }
+  ]
+ },
+ {
+  "id": "F3-JDG-022",
+  "livro": "JDG",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "JDG 8:22",
+  "fim": "JDG 8:22",
+  "texto": {
+   "JDG 8:22": "Então os homens de Israel disseram a Gideão: Governa sobre nós, tu, teu filho e o filho de teu filho, porque nos livraste das mãos de Midiã."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JDG-008:022-1",
+    "ref": "JDG 8:22",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "familia_ou_linhagem",
+    "condicao": "nenhuma",
+    "promitente": "homens de Israel",
+    "ancora": "Governa sobre nós, tu, teu filho e o filho de teu filho, porque nos livraste das mãos de Midiã.",
+    "resumo": "Os homens de Israel oferecem governo hereditário a Gideão e sua linhagem."
+   }
+  ]
+ },
+ {
+  "id": "F3-JDG-023",
+  "livro": "JDG",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "JDG 11:2",
+  "fim": "JDG 11:2",
+  "texto": {
+   "JDG 11:2": "A mulher de Gileade também lhe deu filhos. Quando os filhos dessa mulher cresceram, expulsaram Jefté e lhe disseram: Não herdarás na casa de nosso pai, porque és filho de outra mulher."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JDG-011:002-1",
+    "ref": "JDG 11:2",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "filhos da mulher de Gileade",
+    "ancora": "Não herdarás na casa de nosso pai, porque és filho de outra mulher.",
+    "resumo": "Os filhos da mulher de Gileade decretam que Jefté não herdará na casa do pai."
+   }
+  ]
+ },
+ {
+  "id": "F3-JDG-024",
+  "livro": "JDG",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "JDG 11:6",
+  "fim": "JDG 11:6",
+  "texto": {
+   "JDG 11:6": "Disseram-lhe: Vem e sê nosso comandante, para que pelejemos contra os filhos de Amom."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JDG-011:006-1",
+    "ref": "JDG 11:6",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "anciãos de Gileade",
+    "ancora": "Vem e sê nosso comandante, para que pelejemos contra os filhos de Amom.",
+    "resumo": "Os anciãos de Gileade oferecem a Jefté o posto de comandante na guerra contra os filhos de Amom."
+   }
+  ]
+ },
+ {
+  "id": "F3-JDG-025",
+  "livro": "JDG",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "JDG 11:9",
+  "fim": "JDG 11:10",
+  "texto": {
+   "JDG 11:9": "Jefté perguntou aos anciãos de Gileade: Se me levarem de volta para pelejar contra os filhos de Amom, e o SENHOR os entregar diante de mim, serei chefe de vocês?",
+   "JDG 11:10": "Os anciãos de Gileade responderam: O SENHOR seja testemunha entre nós se não fizermos conforme tua palavra."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JDG-011:009-1",
+    "ref": "JDG 11:9-11:10",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "explicita",
+    "promitente": "anciãos de Gileade",
+    "ancora": "O SENHOR seja testemunha entre nós se não fizermos conforme tua palavra.",
+    "resumo": "Os anciãos de Gileade juram diante do SENHOR fazer Jefté seu chefe, caso o levem para lutar contra Amom e o SENHOR os entregue."
+   }
+  ]
+ },
+ {
+  "id": "F3-JDG-026",
+  "livro": "JDG",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "JDG 13:17",
+  "fim": "JDG 13:17",
+  "texto": {
+   "JDG 13:17": "Manoá perguntou ao Anjo do SENHOR: Qual é teu nome, para que, quando tua palavra se cumprir, possamos honrar-te?"
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JDG-013:017-1",
+    "ref": "JDG 13:17",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "explicita",
+    "promitente": "Manoá",
+    "ancora": "para que, quando tua palavra se cumprir, possamos honrar-te?",
+    "resumo": "Manoá manifesta a intenção de honrar o mensageiro quando sua palavra se cumprir."
+   }
+  ]
+ },
+ {
+  "id": "F3-JDG-027",
+  "livro": "JDG",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "JDG 15:2",
+  "fim": "JDG 15:2",
+  "texto": {
+   "JDG 15:2": "O pai dela disse: Eu estava certo de que a odiavas, por isso a dei a teu companheiro. Sua irmã mais nova não é mais bonita que ela? Toma-a em lugar dela."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JDG-015:002-1",
+    "ref": "JDG 15:2",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "pai da mulher de Sansão",
+    "ancora": "Toma-a em lugar dela.",
+    "resumo": "O pai da mulher de Sansão oferece-lhe a irmã mais nova em casamento no lugar da primeira."
+   }
+  ]
+ },
+ {
+  "id": "F3-JDG-028",
+  "livro": "JDG",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "JDG 15:13",
+  "fim": "JDG 15:13",
+  "texto": {
+   "JDG 15:13": "Eles responderam: Não. Apenas te amarraremos firmemente e te entregaremos nas mãos deles. De modo algum te mataremos. Amarraram-no com duas cordas novas e fizeram-no subir da rocha."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JDG-015:013-1",
+    "ref": "JDG 15:13",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "três mil homens de Judá",
+    "ancora": "Apenas te amarraremos firmemente e te entregaremos nas mãos deles.",
+    "resumo": "Os homens de Judá comprometem-se a apenas amarrar Sansão firmemente e entregá-lo aos filisteus."
+   }
+  ]
+ },
+ {
+  "id": "F3-JDG-029",
+  "livro": "JDG",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "JDG 18:19",
+  "fim": "JDG 18:19",
+  "texto": {
+   "JDG 18:19": "Eles lhe responderam: Cala-te, põe a mão sobre a boca, vem conosco e sê para nós pai e sacerdote. É melhor seres sacerdote da casa de um só homem ou sacerdote de uma tribo e família em Israel?"
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JDG-018:019-1",
+    "ref": "JDG 18:19",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "explicita",
+    "promitente": "os cinco homens de Dã",
+    "ancora": "vem conosco e sê para nós pai e sacerdote. É melhor seres sacerdote da casa de um só homem ou sacerdote de uma tribo e família em Israel?",
+    "resumo": "Os homens de Dã oferecem ao jovem levita o cargo de pai e sacerdote de toda uma tribo e família em Israel se ele for com eles."
+   }
+  ]
+ },
+ {
+  "id": "F3-JDG-030",
+  "livro": "JDG",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "JDG 21:13",
+  "fim": "JDG 21:13",
+  "texto": {
+   "JDG 21:13": "Então toda a congregação enviou mensageiros aos filhos de Benjamim que estavam na rocha de Rimom e lhes proclamou paz."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JDG-021:013-1",
+    "ref": "JDG 21:13",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "toda a congregação",
+    "ancora": "lhes proclamou paz",
+    "resumo": "Toda a congregação envia mensageiros e proclama paz aos filhos de Benjamim na rocha de Rimom."
+   }
+  ]
+ },
+ {
+  "id": "F3-JDG-031",
+  "livro": "JDG",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "JDG 21:22",
+  "fim": "JDG 21:22",
+  "texto": {
+   "JDG 21:22": "Quando os pais ou irmãos delas vierem discutir conosco, diremos: ‘Tende compaixão deles por nossa causa, pois não conseguimos tomar na guerra uma mulher para cada um. Além disso, não fostes vós que lhes destes as mulheres, para que agora sejais culpados.’"
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JDG-021:022-1",
+    "ref": "JDG 21:22",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "explicita",
+    "promitente": "anciãos da congregação",
+    "ancora": "Quando os pais ou irmãos delas vierem discutir conosco, diremos: ‘Tende compaixão deles por nossa causa",
+    "resumo": "Os anciãos se comprometem perante os benjamitas a interceder junto aos pais e irmãos das filhas de Siló caso venham reclamar."
+   }
+  ]
+ },
+ {
+  "id": "F3-RUT-001",
+  "livro": "RUT",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "RUT 1:10",
+  "fim": "RUT 1:10",
+  "texto": {
+   "RUT 1:10": "Disseram-lhe: Certamente voltaremos com você para seu povo."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-RUT-001:010-1",
+    "ref": "RUT 1:10",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "Orfa e Rute",
+    "ancora": "Certamente voltaremos com você para seu povo.",
+    "resumo": "Orfa e Rute comprometem-se a voltar com Noemi para o povo dela."
+   }
+  ]
+ },
+ {
+  "id": "F3-RUT-002",
+  "livro": "RUT",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "RUT 2:9",
+  "fim": "RUT 2:9",
+  "texto": {
+   "RUT 2:9": "Mantenha os olhos no campo que elas estiverem ceifando e siga-as. Ordenei aos servos que não a incomodem. Quando tiver sede, vá aos vasos e beba da água que os servos tirarem."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-RUT-002:009-1",
+    "ref": "RUT 2:9",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "Boaz",
+    "ancora": "Ordenei aos servos que não a incomodem.",
+    "resumo": "Boaz assegura proteção a Rute em seu campo, declarando que ordenou aos servos que não a incomodem."
+   }
+  ]
+ },
+ {
+  "id": "F3-RUT-003",
+  "livro": "RUT",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "RUT 2:9",
+  "fim": "RUT 2:9",
+  "texto": {
+   "RUT 2:9": "Mantenha os olhos no campo que elas estiverem ceifando e siga-as. Ordenei aos servos que não a incomodem. Quando tiver sede, vá aos vasos e beba da água que os servos tirarem."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-RUT-002:009-2",
+    "ref": "RUT 2:9",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "Boaz",
+    "ancora": "Quando tiver sede, vá aos vasos e beba da água que os servos tirarem.",
+    "resumo": "Boaz oferece a Rute o direito de beber da água tirada por seus servos sempre que tiver sede."
+   }
+  ]
+ },
+ {
+  "id": "F3-1SA-001",
+  "livro": "1SA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1SA 1:22",
+  "fim": "1SA 1:22",
+  "texto": {
+   "1SA 1:22": "Ana, porém, não subiu, pois disse a seu marido: Quando o menino for desmamado, eu o levarei, para que apareça diante do SENHOR e ali permaneça para sempre."
+  },
+  "p1": [
+   {
+    "uid": "U1-1SA-001:022-1",
+    "ref": "1SA 1:22",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "explicita",
+    "promitente": "Ana",
+    "ancora": "eu o levarei",
+    "resumo": "Ana promete levar o menino ao SENHOR depois de desmamado"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-1SA-002",
+  "livro": "1SA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1SA 1:28",
+  "fim": "1SA 1:28",
+  "texto": {
+   "1SA 1:28": "Por isso também o entrego ao SENHOR. Por todos os dias que viver, será entregue ao SENHOR. E ele adorou ali ao SENHOR."
+  },
+  "p1": [
+   {
+    "uid": "U1-1SA-001:028-1",
+    "ref": "1SA 1:28",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "Ana",
+    "ancora": "Por todos os dias que viver, será entregue ao SENHOR",
+    "resumo": "Ana entrega Samuel ao SENHOR por toda a vida dele"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-1SA-001:028-1",
+    "ref": "1SA 1:28",
+    "tipo": "desejo_ou_bencao_votiva",
+    "origem": "humana_votiva",
+    "natureza": "bencao",
+    "destinatario": "indeterminado",
+    "condicao": "nenhuma",
+    "promitente": "Ana",
+    "ancora": "Por isso também o entrego ao SENHOR. Por todos os dias que viver, será entregue ao SENHOR.",
+    "resumo": "Ana entrega Samuel ao SENHOR e declara que ele permanecerá entregue ao SENHOR por todos os dias que viver."
+   }
+  ]
+ },
+ {
+  "id": "F3-1SA-003",
+  "livro": "1SA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1SA 2:30",
+  "fim": "1SA 2:30",
+  "texto": {
+   "1SA 2:30": "Portanto, diz o SENHOR, Deus de Israel: Eu certamente havia dito que sua casa e a casa de seu pai andariam diante de mim para sempre. Porém agora diz o SENHOR: Longe de mim tal coisa, pois honrarei os que me honram, mas os que me desprezam serão tratados com desprezo."
+  },
+  "p1": [
+   {
+    "uid": "U1-1SA-002:030-1",
+    "ref": "1SA 2:30",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "deus_indistinto",
+    "ancora": "honrarei os que me honram, mas os que me desprezam serão tratados com desprezo",
+    "resumo": "O SENHOR declara honrar quem o honra e desprezar quem o despreza"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-1SA-002:030-2",
+    "ref": "1SA 2:30",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "explicita",
+    "promitente": "homem de Deus",
+    "ancora": "honrarei os que me honram",
+    "resumo": "O SENHOR promete honrar aqueles que o honram."
+   },
+   {
+    "uid": "U2-1SA-002:030-3",
+    "ref": "1SA 2:30",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": "explicita",
+    "promitente": "homem de Deus",
+    "ancora": "mas os que me desprezam serão tratados com desprezo.",
+    "resumo": "O SENHOR anuncia juízo de desprezo contra aqueles que o desprezam."
+   }
+  ]
+ },
+ {
+  "id": "F3-1SA-004",
+  "livro": "1SA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1SA 3:11",
+  "fim": "1SA 3:11",
+  "texto": {
+   "1SA 3:11": "O SENHOR disse a Samuel: Eis que farei algo em Israel que fará retinir ambos os ouvidos de todo aquele que o ouvir."
+  },
+  "p1": [
+   {
+    "uid": "U1-1SA-003:011-1",
+    "ref": "1SA 3:11",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "deus_indistinto",
+    "ancora": "farei algo em Israel que fará retinir ambos os ouvidos",
+    "resumo": "O SENHOR anuncia ato em Israel que chocará quem o ouvir"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-1SA-005",
+  "livro": "1SA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1SA 3:11",
+  "fim": "1SA 3:14",
+  "texto": {
+   "1SA 3:11": "O SENHOR disse a Samuel: Eis que farei algo em Israel que fará retinir ambos os ouvidos de todo aquele que o ouvir.",
+   "1SA 3:12": "Naquele dia cumprirei contra Eli tudo o que falei a respeito de sua casa, do começo ao fim.",
+   "1SA 3:13": "Eu lhe declarei que julgarei sua casa para sempre, por causa da iniquidade que ele conhecia, pois seus filhos se fizeram desprezíveis, e ele não os repreendeu.",
+   "1SA 3:14": "Portanto, jurei à casa de Eli que a iniquidade de sua casa jamais será expiada com sacrifício nem com oferta de cereal."
+  },
+  "p1": [
+   {
+    "uid": "U1-1SA-003:012-1",
+    "ref": "1SA 3:12-3:14",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "familia_ou_linhagem",
+    "condicao": null,
+    "promitente": "deus_indistinto",
+    "ancora": "cumprirei contra Eli tudo o que falei a respeito de sua casa",
+    "resumo": "O SENHOR cumprirá juízo sobre a casa de Eli, jurado sem expiação"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-1SA-003:011-1",
+    "ref": "1SA 3:11-3:13",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "familia_ou_linhagem",
+    "condicao": "nenhuma",
+    "promitente": "deus_indistinto",
+    "ancora": "Naquele dia cumprirei contra Eli tudo o que falei a respeito de sua casa, do começo ao fim.",
+    "resumo": "O SENHOR anuncia que fará algo espantoso em Israel, cumprindo contra Eli tudo o que falou a respeito de sua casa e julgando sua casa para sempre por causa da iniquidade de seus filhos."
+   },
+   {
+    "uid": "U2-1SA-003:014-1",
+    "ref": "1SA 3:14",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "familia_ou_linhagem",
+    "condicao": "nenhuma",
+    "promitente": "deus_indistinto",
+    "ancora": "Portanto, jurei à casa de Eli que a iniquidade de sua casa jamais será expiada com sacrifício nem com oferta de cereal.",
+    "resumo": "O SENHOR jura à casa de Eli que a iniquidade de sua casa jamais será expiada por sacrifício nem por oferta de cereal."
+   }
+  ]
+ },
+ {
+  "id": "F3-1SA-006",
+  "livro": "1SA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1SA 7:3",
+  "fim": "1SA 7:3",
+  "texto": {
+   "1SA 7:3": "Então Samuel falou a toda a casa de Israel: Se vocês voltarem ao SENHOR de todo o coração, tirem do meio de vocês os deuses estrangeiros e as Astarotes, preparem o coração para o SENHOR e sirvam somente a ele; e ele os livrará da mão dos filisteus."
+  },
+  "p1": [
+   {
+    "uid": "U1-1SA-007:003-1",
+    "ref": "1SA 7:3",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "explicita",
+    "promitente": "Samuel",
+    "ancora": "ele os livrará da mão dos filisteus",
+    "resumo": "Samuel diz que o SENHOR livrará Israel se voltar a ele de todo o coração"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-1SA-007:003-1",
+    "ref": "1SA 7:3",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "explicita",
+    "promitente": "Samuel",
+    "ancora": "e ele os livrará da mão dos filisteus.",
+    "resumo": "Samuel garante a toda a casa de Israel que o SENHOR os livrará da mão dos filisteus se voltarem a ele de todo o coração e servirem somente a ele."
+   }
+  ]
+ },
+ {
+  "id": "F3-1SA-007",
+  "livro": "1SA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1SA 9:19",
+  "fim": "1SA 9:19",
+  "texto": {
+   "1SA 9:19": "Samuel respondeu a Saul: Eu sou o vidente. Suba adiante de mim ao lugar alto, pois hoje vocês comerão comigo. Pela manhã eu o despedirei e lhe declararei tudo o que está em seu coração."
+  },
+  "p1": [
+   {
+    "uid": "U1-1SA-009:019-1",
+    "ref": "1SA 9:19",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "Samuel",
+    "ancora": "eu o despedirei e lhe declararei tudo o que está em seu coração",
+    "resumo": "Samuel promete a Saul despedi-lo e declarar o que há em seu coração"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-1SA-009:019-2",
+    "ref": "1SA 9:19",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "Samuel",
+    "ancora": "Pela manhã eu o despedirei",
+    "resumo": "Samuel promete despedir Saul na manhã seguinte."
+   },
+   {
+    "uid": "U2-1SA-009:019-3",
+    "ref": "1SA 9:19",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "Samuel",
+    "ancora": "lhe declararei tudo o que está em seu coração.",
+    "resumo": "Samuel promete revelar a Saul tudo o que está em seu coração."
+   }
+  ]
+ },
+ {
+  "id": "F3-1SA-008",
+  "livro": "1SA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1SA 10:7",
+  "fim": "1SA 10:7",
+  "texto": {
+   "1SA 10:7": "Quando esses sinais acontecerem, faça o que estiver ao alcance de sua mão, pois Deus está com você."
+  },
+  "p1": [
+   {
+    "uid": "U1-1SA-010:007-1",
+    "ref": "1SA 10:7",
+    "tipo": "declaracao_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": null,
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "pois Deus está com você",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-1SA-010:007-1",
+    "ref": "1SA 10:7",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "Samuel",
+    "ancora": "Quando esses sinais acontecerem, faça o que estiver ao alcance de sua mão, pois Deus está com você.",
+    "resumo": "Samuel assegura a Saul, com base nos sinais anunciados, que Deus está com ele para agir conforme a ocasião."
+   }
+  ]
+ }
+]

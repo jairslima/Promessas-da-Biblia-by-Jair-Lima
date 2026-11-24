@@ -1,0 +1,1232 @@
+[
+ {
+  "id": "F3-JOS-001",
+  "livro": "JOS",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "JOS 1:2",
+  "fim": "JOS 1:4",
+  "texto": {
+   "JOS 1:2": "Moisés, meu servo, morreu. Agora, pois, levanta-te, atravessa este Jordão, tu e todo este povo, para a terra que eu dou aos filhos de Israel.",
+   "JOS 1:3": "Todo lugar que a planta do vosso pé pisar, eu vos dei, como disse a Moisés.",
+   "JOS 1:4": "Desde o deserto e este Líbano até o grande rio, o rio Eufrates, toda a terra dos heteus, e até o grande mar, onde o sol se põe, será o vosso território."
+  },
+  "p1": [
+   {
+    "uid": "U1-JOS-001:002-1",
+    "ref": "JOS 1:2-1:4",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "deus_indistinto",
+    "ancora": "será o vosso território",
+    "resumo": "A terra, de ponto a ponto, será o território de Israel."
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-JOS-002",
+  "livro": "JOS",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "JOS 1:13",
+  "fim": "JOS 1:13",
+  "texto": {
+   "JOS 1:13": "Lembrai-vos da palavra que Moisés, servo do SENHOR, vos ordenou, dizendo: ‘O SENHOR, vosso Deus, vos dá descanso e vos dá esta terra.’"
+  },
+  "p1": [
+   {
+    "uid": "U1-JOS-001:013-1",
+    "ref": "JOS 1:13",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "Moisés",
+    "ancora": "O SENHOR, vosso Deus, vos dá descanso e vos dá esta terra",
+    "resumo": "Josué invoca a palavra de Moisés: Deus dá descanso e terra às tribos."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JOS-001:013-1",
+    "ref": "JOS 1:13",
+    "tipo": "declaracao_sem_compromisso",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "Josué",
+    "ancora": "O SENHOR, vosso Deus, vos dá descanso e vos dá esta terra.",
+    "resumo": "Josué recorda a palavra anterior de Moisés de que o SENHOR dá descanso e a terra transjordana às duas tribos e meia."
+   }
+  ]
+ },
+ {
+  "id": "F3-JOS-003",
+  "livro": "JOS",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "JOS 1:18",
+  "fim": "JOS 1:18",
+  "texto": {
+   "JOS 1:18": "Todo homem que se rebelar contra tua ordem e não ouvir tuas palavras em tudo quanto lhe ordenares será morto. Tão somente sê forte e corajoso."
+  },
+  "p1": [
+   {
+    "uid": "U1-JOS-001:018-1",
+    "ref": "JOS 1:18",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "juizo",
+    "destinatario": "indeterminado",
+    "condicao": "explicita",
+    "promitente": "as tribos do leste",
+    "ancora": "será morto",
+    "resumo": "Quem se rebelar contra Josué será morto."
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-JOS-004",
+  "livro": "JOS",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "JOS 6:3",
+  "fim": "JOS 6:5",
+  "texto": {
+   "JOS 6:3": "Vós, todos os homens de guerra, rodeareis a cidade, dando uma volta ao redor dela. Assim fareis durante seis dias.",
+   "JOS 6:4": "Sete sacerdotes levarão sete trombetas de chifre de carneiro diante da Arca. No sétimo dia rodeareis a cidade sete vezes, e os sacerdotes tocarão as trombetas.",
+   "JOS 6:5": "Quando fizerem soar prolongadamente o chifre de carneiro, assim que ouvirdes o som da trombeta, todo o povo dará um grande grito. Então o muro da cidade cairá abaixo de si, e o povo subirá, cada um diretamente à sua frente."
+  },
+  "p1": [
+   {
+    "uid": "U1-JOS-006:003-1",
+    "ref": "JOS 6:3-6:5",
+    "tipo": "mandamento",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "o muro da cidade cairá abaixo de si",
+    "resumo": "Se rodearem a cidade como mandado, o muro cairá."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JOS-006:005-1",
+    "ref": "JOS 6:5",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "explicita",
+    "promitente": null,
+    "ancora": "Então o muro da cidade cairá abaixo de si, e o povo subirá, cada um diretamente à sua frente.",
+    "resumo": "O SENHOR promete que, após o cerco, o toque prolongado da trombeta e o grande grito do povo, o muro de Jericó cairá e o povo subirá à cidade."
+   }
+  ]
+ },
+ {
+  "id": "F3-JOS-005",
+  "livro": "JOS",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "JOS 7:12",
+  "fim": "JOS 7:13",
+  "texto": {
+   "JOS 7:12": "Por isso, os filhos de Israel não poderão resistir diante de seus inimigos. Virarão as costas diante deles, porque se tornaram condenados à destruição. Não estarei mais com vocês, se não eliminarem do meio de vocês a coisa condenada à destruição.",
+   "JOS 7:13": "Levanta-te, santifica o povo e dize: ‘Santifiquem-se para amanhã, pois assim diz o SENHOR, o Deus de Israel: Há uma coisa condenada à destruição no meio de ti, Israel. Não poderás resistir diante de teus inimigos até que a retires do meio de vocês."
+  },
+  "p1": [
+   {
+    "uid": "U1-JOS-007:012-1",
+    "ref": "JOS 7:12-7:13",
+    "tipo": "advertencia",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Não estarei mais com vocês, se não eliminarem do meio de vocês a coisa condenada à destruição",
+    "resumo": "Israel não resistirá aos inimigos e Deus não estará com eles se não eliminarem a coisa condenada."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JOS-007:012-2",
+    "ref": "JOS 7:12",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": "explicita",
+    "promitente": null,
+    "ancora": "Não estarei mais com vocês, se não eliminarem do meio de vocês a coisa condenada à destruição.",
+    "resumo": "O SENHOR declara que não estará mais com Israel se não eliminarem a coisa condenada à destruição."
+   },
+   {
+    "uid": "U2-JOS-007:013-1",
+    "ref": "JOS 7:13",
+    "tipo": "advertencia",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Não poderás resistir diante de teus inimigos até que a retires do meio de vocês.",
+    "resumo": "O SENHOR adverte Israel de que não poderá resistir diante dos inimigos até retirar a coisa condenada à destruição."
+   }
+  ]
+ },
+ {
+  "id": "F3-JOS-006",
+  "livro": "JOS",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "JOS 7:15",
+  "fim": "JOS 7:15",
+  "texto": {
+   "JOS 7:15": "Aquele que for apanhado com a coisa condenada à destruição será queimado no fogo, ele e tudo quanto lhe pertence, porque transgrediu a aliança do SENHOR e cometeu infâmia em Israel’."
+  },
+  "p1": [
+   {
+    "uid": "U1-JOS-007:015-1",
+    "ref": "JOS 7:15",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "indeterminado",
+    "condicao": "explicita",
+    "promitente": "deus_indistinto",
+    "ancora": "será queimado no fogo, ele e tudo quanto lhe pertence",
+    "resumo": "Quem for apanhado com a coisa condenada será queimado."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JOS-007:015-1",
+    "ref": "JOS 7:15",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": null,
+    "ancora": "Aquele que for apanhado com a coisa condenada à destruição será queimado no fogo, ele e tudo quanto lhe pertence, porque transgrediu a aliança do SENHOR e cometeu infâmia em Israel",
+    "resumo": "O SENHOR sentencia que o transgressor apanhado com a coisa condenada à destruição será queimado no fogo com tudo o que possui."
+   }
+  ]
+ },
+ {
+  "id": "F3-JOS-007",
+  "livro": "JOS",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "JOS 7:25",
+  "fim": "JOS 7:25",
+  "texto": {
+   "JOS 7:25": "Josué disse: Por que nos trouxeste desgraça? Hoje o SENHOR trará desgraça sobre ti. Então todo o Israel o apedrejou; depois os queimaram e os apedrejaram."
+  },
+  "p1": [
+   {
+    "uid": "U1-JOS-007:025-1",
+    "ref": "JOS 7:25",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "Josué",
+    "ancora": "Hoje o SENHOR trará desgraça sobre ti",
+    "resumo": "Josué anuncia desgraça sobre Acã."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JOS-007:025-1",
+    "ref": "JOS 7:25",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "Josué",
+    "ancora": "Hoje o SENHOR trará desgraça sobre ti.",
+    "resumo": "Josué pronuncia sobre Acã a sentença de que o SENHOR trará desgraça sobre ele naquele dia."
+   }
+  ]
+ },
+ {
+  "id": "F3-JOS-008",
+  "livro": "JOS",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "JOS 10:25",
+  "fim": "JOS 10:25",
+  "texto": {
+   "JOS 10:25": "Então Josué lhes disse: Não temam nem se assustem. Sejam fortes e corajosos, pois assim o SENHOR fará a todos os inimigos contra os quais vocês guerrearem."
+  },
+  "p1": [
+   {
+    "uid": "U1-JOS-010:025-1",
+    "ref": "JOS 10:25",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "Josué",
+    "ancora": "assim o SENHOR fará a todos os inimigos contra os quais vocês guerrearem",
+    "resumo": "Josué anuncia que Deus fará assim a todos os inimigos."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JOS-010:025-1",
+    "ref": "JOS 10:25",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": "Josué",
+    "ancora": "pois assim o SENHOR fará a todos os inimigos contra os quais vocês guerrearem.",
+    "resumo": "Josué garante aos homens e comandantes de Israel que o SENHOR fará o mesmo a todos os inimigos contra os quais guerrearem."
+   }
+  ]
+ },
+ {
+  "id": "F3-JOS-009",
+  "livro": "JOS",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "JOS 14:9",
+  "fim": "JOS 14:9",
+  "texto": {
+   "JOS 14:9": "Naquele dia Moisés jurou: ‘Certamente a terra que teu pé pisou será tua e de teus filhos como herança para sempre, porque seguiste plenamente o SENHOR, meu Deus’."
+  },
+  "p1": [
+   {
+    "uid": "U1-JOS-014:009-1",
+    "ref": "JOS 14:9",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "Moisés",
+    "ancora": "Certamente a terra que teu pé pisou será tua e de teus filhos como herança para sempre",
+    "resumo": "Moisés jurou dar a Calebe e seus filhos a terra que pisou."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JOS-014:009-1",
+    "ref": "JOS 14:9",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "familia_ou_linhagem",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "Naquele dia Moisés jurou: ‘Certamente a terra que teu pé pisou será tua e de teus filhos como herança para sempre, porque seguiste plenamente o SENHOR, meu Deus’.",
+    "resumo": "Calebe invoca o juramento feito por Moisés, enquadrado como palavra do SENHOR, garantindo a terra pisada por ele como herança perpétua para si e seus filhos."
+   }
+  ]
+ },
+ {
+  "id": "F3-JOS-010",
+  "livro": "JOS",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "JOS 14:12",
+  "fim": "JOS 14:12",
+  "texto": {
+   "JOS 14:12": "Agora, pois, dá-me esta região montanhosa de que o SENHOR falou naquele dia. Naquele dia tu ouviste que os anaquins estavam ali e que havia cidades grandes e fortificadas. Talvez o SENHOR esteja comigo, e eu os expulsarei, conforme o SENHOR disse."
+  },
+  "p1": [
+   {
+    "uid": "U1-JOS-014:012-1",
+    "ref": "JOS 14:12",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "Calebe",
+    "ancora": "eu os expulsarei, conforme o SENHOR disse",
+    "resumo": "Calebe se propõe a expulsar os anaquins, se o SENHOR estiver com ele."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JOS-014:012-1",
+    "ref": "JOS 14:12",
+    "tipo": "declaracao_sem_compromisso",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "Calebe",
+    "ancora": "Talvez o SENHOR esteja comigo, e eu os expulsarei, conforme o SENHOR disse.",
+    "resumo": "Ao pedir a região montanhosa, Calebe expressa confiança humilde de que expulsará os anaquins com a presença do SENHOR, conforme a palavra divina."
+   }
+  ]
+ },
+ {
+  "id": "F3-JOS-011",
+  "livro": "JOS",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "JOS 17:17",
+  "fim": "JOS 17:18",
+  "texto": {
+   "JOS 17:17": "Então Josué disse à casa de José, a Efraim e a Manassés: Vocês são um povo numeroso e têm grande força. Não terão apenas uma sorte,",
+   "JOS 17:18": "pois a região montanhosa será de vocês. Embora seja um bosque, vocês o derrubarão e possuirão até suas extremidades. Expulsarão os cananeus, ainda que tenham carros de ferro e sejam fortes."
+  },
+  "p1": [
+   {
+    "uid": "U1-JOS-017:017-1",
+    "ref": "JOS 17:17-17:18",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "familia_ou_linhagem",
+    "condicao": null,
+    "promitente": "Josué",
+    "ancora": "a região montanhosa será de vocês",
+    "resumo": "Josué garante à casa de José a região montanhosa, que conquistarão."
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-JOS-012",
+  "livro": "JOS",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "JOS 23:15",
+  "fim": "JOS 23:16",
+  "texto": {
+   "JOS 23:15": "Assim como vieram sobre vocês todas as boas palavras que o SENHOR, seu Deus, lhes falou, também o SENHOR fará vir sobre vocês todas as palavras más, até destruí-los desta boa terra que o SENHOR, seu Deus, lhes deu.",
+   "JOS 23:16": "Se vocês transgredirem a aliança do SENHOR, seu Deus, que ele lhes ordenou, e forem servir outros deuses e se curvarem diante deles, a ira do SENHOR se acenderá contra vocês, e vocês rapidamente desaparecerão da boa terra que ele lhes deu."
+  },
+  "p1": [
+   {
+    "uid": "U1-JOS-023:015-1",
+    "ref": "JOS 23:15-23:16",
+    "tipo": "advertencia",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "Josué",
+    "ancora": "o SENHOR fará vir sobre vocês todas as palavras más, até destruí-los desta boa terra",
+    "resumo": "Se transgredirem a aliança, virão as palavras más e perecerão da terra."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JOS-023:015-1",
+    "ref": "JOS 23:15-23:16",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": "explicita",
+    "promitente": "deus_indistinto",
+    "ancora": "também o SENHOR fará vir sobre vocês todas as palavras más, até destruí-los desta boa terra que o SENHOR, seu Deus, lhes deu.",
+    "resumo": "Josué declara que, se Israel transgredir a aliança do SENHOR e servir outros deuses, a ira do SENHOR se acenderá e ele fará vir todas as palavras más até destruí-los da boa terra."
+   }
+  ]
+ },
+ {
+  "id": "F3-JOS-013",
+  "livro": "JOS",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "JOS 24:15",
+  "fim": "JOS 24:15",
+  "texto": {
+   "JOS 24:15": "Porém, se lhes parece mal servir o SENHOR, escolham hoje a quem servirão: os deuses aos quais seus pais serviram do outro lado do rio ou os deuses dos amorreus, em cuja terra vocês habitam. Eu e minha casa, porém, serviremos o SENHOR."
+  },
+  "p1": [
+   {
+    "uid": "U1-JOS-024:015-1",
+    "ref": "JOS 24:15",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "indeterminado",
+    "condicao": null,
+    "promitente": "Josué",
+    "ancora": "Eu e minha casa, porém, serviremos o SENHOR",
+    "resumo": "Josué se compromete a servir o SENHOR com sua casa."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JOS-024:015-1",
+    "ref": "JOS 24:15",
+    "tipo": "desejo_ou_bencao_votiva",
+    "origem": "humana_votiva",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": "nenhuma",
+    "promitente": "Josué",
+    "ancora": "Eu e minha casa, porém, serviremos o SENHOR.",
+    "resumo": "Josué compromete-se, com sua casa, a servir o SENHOR."
+   }
+  ]
+ },
+ {
+  "id": "F3-JOS-014",
+  "livro": "JOS",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "JOS 24:16",
+  "fim": "JOS 24:18",
+  "texto": {
+   "JOS 24:16": "O povo respondeu: Longe de nós abandonar o SENHOR para servir outros deuses,",
+   "JOS 24:17": "pois o SENHOR é nosso Deus. Foi ele quem fez subir a nós e a nossos pais da terra do Egito, da casa de escravidão, quem fez estes grandes sinais diante de nossos olhos e nos guardou por todo o caminho em que andamos e entre todos os povos pelos quais passamos.",
+   "JOS 24:18": "O SENHOR expulsou de diante de nós todas estas nações, inclusive os amorreus que habitavam na terra. Nós também serviremos o SENHOR, pois ele é nosso Deus."
+  },
+  "p1": [
+   {
+    "uid": "U1-JOS-024:018-1",
+    "ref": "JOS 24:18",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "indeterminado",
+    "condicao": null,
+    "promitente": "o povo de Israel",
+    "ancora": "Nós também serviremos o SENHOR, pois ele é nosso Deus",
+    "resumo": "O povo promete servir o SENHOR."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JOS-024:016-1",
+    "ref": "JOS 24:16-24:18",
+    "tipo": "desejo_ou_bencao_votiva",
+    "origem": "humana_votiva",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": "nenhuma",
+    "promitente": "o povo",
+    "ancora": "Nós também serviremos o SENHOR, pois ele é nosso Deus.",
+    "resumo": "O povo rejeita abandonar o SENHOR por outros deuses e compromete-se a servi-lo."
+   }
+  ]
+ },
+ {
+  "id": "F3-JOS-015",
+  "livro": "JOS",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "JOS 24:24",
+  "fim": "JOS 24:24",
+  "texto": {
+   "JOS 24:24": "O povo disse a Josué: Serviremos o SENHOR, nosso Deus, e obedeceremos à sua voz."
+  },
+  "p1": [
+   {
+    "uid": "U1-JOS-024:024-1",
+    "ref": "JOS 24:24",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "indeterminado",
+    "condicao": null,
+    "promitente": "o povo de Israel",
+    "ancora": "Serviremos o SENHOR, nosso Deus, e obedeceremos à sua voz",
+    "resumo": "O povo reafirma que servirá e obedecerá."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JOS-024:024-1",
+    "ref": "JOS 24:24",
+    "tipo": "desejo_ou_bencao_votiva",
+    "origem": "humana_votiva",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": "nenhuma",
+    "promitente": "o povo",
+    "ancora": "Serviremos o SENHOR, nosso Deus, e obedeceremos à sua voz.",
+    "resumo": "O povo compromete-se diante de Josué a servir o SENHOR e obedecer à sua voz."
+   }
+  ]
+ },
+ {
+  "id": "F3-JOS-016",
+  "livro": "JOS",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "JOS 1:2",
+  "fim": "JOS 1:4",
+  "texto": {
+   "JOS 1:2": "Moisés, meu servo, morreu. Agora, pois, levanta-te, atravessa este Jordão, tu e todo este povo, para a terra que eu dou aos filhos de Israel.",
+   "JOS 1:3": "Todo lugar que a planta do vosso pé pisar, eu vos dei, como disse a Moisés.",
+   "JOS 1:4": "Desde o deserto e este Líbano até o grande rio, o rio Eufrates, toda a terra dos heteus, e até o grande mar, onde o sol se põe, será o vosso território."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JOS-001:002-1",
+    "ref": "JOS 1:2-1:4",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": "deus_indistinto",
+    "ancora": "para a terra que eu dou aos filhos de Israel.",
+    "resumo": "O SENHOR garante aos filhos de Israel a posse de todo lugar que pisarem, delimitando o território do deserto e Líbano até o Eufrates e o grande mar."
+   }
+  ]
+ },
+ {
+  "id": "F3-JOS-017",
+  "livro": "JOS",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "JOS 1:5",
+  "fim": "JOS 1:5",
+  "texto": {
+   "JOS 1:5": "Ninguém poderá resistir diante de ti todos os dias da tua vida. Como fui com Moisés, assim serei contigo. Não te deixarei nem te desampararei."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JOS-001:005-1",
+    "ref": "JOS 1:5",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "deus_indistinto",
+    "ancora": "Ninguém poderá resistir diante de ti todos os dias da tua vida.",
+    "resumo": "O SENHOR garante a Josué que nenhum inimigo poderá resistir diante dele durante toda a sua vida."
+   }
+  ]
+ },
+ {
+  "id": "F3-JOS-018",
+  "livro": "JOS",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "JOS 1:11",
+  "fim": "JOS 1:11",
+  "texto": {
+   "JOS 1:11": "Passai pelo meio do acampamento e ordenai ao povo: ‘Preparai provisões, porque dentro de três dias atravessareis este Jordão, para entrardes e possuirdes a terra que o SENHOR, vosso Deus, vos dá para que a possuais.’"
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JOS-001:011-1",
+    "ref": "JOS 1:11",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": "deus_indistinto",
+    "ancora": "dentro de três dias atravessareis este Jordão, para entrardes e possuirdes a terra que o SENHOR, vosso Deus, vos dá para que a possuais.",
+    "resumo": "Josué transmite ao povo a garantia de que dentro de três dias atravessarão o Jordão para possuir a terra que o SENHOR lhes dá."
+   }
+  ]
+ },
+ {
+  "id": "F3-JOS-019",
+  "livro": "JOS",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "JOS 1:15",
+  "fim": "JOS 1:15",
+  "texto": {
+   "JOS 1:15": "até que o SENHOR dê descanso a vossos irmãos, como deu a vós, e eles também possuam a terra que o SENHOR, vosso Deus, lhes dá. Então voltareis à terra da vossa herança e possuireis aquela que Moisés, servo do SENHOR, vos deu deste lado do Jordão, onde o sol nasce."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JOS-001:015-1",
+    "ref": "JOS 1:15",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": "deus_indistinto",
+    "ancora": "até que o SENHOR dê descanso a vossos irmãos, como deu a vós, e eles também possuam a terra que o SENHOR, vosso Deus, lhes dá.",
+    "resumo": "Josué afirma que o SENHOR dará descanso aos demais israelitas e que eles possuirão a terra que o SENHOR lhes dá."
+   }
+  ]
+ },
+ {
+  "id": "F3-JOS-020",
+  "livro": "JOS",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "JOS 1:18",
+  "fim": "JOS 1:18",
+  "texto": {
+   "JOS 1:18": "Todo homem que se rebelar contra tua ordem e não ouvir tuas palavras em tudo quanto lhe ordenares será morto. Tão somente sê forte e corajoso."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JOS-001:018-1",
+    "ref": "JOS 1:18",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": "explicita",
+    "promitente": "rubenitas, gaditas e meia tribo de Manassés",
+    "ancora": "Todo homem que se rebelar contra tua ordem e não ouvir tuas palavras em tudo quanto lhe ordenares será morto.",
+    "resumo": "As tribos estabelecem a pena de morte para qualquer pessoa que se rebelar contra as ordens e palavras de Josué."
+   }
+  ]
+ },
+ {
+  "id": "F3-JOS-021",
+  "livro": "JOS",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "JOS 3:7",
+  "fim": "JOS 3:7",
+  "texto": {
+   "JOS 3:7": "Então o SENHOR disse a Josué: Neste dia começarei a engrandecer-te perante os olhos de todo o Israel, para que saibam que, assim como fui com Moisés, serei contigo."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JOS-003:007-2",
+    "ref": "JOS 3:7",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "assim como fui com Moisés, serei contigo.",
+    "resumo": "O SENHOR promete estar com Josué assim como esteve com Moisés."
+   }
+  ]
+ },
+ {
+  "id": "F3-JOS-022",
+  "livro": "JOS",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "JOS 6:16",
+  "fim": "JOS 6:16",
+  "texto": {
+   "JOS 6:16": "Na sétima vez, quando os sacerdotes tocaram as trombetas, Josué disse ao povo: Gritai, porque o SENHOR vos entregou a cidade."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JOS-006:016-1",
+    "ref": "JOS 6:16",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": "Josué",
+    "ancora": "o SENHOR vos entregou a cidade.",
+    "resumo": "Josué transmite ao povo a garantia de que o SENHOR lhes entregou Jericó antes da queda dos muros."
+   }
+  ]
+ },
+ {
+  "id": "F3-JOS-023",
+  "livro": "JOS",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "JOS 6:17",
+  "fim": "JOS 6:17",
+  "texto": {
+   "JOS 6:17": "A cidade e tudo quanto nela houver serão condenados à destruição para o SENHOR. Somente Raabe, a prostituta, viverá, ela e todos os que estiverem com ela em casa, porque escondeu os mensageiros que enviamos."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JOS-006:017-1",
+    "ref": "JOS 6:17",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": "nenhuma",
+    "promitente": "Josué",
+    "ancora": "A cidade e tudo quanto nela houver serão condenados à destruição para o SENHOR.",
+    "resumo": "Josué decreta que Jericó e tudo o que nela há serão condenados à destruição para o SENHOR."
+   }
+  ]
+ },
+ {
+  "id": "F3-JOS-024",
+  "livro": "JOS",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "JOS 7:12",
+  "fim": "JOS 7:12",
+  "texto": {
+   "JOS 7:12": "Por isso, os filhos de Israel não poderão resistir diante de seus inimigos. Virarão as costas diante deles, porque se tornaram condenados à destruição. Não estarei mais com vocês, se não eliminarem do meio de vocês a coisa condenada à destruição."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JOS-007:012-1",
+    "ref": "JOS 7:12",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": null,
+    "ancora": "Por isso, os filhos de Israel não poderão resistir diante de seus inimigos. Virarão as costas diante deles, porque se tornaram condenados à destruição.",
+    "resumo": "O SENHOR declara que os filhos de Israel não poderão resistir e fugirão diante de seus inimigos por causa do pecado."
+   }
+  ]
+ },
+ {
+  "id": "F3-JOS-025",
+  "livro": "JOS",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "JOS 9:19",
+  "fim": "JOS 9:20",
+  "texto": {
+   "JOS 9:19": "Todos os líderes disseram a toda a congregação: Nós lhes juramos pelo SENHOR, o Deus de Israel; por isso, agora não podemos tocar neles.",
+   "JOS 9:20": "Isto lhes faremos: nós os deixaremos viver, para que não venha ira sobre nós por causa do juramento que lhes prestamos."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JOS-009:019-1",
+    "ref": "JOS 9:19-9:20",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "líderes da congregação",
+    "ancora": "Isto lhes faremos: nós os deixaremos viver, para que não venha ira sobre nós por causa do juramento que lhes prestamos.",
+    "resumo": "Os líderes invocam o juramento feito pelo SENHOR e garantem que deixarão os gibeonitas viver."
+   }
+  ]
+ },
+ {
+  "id": "F3-JOS-026",
+  "livro": "JOS",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "JOS 17:17",
+  "fim": "JOS 17:18",
+  "texto": {
+   "JOS 17:17": "Então Josué disse à casa de José, a Efraim e a Manassés: Vocês são um povo numeroso e têm grande força. Não terão apenas uma sorte,",
+   "JOS 17:18": "pois a região montanhosa será de vocês. Embora seja um bosque, vocês o derrubarão e possuirão até suas extremidades. Expulsarão os cananeus, ainda que tenham carros de ferro e sejam fortes."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JOS-017:017-1",
+    "ref": "JOS 17:17-17:18",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "Josué",
+    "ancora": "Não terão apenas uma sorte",
+    "resumo": "Josué garante à casa de José que não terão apenas uma sorte, pois possuirão a região montanhosa até suas extremidades."
+   }
+  ]
+ },
+ {
+  "id": "F3-JOS-027",
+  "livro": "JOS",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "JOS 17:18",
+  "fim": "JOS 17:18",
+  "texto": {
+   "JOS 17:18": "pois a região montanhosa será de vocês. Embora seja um bosque, vocês o derrubarão e possuirão até suas extremidades. Expulsarão os cananeus, ainda que tenham carros de ferro e sejam fortes."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JOS-017:018-1",
+    "ref": "JOS 17:18",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "Josué",
+    "ancora": "Expulsarão os cananeus, ainda que tenham carros de ferro e sejam fortes.",
+    "resumo": "Josué assegura à casa de José que expulsarão os cananeus, apesar de sua força e de seus carros de ferro."
+   }
+  ]
+ },
+ {
+  "id": "F3-JOS-028",
+  "livro": "JOS",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "JOS 22:19",
+  "fim": "JOS 22:19",
+  "texto": {
+   "JOS 22:19": "Se a terra de sua propriedade é impura, passem para a terra da propriedade do SENHOR, onde habita o Tabernáculo do SENHOR, e tomem propriedade no meio de nós. Mas não se rebelem contra o SENHOR nem contra nós, construindo para vocês outro altar além do altar do SENHOR, nosso Deus."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JOS-022:019-1",
+    "ref": "JOS 22:19",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "explicita",
+    "promitente": "toda a congregação do SENHOR",
+    "ancora": "Se a terra de sua propriedade é impura, passem para a terra da propriedade do SENHOR, onde habita o Tabernáculo do SENHOR, e tomem propriedade no meio de nós.",
+    "resumo": "A congregação de Israel oferece às tribos transjordanas que tomem propriedade no meio deles caso sua terra seja impura."
+   }
+  ]
+ },
+ {
+  "id": "F3-JDG-001",
+  "livro": "JDG",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "JDG 2:1",
+  "fim": "JDG 2:1",
+  "texto": {
+   "JDG 2:1": "O Anjo do SENHOR subiu de Gilgal a Boquim e disse: Eu os fiz subir do Egito e os trouxe à terra que jurei dar a seus pais. Eu disse: Nunca quebrarei minha aliança com vocês."
+  },
+  "p1": [
+   {
+    "uid": "U1-JDG-002:001-2",
+    "ref": "JDG 2:1",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Nunca quebrarei minha aliança com vocês",
+    "resumo": "O Anjo do SENHOR declara que nunca quebrará a aliança com Israel"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JDG-002:001-2",
+    "ref": "JDG 2:1",
+    "tipo": "declaracao_sem_compromisso",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Eu disse: Nunca quebrarei minha aliança com vocês.",
+    "resumo": "O Anjo do SENHOR recorda a declaração anterior de que nunca quebraria sua aliança com Israel."
+   }
+  ]
+ },
+ {
+  "id": "F3-JDG-002",
+  "livro": "JDG",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "JDG 3:28",
+  "fim": "JDG 3:28",
+  "texto": {
+   "JDG 3:28": "E disse-lhes: Segui-me, porque o SENHOR entregou vossos inimigos, os moabitas, em vossas mãos. Eles desceram após ele, tomaram os vaus do Jordão que conduziam a Moabe e não deixaram ninguém passar."
+  },
+  "p1": [
+   {
+    "uid": "U1-JDG-003:028-1",
+    "ref": "JDG 3:28",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "Eúde",
+    "ancora": "o SENHOR entregou vossos inimigos, os moabitas, em vossas mãos",
+    "resumo": "Eúde garante a Israel que o SENHOR entregou os moabitas"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JDG-003:028-1",
+    "ref": "JDG 3:28",
+    "tipo": "declaracao_sem_compromisso",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "Eúde",
+    "ancora": "Segui-me, porque o SENHOR entregou vossos inimigos, os moabitas, em vossas mãos.",
+    "resumo": "Eúde convoca os filhos de Israel declarando que o SENHOR já entregou os moabitas em suas mãos."
+   }
+  ]
+ },
+ {
+  "id": "F3-JDG-003",
+  "livro": "JDG",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "JDG 4:6",
+  "fim": "JDG 4:7",
+  "texto": {
+   "JDG 4:6": "Ela mandou chamar Baraque, filho de Abinoão, de Quedes de Naftali, e lhe disse: Porventura o SENHOR, Deus de Israel, não ordenou: Vai ao monte Tabor, leva contigo dez mil homens dos filhos de Naftali e dos filhos de Zebulom.",
+   "JDG 4:7": "Atrairei a ti, ao ribeiro de Quisom, Sísera, comandante do exército de Jabim, com seus carros e sua multidão, e o entregarei em tuas mãos?"
+  },
+  "p1": [
+   {
+    "uid": "U1-JDG-004:006-1",
+    "ref": "JDG 4:6-4:7",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "explicita",
+    "promitente": "Débora",
+    "ancora": "Atrairei a ti, ao ribeiro de Quisom, Sísera, comandante do exército de Jabim, com seus carros e sua multidão, e o entregarei em tuas mãos",
+    "resumo": "Débora relata a palavra do SENHOR: entregará Sísera a Baraque"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JDG-004:006-1",
+    "ref": "JDG 4:6-4:7",
+    "tipo": "mandamento",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "Débora",
+    "ancora": "Atrairei a ti, ao ribeiro de Quisom, Sísera, comandante do exército de Jabim, com seus carros e sua multidão, e o entregarei em tuas mãos?",
+    "resumo": "O SENHOR ordena por meio de Débora que Baraque suba ao monte Tabor com dez mil homens e promete atrair Sísera e seu exército ao ribeiro de Quisom para entregá-lo nas mãos de Baraque."
+   }
+  ]
+ },
+ {
+  "id": "F3-JDG-004",
+  "livro": "JDG",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "JDG 6:16",
+  "fim": "JDG 6:16",
+  "texto": {
+   "JDG 6:16": "O SENHOR lhe disse: Eu estarei contigo, e ferirás os midianitas como se fossem um só homem."
+  },
+  "p1": [
+   {
+    "uid": "U1-JDG-006:016-1",
+    "ref": "JDG 6:16",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Eu estarei contigo, e ferirás os midianitas como se fossem um só homem",
+    "resumo": "O SENHOR promete a Gideão sua presença e vitória sobre Midiã"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JDG-006:016-1",
+    "ref": "JDG 6:16",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "deus_indistinto",
+    "ancora": "Eu estarei contigo",
+    "resumo": "O SENHOR promete a Gideão que estará com ele."
+   },
+   {
+    "uid": "U2-JDG-006:016-2",
+    "ref": "JDG 6:16",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "deus_indistinto",
+    "ancora": "ferirás os midianitas como se fossem um só homem.",
+    "resumo": "O SENHOR promete a Gideão que ele derrotará os midianitas como se fossem um só homem."
+   }
+  ]
+ },
+ {
+  "id": "F3-JDG-005",
+  "livro": "JDG",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "JDG 7:14",
+  "fim": "JDG 7:14",
+  "texto": {
+   "JDG 7:14": "Seu companheiro respondeu: Isto não é outra coisa senão a espada de Gideão, filho de Joás, israelita. Deus entregou Midiã e todo este acampamento em suas mãos."
+  },
+  "p1": [
+   {
+    "uid": "U1-JDG-007:014-1",
+    "ref": "JDG 7:14",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "o companheiro do midianita",
+    "ancora": "Deus entregou Midiã e todo este acampamento em suas mãos",
+    "resumo": "Um midianita interpreta o sonho: Deus entregou Midiã a Gideão"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JDG-007:014-1",
+    "ref": "JDG 7:14",
+    "tipo": "declaracao_sem_compromisso",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "companheiro do homem que sonhou",
+    "ancora": "Deus entregou Midiã e todo este acampamento em suas mãos.",
+    "resumo": "Um soldado midianita interpreta o sonho do companheiro declarando que Deus entregou Midiã nas mãos de Gideão."
+   }
+  ]
+ },
+ {
+  "id": "F3-JDG-006",
+  "livro": "JDG",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "JDG 7:15",
+  "fim": "JDG 7:15",
+  "texto": {
+   "JDG 7:15": "Quando Gideão ouviu o relato do sonho e sua interpretação, adorou. Voltou ao acampamento de Israel e disse: Levantem-se, porque o SENHOR entregou o acampamento de Midiã em suas mãos."
+  },
+  "p1": [
+   {
+    "uid": "U1-JDG-007:015-1",
+    "ref": "JDG 7:15",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "Gideão",
+    "ancora": "o SENHOR entregou o acampamento de Midiã em suas mãos",
+    "resumo": "Gideão garante a Israel que o SENHOR entregou Midiã"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JDG-007:015-1",
+    "ref": "JDG 7:15",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "deus_indistinto",
+    "ancora": "Levantem-se, porque o SENHOR entregou o acampamento de Midiã em suas mãos.",
+    "resumo": "Gideão assegura aos homens de Israel que o SENHOR entregou o acampamento de Midiã em suas mãos."
+   }
+  ]
+ },
+ {
+  "id": "F3-JDG-007",
+  "livro": "JDG",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "JDG 9:7",
+  "fim": "JDG 9:7",
+  "texto": {
+   "JDG 9:7": "Quando contaram isso a Jotão, ele foi ao cume do monte Gerizim, levantou a voz e clamou: Ouçam-me, cidadãos de Siquém, e Deus ouvirá vocês."
+  },
+  "p1": [
+   {
+    "uid": "U1-JDG-009:007-1",
+    "ref": "JDG 9:7",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "explicita",
+    "promitente": "Jotão",
+    "ancora": "Deus ouvirá vocês",
+    "resumo": "Jotão afirma que Deus ouvirá os cidadãos de Siquém se o ouvirem"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JDG-009:007-1",
+    "ref": "JDG 9:7",
+    "tipo": "desejo_ou_bencao_votiva",
+    "origem": "humana_votiva",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "Jotão",
+    "ancora": "Ouçam-me, cidadãos de Siquém, e Deus ouvirá vocês.",
+    "resumo": "Jotão expressa o voto de que Deus ouvirá os cidadãos de Siquém se eles o ouvirem."
+   }
+  ]
+ }
+]

@@ -1,0 +1,1891 @@
+[
+ {
+  "id": "F3-2CO-002",
+  "livro": "2CO",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "2CO 1:18",
+  "fim": "2CO 1:20",
+  "texto": {
+   "2CO 1:18": "Deus é fiel: nossa palavra dirigida a vós não foi simultaneamente sim e não.",
+   "2CO 1:19": "Pois o Filho de Deus, Jesus Cristo, que foi anunciado entre vós por nós, por mim, Silvano e Timóteo, não foi sim e não; nele houve o sim.",
+   "2CO 1:20": "Porque todas as promessas de Deus têm nele o sim e nele o amém, para a glória de Deus por nosso intermédio."
+  },
+  "p1": [
+   {
+    "uid": "U1-2CO-001:020-1",
+    "ref": "2CO 1:20",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "crente_individual",
+    "condicao": null,
+    "promitente": "Paulo",
+    "ancora": "todas as promessas de Deus têm nele o sim e nele o amém",
+    "resumo": "Todas as promessas de Deus se confirmam em Cristo."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-2CO-001:018-1",
+    "ref": "2CO 1:18-1:20",
+    "tipo": "declaracao_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": null,
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "todas as promessas de Deus têm nele o sim e nele o amém",
+    "resumo": "Paulo afirma a fidelidade de Deus e a confirmação de suas promessas em Cristo."
+   }
+  ]
+ },
+ {
+  "id": "F3-2CO-003",
+  "livro": "2CO",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "2CO 4:14",
+  "fim": "2CO 4:14",
+  "texto": {
+   "2CO 4:14": "Sabemos que aquele que ressuscitou o Senhor Jesus também nos ressuscitará por Jesus e nos apresentará convosco."
+  },
+  "p1": [
+   {
+    "uid": "U1-2CO-004:014-1",
+    "ref": "2CO 4:14",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "crente_individual",
+    "condicao": null,
+    "promitente": "Paulo",
+    "ancora": "também nos ressuscitará por Jesus e nos apresentará convosco",
+    "resumo": "Deus ressuscitará os crentes por Jesus e os apresentará com os coríntios."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-2CO-004:014-1",
+    "ref": "2CO 4:14",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "Paulo",
+    "ancora": "também nos ressuscitará por Jesus",
+    "resumo": "Deus ressuscitará Paulo e seus cooperadores por Jesus."
+   },
+   {
+    "uid": "U2-2CO-004:014-2",
+    "ref": "2CO 4:14",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "Paulo",
+    "ancora": "nos apresentará convosco",
+    "resumo": "Deus apresentará Paulo e seus cooperadores juntamente com os destinatários."
+   }
+  ]
+ },
+ {
+  "id": "F3-2CO-004",
+  "livro": "2CO",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "2CO 5:10",
+  "fim": "2CO 5:10",
+  "texto": {
+   "2CO 5:10": "Pois todos devemos comparecer diante do tribunal de Cristo, para que cada um receba segundo o que fez por meio do corpo, seja bem, seja mal."
+  },
+  "p1": [
+   {
+    "uid": "U1-2CO-005:010-1",
+    "ref": "2CO 5:10",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "juizo",
+    "destinatario": "humanidade",
+    "condicao": null,
+    "promitente": "Paulo",
+    "ancora": "cada um receba segundo o que fez por meio do corpo, seja bem, seja mal",
+    "resumo": "Todos comparecerão ao tribunal de Cristo para receber segundo o que fizeram."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-2CO-005:010-2",
+    "ref": "2CO 5:10",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "explicita",
+    "promitente": "Paulo",
+    "ancora": "cada um receba segundo o que fez por meio do corpo, seja bem, seja mal",
+    "resumo": "No tribunal de Cristo, quem fez o bem receberá de acordo com o bem que fez."
+   },
+   {
+    "uid": "U2-2CO-005:010-3",
+    "ref": "2CO 5:10",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": "explicita",
+    "promitente": "Paulo",
+    "ancora": "cada um receba segundo o que fez por meio do corpo, seja bem, seja mal",
+    "resumo": "No tribunal de Cristo, quem fez o mal receberá de acordo com o mal que fez."
+   }
+  ]
+ },
+ {
+  "id": "F3-2CO-005",
+  "livro": "2CO",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "2CO 6:16",
+  "fim": "2CO 6:16",
+  "texto": {
+   "2CO 6:16": "Que acordo há entre o templo de Deus e os ídolos? Pois vós sois o templo do Deus vivo, como Deus disse: Habitarei neles e entre eles andarei; eu serei o Deus deles, e eles serão o meu povo."
+  },
+  "p1": [
+   {
+    "uid": "U1-2CO-006:016-1",
+    "ref": "2CO 6:16",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "igreja",
+    "condicao": null,
+    "promitente": "Paulo",
+    "ancora": "Habitarei neles e entre eles andarei; eu serei o Deus deles, e eles serão o meu povo",
+    "resumo": "Deus habitará e andará entre o seu povo e será o Deus deles."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-2CO-006:016-1",
+    "ref": "2CO 6:16",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "igreja_local",
+    "condicao": "nenhuma",
+    "promitente": null,
+    "ancora": "Habitarei neles e entre eles andarei",
+    "resumo": "Deus se compromete a habitar e andar entre seu povo."
+   },
+   {
+    "uid": "U2-2CO-006:016-2",
+    "ref": "2CO 6:16",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "igreja_local",
+    "condicao": "nenhuma",
+    "promitente": null,
+    "ancora": "eu serei o Deus deles, e eles serão o meu povo.",
+    "resumo": "Deus se compromete a ser o Deus deles e a tê-los como seu povo."
+   }
+  ]
+ },
+ {
+  "id": "F3-2CO-006",
+  "livro": "2CO",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "2CO 6:17",
+  "fim": "2CO 6:18",
+  "texto": {
+   "2CO 6:17": "Por isso, saí do meio deles e separai-vos, diz o Senhor; não toqueis no que é impuro, e eu vos receberei.",
+   "2CO 6:18": "Eu serei Pai para vós, e vós sereis filhos e filhas para mim, diz o Senhor Todo-Poderoso."
+  },
+  "p1": [
+   {
+    "uid": "U1-2CO-006:017-1",
+    "ref": "2CO 6:17-6:18",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "igreja",
+    "condicao": "explicita",
+    "promitente": "Paulo",
+    "ancora": "eu vos receberei",
+    "resumo": "Aos que se separam, o Senhor receberá e será Pai, e eles filhos e filhas."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-2CO-006:017-1",
+    "ref": "2CO 6:17",
+    "tipo": "mandamento",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "não toqueis no que é impuro, e eu vos receberei.",
+    "resumo": "O Senhor promete receber os destinatários que se separarem e evitarem o que é impuro."
+   }
+  ]
+ },
+ {
+  "id": "F3-2CO-007",
+  "livro": "2CO",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "2CO 9:8",
+  "fim": "2CO 9:8",
+  "texto": {
+   "2CO 9:8": "Deus é poderoso para fazer toda graça abundar em vós, para que, tendo sempre toda suficiência em tudo, sejais abundantes em toda boa obra."
+  },
+  "p1": [
+   {
+    "uid": "U1-2CO-009:008-1",
+    "ref": "2CO 9:8",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "igreja",
+    "condicao": null,
+    "promitente": "Paulo",
+    "ancora": "Deus é poderoso para fazer toda graça abundar em vós",
+    "resumo": "Deus fará toda graça abundar nos que dão, com toda suficiência."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-2CO-009:008-1",
+    "ref": "2CO 9:8",
+    "tipo": "declaracao_sem_compromisso",
+    "origem": "humana_em_nome_proprio",
+    "natureza": null,
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "Paulo",
+    "ancora": "Deus é poderoso para fazer toda graça abundar em vós",
+    "resumo": "Paulo afirma que Deus pode suprir os destinatários para que abundem em boas obras."
+   }
+  ]
+ },
+ {
+  "id": "F3-2CO-008",
+  "livro": "2CO",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "2CO 11:15",
+  "fim": "2CO 11:15",
+  "texto": {
+   "2CO 11:15": "Portanto, não é grande coisa se seus ministros também se disfarçam de ministros da justiça. O fim deles será conforme suas obras."
+  },
+  "p1": [
+   {
+    "uid": "U1-2CO-011:015-1",
+    "ref": "2CO 11:15",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "Paulo",
+    "ancora": "O fim deles será conforme suas obras",
+    "resumo": "Os falsos apóstolos terão fim conforme suas obras."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-2CO-011:015-1",
+    "ref": "2CO 11:15",
+    "tipo": "indeterminada",
+    "origem": "indeterminada",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "O fim deles será conforme suas obras.",
+    "resumo": "O fim dos ministros de Satanás corresponderá às suas obras."
+   }
+  ]
+ },
+ {
+  "id": "F3-2CO-009",
+  "livro": "2CO",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "2CO 13:11",
+  "fim": "2CO 13:11",
+  "texto": {
+   "2CO 13:11": "Finalmente, irmãos, alegrai-vos, sede restaurados, sede consolados, tende o mesmo pensamento e vivei em paz. E o Deus de amor e paz estará convosco."
+  },
+  "p1": [
+   {
+    "uid": "U1-2CO-013:011-1",
+    "ref": "2CO 13:11",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "igreja",
+    "condicao": "explicita",
+    "promitente": "Paulo",
+    "ancora": "o Deus de amor e paz estará convosco",
+    "resumo": "Deus de amor e paz estará com os que vivem em paz e restauração."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-2CO-013:011-1",
+    "ref": "2CO 13:11",
+    "tipo": "mandamento",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "Paulo",
+    "ancora": "o Deus de amor e paz estará convosco.",
+    "resumo": "Às exortações à restauração, ao consolo, à unidade e à paz, Paulo anexa a garantia da presença de Deus."
+   }
+  ]
+ },
+ {
+  "id": "F3-2CO-010",
+  "livro": "2CO",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "2CO 1:4",
+  "fim": "2CO 1:5",
+  "texto": {
+   "2CO 1:4": "Ele nos consola em toda nossa aflição, para que possamos consolar os que passam por qualquer aflição com a consolação que nós mesmos recebemos de Deus.",
+   "2CO 1:5": "Pois, assim como os sofrimentos de Cristo transbordam para nós, por meio de Cristo transborda também nossa consolação."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-2CO-001:004-1",
+    "ref": "2CO 1:4-1:5",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "Paulo",
+    "ancora": "Ele nos consola em toda nossa aflição",
+    "resumo": "Deus consola continuamente os que falam, por meio de Cristo, capacitando-os a consolar outros."
+   }
+  ]
+ },
+ {
+  "id": "F3-2CO-011",
+  "livro": "2CO",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "2CO 1:6",
+  "fim": "2CO 1:7",
+  "texto": {
+   "2CO 1:6": "Se somos afligidos, é para vossa consolação e salvação, que atuam na perseverança em meio aos mesmos sofrimentos que também padecemos. Se somos consolados, é igualmente para vossa consolação e salvação.",
+   "2CO 1:7": "Nossa esperança a vosso respeito é firme, porque sabemos que, assim como sois participantes dos sofrimentos, também sois da consolação."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-2CO-001:006-1",
+    "ref": "2CO 1:6-1:7",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "igreja_local",
+    "condicao": "contextual",
+    "promitente": "Paulo",
+    "ancora": "também sois da consolação",
+    "resumo": "Os destinatários participam da consolação em meio aos sofrimentos que compartilham."
+   }
+  ]
+ },
+ {
+  "id": "F3-2CO-012",
+  "livro": "2CO",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "2CO 1:14",
+  "fim": "2CO 1:14",
+  "texto": {
+   "2CO 1:14": "assim como já reconhecestes em parte que somos motivo de vossa glória, como também vós sereis da nossa no dia do Senhor Jesus."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-2CO-001:014-1",
+    "ref": "2CO 1:14",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "Paulo",
+    "ancora": "como também vós sereis da nossa no dia do Senhor Jesus",
+    "resumo": "No dia do Senhor Jesus, os destinatários serão motivo de glória para Paulo e os seus, em reciprocidade."
+   }
+  ]
+ },
+ {
+  "id": "F3-2CO-013",
+  "livro": "2CO",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "2CO 1:21",
+  "fim": "2CO 1:21",
+  "texto": {
+   "2CO 1:21": "Aquele que nos firma convosco em Cristo e nos ungiu é Deus."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-2CO-001:021-1",
+    "ref": "2CO 1:21",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "Paulo",
+    "ancora": "nos firma convosco em Cristo",
+    "resumo": "Deus firma continuamente em Cristo tanto o grupo de Paulo quanto os destinatários."
+   }
+  ]
+ },
+ {
+  "id": "F3-2CO-014",
+  "livro": "2CO",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "2CO 1:22",
+  "fim": "2CO 1:22",
+  "texto": {
+   "2CO 1:22": "Ele também nos selou e colocou em nossos corações o penhor do Espírito."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-2CO-001:022-1",
+    "ref": "2CO 1:22",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "Paulo",
+    "ancora": "colocou em nossos corações o penhor do Espírito",
+    "resumo": "Deus sela os seus e lhes dá o Espírito em penhor."
+   }
+  ]
+ },
+ {
+  "id": "F3-2CO-015",
+  "livro": "2CO",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "2CO 2:10",
+  "fim": "2CO 2:11",
+  "texto": {
+   "2CO 2:10": "A quem perdoais alguma coisa, eu também perdoo. Se perdoei alguma coisa, fiz isso por vossa causa, na presença de Cristo,",
+   "2CO 2:11": "para que Satanás não obtenha vantagem sobre nós, pois não ignoramos seus planos."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-2CO-002:010-1",
+    "ref": "2CO 2:10-2:11",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "explicita",
+    "promitente": "Paulo",
+    "ancora": "A quem perdoais alguma coisa, eu também perdoo.",
+    "resumo": "Paulo se compromete a acompanhar o perdão concedido pelos destinatários."
+   }
+  ]
+ },
+ {
+  "id": "F3-2CO-016",
+  "livro": "2CO",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "2CO 3:5",
+  "fim": "2CO 3:5",
+  "texto": {
+   "2CO 3:5": "Não que sejamos suficientes por nós mesmos para considerar alguma coisa como procedente de nós; nossa suficiência vem de Deus."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-2CO-003:005-1",
+    "ref": "2CO 3:5",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "nossa suficiência vem de Deus",
+    "resumo": "Deus é a fonte da suficiência dos ministros da nova aliança."
+   }
+  ]
+ },
+ {
+  "id": "F3-2CO-017",
+  "livro": "2CO",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "2CO 3:6",
+  "fim": "2CO 3:6",
+  "texto": {
+   "2CO 3:6": "Ele também nos tornou suficientes como ministros de uma nova aliança, não da letra, mas do Espírito; pois a letra mata, mas o Espírito dá vida."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-2CO-003:006-2",
+    "ref": "2CO 3:6",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "o Espírito dá vida",
+    "resumo": "O Espírito vivifica na nova aliança."
+   }
+  ]
+ },
+ {
+  "id": "F3-2CO-018",
+  "livro": "2CO",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "2CO 3:17",
+  "fim": "2CO 3:17",
+  "texto": {
+   "2CO 3:17": "O Senhor é o Espírito; onde está o Espírito do Senhor, aí há liberdade."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-2CO-003:017-1",
+    "ref": "2CO 3:17",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": "explicita",
+    "promitente": null,
+    "ancora": "onde está o Espírito do Senhor, aí há liberdade",
+    "resumo": "A presença do Espírito do Senhor garante liberdade."
+   }
+  ]
+ },
+ {
+  "id": "F3-2CO-019",
+  "livro": "2CO",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "2CO 5:10",
+  "fim": "2CO 5:10",
+  "texto": {
+   "2CO 5:10": "Pois todos devemos comparecer diante do tribunal de Cristo, para que cada um receba segundo o que fez por meio do corpo, seja bem, seja mal."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-2CO-005:010-1",
+    "ref": "2CO 5:10",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": null,
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "Paulo",
+    "ancora": "todos devemos comparecer diante do tribunal de Cristo",
+    "resumo": "Todos os incluídos na fala de Paulo comparecerão perante o tribunal de Cristo."
+   }
+  ]
+ },
+ {
+  "id": "F3-2CO-020",
+  "livro": "2CO",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "2CO 5:17",
+  "fim": "2CO 5:17",
+  "texto": {
+   "2CO 5:17": "Portanto, se alguém está em Cristo, é nova criação. As coisas antigas passaram; eis que todas as coisas se fizeram novas."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-2CO-005:017-1",
+    "ref": "2CO 5:17",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "crente_individual",
+    "condicao": "explicita",
+    "promitente": "Paulo",
+    "ancora": "se alguém está em Cristo, é nova criação",
+    "resumo": "Quem está em Cristo tem a condição de nova criação."
+   }
+  ]
+ },
+ {
+  "id": "F3-2CO-021",
+  "livro": "2CO",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "2CO 6:18",
+  "fim": "2CO 6:18",
+  "texto": {
+   "2CO 6:18": "Eu serei Pai para vós, e vós sereis filhos e filhas para mim, diz o Senhor Todo-Poderoso."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-2CO-006:018-1",
+    "ref": "2CO 6:18",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "igreja_local",
+    "condicao": "contextual",
+    "promitente": null,
+    "ancora": "Eu serei Pai para vós, e vós sereis filhos e filhas para mim",
+    "resumo": "O Senhor promete ser Pai dos destinatários e tê-los como filhos e filhas."
+   }
+  ]
+ },
+ {
+  "id": "F3-2CO-022",
+  "livro": "2CO",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "2CO 7:6",
+  "fim": "2CO 7:6",
+  "texto": {
+   "2CO 7:6": "Mas Deus, que consola os abatidos, consolou-nos com a chegada de Tito."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-2CO-007:006-1",
+    "ref": "2CO 7:6",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "Paulo",
+    "ancora": "Deus, que consola os abatidos",
+    "resumo": "Deus consola os abatidos."
+   }
+  ]
+ },
+ {
+  "id": "F3-2CO-023",
+  "livro": "2CO",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "2CO 9:7",
+  "fim": "2CO 9:7",
+  "texto": {
+   "2CO 9:7": "Cada um contribua conforme decidiu no coração, não com pesar nem por constrangimento, pois Deus ama quem dá com alegria."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-2CO-009:007-1",
+    "ref": "2CO 9:7",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "contextual",
+    "promitente": "Paulo",
+    "ancora": "Deus ama quem dá com alegria",
+    "resumo": "Paulo garante o amor de Deus aos que contribuem com alegria."
+   }
+  ]
+ },
+ {
+  "id": "F3-2CO-024",
+  "livro": "2CO",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "2CO 10:11",
+  "fim": "2CO 10:11",
+  "texto": {
+   "2CO 10:11": "Quem diz isso considere que aquilo que somos em palavra por meio de cartas quando ausentes, também seremos em ação quando presentes."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-2CO-010:011-1",
+    "ref": "2CO 10:11",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": null,
+    "destinatario": "grupo_especifico",
+    "condicao": "contextual",
+    "promitente": "Paulo",
+    "ancora": "também seremos em ação quando presentes",
+    "resumo": "Paulo garante que, quando presentes, ele e seus companheiros agirão de modo coerente com o que dizem nas cartas."
+   }
+  ]
+ },
+ {
+  "id": "F3-2CO-025",
+  "livro": "2CO",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "2CO 11:9",
+  "fim": "2CO 11:12",
+  "texto": {
+   "2CO 11:9": "Quando estive convosco e passei necessidade, não fui pesado a ninguém, pois os irmãos que vieram da Macedônia supriram minha falta. Em tudo evitei ser pesado a vós, e continuarei evitando.",
+   "2CO 11:10": "Pela verdade de Cristo que está em mim, ninguém impedirá este meu orgulho nas regiões da Acaia.",
+   "2CO 11:11": "Por quê? Porque não vos amo? Deus sabe que vos amo.",
+   "2CO 11:12": "O que faço continuarei fazendo, para eliminar a ocasião dos que desejam ocasião, a fim de que, naquilo de que se orgulham, sejam encontrados iguais a nós."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-2CO-011:009-1",
+    "ref": "2CO 11:9-11:12",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "igreja_local",
+    "condicao": "nenhuma",
+    "promitente": "Paulo",
+    "ancora": "Em tudo evitei ser pesado a vós, e continuarei evitando.",
+    "resumo": "Paulo se compromete a continuar sem onerar os destinatários, privando seus concorrentes de ocasião."
+   }
+  ]
+ },
+ {
+  "id": "F3-2CO-026",
+  "livro": "2CO",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "2CO 12:14",
+  "fim": "2CO 12:14",
+  "texto": {
+   "2CO 12:14": "Eis que estou pronto para ir até vós pela terceira vez, e não vos serei pesado. Não busco vossos bens, mas a vós mesmos. Pois os filhos não devem acumular para os pais, mas os pais para os filhos."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-2CO-012:014-1",
+    "ref": "2CO 12:14",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "igreja_local",
+    "condicao": "nenhuma",
+    "promitente": "Paulo",
+    "ancora": "não vos serei pesado.",
+    "resumo": "Paulo se compromete a não onerar os destinatários na terceira visita."
+   }
+  ]
+ },
+ {
+  "id": "F3-2CO-027",
+  "livro": "2CO",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "2CO 12:15",
+  "fim": "2CO 12:15",
+  "texto": {
+   "2CO 12:15": "Quanto a mim, de muito boa vontade gastarei e me deixarei gastar por vossas almas. Se vos amo ainda mais, serei amado menos?"
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-2CO-012:015-1",
+    "ref": "2CO 12:15",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "igreja_local",
+    "condicao": "nenhuma",
+    "promitente": "Paulo",
+    "ancora": "gastarei e me deixarei gastar por vossas almas.",
+    "resumo": "Paulo se compromete a despender seus recursos e a si próprio em favor dos destinatários."
+   }
+  ]
+ },
+ {
+  "id": "F3-GAL-001",
+  "livro": "GAL",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "GAL 1:8",
+  "fim": "GAL 1:9",
+  "texto": {
+   "GAL 1:8": "Mas, ainda que nós mesmos ou um anjo vindo do céu vos anuncie evangelho diferente daquele que vos anunciamos, seja anátema.",
+   "GAL 1:9": "Como já dissemos, agora repito: se alguém vos anuncia evangelho diferente daquele que recebestes, seja anátema."
+  },
+  "p1": [
+   {
+    "uid": "U1-GAL-001:008-1",
+    "ref": "GAL 1:8-1:9",
+    "tipo": "desejo_ou_bencao_votiva",
+    "origem": "humana_votiva",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "Paulo",
+    "ancora": "seja anátema",
+    "resumo": "Maldição votiva sobre quem anunciar evangelho diferente."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-GAL-001:008-1",
+    "ref": "GAL 1:8-1:9",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": "explicita",
+    "promitente": "Paulo",
+    "ancora": "seja anátema",
+    "resumo": "Anátema contra quem anunciar evangelho diferente."
+   }
+  ]
+ },
+ {
+  "id": "F3-GAL-002",
+  "livro": "GAL",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "GAL 3:10",
+  "fim": "GAL 3:10",
+  "texto": {
+   "GAL 3:10": "Todos os que dependem das obras da lei estão debaixo de maldição, pois está escrito: Maldito todo aquele que não permanece em todas as coisas escritas no livro da lei para praticá-las."
+  },
+  "p1": [
+   {
+    "uid": "U1-GAL-003:010-1",
+    "ref": "GAL 3:10",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "Paulo",
+    "ancora": "Maldito todo aquele que não permanece em todas as coisas escritas no livro da lei para praticá-las",
+    "resumo": "Maldição sobre quem não permanece em todas as coisas da lei."
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-GAL-003",
+  "livro": "GAL",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "GAL 5:10",
+  "fim": "GAL 5:10",
+  "texto": {
+   "GAL 5:10": "Confio em vós no Senhor que não pensareis de outra maneira. Mas aquele que vos perturba sofrerá o julgamento, seja quem for."
+  },
+  "p1": [
+   {
+    "uid": "U1-GAL-005:010-1",
+    "ref": "GAL 5:10",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "juizo",
+    "destinatario": "indeterminado",
+    "condicao": null,
+    "promitente": "Paulo",
+    "ancora": "aquele que vos perturba sofrerá o julgamento",
+    "resumo": "Quem perturba os gálatas sofrerá o julgamento."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-GAL-005:010-2",
+    "ref": "GAL 5:10",
+    "tipo": "advertencia",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "Paulo",
+    "ancora": "aquele que vos perturba sofrerá o julgamento, seja quem for",
+    "resumo": "O perturbador sofrerá juízo."
+   }
+  ]
+ },
+ {
+  "id": "F3-GAL-004",
+  "livro": "GAL",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "GAL 5:19",
+  "fim": "GAL 5:21",
+  "texto": {
+   "GAL 5:19": "As obras da carne são manifestas: adultério, imoralidade sexual, impureza, libertinagem,",
+   "GAL 5:20": "idolatria, feitiçaria, inimizades, rivalidades, ciúmes, iras, disputas, divisões, facções,",
+   "GAL 5:21": "invejas, homicídios, embriaguez, orgias e coisas semelhantes. A respeito delas vos advirto, como já adverti, que os que praticam tais coisas não herdarão o Reino de Deus."
+  },
+  "p1": [
+   {
+    "uid": "U1-GAL-005:021-1",
+    "ref": "GAL 5:21",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "juizo",
+    "destinatario": "humanidade",
+    "condicao": null,
+    "promitente": "Paulo",
+    "ancora": "os que praticam tais coisas não herdarão o Reino de Deus",
+    "resumo": "Quem pratica as obras da carne não herdará o Reino de Deus."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-GAL-005:019-1",
+    "ref": "GAL 5:19-5:21",
+    "tipo": "advertencia",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "Paulo",
+    "ancora": "os que praticam tais coisas não herdarão o Reino de Deus",
+    "resumo": "Os que praticam obras da carne não herdarão o Reino."
+   }
+  ]
+ },
+ {
+  "id": "F3-GAL-005",
+  "livro": "GAL",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "GAL 6:9",
+  "fim": "GAL 6:9",
+  "texto": {
+   "GAL 6:9": "Não nos cansemos de fazer o bem, pois no tempo devido colheremos, se não desfalecermos."
+  },
+  "p1": [
+   {
+    "uid": "U1-GAL-006:009-1",
+    "ref": "GAL 6:9",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "crente_individual",
+    "condicao": "explicita",
+    "promitente": "Paulo",
+    "ancora": "no tempo devido colheremos, se não desfalecermos",
+    "resumo": "Os que fazem o bem colherão no tempo devido, se não desfalecerem."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-GAL-006:009-1",
+    "ref": "GAL 6:9",
+    "tipo": "mandamento",
+    "origem": "indeterminada",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Não nos cansemos de fazer o bem, pois no tempo devido colheremos, se não desfalecermos.",
+    "resumo": "Exortação a perseverar no bem, com a promessa de colher no tempo devido se não desfalecer."
+   }
+  ]
+ },
+ {
+  "id": "F3-GAL-006",
+  "livro": "GAL",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "GAL 3:7",
+  "fim": "GAL 3:7",
+  "texto": {
+   "GAL 3:7": "Sabei, portanto, que os que são da fé, esses são filhos de Abraão."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-GAL-003:007-1",
+    "ref": "GAL 3:7",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "Paulo",
+    "ancora": "os que são da fé, esses são filhos de Abraão",
+    "resumo": "Os que são da fé são filhos de Abraão."
+   }
+  ]
+ },
+ {
+  "id": "F3-GAL-007",
+  "livro": "GAL",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "GAL 3:9",
+  "fim": "GAL 3:9",
+  "texto": {
+   "GAL 3:9": "Assim, os que são da fé são abençoados com Abraão, o crente."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-GAL-003:009-1",
+    "ref": "GAL 3:9",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "Paulo",
+    "ancora": "os que são da fé são abençoados com Abraão, o crente",
+    "resumo": "Os que são da fé são abençoados com Abraão."
+   }
+  ]
+ },
+ {
+  "id": "F3-GAL-008",
+  "livro": "GAL",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "GAL 3:10",
+  "fim": "GAL 3:10",
+  "texto": {
+   "GAL 3:10": "Todos os que dependem das obras da lei estão debaixo de maldição, pois está escrito: Maldito todo aquele que não permanece em todas as coisas escritas no livro da lei para praticá-las."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-GAL-003:010-1",
+    "ref": "GAL 3:10",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "Paulo",
+    "ancora": "Todos os que dependem das obras da lei estão debaixo de maldição",
+    "resumo": "Os que dependem das obras da lei estão sob maldição."
+   }
+  ]
+ },
+ {
+  "id": "F3-GAL-009",
+  "livro": "GAL",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "GAL 3:11",
+  "fim": "GAL 3:11",
+  "texto": {
+   "GAL 3:11": "É evidente que ninguém é justificado diante de Deus pela lei, porque o justo viverá pela fé."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-GAL-003:011-1",
+    "ref": "GAL 3:11",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "Paulo",
+    "ancora": "o justo viverá pela fé",
+    "resumo": "O justo viverá pela fé."
+   }
+  ]
+ },
+ {
+  "id": "F3-GAL-010",
+  "livro": "GAL",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "GAL 3:12",
+  "fim": "GAL 3:12",
+  "texto": {
+   "GAL 3:12": "A lei, porém, não procede da fé, mas o ser humano que praticar essas coisas viverá por elas."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-GAL-003:012-1",
+    "ref": "GAL 3:12",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "explicita",
+    "promitente": "Paulo",
+    "ancora": "o ser humano que praticar essas coisas viverá por elas",
+    "resumo": "Quem praticar essas coisas viverá por elas."
+   }
+  ]
+ },
+ {
+  "id": "F3-GAL-011",
+  "livro": "GAL",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "GAL 3:13",
+  "fim": "GAL 3:14",
+  "texto": {
+   "GAL 3:13": "Cristo nos resgatou da maldição da lei, tornando-se maldição por nós, porque está escrito: Maldito todo aquele que é pendurado em madeiro.",
+   "GAL 3:14": "Isso aconteceu para que a bênção de Abraão chegasse aos gentios em Cristo Jesus e para que recebêssemos pela fé a promessa do Espírito."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-GAL-003:013-1",
+    "ref": "GAL 3:13-3:14",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "nacoes_especificas",
+    "condicao": "nenhuma",
+    "promitente": "Paulo",
+    "ancora": "a bênção de Abraão chegasse aos gentios em Cristo Jesus",
+    "resumo": "Cristo nos resgatou da maldição da lei para que a bênção de Abraão chegasse aos gentios."
+   }
+  ]
+ },
+ {
+  "id": "F3-GAL-012",
+  "livro": "GAL",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "GAL 3:14",
+  "fim": "GAL 3:14",
+  "texto": {
+   "GAL 3:14": "Isso aconteceu para que a bênção de Abraão chegasse aos gentios em Cristo Jesus e para que recebêssemos pela fé a promessa do Espírito."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-GAL-003:014-1",
+    "ref": "GAL 3:14",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "Paulo",
+    "ancora": "recebêssemos pela fé a promessa do Espírito",
+    "resumo": "Recebemos pela fé a promessa do Espírito."
+   }
+  ]
+ },
+ {
+  "id": "F3-GAL-013",
+  "livro": "GAL",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "GAL 3:22",
+  "fim": "GAL 3:22",
+  "texto": {
+   "GAL 3:22": "Mas a Escritura encerrou tudo debaixo do pecado, para que a promessa fosse dada aos que creem pela fé de Jesus Cristo."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-GAL-003:022-1",
+    "ref": "GAL 3:22",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "Paulo",
+    "ancora": "a promessa fosse dada aos que creem pela fé de Jesus Cristo",
+    "resumo": "A promessa é dada aos que creem pela fé em Jesus Cristo."
+   }
+  ]
+ },
+ {
+  "id": "F3-GAL-014",
+  "livro": "GAL",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "GAL 3:26",
+  "fim": "GAL 3:26",
+  "texto": {
+   "GAL 3:26": "Pois todos sois filhos de Deus pela fé em Cristo Jesus."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-GAL-003:026-1",
+    "ref": "GAL 3:26",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "Paulo",
+    "ancora": "todos sois filhos de Deus pela fé em Cristo Jesus",
+    "resumo": "Todos sois filhos de Deus pela fé em Cristo Jesus."
+   }
+  ]
+ },
+ {
+  "id": "F3-GAL-015",
+  "livro": "GAL",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "GAL 3:28",
+  "fim": "GAL 3:28",
+  "texto": {
+   "GAL 3:28": "Não há judeu nem grego, não há escravo nem livre, não há homem e mulher, pois todos vós sois um em Cristo Jesus."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-GAL-003:028-1",
+    "ref": "GAL 3:28",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "Paulo",
+    "ancora": "todos vós sois um em Cristo Jesus",
+    "resumo": "Todos vós sois um em Cristo Jesus."
+   }
+  ]
+ },
+ {
+  "id": "F3-GAL-016",
+  "livro": "GAL",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "GAL 4:4",
+  "fim": "GAL 4:7",
+  "texto": {
+   "GAL 4:4": "Mas, quando chegou a plenitude do tempo, Deus enviou seu Filho, nascido de mulher e nascido sob a lei,",
+   "GAL 4:5": "para resgatar os que estavam sob a lei, a fim de que recebêssemos a adoção de filhos.",
+   "GAL 4:6": "E, porque sois filhos, Deus enviou aos vossos corações o Espírito de seu Filho, que clama: Aba, Pai.",
+   "GAL 4:7": "Portanto, já não és escravo, mas filho; e, se és filho, também és herdeiro de Deus por Cristo."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-GAL-004:004-1",
+    "ref": "GAL 4:4-4:7",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "igreja",
+    "condicao": null,
+    "promitente": "Paulo",
+    "ancora": "a fim de que recebêssemos a adoção de filhos",
+    "resumo": "Garantia apostólica de que Deus enviou o Filho para resgatar os que estavam sob a lei e dar aos crentes a adoção de filhos, o Espírito e a herança."
+   }
+  ]
+ },
+ {
+  "id": "F3-GAL-017",
+  "livro": "GAL",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "GAL 4:28",
+  "fim": "GAL 4:28",
+  "texto": {
+   "GAL 4:28": "Nós, porém, irmãos, assim como Isaque, somos filhos da promessa."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-GAL-004:028-1",
+    "ref": "GAL 4:28",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "igreja",
+    "condicao": null,
+    "promitente": "Paulo",
+    "ancora": "somos filhos da promessa",
+    "resumo": "Garantia apostólica de que os crentes, como Isaque, são filhos da promessa."
+   }
+  ]
+ },
+ {
+  "id": "F3-GAL-018",
+  "livro": "GAL",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "GAL 4:31",
+  "fim": "GAL 4:31",
+  "texto": {
+   "GAL 4:31": "Portanto, irmãos, não somos filhos da escrava, mas da mulher livre."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-GAL-004:031-1",
+    "ref": "GAL 4:31",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "igreja",
+    "condicao": null,
+    "promitente": "Paulo",
+    "ancora": "não somos filhos da escrava, mas da mulher livre",
+    "resumo": "Garantia apostólica de que os irmãos não são filhos da escrava, mas da mulher livre."
+   }
+  ]
+ },
+ {
+  "id": "F3-EPH-001",
+  "livro": "EPH",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EPH 1:10",
+  "fim": "EPH 1:10",
+  "texto": {
+   "EPH 1:10": "para a administração da plenitude dos tempos: reunir em Cristo todas as coisas, tanto as que estão nos céus como as que estão na terra."
+  },
+  "p1": [
+   {
+    "uid": "U1-EPH-001:010-1",
+    "ref": "EPH 1:10",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "humanidade",
+    "condicao": null,
+    "promitente": "Paulo",
+    "ancora": "reunir em Cristo todas as coisas",
+    "resumo": "Deus reunirá em Cristo todas as coisas, nos céus e na terra, na plenitude dos tempos."
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-EPH-002",
+  "livro": "EPH",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EPH 1:14",
+  "fim": "EPH 1:14",
+  "texto": {
+   "EPH 1:14": "Ele é a garantia de nossa herança até a redenção da possessão adquirida, para o louvor de sua glória."
+  },
+  "p1": [
+   {
+    "uid": "U1-EPH-001:014-1",
+    "ref": "EPH 1:14",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "crente_individual",
+    "condicao": null,
+    "promitente": "Paulo",
+    "ancora": "Ele é a garantia de nossa herança até a redenção da possessão adquirida",
+    "resumo": "O Espírito é a garantia da herança dos crentes até a redenção final."
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-EPH-003",
+  "livro": "EPH",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EPH 2:7",
+  "fim": "EPH 2:7",
+  "texto": {
+   "EPH 2:7": "para mostrar, nas eras que virão, a extraordinária riqueza de sua graça, por sua bondade para conosco em Cristo Jesus."
+  },
+  "p1": [
+   {
+    "uid": "U1-EPH-002:007-1",
+    "ref": "EPH 2:7",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "crente_individual",
+    "condicao": null,
+    "promitente": "Paulo",
+    "ancora": "para mostrar, nas eras que virão, a extraordinária riqueza de sua graça",
+    "resumo": "Deus mostrará nas eras vindouras a riqueza de sua graça pela bondade para com os que estão em Cristo."
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-EPH-004",
+  "livro": "EPH",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EPH 4:11",
+  "fim": "EPH 4:16",
+  "texto": {
+   "EPH 4:11": "Foi ele quem concedeu uns como apóstolos, outros como profetas, outros como evangelistas e outros como pastores e mestres,",
+   "EPH 4:12": "para o aperfeiçoamento dos santos, para a obra do serviço e para a edificação do corpo de Cristo,",
+   "EPH 4:13": "até que todos cheguemos à unidade da fé e do pleno conhecimento do Filho de Deus, ao ser humano maduro, à medida da estatura da plenitude de Cristo.",
+   "EPH 4:14": "Assim, não seremos mais crianças, sacudidas pelas ondas e levadas de um lado para outro por todo vento de ensino, pelo engano das pessoas e pela astúcia que conduz ao erro.",
+   "EPH 4:15": "Pelo contrário, seguindo a verdade em amor, cresçamos em tudo naquele que é a cabeça, Cristo.",
+   "EPH 4:16": "Dele todo o corpo, ajustado e unido por cada junta que o sustenta, realiza o crescimento do próprio corpo conforme a atuação adequada de cada parte, edificando-se em amor."
+  },
+  "p1": [
+   {
+    "uid": "U1-EPH-004:013-1",
+    "ref": "EPH 4:13-4:14",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "igreja",
+    "condicao": null,
+    "promitente": "Paulo",
+    "ancora": "até que todos cheguemos à unidade da fé",
+    "resumo": "Os dons de Cristo levarão a igreja à unidade, maturidade e estabilidade na verdade."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-EPH-004:011-1",
+    "ref": "EPH 4:11-4:16",
+    "tipo": "declaracao_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": null,
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "até que todos cheguemos à unidade da fé",
+    "resumo": "Cristo concede dons e ministérios ao corpo com o fim de edificá-lo até a maturidade, para que não seja levado por todo vento de ensino e cresça em amor"
+   }
+  ]
+ },
+ {
+  "id": "F3-EPH-005",
+  "livro": "EPH",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EPH 5:5",
+  "fim": "EPH 5:5",
+  "texto": {
+   "EPH 5:5": "Pois sabeis claramente que nenhum imoral, impuro ou avarento, que é idólatra, possui herança no Reino de Cristo e de Deus."
+  },
+  "p1": [
+   {
+    "uid": "U1-EPH-005:005-1",
+    "ref": "EPH 5:5",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "juizo",
+    "destinatario": "humanidade",
+    "condicao": null,
+    "promitente": "Paulo",
+    "ancora": "nenhum imoral, impuro ou avarento, que é idólatra, possui herança no Reino de Cristo e de Deus",
+    "resumo": "Imorais, impuros e avarentos não têm herança no Reino de Cristo e de Deus."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-EPH-005:005-1",
+    "ref": "EPH 5:5",
+    "tipo": "declaracao_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "nenhum imoral, impuro ou avarento, que é idólatra, possui herança no Reino de Cristo e de Deus",
+    "resumo": "Declara que nenhum imoral, impuro ou avarento tem herança no Reino de Cristo e de Deus."
+   }
+  ]
+ },
+ {
+  "id": "F3-EPH-006",
+  "livro": "EPH",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EPH 5:6",
+  "fim": "EPH 5:6",
+  "texto": {
+   "EPH 5:6": "Ninguém vos engane com palavras vazias, pois por causa dessas coisas a ira de Deus vem sobre os filhos da desobediência."
+  },
+  "p1": [
+   {
+    "uid": "U1-EPH-005:006-1",
+    "ref": "EPH 5:6",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "Paulo",
+    "ancora": "a ira de Deus vem sobre os filhos da desobediência",
+    "resumo": "A ira de Deus vem sobre os filhos da desobediência."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-EPH-005:006-1",
+    "ref": "EPH 5:6",
+    "tipo": "declaracao_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "a ira de Deus vem sobre os filhos da desobediência",
+    "resumo": "Declara que a ira de Deus vem sobre os filhos da desobediência."
+   }
+  ]
+ },
+ {
+  "id": "F3-EPH-007",
+  "livro": "EPH",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EPH 1:7",
+  "fim": "EPH 1:8",
+  "texto": {
+   "EPH 1:7": "Nele temos a redenção por seu sangue, o perdão das transgressões, segundo a riqueza de sua graça,",
+   "EPH 1:8": "que fez abundar sobre nós em toda sabedoria e entendimento."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EPH-001:007-1",
+    "ref": "EPH 1:7-1:8",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "igreja_local",
+    "condicao": null,
+    "promitente": "Paulo",
+    "ancora": "Nele temos a redenção por seu sangue, o perdão das transgressões",
+    "resumo": "Em Cristo os crentes têm redenção e perdão dos pecados segundo a riqueza da graça."
+   }
+  ]
+ },
+ {
+  "id": "F3-EPH-008",
+  "livro": "EPH",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EPH 1:11",
+  "fim": "EPH 1:12",
+  "texto": {
+   "EPH 1:11": "Nele também recebemos uma herança, tendo sido predestinados segundo o propósito daquele que realiza todas as coisas conforme o conselho de sua vontade,",
+   "EPH 1:12": "a fim de que nós, os primeiros a esperar em Cristo, existíssemos para o louvor de sua glória."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EPH-001:011-1",
+    "ref": "EPH 1:11-1:12",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "igreja_local",
+    "condicao": null,
+    "promitente": "Paulo",
+    "ancora": "Nele também recebemos uma herança",
+    "resumo": "Em Cristo os crentes receberam uma herança, segundo o propósito de Deus."
+   }
+  ]
+ },
+ {
+  "id": "F3-EPH-009",
+  "livro": "EPH",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EPH 1:13",
+  "fim": "EPH 1:14",
+  "texto": {
+   "EPH 1:13": "Nele também vós, depois de ouvirdes a palavra da verdade, o evangelho de vossa salvação, e depois de crerdes, fostes selados com o Espírito Santo da promessa.",
+   "EPH 1:14": "Ele é a garantia de nossa herança até a redenção da possessão adquirida, para o louvor de sua glória."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EPH-001:013-1",
+    "ref": "EPH 1:13-1:14",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "igreja_local",
+    "condicao": null,
+    "promitente": "Paulo",
+    "ancora": "fostes selados com o Espírito Santo da promessa",
+    "resumo": "Os crentes foram selados com o Espírito Santo, que é a garantia da herança até a redenção final."
+   }
+  ]
+ },
+ {
+  "id": "F3-EPH-010",
+  "livro": "EPH",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EPH 2:1",
+  "fim": "EPH 2:7",
+  "texto": {
+   "EPH 2:1": "Ele vos deu vida quando estáveis mortos em vossas transgressões e pecados,",
+   "EPH 2:2": "nos quais antes andastes segundo o curso deste mundo, segundo o governante da autoridade do ar, o espírito que agora atua nos filhos da desobediência.",
+   "EPH 2:3": "Entre eles também todos nós vivíamos antes nos desejos de nossa carne, fazendo as vontades da carne e dos pensamentos, e éramos por natureza filhos da ira, como os demais.",
+   "EPH 2:4": "Mas Deus, sendo rico em misericórdia, por causa do grande amor com que nos amou,",
+   "EPH 2:5": "mesmo quando estávamos mortos nas transgressões, deu-nos vida juntamente com Cristo. Pela graça sois salvos.",
+   "EPH 2:6": "Ele nos ressuscitou juntamente com Cristo e nos fez assentar com ele nas regiões celestiais, em Cristo Jesus,",
+   "EPH 2:7": "para mostrar, nas eras que virão, a extraordinária riqueza de sua graça, por sua bondade para conosco em Cristo Jesus."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EPH-002:001-1",
+    "ref": "EPH 2:1-2:7",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "igreja",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Ele vos deu vida",
+    "resumo": "Deus deu vida aos que estavam mortos em transgressões, ressuscitou-os com Cristo e os assentou nas regiões celestiais, para mostrar nas eras vindouras a riqueza de sua graça."
+   }
+  ]
+ },
+ {
+  "id": "F3-EPH-011",
+  "livro": "EPH",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EPH 2:8",
+  "fim": "EPH 2:10",
+  "texto": {
+   "EPH 2:8": "Pois pela graça sois salvos mediante a fé, e isto não procede de vós, é dom de Deus.",
+   "EPH 2:9": "Não procede de obras, para que ninguém se glorie.",
+   "EPH 2:10": "Pois somos obra dele, criados em Cristo Jesus para boas obras, as quais Deus preparou de antemão para que andássemos nelas."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EPH-002:008-1",
+    "ref": "EPH 2:8-2:10",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "igreja",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "pela graça sois salvos mediante a fé",
+    "resumo": "A salvação é pela graça, mediante a fé, como dom de Deus, não por obras; os crentes são obra de Deus, criados em Cristo para boas obras que ele preparou."
+   }
+  ]
+ },
+ {
+  "id": "F3-EPH-012",
+  "livro": "EPH",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EPH 2:13",
+  "fim": "EPH 2:13",
+  "texto": {
+   "EPH 2:13": "Mas agora, em Cristo Jesus, vós que antes estáveis longe fostes aproximados pelo sangue de Cristo."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EPH-002:013-1",
+    "ref": "EPH 2:13",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "igreja",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "fostes aproximados pelo sangue de Cristo",
+    "resumo": "Os que antes estavam longe foram aproximados por meio do sangue de Cristo."
+   }
+  ]
+ },
+ {
+  "id": "F3-EPH-013",
+  "livro": "EPH",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EPH 2:14",
+  "fim": "EPH 2:18",
+  "texto": {
+   "EPH 2:14": "Pois ele é nossa paz. Ele fez dos dois grupos um só e derrubou em sua carne a parede divisória, a inimizade.",
+   "EPH 2:15": "Ele anulou a lei dos mandamentos expressos em ordenanças, a fim de criar em si mesmo, dos dois, um novo ser humano, estabelecendo a paz,",
+   "EPH 2:16": "e reconciliar ambos com Deus em um só corpo por meio da cruz, matando por ela a inimizade.",
+   "EPH 2:17": "Ele veio e anunciou paz a vós que estáveis longe e aos que estavam perto,",
+   "EPH 2:18": "pois, por meio dele, ambos temos acesso ao Pai em um só Espírito."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EPH-002:014-1",
+    "ref": "EPH 2:14-2:18",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "igreja",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "ele é nossa paz",
+    "resumo": "Cristo é a paz dos crentes: fez dos dois grupos um só, derrubou a inimizade, reconciliou ambos com Deus em um só corpo e lhes dá acesso ao Pai em um só Espírito."
+   }
+  ]
+ },
+ {
+  "id": "F3-EPH-014",
+  "livro": "EPH",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EPH 2:19",
+  "fim": "EPH 2:19",
+  "texto": {
+   "EPH 2:19": "Portanto, já não sois estrangeiros nem residentes temporários, mas concidadãos dos santos e membros da família de Deus."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EPH-002:019-1",
+    "ref": "EPH 2:19",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "igreja",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "já não sois estrangeiros nem residentes temporários",
+    "resumo": "Os crentes já não são estrangeiros nem residentes temporários, mas concidadãos dos santos e membros da família de Deus."
+   }
+  ]
+ },
+ {
+  "id": "F3-EPH-015",
+  "livro": "EPH",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EPH 2:20",
+  "fim": "EPH 2:22",
+  "texto": {
+   "EPH 2:20": "Fostes edificados sobre o fundamento dos apóstolos e dos profetas, sendo o próprio Jesus Cristo a principal pedra angular.",
+   "EPH 2:21": "Nele, todo o edifício, bem ajustado, cresce para tornar-se templo santo no Senhor.",
+   "EPH 2:22": "Nele também vós sois edificados juntamente para serdes morada de Deus no Espírito."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EPH-002:020-1",
+    "ref": "EPH 2:20-2:22",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "igreja",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "sois edificados juntamente para serdes morada de Deus no Espírito",
+    "resumo": "Os crentes são edificados sobre o fundamento dos apóstolos e profetas, com Cristo como pedra angular, e crescem como templo santo e morada de Deus no Espírito."
+   }
+  ]
+ },
+ {
+  "id": "F3-EPH-016",
+  "livro": "EPH",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "EPH 3:6",
+  "fim": "EPH 3:6",
+  "texto": {
+   "EPH 3:6": "os gentios são coerdeiros, membros do mesmo corpo e participantes da promessa de Deus em Cristo por meio do evangelho."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EPH-003:006-1",
+    "ref": "EPH 3:6",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "igreja",
+    "condicao": "nenhuma",
+    "promitente": "Paulo",
+    "ancora": "os gentios são coerdeiros",
+    "resumo": "Garantia apostólica de que os gentios em Cristo são coerdeiros, membros do mesmo corpo e participantes da promessa."
+   }
+  ]
+ }
+]

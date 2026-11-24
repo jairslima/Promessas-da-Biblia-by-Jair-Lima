@@ -1,0 +1,1116 @@
+[
+ {
+  "id": "F3-PSA-031",
+  "livro": "PSA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "PSA 119:8",
+  "fim": "PSA 119:8",
+  "texto": {
+   "PSA 119:8": "Teus estatutos observarei; não me deixes totalmente. Bete"
+  },
+  "p1": [
+   {
+    "uid": "U1-PSA-119:008-1",
+    "ref": "PSA 119:8",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "indeterminado",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Teus estatutos observarei",
+    "resumo": "Compromisso de observar os estatutos"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-PSA-119:008-1",
+    "ref": "PSA 119:8",
+    "tipo": "desejo_ou_bencao_votiva",
+    "origem": "humana_votiva",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": "nenhuma",
+    "promitente": null,
+    "ancora": "Teus estatutos observarei; não me deixes totalmente.",
+    "resumo": "Voto do salmista de observar os estatutos de Deus."
+   }
+  ]
+ },
+ {
+  "id": "F3-PSA-032",
+  "livro": "PSA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "PSA 119:106",
+  "fim": "PSA 119:106",
+  "texto": {
+   "PSA 119:106": "Jurei, e assim o cumprirei, guardar os juízos de tua justiça."
+  },
+  "p1": [
+   {
+    "uid": "U1-PSA-119:106-1",
+    "ref": "PSA 119:106",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "indeterminado",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Jurei, e assim o cumprirei",
+    "resumo": "Juramento de guardar os juízos de Deus"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-PSA-119:106-1",
+    "ref": "PSA 119:106",
+    "tipo": "desejo_ou_bencao_votiva",
+    "origem": "humana_votiva",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": "nenhuma",
+    "promitente": null,
+    "ancora": "Jurei, e assim o cumprirei, guardar os juízos de tua justiça.",
+    "resumo": "Juramento solene do salmista de guardar os juízos da justiça de Deus."
+   }
+  ]
+ },
+ {
+  "id": "F3-PSA-033",
+  "livro": "PSA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "PSA 119:134",
+  "fim": "PSA 119:134",
+  "texto": {
+   "PSA 119:134": "Redime-me da opressão dos homens, e observarei teus mandados."
+  },
+  "p1": [
+   {
+    "uid": "U1-PSA-119:134-1",
+    "ref": "PSA 119:134",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "indeterminado",
+    "condicao": "explicita",
+    "promitente": null,
+    "ancora": "observarei teus mandados",
+    "resumo": "Promessa de observar os mandados se for redimido da opressão"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-PSA-119:134-1",
+    "ref": "PSA 119:134",
+    "tipo": "desejo_ou_bencao_votiva",
+    "origem": "humana_votiva",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": "explicita",
+    "promitente": null,
+    "ancora": "Redime-me da opressão dos homens, e observarei teus mandados.",
+    "resumo": "Voto condicional do salmista de observar os mandados de Deus ao ser redimido da opressão."
+   }
+  ]
+ },
+ {
+  "id": "F3-PSA-034",
+  "livro": "PSA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "PSA 119:145",
+  "fim": "PSA 119:146",
+  "texto": {
+   "PSA 119:145": "Clamei com todo o coração, escuta-me, SENHOR, e guardarei teus estatutos.",
+   "PSA 119:146": "A ti te invoquei, salva-me, e observarei teus testemunhos."
+  },
+  "p1": [
+   {
+    "uid": "U1-PSA-119:145-1",
+    "ref": "PSA 119:145-119:146",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "indeterminado",
+    "condicao": "explicita",
+    "promitente": null,
+    "ancora": "guardarei teus estatutos",
+    "resumo": "Promessa de guardar estatutos e testemunhos se Deus o escutar e salvar"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-PSA-119:145-1",
+    "ref": "PSA 119:145",
+    "tipo": "desejo_ou_bencao_votiva",
+    "origem": "humana_votiva",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": "explicita",
+    "promitente": null,
+    "ancora": "Clamei com todo o coração, escuta-me, SENHOR, e guardarei teus estatutos.",
+    "resumo": "Voto condicional do salmista de guardar os estatutos ao ser escutado pelo SENHOR."
+   },
+   {
+    "uid": "U2-PSA-119:146-1",
+    "ref": "PSA 119:146",
+    "tipo": "desejo_ou_bencao_votiva",
+    "origem": "humana_votiva",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": "explicita",
+    "promitente": null,
+    "ancora": "A ti te invoquei, salva-me, e observarei teus testemunhos.",
+    "resumo": "Voto condicional do salmista de observar os testemunhos ao ser salvo por Deus."
+   }
+  ]
+ },
+ {
+  "id": "F3-PSA-035",
+  "livro": "PSA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "PSA 132:2",
+  "fim": "PSA 132:5",
+  "texto": {
+   "PSA 132:2": "Que jurou ao SENHOR e votou ao Potente de Jacó, dizendo:",
+   "PSA 132:3": "Não entrarei na tenda de minha casa, nem subirei no leito de minha cama.",
+   "PSA 132:4": "Nem darei sono a meus olhos, nem adormecimento a minhas pestanas.",
+   "PSA 132:5": "Até que ache lugar para o SENHOR e moradas para o Potente de Jacó."
+  },
+  "p1": [
+   {
+    "uid": "U1-PSA-132:002-1",
+    "ref": "PSA 132:2-132:5",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "indeterminado",
+    "condicao": "nenhuma",
+    "promitente": "Davi",
+    "ancora": "Não entrarei na tenda de minha casa",
+    "resumo": "Voto de Davi de não descansar até achar lugar para o SENHOR"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-PSA-036",
+  "livro": "PSA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "PSA 132:11",
+  "fim": "PSA 132:11",
+  "texto": {
+   "PSA 132:11": "O SENHOR jurou a Davi a verdade, não se apartará dela, quando disse: Do fruto de teu ventre porei sobre teu trono."
+  },
+  "p1": [
+   {
+    "uid": "U1-PSA-132:011-1",
+    "ref": "PSA 132:11",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "familia_ou_linhagem",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "O SENHOR jurou a Davi a verdade",
+    "resumo": "Juramento: do fruto de Davi será posto alguém no trono"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-PSA-037",
+  "livro": "PSA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "PSA 132:12",
+  "fim": "PSA 132:12",
+  "texto": {
+   "PSA 132:12": "Se teus filhos guardarem minha aliança e meus testemunhos, que eu lhes ensinar, também seus filhos perpetuamente se assentarão sobre teu trono."
+  },
+  "p1": [
+   {
+    "uid": "U1-PSA-132:012-1",
+    "ref": "PSA 132:12",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "familia_ou_linhagem",
+    "condicao": "explicita",
+    "promitente": "pai",
+    "ancora": "também seus filhos perpetuamente se assentarão sobre teu trono",
+    "resumo": "Condicional: os filhos de Davi no trono se guardarem a aliança"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-PSA-132:012-1",
+    "ref": "PSA 132:12",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "familia_ou_linhagem",
+    "condicao": "explicita",
+    "promitente": "pai",
+    "ancora": "também seus filhos perpetuamente se assentarão sobre teu trono.",
+    "resumo": "O SENHOR promete que, se os filhos de Davi guardarem a aliança e os testemunhos que ele lhes ensinar, os filhos deles se assentarão perpetuamente sobre o trono de Davi."
+   }
+  ]
+ },
+ {
+  "id": "F3-PSA-038",
+  "livro": "PSA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "PSA 132:13",
+  "fim": "PSA 132:14",
+  "texto": {
+   "PSA 132:13": "Porque o SENHOR elegeu a Sião, desejou-a para sua habitação, dizendo:",
+   "PSA 132:14": "Este é meu repouso perpetuamente; aqui hei de habitar, pois a desejei."
+  },
+  "p1": [
+   {
+    "uid": "U1-PSA-132:013-1",
+    "ref": "PSA 132:13-132:14",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Este é meu repouso perpetuamente",
+    "resumo": "Deus habitará em Sião perpetuamente"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-PSA-132:013-1",
+    "ref": "PSA 132:13-132:14",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "Este é meu repouso perpetuamente; aqui hei de habitar, pois a desejei.",
+    "resumo": "Tendo elegido Sião, o SENHOR declara que ela é o seu repouso perpétuo e promete habitar ali."
+   }
+  ]
+ },
+ {
+  "id": "F3-PSA-039",
+  "livro": "PSA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "PSA 132:15",
+  "fim": "PSA 132:18",
+  "texto": {
+   "PSA 132:15": "Seu mantimento bendirei abundantemente, e seus necessitados fartarei de pão.",
+   "PSA 132:16": "E a seus sacerdotes vestirei de salvação, e seus fiéis exultarão grandemente.",
+   "PSA 132:17": "Ali farei brotar o chifre a Davi, e já preparei uma lanterna para meu ungido.",
+   "PSA 132:18": "A seus inimigos vestirei de confusão, mas sobre ele florescerá sua coroa."
+  },
+  "p1": [
+   {
+    "uid": "U1-PSA-132:015-1",
+    "ref": "PSA 132:15-132:18",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Seu mantimento bendirei abundantemente",
+    "resumo": "Bênção a Sião, salvação aos sacerdotes, chifre a Davi, confusão aos inimigos"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-PSA-132:015-1",
+    "ref": "PSA 132:15",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "Seu mantimento bendirei abundantemente, e seus necessitados fartarei de pão.",
+    "resumo": "O SENHOR promete abençoar com abundância o mantimento de Sião e fartar de pão os seus necessitados."
+   }
+  ]
+ },
+ {
+  "id": "F3-PSA-040",
+  "livro": "PSA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "PSA 137:5",
+  "fim": "PSA 137:6",
+  "texto": {
+   "PSA 137:5": "Se eu me esquecer de ti, ó Jerusalém, minha destra se esqueça de si mesma.",
+   "PSA 137:6": "Minha língua se apegue ao meu paladar, se não me lembro de ti; se não exalto Jerusalém sobre o mais alto de minha alegria."
+  },
+  "p1": [
+   {
+    "uid": "U1-PSA-137:005-1",
+    "ref": "PSA 137:5-137:6",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": "explicita",
+    "promitente": null,
+    "ancora": "Se eu me esquecer de ti, ó Jerusalém",
+    "resumo": "Autoimprecação condicional se esquecer Jerusalém"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-PSA-137:005-1",
+    "ref": "PSA 137:5-137:6",
+    "tipo": "desejo_ou_bencao_votiva",
+    "origem": "humana_votiva",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Se eu me esquecer de ti, ó Jerusalém, minha destra se esqueça de si mesma.",
+    "resumo": "Autoimprecação condicional do salmista jurando não se esquecer de Jerusalém."
+   }
+  ]
+ },
+ {
+  "id": "F3-PSA-041",
+  "livro": "PSA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "PSA 138:1",
+  "fim": "PSA 138:2",
+  "texto": {
+   "PSA 138:1": "Louvar-te-ei com todo o meu coração, e na presença dos deuses salmodiarei a ti.",
+   "PSA 138:2": "Inclinar-me-ei ao teu santo templo, e louvarei o teu nome por tua benignidade e por tua verdade; porque magnificaste a tua palavra além de toda a tua fama."
+  },
+  "p1": [
+   {
+    "uid": "U1-PSA-138:001-1",
+    "ref": "PSA 138:1-138:2",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "indeterminado",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Louvar-te-ei com todo o meu coração",
+    "resumo": "Compromisso de louvar e inclinar-se ao templo"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-PSA-042",
+  "livro": "PSA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "PSA 144:9",
+  "fim": "PSA 144:9",
+  "texto": {
+   "PSA 144:9": "A ti, ó Deus, te cantarei canção nova; com alaúde e decacórdio te salmodiarei."
+  },
+  "p1": [
+   {
+    "uid": "U1-PSA-144:009-1",
+    "ref": "PSA 144:9",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "indeterminado",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "te cantarei canção nova",
+    "resumo": "Compromisso de cantar canção nova a Deus"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-PSA-144:009-1",
+    "ref": "PSA 144:9",
+    "tipo": "desejo_ou_bencao_votiva",
+    "origem": "humana_votiva",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": "nenhuma",
+    "promitente": "Davi",
+    "ancora": "A ti, ó Deus, te cantarei canção nova; com alaúde e decacórdio te salmodiarei.",
+    "resumo": "Voto do salmista de cantar canção nova e salmodiar a Deus."
+   }
+  ]
+ },
+ {
+  "id": "F3-PSA-043",
+  "livro": "PSA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "PSA 145:1",
+  "fim": "PSA 145:2",
+  "texto": {
+   "PSA 145:1": "Exaltar-te-ei, meu Deus e Rei, e bendirei teu nome para sempre e eternamente.",
+   "PSA 145:2": "Cada dia te bendirei e louvarei teu nome para sempre e eternamente."
+  },
+  "p1": [
+   {
+    "uid": "U1-PSA-145:001-1",
+    "ref": "PSA 145:1-145:2",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "indeterminado",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Exaltar-te-ei, meu Deus e Rei",
+    "resumo": "Compromisso de exaltar e bendizer o nome de Deus"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-PSA-145:001-1",
+    "ref": "PSA 145:1-145:2",
+    "tipo": "declaracao_sem_compromisso",
+    "origem": "humana_votiva",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Exaltar-te-ei, meu Deus e Rei, e bendirei teu nome para sempre e eternamente.",
+    "resumo": "Resolução de louvor do salmista de exaltar e bendizer o nome de Deus todos os dias e eternamente."
+   }
+  ]
+ },
+ {
+  "id": "F3-PSA-044",
+  "livro": "PSA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "PSA 146:2",
+  "fim": "PSA 146:2",
+  "texto": {
+   "PSA 146:2": "Louvarei ao SENHOR em minha vida; salmodiarei a meu Deus, enquanto ainda vivo."
+  },
+  "p1": [
+   {
+    "uid": "U1-PSA-146:002-1",
+    "ref": "PSA 146:2",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "indeterminado",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Louvarei ao SENHOR em minha vida",
+    "resumo": "Compromisso de louvar enquanto viver"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-PSA-146:002-1",
+    "ref": "PSA 146:2",
+    "tipo": "desejo_ou_bencao_votiva",
+    "origem": "humana_votiva",
+    "natureza": "bencao",
+    "destinatario": "indeterminado",
+    "condicao": "nenhuma",
+    "promitente": null,
+    "ancora": "Louvarei ao SENHOR em minha vida; salmodiarei a meu Deus, enquanto ainda vivo.",
+    "resumo": "O salmista faz voto pessoal de louvar e salmodiar ao SENHOR durante toda a sua vida."
+   }
+  ]
+ },
+ {
+  "id": "F3-PSA-045",
+  "livro": "PSA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "PSA 2:9",
+  "fim": "PSA 2:9",
+  "texto": {
+   "PSA 2:9": "Com cetro de ferro os esmiuçarás, como vaso de oleiro os despedaçarás."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-PSA-002:009-1",
+    "ref": "PSA 2:9",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "messias",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "Com cetro de ferro os esmiuçarás, como vaso de oleiro os despedaçarás.",
+    "resumo": "O SENHOR garante ao seu filho que ele esmiuçará e despedaçará as nações rebeldes com cetro de ferro."
+   }
+  ]
+ },
+ {
+  "id": "F3-PSA-046",
+  "livro": "PSA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "PSA 60:8",
+  "fim": "PSA 60:8",
+  "texto": {
+   "PSA 60:8": "Moabe é a minha bacia de lavar; sobre Edom lançarei o meu sapato; exulta sobre mim, ó Filístia."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-PSA-060:008-1",
+    "ref": "PSA 60:8",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": "nenhuma",
+    "promitente": "deus_indistinto",
+    "ancora": "Moabe é a minha bacia de lavar; sobre Edom lançarei o meu sapato; exulta sobre mim, ó Filístia.",
+    "resumo": "Deus anuncia a subjugação e humilhação de Moabe, Edom e Filístia sob seu domínio."
+   }
+  ]
+ },
+ {
+  "id": "F3-PSA-047",
+  "livro": "PSA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "PSA 66:13",
+  "fim": "PSA 66:15",
+  "texto": {
+   "PSA 66:13": "Entrarei em tua casa com holocaustos; pagar-te-ei os meus votos.",
+   "PSA 66:14": "Os que pronunciaram os meus lábios e falou a minha boca, estando eu angustiado.",
+   "PSA 66:15": "Oferecer-te-ei holocaustos de touros cevados, com incenso de carneiros; prepararei bois com bodes. Selá."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-PSA-066:013-1",
+    "ref": "PSA 66:13-66:15",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "indeterminado",
+    "condicao": "nenhuma",
+    "promitente": "salmista",
+    "ancora": "Entrarei em tua casa com holocaustos; pagar-te-ei os meus votos.",
+    "resumo": "O falante compromete-se a entrar na casa de Deus com holocaustos de touros, carneiros, bois e bodes, pagando os votos que fez na angústia."
+   }
+  ]
+ },
+ {
+  "id": "F3-PSA-048",
+  "livro": "PSA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "PSA 78:4",
+  "fim": "PSA 78:4",
+  "texto": {
+   "PSA 78:4": "Não as encobriremos de seus filhos; à geração vindoura contaremos os louvores do SENHOR, e também a sua força e as maravilhas que fez."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-PSA-078:004-1",
+    "ref": "PSA 78:4",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": "salmista e sua geração",
+    "ancora": "Não as encobriremos de seus filhos; à geração vindoura contaremos os louvores do SENHOR, e também a sua força e as maravilhas que fez.",
+    "resumo": "Compromisso humano coletivo de transmitir à geração vindoura os louvores, a força e as maravilhas do SENHOR."
+   }
+  ]
+ },
+ {
+  "id": "F3-PSA-049",
+  "livro": "PSA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "PSA 81:15",
+  "fim": "PSA 81:15",
+  "texto": {
+   "PSA 81:15": "Os que odeiam o SENHOR fingidamente se lhe teriam sujeitado, e o seu tempo seria eterno."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-PSA-081:015-1",
+    "ref": "PSA 81:15",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "explicita",
+    "promitente": "deus_indistinto",
+    "ancora": "e o seu tempo seria eterno.",
+    "resumo": "Deus declara que o tempo de Israel seria eterno se o povo o ouvisse e andasse nos seus caminhos."
+   }
+  ]
+ },
+ {
+  "id": "F3-PSA-050",
+  "livro": "PSA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "PSA 81:16",
+  "fim": "PSA 81:16",
+  "texto": {
+   "PSA 81:16": "E o sustentaria com a gordura do trigo, e te fartaria com o mel da penha."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-PSA-081:016-1",
+    "ref": "PSA 81:16",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "explicita",
+    "promitente": "deus_indistinto",
+    "ancora": "E o sustentaria com a gordura do trigo, e te fartaria com o mel da penha.",
+    "resumo": "Deus declara que sustentaria Israel com a gordura do trigo e o fartaria com o mel da penha, se o povo o ouvisse."
+   }
+  ]
+ },
+ {
+  "id": "F3-PSA-051",
+  "livro": "PSA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "PSA 83:4",
+  "fim": "PSA 83:5",
+  "texto": {
+   "PSA 83:4": "Disseram: Vinde, e desarraiguemo-los, para que não sejam mais povo, nem haja mais memória do nome de Israel.",
+   "PSA 83:5": "Porque consultaram de coração, à uma: fizeram aliança contra ti."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-PSA-083:004-1",
+    "ref": "PSA 83:4-83:5",
+    "tipo": "promessa",
+    "origem": "adversaria_ou_falsa",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": "inimigos de Deus (Edom, ismaelitas, Moabe, agarenos, Gebal, Amom, Amaleque, Palestina, Tiro e Assur)",
+    "ancora": "Vinde, e desarraiguemo-los, para que não sejam mais povo, nem haja mais memória do nome de Israel.",
+    "resumo": "Os povos inimigos se coligam em aliança com o propósito declarado de exterminar Israel como povo e apagar a memória do seu nome."
+   }
+  ]
+ },
+ {
+  "id": "F3-PSA-052",
+  "livro": "PSA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "PSA 83:12",
+  "fim": "PSA 83:12",
+  "texto": {
+   "PSA 83:12": "Que disseram: Tomemos para nós, em possessões hereditárias, as formosas habitações de Deus."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-PSA-083:012-1",
+    "ref": "PSA 83:12",
+    "tipo": "promessa",
+    "origem": "adversaria_ou_falsa",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": "inimigos de Deus e seus príncipes",
+    "ancora": "Tomemos para nós, em possessões hereditárias, as formosas habitações de Deus.",
+    "resumo": "Os inimigos declaram entre si a intenção de tomar por possessão hereditária as habitações de Deus."
+   }
+  ]
+ },
+ {
+  "id": "F3-PSA-053",
+  "livro": "PSA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "PSA 89:22",
+  "fim": "PSA 89:22",
+  "texto": {
+   "PSA 89:22": "O inimigo não apertará com ele, nem o filho da perversidade o afligirá."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-PSA-089:022-1",
+    "ref": "PSA 89:22",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "deus_indistinto",
+    "ancora": "O inimigo não apertará com ele, nem o filho da perversidade o afligirá.",
+    "resumo": "Deus garante que o inimigo não oprimirá Davi nem o filho da perversidade o afligirá."
+   }
+  ]
+ },
+ {
+  "id": "F3-PSA-054",
+  "livro": "PSA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "PSA 89:23",
+  "fim": "PSA 89:23",
+  "texto": {
+   "PSA 89:23": "Mas eu quebrantarei os seus adversários perante a sua face, e ferirei os que o odeiam."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-PSA-089:023-1",
+    "ref": "PSA 89:23",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "deus_indistinto",
+    "ancora": "Mas eu quebrantarei os seus adversários perante a sua face, e ferirei os que o odeiam.",
+    "resumo": "Deus promete quebrantar os adversários de Davi diante dele e ferir os que o odeiam."
+   }
+  ]
+ },
+ {
+  "id": "F3-PSA-055",
+  "livro": "PSA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "PSA 89:24",
+  "fim": "PSA 89:24",
+  "texto": {
+   "PSA 89:24": "E a minha fidelidade e a minha benignidade serão com ele; e em meu nome se exaltará o seu chifre."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-PSA-089:024-1",
+    "ref": "PSA 89:24",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "deus_indistinto",
+    "ancora": "E a minha fidelidade e a minha benignidade serão com ele;",
+    "resumo": "Deus promete que sua fidelidade e sua benignidade acompanharão Davi."
+   }
+  ]
+ },
+ {
+  "id": "F3-PSA-056",
+  "livro": "PSA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "PSA 89:24",
+  "fim": "PSA 89:24",
+  "texto": {
+   "PSA 89:24": "E a minha fidelidade e a minha benignidade serão com ele; e em meu nome se exaltará o seu chifre."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-PSA-089:024-2",
+    "ref": "PSA 89:24",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "deus_indistinto",
+    "ancora": "e em meu nome se exaltará o seu chifre.",
+    "resumo": "Deus garante que o poder de Davi será exaltado em seu nome."
+   }
+  ]
+ },
+ {
+  "id": "F3-PSA-057",
+  "livro": "PSA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "PSA 89:25",
+  "fim": "PSA 89:25",
+  "texto": {
+   "PSA 89:25": "E porei a sua mão no mar, e a sua direita nos rios."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-PSA-089:025-1",
+    "ref": "PSA 89:25",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "deus_indistinto",
+    "ancora": "E porei a sua mão no mar, e a sua direita nos rios.",
+    "resumo": "Deus promete estender o domínio de Davi sobre o mar e os rios."
+   }
+  ]
+ },
+ {
+  "id": "F3-PSA-058",
+  "livro": "PSA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "PSA 89:29",
+  "fim": "PSA 89:29",
+  "texto": {
+   "PSA 89:29": "E conservarei a sua semente para sempre, e o seu trono, como os dias dos céus."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-PSA-089:029-1",
+    "ref": "PSA 89:29",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "familia_ou_linhagem",
+    "condicao": "nenhuma",
+    "promitente": "deus_indistinto",
+    "ancora": "E conservarei a sua semente para sempre, e o seu trono, como os dias dos céus.",
+    "resumo": "Deus promete conservar a descendência de Davi para sempre e manter o seu trono como os dias dos céus."
+   }
+  ]
+ },
+ {
+  "id": "F3-PSA-059",
+  "livro": "PSA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "PSA 91:15",
+  "fim": "PSA 91:15",
+  "texto": {
+   "PSA 91:15": "Ele me invocará, e eu o escutarei; estarei com ele na angústia; dela o retirarei e o glorificarei."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-PSA-091:015-1",
+    "ref": "PSA 91:15",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "crente_individual",
+    "condicao": "explicita",
+    "promitente": "deus_indistinto",
+    "ancora": "Ele me invocará, e eu o escutarei",
+    "resumo": "O SENHOR promete escutar o fiel quando este o invocar."
+   }
+  ]
+ },
+ {
+  "id": "F3-PSA-060",
+  "livro": "PSA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "PSA 91:15",
+  "fim": "PSA 91:15",
+  "texto": {
+   "PSA 91:15": "Ele me invocará, e eu o escutarei; estarei com ele na angústia; dela o retirarei e o glorificarei."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-PSA-091:015-2",
+    "ref": "PSA 91:15",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "crente_individual",
+    "condicao": "contextual",
+    "promitente": "deus_indistinto",
+    "ancora": "estarei com ele na angústia",
+    "resumo": "O SENHOR promete estar presente com o fiel na angústia."
+   }
+  ]
+ },
+ {
+  "id": "F3-PSA-061",
+  "livro": "PSA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "PSA 91:15",
+  "fim": "PSA 91:15",
+  "texto": {
+   "PSA 91:15": "Ele me invocará, e eu o escutarei; estarei com ele na angústia; dela o retirarei e o glorificarei."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-PSA-091:015-3",
+    "ref": "PSA 91:15",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "crente_individual",
+    "condicao": "contextual",
+    "promitente": "deus_indistinto",
+    "ancora": "dela o retirarei",
+    "resumo": "O SENHOR promete retirar o fiel da angústia."
+   }
+  ]
+ },
+ {
+  "id": "F3-PSA-062",
+  "livro": "PSA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "PSA 91:15",
+  "fim": "PSA 91:15",
+  "texto": {
+   "PSA 91:15": "Ele me invocará, e eu o escutarei; estarei com ele na angústia; dela o retirarei e o glorificarei."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-PSA-091:015-4",
+    "ref": "PSA 91:15",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "crente_individual",
+    "condicao": "contextual",
+    "promitente": "deus_indistinto",
+    "ancora": "e o glorificarei",
+    "resumo": "O SENHOR promete glorificar o fiel."
+   }
+  ]
+ },
+ {
+  "id": "F3-PSA-063",
+  "livro": "PSA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "PSA 91:16",
+  "fim": "PSA 91:16",
+  "texto": {
+   "PSA 91:16": "Com longos dias o fartarei, e lhe farei ver a minha salvação."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-PSA-091:016-1",
+    "ref": "PSA 91:16",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "crente_individual",
+    "condicao": "contextual",
+    "promitente": "deus_indistinto",
+    "ancora": "Com longos dias o fartarei",
+    "resumo": "O SENHOR promete fartar o fiel com longevidade."
+   }
+  ]
+ },
+ {
+  "id": "F3-PSA-064",
+  "livro": "PSA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "PSA 91:16",
+  "fim": "PSA 91:16",
+  "texto": {
+   "PSA 91:16": "Com longos dias o fartarei, e lhe farei ver a minha salvação."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-PSA-091:016-2",
+    "ref": "PSA 91:16",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "crente_individual",
+    "condicao": "contextual",
+    "promitente": "deus_indistinto",
+    "ancora": "e lhe farei ver a minha salvação",
+    "resumo": "O SENHOR promete fazer o fiel contemplar a sua salvação."
+   }
+  ]
+ },
+ {
+  "id": "F3-PSA-065",
+  "livro": "PSA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "PSA 101:6",
+  "fim": "PSA 101:6",
+  "texto": {
+   "PSA 101:6": "Meus olhos atentarão pelos fiéis da terra, para que se assentem comigo; o que anda no caminho reto, esse tal me servirá."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-PSA-101:006-1",
+    "ref": "PSA 101:6",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "falante do salmo",
+    "ancora": "Meus olhos atentarão pelos fiéis da terra, para que se assentem comigo; o que anda no caminho reto, esse tal me servirá.",
+    "resumo": "O falante garante favorecer os fiéis da terra e admitir em sua companhia e serviço quem anda no caminho reto."
+   }
+  ]
+ }
+]

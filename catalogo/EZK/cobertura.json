@@ -1,0 +1,10 @@
+{
+ "versiculos_lidos": 1273,
+ "versiculos_do_livro": 1273,
+ "leituras": [
+  "Claude (agente)",
+  "DeepSeek Flash high",
+  "árbitro Gemini"
+ ],
+ "nota": "Fase 3 concluída (acordo=110, adj_ant=0, f3_conf=131, f3_rej=57, dup_rem=0)."
+}

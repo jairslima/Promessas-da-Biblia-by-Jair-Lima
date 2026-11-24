@@ -1,0 +1,1797 @@
+[
+ {
+  "id": "F3-HEB-020",
+  "livro": "HEB",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "HEB 4:3",
+  "fim": "HEB 4:3",
+  "texto": {
+   "HEB 4:3": "Porque nós, os que cremos, entramos no descanso, como ele disse: Assim jurei em minha ira: Não entrarão em meu descanso; embora suas obras estivessem concluídas desde a fundação do mundo."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-HEB-004:003-2",
+    "ref": "HEB 4:3",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": null,
+    "ancora": "Assim jurei em minha ira: Não entrarão em meu descanso",
+    "resumo": "Juramento divino de que os desobedientes não entrarão no descanso."
+   }
+  ]
+ },
+ {
+  "id": "F3-HEB-021",
+  "livro": "HEB",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "HEB 4:14",
+  "fim": "HEB 4:16",
+  "texto": {
+   "HEB 4:14": "Tendo, pois, um grande Sumo Sacerdote, Jesus, o Filho de Deus, que atravessou os céus, retenhamos firmemente nossa confissão.",
+   "HEB 4:15": "Porque não temos um Sumo Sacerdote incapaz de compadecer-se de nossas fraquezas, mas um que, como nós, foi tentado em todas as coisas, porém sem pecado.",
+   "HEB 4:16": "Cheguemo-nos, pois, com confiança ao trono da graça, para que recebamos misericórdia e achemos graça, a fim de sermos socorridos em tempo oportuno."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-HEB-004:014-1",
+    "ref": "HEB 4:14-4:16",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "igreja",
+    "condicao": "explicita",
+    "promitente": "autor de Hebreus",
+    "ancora": "Cheguemo-nos, pois, com confiança ao trono da graça, para que recebamos misericórdia e achemos graça, a fim de sermos socorridos em tempo oportuno.",
+    "resumo": "Garantia apostólica de que, tendo Jesus como grande Sumo Sacerdote, podemos aproximar-nos com confiança do trono da graça e receber misericórdia, graça e socorro."
+   }
+  ]
+ },
+ {
+  "id": "F3-HEB-022",
+  "livro": "HEB",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "HEB 5:6",
+  "fim": "HEB 5:6",
+  "texto": {
+   "HEB 5:6": "Como também diz em outro lugar: Tu és Sacerdote eternamente, segundo a ordem de Melquisedeque."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-HEB-005:006-1",
+    "ref": "HEB 5:6",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Tu és Sacerdote eternamente, segundo a ordem de Melquisedeque",
+    "resumo": "Deus declara que Cristo é sacerdote eternamente, segundo a ordem de Melquisedeque."
+   }
+  ]
+ },
+ {
+  "id": "F3-HEB-023",
+  "livro": "HEB",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "HEB 6:3",
+  "fim": "HEB 6:3",
+  "texto": {
+   "HEB 6:3": "E isso faremos, se Deus o permitir."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-HEB-006:003-1",
+    "ref": "HEB 6:3",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "igreja",
+    "condicao": "contextual",
+    "promitente": null,
+    "ancora": "E isso faremos, se Deus o permitir",
+    "resumo": "o autor e os leitores prosseguirão para a maturidade, se Deus permitir"
+   }
+  ]
+ },
+ {
+  "id": "F3-HEB-024",
+  "livro": "HEB",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "HEB 6:17",
+  "fim": "HEB 6:18",
+  "texto": {
+   "HEB 6:17": "Por isso Deus, querendo mostrar mais abundantemente aos herdeiros da promessa a imutabilidade de seu propósito, confirmou-o com juramento,",
+   "HEB 6:18": "para que, por duas coisas imutáveis, nas quais é impossível que Deus minta, tenhamos firme consolação, nós que buscamos refúgio para reter a esperança proposta."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-HEB-006:017-1",
+    "ref": "HEB 6:17-6:18",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "igreja",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "confirmou-o com juramento",
+    "resumo": "Deus confirmou com juramento a imutabilidade de seu propósito, para que os que buscam refúgio tenham firme consolação"
+   }
+  ]
+ },
+ {
+  "id": "F3-HEB-025",
+  "livro": "HEB",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "HEB 9:15",
+  "fim": "HEB 9:15",
+  "texto": {
+   "HEB 9:15": "Por isso ele é Mediador da Nova Aliança, para que, intervindo a morte para redenção das transgressões cometidas sob a primeira aliança, os chamados recebam a promessa da herança eterna."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-HEB-009:015-1",
+    "ref": "HEB 9:15",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "igreja",
+    "condicao": null,
+    "promitente": "autor de Hebreus",
+    "ancora": "os chamados recebam a promessa da herança eterna",
+    "resumo": "Cristo é mediador da nova aliança para que os chamados recebam a promessa da herança eterna."
+   }
+  ]
+ },
+ {
+  "id": "F3-HEB-026",
+  "livro": "HEB",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "HEB 9:24",
+  "fim": "HEB 9:24",
+  "texto": {
+   "HEB 9:24": "Porque Cristo não entrou em santuário feito por mãos, figura do verdadeiro, mas no próprio céu, para agora comparecer por nós perante a face de Deus."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-HEB-009:024-1",
+    "ref": "HEB 9:24",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "igreja",
+    "condicao": null,
+    "promitente": "autor de Hebreus",
+    "ancora": "para agora comparecer por nós perante a face de Deus",
+    "resumo": "Cristo entrou no próprio céu para agora comparecer por nós diante de Deus."
+   }
+  ]
+ },
+ {
+  "id": "F3-HEB-027",
+  "livro": "HEB",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "HEB 10:10",
+  "fim": "HEB 10:10",
+  "texto": {
+   "HEB 10:10": "Nessa vontade somos santificados pela oferta do corpo de Jesus Cristo, feita uma vez por todas."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-HEB-010:010-1",
+    "ref": "HEB 10:10",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "igreja",
+    "condicao": null,
+    "promitente": "autor de Hebreus",
+    "ancora": "somos santificados pela oferta do corpo de Jesus Cristo, feita uma vez por todas",
+    "resumo": "Os crentes são santificados pela oferta única de Cristo"
+   }
+  ]
+ },
+ {
+  "id": "F3-HEB-028",
+  "livro": "HEB",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "HEB 10:15",
+  "fim": "HEB 10:17",
+  "texto": {
+   "HEB 10:15": "E também o Espírito Santo nos dá testemunho, pois, depois de haver dito antes:",
+   "HEB 10:16": "Esta é a aliança que farei com eles depois daqueles dias, diz o Senhor: Porei minhas leis em seu coração e as escreverei em seu entendimento,",
+   "HEB 10:17": "acrescenta: De seus pecados e de suas iniquidades não me lembrarei mais."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-HEB-010:015-1",
+    "ref": "HEB 10:15-10:17",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "igreja",
+    "condicao": "nenhuma",
+    "promitente": "autor de Hebreus",
+    "ancora": "Porei minhas leis em seu coração",
+    "resumo": "Aliança anunciada pelo Senhor: leis no coração e perdão dos pecados"
+   }
+  ]
+ },
+ {
+  "id": "F3-HEB-029",
+  "livro": "HEB",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "HEB 10:36",
+  "fim": "HEB 10:36",
+  "texto": {
+   "HEB 10:36": "Porque necessitais de paciência para que, havendo feito a vontade de Deus, alcanceis a promessa."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-HEB-010:036-1",
+    "ref": "HEB 10:36",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "igreja",
+    "condicao": null,
+    "promitente": "autor de Hebreus",
+    "ancora": "alcanceis a promessa",
+    "resumo": "Pela paciência e pelo cumprimento da vontade de Deus os leitores alcançarão a promessa"
+   }
+  ]
+ },
+ {
+  "id": "F3-HEB-030",
+  "livro": "HEB",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "HEB 10:38",
+  "fim": "HEB 10:38",
+  "texto": {
+   "HEB 10:38": "Mas o justo viverá pela fé; e, se alguém retroceder, minha alma não terá prazer nele."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-HEB-010:038-1",
+    "ref": "HEB 10:38",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "indeterminado",
+    "condicao": null,
+    "promitente": "autor de Hebreus",
+    "ancora": "se alguém retroceder, minha alma não terá prazer nele",
+    "resumo": "O Senhor não terá prazer no que retrocede"
+   }
+  ]
+ },
+ {
+  "id": "F3-HEB-031",
+  "livro": "HEB",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "HEB 11:16",
+  "fim": "HEB 11:16",
+  "texto": {
+   "HEB 11:16": "Mas agora desejam uma pátria melhor, isto é, a celestial. Por isso Deus não se envergonha deles, de ser chamado seu Deus, porque lhes preparou uma cidade."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-HEB-011:016-1",
+    "ref": "HEB 11:16",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "autor de Hebreus",
+    "ancora": "Por isso Deus não se envergonha deles, de ser chamado seu Deus, porque lhes preparou uma cidade",
+    "resumo": "Garantia de que Deus não se envergonha dos que buscam a pátria celestial, pois lhes preparou uma cidade."
+   }
+  ]
+ },
+ {
+  "id": "F3-HEB-032",
+  "livro": "HEB",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "HEB 11:40",
+  "fim": "HEB 11:40",
+  "texto": {
+   "HEB 11:40": "provendo Deus alguma coisa melhor para nós, para que eles, sem nós, não fossem aperfeiçoados."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-HEB-011:040-1",
+    "ref": "HEB 11:40",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "igreja_local",
+    "condicao": null,
+    "promitente": "autor de Hebreus",
+    "ancora": "provendo Deus alguma coisa melhor para nós, para que eles, sem nós, não fossem aperfeiçoados",
+    "resumo": "Garantia de que Deus providenciou algo melhor para nós, para que os antigos não sejam aperfeiçoados sem nós."
+   }
+  ]
+ },
+ {
+  "id": "F3-HEB-033",
+  "livro": "HEB",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "HEB 12:10",
+  "fim": "HEB 12:10",
+  "texto": {
+   "HEB 12:10": "Porque eles, na verdade, por poucos dias nos disciplinavam como lhes parecia melhor; ele, porém, para nosso proveito, a fim de participarmos de sua santidade."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-HEB-012:010-1",
+    "ref": "HEB 12:10",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "igreja",
+    "condicao": null,
+    "promitente": "autor de Hebreus",
+    "ancora": "para nosso proveito, a fim de participarmos de sua santidade",
+    "resumo": "Deus disciplina os seus para proveito, para que participem da sua santidade."
+   }
+  ]
+ },
+ {
+  "id": "F3-HEB-034",
+  "livro": "HEB",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "HEB 12:20",
+  "fim": "HEB 12:20",
+  "texto": {
+   "HEB 12:20": "porque não podiam suportar o que lhes era ordenado: Se até um animal tocar o monte, será apedrejado ou atravessado com um dardo."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-HEB-012:020-1",
+    "ref": "HEB 12:20",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": "contextual",
+    "promitente": "autor de Hebreus",
+    "ancora": "Se até um animal tocar o monte, será apedrejado ou atravessado com um dardo",
+    "resumo": "Pena ordenada: até um animal que tocar o monte será morto."
+   }
+  ]
+ },
+ {
+  "id": "F3-HEB-035",
+  "livro": "HEB",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "HEB 12:28",
+  "fim": "HEB 12:28",
+  "texto": {
+   "HEB 12:28": "Por isso, recebendo um Reino inabalável, retenhamos a graça, pela qual sirvamos agradavelmente a Deus com reverência e temor piedoso."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-HEB-012:028-1",
+    "ref": "HEB 12:28",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "igreja",
+    "condicao": null,
+    "promitente": "autor de Hebreus",
+    "ancora": "recebendo um Reino inabalável",
+    "resumo": "Os crentes recebem um Reino inabalável."
+   }
+  ]
+ },
+ {
+  "id": "F3-HEB-036",
+  "livro": "HEB",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "HEB 13:23",
+  "fim": "HEB 13:23",
+  "texto": {
+   "HEB 13:23": "Sabei que o irmão Timóteo foi solto, com o qual, se vier depressa, vos verei."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-HEB-013:023-1",
+    "ref": "HEB 13:23",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "igreja_local",
+    "condicao": "contextual",
+    "promitente": null,
+    "ancora": "se vier depressa, vos verei",
+    "resumo": "O autor promete ver os destinatários se Timóteo vier depressa."
+   }
+  ]
+ },
+ {
+  "id": "F3-JAS-001",
+  "livro": "JAS",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JAS 1:25",
+  "fim": "JAS 1:25",
+  "texto": {
+   "JAS 1:25": "Mas aquele que atenta bem para a lei perfeita da liberdade e nela persevera, não sendo ouvinte esquecido, mas praticante da obra, este será bem-aventurado no que fizer."
+  },
+  "p1": [
+   {
+    "uid": "U1-JAS-001:025-1",
+    "ref": "JAS 1:25",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "crente_individual",
+    "condicao": "explicita",
+    "promitente": "Tiago",
+    "ancora": "este será bem-aventurado no que fizer",
+    "resumo": "Quem persevera na lei perfeita como praticante será bem-aventurado no que fizer."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JAS-001:025-1",
+    "ref": "JAS 1:25",
+    "tipo": "principio_sapiencial",
+    "origem": "indeterminada",
+    "natureza": null,
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "este será bem-aventurado no que fizer",
+    "resumo": "Quem persevera na lei da liberdade e a pratica será bem-aventurado no que fizer."
+   }
+  ]
+ },
+ {
+  "id": "F3-JAS-002",
+  "livro": "JAS",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JAS 2:13",
+  "fim": "JAS 2:13",
+  "texto": {
+   "JAS 2:13": "Porque o juízo será sem misericórdia para aquele que não exerceu misericórdia; e a misericórdia se gloria contra o juízo."
+  },
+  "p1": [
+   {
+    "uid": "U1-JAS-002:013-1",
+    "ref": "JAS 2:13",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "juizo",
+    "destinatario": "humanidade",
+    "condicao": "explicita",
+    "promitente": "Tiago",
+    "ancora": "o juízo será sem misericórdia para aquele que não exerceu misericórdia",
+    "resumo": "O juízo será sem misericórdia para quem não exerceu misericórdia."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JAS-002:013-1",
+    "ref": "JAS 2:13",
+    "tipo": "advertencia",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "Tiago",
+    "ancora": "Porque o juízo será sem misericórdia para aquele que não exerceu misericórdia; e a misericórdia se gloria contra o juízo.",
+    "resumo": "O juízo será sem misericórdia para quem não usou de misericórdia."
+   }
+  ]
+ },
+ {
+  "id": "F3-JAS-003",
+  "livro": "JAS",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JAS 3:1",
+  "fim": "JAS 3:1",
+  "texto": {
+   "JAS 3:1": "Meus irmãos, não sejais muitos mestres, sabendo que receberemos juízo maior."
+  },
+  "p1": [
+   {
+    "uid": "U1-JAS-003:001-1",
+    "ref": "JAS 3:1",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "Tiago",
+    "ancora": "receberemos juízo maior",
+    "resumo": "Os mestres receberão juízo maior."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JAS-003:001-1",
+    "ref": "JAS 3:1",
+    "tipo": "advertencia",
+    "origem": "indeterminada",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "receberemos juízo maior",
+    "resumo": "Advertência de que muitos mestres receberão juízo maior."
+   }
+  ]
+ },
+ {
+  "id": "F3-JAS-004",
+  "livro": "JAS",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JAS 5:1",
+  "fim": "JAS 5:3",
+  "texto": {
+   "JAS 5:1": "Eia, agora, vós ricos, chorai e lamentai por causa das misérias que virão sobre vós.",
+   "JAS 5:2": "Vossas riquezas estão apodrecidas, e vossas roupas foram comidas pela traça.",
+   "JAS 5:3": "Vosso ouro e vossa prata estão enferrujados, e sua ferrugem será testemunho contra vós e comerá vossa carne como fogo. Acumulastes tesouros para os últimos dias."
+  },
+  "p1": [
+   {
+    "uid": "U1-JAS-005:001-1",
+    "ref": "JAS 5:1-5:3",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "Tiago",
+    "ancora": "misérias que virão sobre vós",
+    "resumo": "Misérias virão sobre os ricos opressores, e a ferrugem de suas riquezas testemunhará contra eles."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JAS-005:001-1",
+    "ref": "JAS 5:1-5:3",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "misérias que virão sobre vós",
+    "resumo": "Anúncio de misérias futuras sobre os ricos, com a corrupção das riquezas como testemunho contra eles."
+   }
+  ]
+ },
+ {
+  "id": "F3-JAS-005",
+  "livro": "JAS",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JAS 5:14",
+  "fim": "JAS 5:15",
+  "texto": {
+   "JAS 5:14": "Está alguém entre vós doente? Chame os presbíteros da igreja, e orem sobre ele, ungindo-o com azeite em nome do Senhor.",
+   "JAS 5:15": "E a oração da fé salvará o enfermo, e o Senhor o levantará; e, se tiver cometido pecados, serão perdoados."
+  },
+  "p1": [
+   {
+    "uid": "U1-JAS-005:015-1",
+    "ref": "JAS 5:15",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "crente_individual",
+    "condicao": "explicita",
+    "promitente": "Tiago",
+    "ancora": "a oração da fé salvará o enfermo, e o Senhor o levantará",
+    "resumo": "A oração da fé salvará o enfermo, o Senhor o levantará e os pecados serão perdoados."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JAS-005:014-1",
+    "ref": "JAS 5:14-5:15",
+    "tipo": "mandamento",
+    "origem": "indeterminada",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "a oração da fé salvará o enfermo, e o Senhor o levantará",
+    "resumo": "Mandamento de chamar os presbíteros para orar pelo enfermo, com promessa de salvação, restauração e perdão de pecados."
+   }
+  ]
+ },
+ {
+  "id": "F3-JAS-006",
+  "livro": "JAS",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JAS 5:19",
+  "fim": "JAS 5:20",
+  "texto": {
+   "JAS 5:19": "Meus irmãos, se alguém entre vós se desviar da verdade e alguém o converter,",
+   "JAS 5:20": "saiba que aquele que converter um pecador do erro de seu caminho salvará uma alma da morte e cobrirá uma multidão de pecados."
+  },
+  "p1": [
+   {
+    "uid": "U1-JAS-005:020-1",
+    "ref": "JAS 5:20",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "explicita",
+    "promitente": "Tiago",
+    "ancora": "salvará uma alma da morte e cobrirá uma multidão de pecados",
+    "resumo": "Quem converter um pecador salvará uma alma da morte e cobrirá uma multidão de pecados."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JAS-005:019-1",
+    "ref": "JAS 5:19-5:20",
+    "tipo": "principio_sapiencial",
+    "origem": "indeterminada",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "salvará uma alma da morte e cobrirá uma multidão de pecados",
+    "resumo": "Princípio de que quem converte um pecador do erro salva uma alma da morte e cobre muitos pecados."
+   }
+  ]
+ },
+ {
+  "id": "F3-JAS-007",
+  "livro": "JAS",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JAS 2:5",
+  "fim": "JAS 2:5",
+  "texto": {
+   "JAS 2:5": "Ouvi, meus amados irmãos: não escolheu Deus os pobres deste mundo para serem ricos em fé e herdeiros do Reino que prometeu aos que o amam?"
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JAS-002:005-1",
+    "ref": "JAS 2:5",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "Tiago",
+    "ancora": "Ouvi, meus amados irmãos: não escolheu Deus os pobres deste mundo para serem ricos em fé e herdeiros do Reino que prometeu aos que o amam?",
+    "resumo": "Deus escolheu os pobres para serem ricos em fé e herdeiros do Reino prometido aos que o amam."
+   }
+  ]
+ },
+ {
+  "id": "F3-1PE-001",
+  "livro": "1PE",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "1PE 1:4",
+  "fim": "1PE 1:5",
+  "texto": {
+   "1PE 1:4": "para uma herança incorruptível, sem mácula e que não murcha, guardada nos céus para vós,",
+   "1PE 1:5": "que sois guardados pelo poder de Deus, mediante a fé, para a salvação pronta a ser revelada no último tempo."
+  },
+  "p1": [
+   {
+    "uid": "U1-1PE-001:004-1",
+    "ref": "1PE 1:4-1:5",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "igreja",
+    "condicao": null,
+    "promitente": "Pedro",
+    "ancora": "guardada nos céus para vós",
+    "resumo": "A herança incorruptível está guardada nos céus para os crentes, que são guardados pelo poder de Deus para a salvação a ser revelada."
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-1PE-002",
+  "livro": "1PE",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "1PE 2:6",
+  "fim": "1PE 2:6",
+  "texto": {
+   "1PE 2:6": "Por isso também se contém na Escritura: Eis que ponho em Sião a principal pedra da esquina, eleita e preciosa; e quem nela crer não será envergonhado."
+  },
+  "p1": [
+   {
+    "uid": "U1-1PE-002:006-1",
+    "ref": "1PE 2:6",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "crente_individual",
+    "condicao": null,
+    "promitente": "Pedro",
+    "ancora": "quem nela crer não será envergonhado",
+    "resumo": "Quem crê na pedra posta em Sião não será envergonhado."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-1PE-002:006-1",
+    "ref": "1PE 2:6",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "explicita",
+    "promitente": null,
+    "ancora": "Eis que ponho em Sião a principal pedra da esquina, eleita e preciosa; e quem nela crer não será envergonhado.",
+    "resumo": "Promessa divina de que quem crer na pedra principal não será envergonhado."
+   }
+  ]
+ },
+ {
+  "id": "F3-1PE-003",
+  "livro": "1PE",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "1PE 5:2",
+  "fim": "1PE 5:4",
+  "texto": {
+   "1PE 5:2": "apascentai o rebanho de Deus que está entre vós, tendo cuidado dele, não por obrigação, mas voluntariamente; nem por ganância desonesta, mas com ânimo pronto,",
+   "1PE 5:3": "nem como dominando sobre as heranças do Senhor, mas servindo de exemplos ao rebanho.",
+   "1PE 5:4": "E, quando o Supremo Pastor se manifestar, recebereis a coroa imarcescível da glória."
+  },
+  "p1": [
+   {
+    "uid": "U1-1PE-005:004-1",
+    "ref": "1PE 5:4",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "Pedro",
+    "ancora": "recebereis a coroa imarcescível da glória",
+    "resumo": "Os presbíteros que apascentam o rebanho receberão a coroa da glória quando o Supremo Pastor se manifestar."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-1PE-005:002-1",
+    "ref": "1PE 5:2-5:4",
+    "tipo": "mandamento",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "Pedro",
+    "ancora": "recebereis a coroa imarcescível da glória",
+    "resumo": "Aos presbíteros que apascentam o rebanho de Deus, não por obrigação nem por ganância, é assegurado que, quando o Supremo Pastor se manifestar, receberão a coroa imarcescível da glória."
+   }
+  ]
+ },
+ {
+  "id": "F3-1PE-004",
+  "livro": "1PE",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "1PE 5:6",
+  "fim": "1PE 5:6",
+  "texto": {
+   "1PE 5:6": "Humilhai-vos, pois, debaixo da poderosa mão de Deus, para que ele vos exalte no devido tempo,"
+  },
+  "p1": [
+   {
+    "uid": "U1-1PE-005:006-1",
+    "ref": "1PE 5:6",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "crente_individual",
+    "condicao": "explicita",
+    "promitente": "Pedro",
+    "ancora": "para que ele vos exalte no devido tempo",
+    "resumo": "Os que se humilham sob a mão de Deus serão exaltados no devido tempo."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-1PE-005:006-1",
+    "ref": "1PE 5:6",
+    "tipo": "mandamento",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "Pedro",
+    "ancora": "para que ele vos exalte no devido tempo",
+    "resumo": "Aos que se humilham sob a poderosa mão de Deus é assegurado que ele mesmo os exaltará no devido tempo."
+   }
+  ]
+ },
+ {
+  "id": "F3-1PE-005",
+  "livro": "1PE",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "1PE 1:3",
+  "fim": "1PE 1:5",
+  "texto": {
+   "1PE 1:3": "Bendito seja o Deus e Pai de nosso Senhor Jesus Cristo, que, segundo sua grande misericórdia, nos regenerou para uma esperança viva pela ressurreição de Jesus Cristo dentre os mortos,",
+   "1PE 1:4": "para uma herança incorruptível, sem mácula e que não murcha, guardada nos céus para vós,",
+   "1PE 1:5": "que sois guardados pelo poder de Deus, mediante a fé, para a salvação pronta a ser revelada no último tempo."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-1PE-001:003-1",
+    "ref": "1PE 1:3-1:5",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "Pedro",
+    "ancora": "nos regenerou para uma esperança viva",
+    "resumo": "Garantia apostólica de regeneração, herança guardada e salvação final para os crentes."
+   }
+  ]
+ },
+ {
+  "id": "F3-1PE-006",
+  "livro": "1PE",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "1PE 2:4",
+  "fim": "1PE 2:5",
+  "texto": {
+   "1PE 2:4": "Aproximando-vos dele, pedra viva, rejeitada pelos homens, mas eleita e preciosa diante de Deus,",
+   "1PE 2:5": "também vós, como pedras vivas, sois edificados como casa espiritual e sacerdócio santo, para oferecer sacrifícios espirituais aceitáveis a Deus por Jesus Cristo."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-1PE-002:004-1",
+    "ref": "1PE 2:4-2:5",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "igreja",
+    "condicao": null,
+    "promitente": "Pedro",
+    "ancora": "também vós, como pedras vivas, sois edificados como casa espiritual e sacerdócio santo",
+    "resumo": "Garantia apostólica de que os crentes são edificados como casa espiritual e sacerdócio santo."
+   }
+  ]
+ },
+ {
+  "id": "F3-1PE-007",
+  "livro": "1PE",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "1PE 2:9",
+  "fim": "1PE 2:10",
+  "texto": {
+   "1PE 2:9": "Mas vós sois geração eleita, sacerdócio real, nação santa e povo adquirido, para que anuncieis as virtudes daquele que vos chamou das trevas para sua maravilhosa luz.",
+   "1PE 2:10": "Vós, que antes não éreis povo, mas agora sois povo de Deus; que não tínheis alcançado misericórdia, mas agora alcançastes misericórdia."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-1PE-002:009-1",
+    "ref": "1PE 2:9-2:10",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "igreja",
+    "condicao": null,
+    "promitente": "Pedro",
+    "ancora": "Mas vós sois geração eleita, sacerdócio real, nação santa e povo adquirido",
+    "resumo": "Garantia apostólica da nova identidade dos crentes como povo de Deus e que alcançaram misericórdia."
+   }
+  ]
+ },
+ {
+  "id": "F3-1PE-008",
+  "livro": "1PE",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "1PE 2:24",
+  "fim": "1PE 2:24",
+  "texto": {
+   "1PE 2:24": "Ele mesmo levou nossos pecados em seu corpo sobre o madeiro, para que, mortos para os pecados, vivamos para a justiça; por sua ferida fostes curados."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-1PE-002:024-1",
+    "ref": "1PE 2:24",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "igreja",
+    "condicao": null,
+    "promitente": "Pedro",
+    "ancora": "Ele mesmo levou nossos pecados em seu corpo sobre o madeiro, para que, mortos para os pecados, vivamos para a justiça; por sua ferida fostes curados.",
+    "resumo": "Garantia apostólica de que Cristo levou os pecados para que os crentes vivam para a justiça e sejam curados."
+   }
+  ]
+ },
+ {
+  "id": "F3-1PE-009",
+  "livro": "1PE",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "1PE 3:14",
+  "fim": "1PE 3:14",
+  "texto": {
+   "1PE 3:14": "Mas, se também sofrerdes por causa da justiça, sois bem-aventurados. Não temais o temor deles, nem vos perturbeis,"
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-1PE-003:014-1",
+    "ref": "1PE 3:14",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "igreja",
+    "condicao": "explicita",
+    "promitente": "Pedro",
+    "ancora": "sois bem-aventurados",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-1PE-010",
+  "livro": "1PE",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "1PE 3:21",
+  "fim": "1PE 3:21",
+  "texto": {
+   "1PE 3:21": "O batismo, que corresponde a essa figura, também agora nos salva, não pelo despojamento da imundícia do corpo, mas pela indagação de uma boa consciência para com Deus, mediante a ressurreição de Jesus Cristo,"
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-1PE-003:021-1",
+    "ref": "1PE 3:21",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "igreja",
+    "condicao": null,
+    "promitente": "Pedro",
+    "ancora": "também agora nos salva",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-1PE-011",
+  "livro": "1PE",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "1PE 4:14",
+  "fim": "1PE 4:14",
+  "texto": {
+   "1PE 4:14": "Se sois insultados pelo nome de Cristo, sois bem-aventurados, porque o Espírito da glória e de Deus repousa sobre vós. Quanto a eles, é blasfemado, mas quanto a vós, glorificado."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-1PE-004:014-1",
+    "ref": "1PE 4:14",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "igreja_local",
+    "condicao": "explicita",
+    "promitente": "Pedro",
+    "ancora": "Se sois insultados pelo nome de Cristo, sois bem-aventurados, porque o Espírito da glória e de Deus repousa sobre vós. Quanto a eles, é blasfemado, mas quanto a vós, glorificado.",
+    "resumo": "Sob insulto pelo nome de Cristo, os crentes são bem-aventurados porque o Espírito de Deus repousa sobre eles."
+   }
+  ]
+ },
+ {
+  "id": "F3-1PE-012",
+  "livro": "1PE",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "1PE 4:17",
+  "fim": "1PE 4:17",
+  "texto": {
+   "1PE 4:17": "Porque já é tempo de o juízo começar pela casa de Deus; e, se começa primeiro por nós, qual será o fim daqueles que desobedecem ao evangelho de Deus?"
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-1PE-004:017-1",
+    "ref": "1PE 4:17",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "Pedro",
+    "ancora": "Porque já é tempo de o juízo começar pela casa de Deus; e, se começa primeiro por nós, qual será o fim daqueles que desobedecem ao evangelho de Deus?",
+    "resumo": "O juízo começa pela casa de Deus, e os que desobedecem ao evangelho terão um fim temível."
+   }
+  ]
+ },
+ {
+  "id": "F3-1PE-013",
+  "livro": "1PE",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "1PE 5:7",
+  "fim": "1PE 5:7",
+  "texto": {
+   "1PE 5:7": "lançando sobre ele toda vossa ansiedade, porque ele cuida de vós."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-1PE-005:007-1",
+    "ref": "1PE 5:7",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "igreja_local",
+    "condicao": null,
+    "promitente": "Pedro",
+    "ancora": "ele cuida de vós",
+    "resumo": "Garantia de que Deus cuida dos destinatários, fundamento para lançar sobre ele toda a ansiedade."
+   }
+  ]
+ },
+ {
+  "id": "F3-2PE-001",
+  "livro": "2PE",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "2PE 1:4",
+  "fim": "2PE 1:4",
+  "texto": {
+   "2PE 1:4": "pelas quais nos foram dadas grandíssimas e preciosas promessas, para que por elas vos torneis participantes da natureza divina, tendo escapado da corrupção que há no mundo pela cobiça."
+  },
+  "p1": [
+   {
+    "uid": "U1-2PE-001:004-1",
+    "ref": "2PE 1:4",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "crente_individual",
+    "condicao": null,
+    "promitente": "Pedro",
+    "ancora": "para que por elas vos torneis participantes da natureza divina",
+    "resumo": "Pelas grandíssimas promessas os crentes se tornam participantes da natureza divina, escapando da corrupção."
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-2PE-002",
+  "livro": "2PE",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "2PE 1:10",
+  "fim": "2PE 1:10",
+  "texto": {
+   "2PE 1:10": "Portanto, irmãos, procurai ainda mais firmar vossa vocação e eleição, porque, fazendo isso, nunca tropeçareis."
+  },
+  "p1": [
+   {
+    "uid": "U1-2PE-001:010-1",
+    "ref": "2PE 1:10",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "crente_individual",
+    "condicao": "explicita",
+    "promitente": "Pedro",
+    "ancora": "fazendo isso, nunca tropeçareis",
+    "resumo": "Quem firma sua vocação e eleição nunca tropeçará."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-2PE-001:010-1",
+    "ref": "2PE 1:10",
+    "tipo": "mandamento",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "Pedro",
+    "ancora": "fazendo isso, nunca tropeçareis",
+    "resumo": "Mandamento com promessa anexa: firmar a vocação e eleição, com a consequência de nunca tropeçar."
+   }
+  ]
+ },
+ {
+  "id": "F3-2PE-003",
+  "livro": "2PE",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "2PE 2:1",
+  "fim": "2PE 2:1",
+  "texto": {
+   "2PE 2:1": "Mas houve também falsos profetas entre o povo, como também haverá entre vós falsos mestres, os quais introduzirão encobertamente heresias de perdição e negarão o Senhor que os comprou, trazendo sobre si mesmos repentina perdição."
+  },
+  "p1": [
+   {
+    "uid": "U1-2PE-002:001-1",
+    "ref": "2PE 2:1",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "Pedro",
+    "ancora": "haverá entre vós falsos mestres",
+    "resumo": "Falsos mestres introduzirão heresias e trarão sobre si mesmos destruição repentina."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-2PE-002:001-1",
+    "ref": "2PE 2:1",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "haverá entre vós falsos mestres",
+    "resumo": "Surgirão falsos mestres entre os crentes, que introduzirão heresias de perdição e trarão sobre si mesmos repentina perdição"
+   }
+  ]
+ },
+ {
+  "id": "F3-2PE-004",
+  "livro": "2PE",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "2PE 2:9",
+  "fim": "2PE 2:9",
+  "texto": {
+   "2PE 2:9": "então o Senhor sabe livrar os piedosos das tentações e reservar os injustos para serem castigados no dia do juízo,"
+  },
+  "p1": [
+   {
+    "uid": "U1-2PE-002:009-1",
+    "ref": "2PE 2:9",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "crente_individual",
+    "condicao": null,
+    "promitente": "Pedro",
+    "ancora": "o Senhor sabe livrar os piedosos das tentações",
+    "resumo": "O Senhor sabe livrar os piedosos das tentações."
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-2PE-005",
+  "livro": "2PE",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "2PE 2:9",
+  "fim": "2PE 2:9",
+  "texto": {
+   "2PE 2:9": "então o Senhor sabe livrar os piedosos das tentações e reservar os injustos para serem castigados no dia do juízo,"
+  },
+  "p1": [
+   {
+    "uid": "U1-2PE-002:009-2",
+    "ref": "2PE 2:9",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "Pedro",
+    "ancora": "reservar os injustos para serem castigados no dia do juízo",
+    "resumo": "O Senhor reserva os injustos para serem castigados no dia do juízo."
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-2PE-006",
+  "livro": "2PE",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "2PE 2:12",
+  "fim": "2PE 2:13",
+  "texto": {
+   "2PE 2:12": "Mas estes, como animais irracionais, por natureza feitos para captura e destruição, blasfemando do que não entendem, perecerão em sua própria corrupção,",
+   "2PE 2:13": "recebendo o salário da injustiça. Consideram prazer as delícias de cada dia; são manchas e máculas, deleitando-se em seus enganos enquanto banqueteiam convosco."
+  },
+  "p1": [
+   {
+    "uid": "U1-2PE-002:012-1",
+    "ref": "2PE 2:12",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "Pedro",
+    "ancora": "perecerão em sua própria corrupção",
+    "resumo": "Os falsos mestres perecerão em sua própria corrupção."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-2PE-002:012-1",
+    "ref": "2PE 2:12-2:13",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "perecerão em sua própria corrupção",
+    "resumo": "Os falsos mestres, como animais irracionais, blasfemam do que não entendem e perecerão em sua própria corrupção, recebendo o salário da injustiça"
+   }
+  ]
+ },
+ {
+  "id": "F3-2PE-007",
+  "livro": "2PE",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "2PE 1:3",
+  "fim": "2PE 1:4",
+  "texto": {
+   "2PE 1:3": "Visto que seu poder divino nos deu todas as coisas que pertencem à vida e à piedade, pelo conhecimento daquele que nos chamou por glória e virtude,",
+   "2PE 1:4": "pelas quais nos foram dadas grandíssimas e preciosas promessas, para que por elas vos torneis participantes da natureza divina, tendo escapado da corrupção que há no mundo pela cobiça."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-2PE-001:003-1",
+    "ref": "2PE 1:3-1:4",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "igreja",
+    "condicao": null,
+    "promitente": "Pedro",
+    "ancora": "seu poder divino nos deu todas as coisas que pertencem à vida e à piedade",
+    "resumo": "Garantia apostólica de que o poder divino já proveu aos crentes tudo para vida e piedade e deu promessas, com o fim de participarem da natureza divina."
+   }
+  ]
+ },
+ {
+  "id": "F3-2PE-008",
+  "livro": "2PE",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "2PE 1:12",
+  "fim": "2PE 1:12",
+  "texto": {
+   "2PE 1:12": "Por isso, não deixarei de sempre vos lembrar dessas coisas, ainda que as saibais e estejais confirmados na verdade presente."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-2PE-001:012-1",
+    "ref": "2PE 1:12",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "igreja",
+    "condicao": null,
+    "promitente": "Pedro",
+    "ancora": "não deixarei de sempre vos lembrar dessas coisas",
+    "resumo": "Pedro se compromete a continuar lembrando os destinatários dessas coisas."
+   }
+  ]
+ },
+ {
+  "id": "F3-2PE-009",
+  "livro": "2PE",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "2PE 1:15",
+  "fim": "2PE 1:15",
+  "texto": {
+   "2PE 1:15": "Mas procurarei também, em toda ocasião, que, depois de minha partida, tenhais lembrança dessas coisas."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-2PE-001:015-1",
+    "ref": "2PE 1:15",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "igreja",
+    "condicao": null,
+    "promitente": "Pedro",
+    "ancora": "procurarei também, em toda ocasião, que, depois de minha partida, tenhais lembrança dessas coisas",
+    "resumo": "Pedro se compromete a providenciar que os destinatários lembrem dessas coisas depois de sua partida."
+   }
+  ]
+ },
+ {
+  "id": "F3-2PE-010",
+  "livro": "2PE",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "2PE 2:19",
+  "fim": "2PE 2:19",
+  "texto": {
+   "2PE 2:19": "Prometem-lhes liberdade, sendo eles mesmos servos da corrupção, porque cada um se torna servo daquele por quem é vencido."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-2PE-002:019-1",
+    "ref": "2PE 2:19",
+    "tipo": "promessa",
+    "origem": "adversaria_ou_falsa",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "falsos mestres",
+    "ancora": "Prometem-lhes liberdade",
+    "resumo": "Os falsos mestres prometem liberdade àqueles que haviam escapado do erro, sendo eles mesmos servos da corrupção"
+   }
+  ]
+ },
+ {
+  "id": "F3-2PE-011",
+  "livro": "2PE",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "2PE 3:9",
+  "fim": "2PE 3:9",
+  "texto": {
+   "2PE 3:9": "O Senhor não retarda sua promessa, como alguns a consideram tardia, mas é longânimo para conosco, não querendo que alguns pereçam, mas que todos cheguem ao arrependimento."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-2PE-003:009-1",
+    "ref": "2PE 3:9",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "igreja",
+    "condicao": null,
+    "promitente": "Pedro",
+    "ancora": "O Senhor não retarda sua promessa",
+    "resumo": "Garantia de que o Senhor não tarda sua promessa, mas é longânimo, querendo que todos cheguem ao arrependimento."
+   }
+  ]
+ },
+ {
+  "id": "F3-1JN-001",
+  "livro": "1JN",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "1JN 1:7",
+  "fim": "1JN 1:7",
+  "texto": {
+   "1JN 1:7": "Porém, se andarmos na luz, como ele está na luz, temos comunhão uns com os outros, e o sangue de Jesus Cristo, seu Filho, nos purifica de todo pecado."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-1JN-001:007-1",
+    "ref": "1JN 1:7",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "igreja",
+    "condicao": "contextual",
+    "promitente": "João",
+    "ancora": "temos comunhão uns com os outros",
+    "resumo": "resultado garantido de andar na luz: comunhão mútua"
+   }
+  ]
+ },
+ {
+  "id": "F3-1JN-002",
+  "livro": "1JN",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "1JN 2:1",
+  "fim": "1JN 2:2",
+  "texto": {
+   "1JN 2:1": "Meus filhinhos, estas coisas vos escrevo para que não pequeis. E, se alguém pecar, temos um Advogado junto ao Pai, Jesus Cristo, o justo.",
+   "1JN 2:2": "E ele é a propiciação por nossos pecados, e não somente pelos nossos, mas também pelos de todo o mundo."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-1JN-002:001-1",
+    "ref": "1JN 2:1-2:2",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "igreja",
+    "condicao": "contextual",
+    "promitente": "João",
+    "ancora": "temos um Advogado junto ao Pai, Jesus Cristo, o justo.",
+    "resumo": "Garantia de que, se alguém pecar, temos Jesus como Advogado junto ao Pai, e ele é a propiciação pelos pecados."
+   }
+  ]
+ },
+ {
+  "id": "F3-1JN-003",
+  "livro": "1JN",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "1JN 2:12",
+  "fim": "1JN 2:12",
+  "texto": {
+   "1JN 2:12": "Filhinhos, escrevo-vos porque, por causa de seu nome, os pecados vos são perdoados."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-1JN-002:012-1",
+    "ref": "1JN 2:12",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "igreja",
+    "condicao": null,
+    "promitente": "João",
+    "ancora": "por causa de seu nome, os pecados vos são perdoados.",
+    "resumo": "Garantia apostólica de perdão dos pecados aos filhinhos por causa do nome de Jesus."
+   }
+  ]
+ },
+ {
+  "id": "F3-1JN-004",
+  "livro": "1JN",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "1JN 2:25",
+  "fim": "1JN 2:25",
+  "texto": {
+   "1JN 2:25": "E esta é a promessa que ele nos fez: a vida eterna."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-1JN-002:025-1",
+    "ref": "1JN 2:25",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "igreja",
+    "condicao": null,
+    "promitente": "deus_indistinto",
+    "ancora": "E esta é a promessa que ele nos fez: a vida eterna.",
+    "resumo": "Promessa feita por ele: a vida eterna."
+   }
+  ]
+ },
+ {
+  "id": "F3-1JN-005",
+  "livro": "1JN",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "1JN 2:27",
+  "fim": "1JN 2:27",
+  "texto": {
+   "1JN 2:27": "E a unção que dele recebestes permanece em vós, e não tendes necessidade de que alguém vos ensine; mas, como a mesma unção vos ensina acerca de todas as coisas, é verdadeira e não é mentira; e, como ela vos ensinou, permanecereis nele."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-1JN-002:027-1",
+    "ref": "1JN 2:27",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "igreja",
+    "condicao": null,
+    "promitente": "João",
+    "ancora": "como ela vos ensinou, permanecereis nele.",
+    "resumo": "Garantia de que, ensinados pela unção, permanecerão nele."
+   }
+  ]
+ },
+ {
+  "id": "F3-1JN-006",
+  "livro": "1JN",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "1JN 3:9",
+  "fim": "1JN 3:9",
+  "texto": {
+   "1JN 3:9": "Todo aquele que nasceu de Deus não vive praticando o pecado, porque a semente de Deus permanece nele; e não pode viver pecando, porque nasceu de Deus."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-1JN-003:009-1",
+    "ref": "1JN 3:9",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "crente_individual",
+    "condicao": "nenhuma",
+    "promitente": "João",
+    "ancora": "Todo aquele que nasceu de Deus não vive praticando o pecado",
+    "resumo": "Quem nasceu de Deus não continua no pecado, porque a semente de Deus permanece nele."
+   }
+  ]
+ },
+ {
+  "id": "F3-1JN-007",
+  "livro": "1JN",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "1JN 3:14",
+  "fim": "1JN 3:14",
+  "texto": {
+   "1JN 3:14": "Sabemos que já passamos da morte para a vida, porque amamos os irmãos. Quem não ama seu irmão permanece na morte."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-1JN-003:014-1",
+    "ref": "1JN 3:14",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "igreja",
+    "condicao": "nenhuma",
+    "promitente": "João",
+    "ancora": "já passamos da morte para a vida",
+    "resumo": "Os crentes já passaram da morte para a vida."
+   }
+  ]
+ },
+ {
+  "id": "F3-1JN-008",
+  "livro": "1JN",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "1JN 3:24",
+  "fim": "1JN 3:24",
+  "texto": {
+   "1JN 3:24": "E aquele que guarda seus mandamentos permanece nele, e ele, naquele. E nisto sabemos que ele permanece em nós: pelo Espírito que nos deu."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-1JN-003:024-1",
+    "ref": "1JN 3:24",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "crente_individual",
+    "condicao": "contextual",
+    "promitente": "João",
+    "ancora": "aquele que guarda seus mandamentos permanece nele, e ele, naquele",
+    "resumo": "Quem guarda os mandamentos permanece em Deus, e Deus nele; o Espírito dado é o sinal."
+   }
+  ]
+ },
+ {
+  "id": "F3-1JN-009",
+  "livro": "1JN",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "1JN 4:4",
+  "fim": "1JN 4:4",
+  "texto": {
+   "1JN 4:4": "Filhinhos, vós procedeis de Deus e já os vencestes, porque maior é aquele que está em vós do que aquele que está no mundo."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-1JN-004:004-1",
+    "ref": "1JN 4:4",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "igreja",
+    "condicao": null,
+    "promitente": "João",
+    "ancora": "Filhinhos, vós procedeis de Deus e já os vencestes, porque maior é aquele que está em vós do que aquele que está no mundo.",
+    "resumo": "Garantia apostólica de que os crentes procedem de Deus e venceram, pois maior é o que está neles."
+   }
+  ]
+ },
+ {
+  "id": "F3-1JN-010",
+  "livro": "1JN",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "1JN 4:12",
+  "fim": "1JN 4:12",
+  "texto": {
+   "1JN 4:12": "Ninguém jamais viu a Deus. Se amamos uns aos outros, Deus permanece em nós, e seu amor está aperfeiçoado em nós."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-1JN-004:012-1",
+    "ref": "1JN 4:12",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "igreja",
+    "condicao": "explicita",
+    "promitente": "João",
+    "ancora": "Se amamos uns aos outros, Deus permanece em nós, e seu amor está aperfeiçoado em nós.",
+    "resumo": "Promessa condicional de que, amando uns aos outros, Deus permanece em nós e seu amor é aperfeiçoado."
+   }
+  ]
+ },
+ {
+  "id": "F3-1JN-011",
+  "livro": "1JN",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "1JN 4:13",
+  "fim": "1JN 4:13",
+  "texto": {
+   "1JN 4:13": "Nisto sabemos que permanecemos nele, e ele em nós: porque nos deu de seu Espírito."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-1JN-004:013-1",
+    "ref": "1JN 4:13",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "igreja",
+    "condicao": null,
+    "promitente": "João",
+    "ancora": "Nisto sabemos que permanecemos nele, e ele em nós: porque nos deu de seu Espírito.",
+    "resumo": "Garantia de que permanecemos em Deus e ele em nós, pelo Espírito que nos deu."
+   }
+  ]
+ },
+ {
+  "id": "F3-1JN-012",
+  "livro": "1JN",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "1JN 4:15",
+  "fim": "1JN 4:15",
+  "texto": {
+   "1JN 4:15": "Todo aquele que confessar que Jesus é o Filho de Deus, Deus permanece nele, e ele, em Deus."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-1JN-004:015-1",
+    "ref": "1JN 4:15",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "explicita",
+    "promitente": "João",
+    "ancora": "Todo aquele que confessar que Jesus é o Filho de Deus, Deus permanece nele, e ele, em Deus.",
+    "resumo": "Promessa condicional de mútua permanência com Deus para quem confessa Jesus como Filho de Deus."
+   }
+  ]
+ }
+]

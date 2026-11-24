@@ -1,0 +1,2240 @@
+[
+ {
+  "id": "F3-ISA-055",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 27:6",
+  "fim": "ISA 27:6",
+  "texto": {
+   "ISA 27:6": "Nos dias vindouros, Jacó criará raízes, Israel florescerá e brotará, e eles encherão de frutos a superfície do mundo."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-027:006-1",
+    "ref": "ISA 27:6",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Jacó criará raízes, Israel florescerá",
+    "resumo": "Jacó cria raízes e Israel floresce e enche o mundo de frutos"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ISA-027:006-1",
+    "ref": "ISA 27:6",
+    "tipo": "indeterminada",
+    "origem": "indeterminada",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Nos dias vindouros, Jacó criará raízes, Israel florescerá e brotará",
+    "resumo": "Nos dias vindouros Jacó/Israel criará raízes, florescerá e encherá o mundo de frutos."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-056",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 27:9",
+  "fim": "ISA 27:9",
+  "texto": {
+   "ISA 27:9": "Portanto, assim será expiada a iniquidade de Jacó, e este será todo o fruto da remoção de seu pecado: ele fará todas as pedras do altar como pedras de cal despedaçadas, e os postes sagrados e altares de incenso não permanecerão em pé."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-027:009-1",
+    "ref": "ISA 27:9",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "assim será expiada a iniquidade de Jacó",
+    "resumo": "A iniquidade de Jacó é expiada e remove-se o pecado, com destruição dos altares idólatras"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ISA-027:009-1",
+    "ref": "ISA 27:9",
+    "tipo": "indeterminada",
+    "origem": "indeterminada",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "assim será expiada a iniquidade de Jacó",
+    "resumo": "A iniquidade de Jacó será expiada e os objetos de idolatria serão removidos."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-057",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 27:10",
+  "fim": "ISA 27:11",
+  "texto": {
+   "ISA 27:10": "A cidade fortificada ficará solitária, a habitação será abandonada e deixada como o deserto. Ali o bezerro pastará, ali se deitará e consumirá seus ramos.",
+   "ISA 27:11": "Quando seus galhos secarem, serão quebrados. Mulheres virão e os usarão para acender fogo. Como este povo não tem entendimento, aquele que o fez não terá compaixão dele, e aquele que o formou não lhe concederá favor."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-027:010-1",
+    "ref": "ISA 27:10-27:11",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "A cidade fortificada ficará solitária",
+    "resumo": "A cidade fortificada fica abandonada e Deus não terá compaixão do povo sem entendimento"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ISA-027:010-1",
+    "ref": "ISA 27:10-27:11",
+    "tipo": "indeterminada",
+    "origem": "indeterminada",
+    "natureza": "juizo",
+    "destinatario": "indeterminado",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "A cidade fortificada ficará solitária",
+    "resumo": "A cidade fortificada ficará desolada, e o povo sem entendimento não receberá compaixão."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-058",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 27:12",
+  "fim": "ISA 27:13",
+  "texto": {
+   "ISA 27:12": "Naquele dia, o SENHOR debulhará desde a corrente do Eufrates até o ribeiro do Egito, e vocês, filhos de Israel, serão recolhidos um a um.",
+   "ISA 27:13": "Naquele dia soará uma grande trombeta. Os que estavam perdidos na terra da Assíria e os dispersos na terra do Egito virão e adorarão o SENHOR no monte santo, em Jerusalém."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-027:012-1",
+    "ref": "ISA 27:12-27:13",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "o SENHOR debulhará desde a corrente do Eufrates",
+    "resumo": "Israel é recolhido um a um e os dispersos voltam a adorar em Jerusalém"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-ISA-059",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 28:5",
+  "fim": "ISA 28:6",
+  "texto": {
+   "ISA 28:5": "Naquele dia, o SENHOR dos Exércitos será uma coroa gloriosa e uma bela grinalda para o remanescente de seu povo.",
+   "ISA 28:6": "Será espírito de justiça para aquele que se assenta para julgar e força para os que repelem a batalha junto à porta."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-028:005-1",
+    "ref": "ISA 28:5-28:6",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "o SENHOR dos Exércitos será uma coroa gloriosa",
+    "resumo": "O SENHOR será coroa gloriosa, espírito de justiça e força para o remanescente"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ISA-028:005-1",
+    "ref": "ISA 28:5-28:6",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "o SENHOR dos Exércitos será uma coroa gloriosa",
+    "resumo": "O Senhor será coroa e espírito de justiça para o remanescente."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-060",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 28:16",
+  "fim": "ISA 28:16",
+  "texto": {
+   "ISA 28:16": "Por isso, assim diz o Senhor SENHOR: Eis que assento em Sião uma pedra, pedra provada, preciosa pedra angular, fundamento firmemente estabelecido. Quem crê não agirá com precipitação."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-028:016-1",
+    "ref": "ISA 28:16",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "crente_individual",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "assento em Sião uma pedra, pedra provada",
+    "resumo": "O Senhor assenta em Sião pedra angular; quem crê não agirá com precipitação"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-ISA-061",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 28:21",
+  "fim": "ISA 28:22",
+  "texto": {
+   "ISA 28:21": "Pois o SENHOR se levantará como no monte Perazim e se agitará como no vale de Gibeão, para realizar sua obra, sua obra estranha, e executar seu trabalho, seu trabalho incomum.",
+   "ISA 28:22": "Agora, não continuem zombando, para que suas correntes não se tornem mais fortes, pois ouvi do Senhor, o SENHOR dos Exércitos, que uma destruição foi decretada sobre toda a terra."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-028:021-1",
+    "ref": "ISA 28:21-28:22",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "humanidade",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "o SENHOR se levantará como no monte Perazim",
+    "resumo": "O SENHOR se levanta para sua obra estranha; destruição decretada sobre toda a terra"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-ISA-062",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 29:5",
+  "fim": "ISA 29:8",
+  "texto": {
+   "ISA 29:5": "A multidão de seus inimigos será como pó fino, e a multidão dos tiranos, como palha que passa. Isso acontecerá repentinamente, num instante.",
+   "ISA 29:6": "Você será visitada pelo SENHOR dos Exércitos com trovão, terremoto e grande estrondo, com vendaval, tempestade e chama de fogo consumidor.",
+   "ISA 29:7": "Como sonho e visão noturna será a multidão de todas as nações que guerreiam contra Ariel, todos os que combatem contra ela e sua fortaleza e a põem em angústia.",
+   "ISA 29:8": "Será como quando o faminto sonha que está comendo, mas acorda com o estômago vazio, ou como quando o sedento sonha que está bebendo, mas acorda cansado e ainda sedento. Assim será a multidão de todas as nações que guerreiam contra o monte Sião."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-029:007-1",
+    "ref": "ISA 29:7-29:8",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Como sonho e visão noturna será a multidão",
+    "resumo": "As nações que guerreiam contra Ariel serão como sonho"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ISA-029:005-1",
+    "ref": "ISA 29:5-29:8",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "A multidão de seus inimigos será como pó fino",
+    "resumo": "Anúncio de que os inimigos de Ariel e as nações que a combatem serão como pó fino e sonho passageiro."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-063",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 29:17",
+  "fim": "ISA 29:19",
+  "texto": {
+   "ISA 29:17": "Dentro de muito pouco tempo, o Líbano não se transformará em campo fértil, e o campo fértil não será considerado uma floresta?",
+   "ISA 29:18": "Naquele dia, os surdos ouvirão as palavras do livro, e os olhos dos cegos verão desde a escuridão e as trevas.",
+   "ISA 29:19": "Os humildes terão cada vez mais alegria no SENHOR, e os pobres entre os seres humanos exultarão no Santo de Israel."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-029:017-1",
+    "ref": "ISA 29:17-29:19",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Dentro de muito pouco tempo, o Líbano",
+    "resumo": "Os surdos ouvirão, os cegos verão, os humildes terão alegria"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-ISA-064",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 29:20",
+  "fim": "ISA 29:21",
+  "texto": {
+   "ISA 29:20": "Pois o tirano desaparecerá, o zombador chegará ao fim, e todos os que procuram praticar a maldade serão eliminados.",
+   "ISA 29:21": "São aqueles que tornam alguém culpado por uma palavra, armam uma cilada para quem repreende junto à porta e, com argumentos vazios, negam justiça ao justo."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-029:020-1",
+    "ref": "ISA 29:20-29:21",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "o tirano desaparecerá",
+    "resumo": "O tirano, o zombador e os maldosos serão eliminados"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ISA-029:020-1",
+    "ref": "ISA 29:20-29:21",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "o tirano desaparecerá",
+    "resumo": "Anúncio de que tiranos, zombadores e praticantes da maldade serão eliminados."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-065",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 29:22",
+  "fim": "ISA 29:24",
+  "texto": {
+   "ISA 29:22": "Portanto, assim diz o SENHOR, que resgatou Abraão, a respeito da casa de Jacó: Jacó já não será envergonhado, e seu rosto já não ficará pálido.",
+   "ISA 29:23": "Quando ele vir seus filhos, obra de minhas mãos, em seu meio, eles santificarão meu nome. Santificarão o Santo de Jacó e temerão o Deus de Israel.",
+   "ISA 29:24": "Os que erram em espírito alcançarão entendimento, e os que murmuram aprenderão a instrução."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-029:022-1",
+    "ref": "ISA 29:22-29:24",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "familia_ou_linhagem",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Jacó já não será envergonhado",
+    "resumo": "Jacó não será envergonhado, santificará o nome do SENHOR e os errantes alcançarão entendimento"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ISA-029:022-1",
+    "ref": "ISA 29:22-29:24",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "familia_ou_linhagem",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Jacó já não será envergonhado",
+    "resumo": "O SENHOR promete que a casa de Jacó não será envergonhada; seus filhos santificarão o seu nome e os errantes alcançarão entendimento."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-066",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 30:3",
+  "fim": "ISA 30:5",
+  "texto": {
+   "ISA 30:3": "Mas a força do faraó se tornará vergonha para vocês, e o refúgio à sombra do Egito, humilhação.",
+   "ISA 30:4": "Embora seus príncipes estejam em Zoã e seus mensageiros cheguem a Hanes,",
+   "ISA 30:5": "todos serão envergonhados por causa de um povo que não lhes traz proveito, que não oferece ajuda nem benefício, mas somente vergonha e desonra."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-030:003-1",
+    "ref": "ISA 30:3-30:5",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "a força do faraó se tornará vergonha para vocês",
+    "resumo": "A proteção do Egito se torna vergonha para quem a buscou"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-ISA-067",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 30:13",
+  "fim": "ISA 30:14",
+  "texto": {
+   "ISA 30:13": "Por isso esta iniquidade será para vocês como uma brecha prestes a cair, uma saliência num muro alto, cuja queda acontece repentinamente, num instante.",
+   "ISA 30:14": "Ele o quebrará como se quebra o vaso de um oleiro, despedaçando-o sem piedade. Entre seus pedaços não se encontrará um caco que sirva para tirar fogo da lareira ou recolher água da cisterna."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-030:013-1",
+    "ref": "ISA 30:13-30:14",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": "explicita",
+    "promitente": "pai",
+    "ancora": "esta iniquidade será para vocês como uma brecha",
+    "resumo": "A iniquidade os faz cair de repente como vaso quebrado"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-ISA-068",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 30:27",
+  "fim": "ISA 30:28",
+  "texto": {
+   "ISA 30:27": "Eis que o nome do SENHOR vem de longe. Sua ira arde, e densa é a fumaça que se eleva. Seus lábios estão cheios de indignação, e sua língua é como fogo consumidor.",
+   "ISA 30:28": "Seu sopro é como corrente transbordante que chega até o pescoço, para sacudir as nações na peneira da destruição e pôr nas mandíbulas dos povos um freio que os faz errar."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-030:027-1",
+    "ref": "ISA 30:27-30:28",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "o nome do SENHOR vem de longe",
+    "resumo": "O SENHOR vem com ira para sacudir as nações"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ISA-030:027-1",
+    "ref": "ISA 30:27-30:28",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "Isaías",
+    "ancora": "Eis que o nome do SENHOR vem de longe",
+    "resumo": "Vinda do SENHOR em ira para sacudir as nações e fazê-las errar."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-069",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 31:7",
+  "fim": "ISA 31:7",
+  "texto": {
+   "ISA 31:7": "Pois naquele dia cada um rejeitará seus ídolos de prata e seus ídolos de ouro, que suas próprias mãos fizeram para pecar."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-031:007-1",
+    "ref": "ISA 31:7",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "cada um rejeitará seus ídolos de prata",
+    "resumo": "Naquele dia o povo rejeitará os ídolos"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ISA-031:007-1",
+    "ref": "ISA 31:7",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "naquele dia cada um rejeitará seus ídolos de prata e seus ídolos de ouro",
+    "resumo": "Naquele dia os israelitas rejeitarão seus ídolos de prata e de ouro."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-070",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 31:8",
+  "fim": "ISA 31:9",
+  "texto": {
+   "ISA 31:8": "A Assíria cairá por uma espada que não pertence a um homem, e uma espada que não pertence a um ser humano a consumirá. Ela fugirá diante da espada, e seus jovens serão submetidos a trabalhos forçados.",
+   "ISA 31:9": "Sua rocha passará por causa do terror, e seus príncipes ficarão apavorados diante da bandeira, declara o SENHOR, cujo fogo está em Sião e cuja fornalha está em Jerusalém."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-031:008-1",
+    "ref": "ISA 31:8-31:9",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "A Assíria cairá por uma espada",
+    "resumo": "A Assíria cai por uma espada que não é de homem"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ISA-031:008-1",
+    "ref": "ISA 31:8-31:9",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "A Assíria cairá por uma espada que não pertence a um homem",
+    "resumo": "O SENHOR declara que a Assíria cairá por uma espada não humana, fugirá, e seus jovens serão submetidos a trabalhos forçados."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-071",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 34:2",
+  "fim": "ISA 34:4",
+  "texto": {
+   "ISA 34:2": "Pois a indignação do SENHOR está contra todas as nações, e seu furor, contra todos os exércitos delas. Ele as destinou à destruição e as entregou à matança.",
+   "ISA 34:3": "Seus mortos serão lançados fora, o mau cheiro subirá de seus cadáveres, e os montes se dissolverão com o sangue deles.",
+   "ISA 34:4": "Todo o exército dos céus se desfará, e os céus se enrolarão como um livro. Todo o seu exército cairá como cai a folha da videira e como o figo murcho cai da figueira."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-034:002-1",
+    "ref": "ISA 34:2-34:4",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "Isaías",
+    "ancora": "Ele as destinou à destruição",
+    "resumo": "Juízo do SENHOR sobre todas as nações e seus exércitos."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ISA-034:002-1",
+    "ref": "ISA 34:2-34:4",
+    "tipo": "indeterminada",
+    "origem": "indeterminada",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Ele as destinou à destruição",
+    "resumo": "O SENHOR destina todas as nações à destruição e à matança, com colapso cósmico."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-072",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 34:9",
+  "fim": "ISA 34:15",
+  "texto": {
+   "ISA 34:9": "Os riachos de Edom se transformarão em piche, seu pó, em enxofre, e sua terra se tornará piche ardente.",
+   "ISA 34:10": "Não se apagará nem de noite nem de dia. Sua fumaça subirá para sempre. De geração em geração ficará desolada, e por todo o sempre ninguém passará por ela.",
+   "ISA 34:11": "O pelicano e a coruja tomarão posse dela, e o bufo e o corvo habitarão nela. O SENHOR estenderá sobre ela a linha do caos e o prumo da desolação.",
+   "ISA 34:12": "Seus nobres não terão ali ninguém a quem proclamem rei, e todos os seus príncipes desaparecerão.",
+   "ISA 34:13": "Espinhos crescerão em seus palácios, e urtigas e cardos, em suas fortalezas. Ela se tornará morada de chacais e abrigo de avestruzes.",
+   "ISA 34:14": "Animais do deserto se encontrarão com hienas, e o bode selvagem chamará seu companheiro. Ali também a criatura noturna repousará e encontrará lugar de descanso.",
+   "ISA 34:15": "Ali a coruja fará seu ninho, porá seus ovos, os chocará e reunirá seus filhotes debaixo de sua sombra. Ali também os abutres se reunirão, cada um com seu par."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-034:009-1",
+    "ref": "ISA 34:9-34:15",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "Isaías",
+    "ancora": "Os riachos de Edom se transformarão em piche",
+    "resumo": "Edom será desolada para sempre e habitada por animais."
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-ISA-073",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 34:16",
+  "fim": "ISA 34:17",
+  "texto": {
+   "ISA 34:16": "Procurem no livro do SENHOR e leiam. Nenhum deles faltará, nenhum ficará sem seu par, pois a boca do SENHOR deu a ordem, e seu Espírito os reuniu.",
+   "ISA 34:17": "Ele mesmo lançou as sortes para eles, e sua mão lhes repartiu a terra com a linha de medir. Eles a possuirão para sempre e habitarão nela de geração em geração."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-034:016-1",
+    "ref": "ISA 34:16-34:17",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "criacao",
+    "condicao": null,
+    "promitente": "Isaías",
+    "ancora": "Nenhum deles faltará",
+    "resumo": "Os animais ocuparão a terra de Edom para sempre."
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-ISA-074",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 36:8",
+  "fim": "ISA 36:8",
+  "texto": {
+   "ISA 36:8": "Agora faça uma aposta com meu senhor, o rei da Assíria: eu lhe darei dois mil cavalos, se você puder fornecer cavaleiros para montá-los."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-036:008-1",
+    "ref": "ISA 36:8",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "explicita",
+    "promitente": "Rabsaqué",
+    "ancora": "eu lhe darei dois mil cavalos",
+    "resumo": "Oferta de cavalos se Ezequias fornecer cavaleiros."
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-ISA-075",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 36:16",
+  "fim": "ISA 36:17",
+  "texto": {
+   "ISA 36:16": "Não deem ouvidos a Ezequias, pois assim diz o rei da Assíria: Façam as pazes comigo e saiam para mim. Então cada um comerá de sua videira e de sua figueira e beberá a água de sua cisterna,",
+   "ISA 36:17": "até que eu venha e os leve para uma terra semelhante à de vocês, terra de cereal e vinho novo, terra de pão e vinhas."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-036:016-1",
+    "ref": "ISA 36:16-36:17",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "explicita",
+    "promitente": "Rabsaqué",
+    "ancora": "cada um comerá de sua videira",
+    "resumo": "Oferta do rei da Assíria: paz e depois deportação a terra fértil."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ISA-036:016-1",
+    "ref": "ISA 36:16-36:17",
+    "tipo": "promessa",
+    "origem": "adversaria_ou_falsa",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "explicita",
+    "promitente": "rei da Assíria",
+    "ancora": "cada um comerá de sua videira e de sua figueira e beberá a água de sua cisterna",
+    "resumo": "Oferta do rei da Assíria: quem se render comerá do seu próprio e depois será levado a uma terra boa"
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-076",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 37:6",
+  "fim": "ISA 37:7",
+  "texto": {
+   "ISA 37:6": "Isaías lhes disse: Digam ao seu senhor: Assim diz o SENHOR: Não tenha medo das palavras que você ouviu, com as quais os servos do rei da Assíria blasfemaram contra mim.",
+   "ISA 37:7": "Porei nele um espírito. Ele ouvirá um rumor e voltará para sua terra, e eu o farei cair à espada em sua própria terra."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-037:007-1",
+    "ref": "ISA 37:7",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "Isaías",
+    "ancora": "Porei nele um espírito",
+    "resumo": "O SENHOR fará o rei da Assíria voltar e cair à espada em sua terra."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ISA-037:006-1",
+    "ref": "ISA 37:6-37:7",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "Porei nele um espírito",
+    "resumo": "O SENHOR manda Ezequias não temer e promete fazer Senaqueribe voltar e morrer à espada."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-077",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 37:31",
+  "fim": "ISA 37:32",
+  "texto": {
+   "ISA 37:31": "O remanescente da casa de Judá que escapar tornará a lançar raízes para baixo e dará fruto para cima.",
+   "ISA 37:32": "Pois de Jerusalém sairá um remanescente, e do monte Sião, os sobreviventes. O zelo do SENHOR dos Exércitos fará isso."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-037:031-1",
+    "ref": "ISA 37:31-37:32",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "Isaías",
+    "ancora": "O remanescente da casa de Judá que escapar",
+    "resumo": "Um remanescente sairá de Jerusalém; o zelo do SENHOR fará isso."
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-ISA-078",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 37:33",
+  "fim": "ISA 37:35",
+  "texto": {
+   "ISA 37:33": "Portanto, assim diz o SENHOR acerca do rei da Assíria: Ele não entrará nesta cidade nem atirará flecha alguma aqui. Não virá diante dela com escudo nem levantará contra ela rampa de cerco.",
+   "ISA 37:34": "Voltará pelo mesmo caminho por onde veio e não entrará nesta cidade, declara o SENHOR.",
+   "ISA 37:35": "Protegerei esta cidade para livrá-la, por amor de mim e por amor de Davi, meu servo."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-037:033-1",
+    "ref": "ISA 37:33-37:34",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "Isaías",
+    "ancora": "Ele não entrará nesta cidade",
+    "resumo": "O rei da Assíria não entrará em Jerusalém e voltará."
+   },
+   {
+    "uid": "U1-ISA-037:035-1",
+    "ref": "ISA 37:35",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "Isaías",
+    "ancora": "Protegerei esta cidade para livrá-la",
+    "resumo": "O SENHOR protegerá Jerusalém por amor de si e de Davi."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ISA-037:033-1",
+    "ref": "ISA 37:33-37:35",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "Protegerei esta cidade para livrá-la",
+    "resumo": "O SENHOR garante que o rei da Assíria não entrará em Jerusalém e que a cidade será protegida."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-079",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 38:5",
+  "fim": "ISA 38:5",
+  "texto": {
+   "ISA 38:5": "Vá e diga a Ezequias: Assim diz o SENHOR, Deus de Davi, seu antepassado: Ouvi sua oração e vi suas lágrimas. Eis que acrescentarei quinze anos à sua vida."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-038:005-1",
+    "ref": "ISA 38:5",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "acrescentarei quinze anos à sua vida",
+    "resumo": "O SENHOR acrescenta quinze anos de vida a Ezequias."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ISA-038:005-1",
+    "ref": "ISA 38:5",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "acrescentarei quinze anos à sua vida",
+    "resumo": "O SENHOR promete acrescentar quinze anos à vida de Ezequias."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-080",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 38:6",
+  "fim": "ISA 38:6",
+  "texto": {
+   "ISA 38:6": "Livrarei você e esta cidade das mãos do rei da Assíria e protegerei esta cidade."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-038:006-1",
+    "ref": "ISA 38:6",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Livrarei você e esta cidade das mãos do rei da Assíria",
+    "resumo": "O SENHOR livrará Ezequias e a cidade do rei da Assíria."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ISA-038:006-1",
+    "ref": "ISA 38:6",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "Livrarei você e esta cidade das mãos do rei da Assíria e protegerei esta cidade",
+    "resumo": "O SENHOR promete livrar Ezequias e a cidade do rei da Assíria e proteger a cidade."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-081",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 38:7",
+  "fim": "ISA 38:8",
+  "texto": {
+   "ISA 38:7": "Este será para você o sinal dado pelo SENHOR de que o SENHOR cumprirá a palavra que falou:",
+   "ISA 38:8": "farei a sombra que desceu pelo sol nos degraus de Acaz retroceder dez degraus. E o sol retrocedeu dez degraus nos degraus pelos quais a sombra já havia descido."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-038:007-1",
+    "ref": "ISA 38:7-38:8",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Este será para você o sinal",
+    "resumo": "Sinal: a sombra retrocederá dez degraus."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ISA-038:007-1",
+    "ref": "ISA 38:7-38:8",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "Este será para você o sinal dado pelo SENHOR",
+    "resumo": "O SENHOR promete dar a Ezequias o sinal do retrocesso da sombra."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-082",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 38:20",
+  "fim": "ISA 38:20",
+  "texto": {
+   "ISA 38:20": "O SENHOR veio me salvar. Por isso tocaremos meus instrumentos de cordas todos os dias de nossa vida na Casa do SENHOR."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-038:020-1",
+    "ref": "ISA 38:20",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "indeterminado",
+    "condicao": null,
+    "promitente": "Ezequias",
+    "ancora": "tocaremos meus instrumentos de cordas",
+    "resumo": "Ezequias promete louvar com instrumentos todos os dias."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ISA-038:020-1",
+    "ref": "ISA 38:20",
+    "tipo": "desejo_ou_bencao_votiva",
+    "origem": "humana_votiva",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "Ezequias",
+    "ancora": "tocaremos meus instrumentos de cordas todos os dias de nossa vida na Casa do SENHOR",
+    "resumo": "Ezequias e os adoradores prometem tocar instrumentos todos os dias de sua vida na Casa do SENHOR."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-083",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 40:1",
+  "fim": "ISA 40:2",
+  "texto": {
+   "ISA 40:1": "Consolem, consolem meu povo, diz seu Deus.",
+   "ISA 40:2": "Falem ao coração de Jerusalém e anunciem-lhe que seu tempo de serviço terminou, que sua iniquidade foi perdoada e que recebeu da mão do SENHOR medida completa por todos os seus pecados."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-040:001-1",
+    "ref": "ISA 40:1-40:2",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "Isaías",
+    "ancora": "Consolem, consolem meu povo",
+    "resumo": "O tempo de serviço de Jerusalém terminou e a iniquidade foi perdoada."
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-ISA-084",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 40:4",
+  "fim": "ISA 40:5",
+  "texto": {
+   "ISA 40:4": "Todo vale será elevado, e todo monte e colina serão rebaixados. O terreno irregular se tornará plano, e os lugares acidentados, uma planície.",
+   "ISA 40:5": "A glória do SENHOR será revelada, e toda a humanidade a verá juntamente, pois a boca do SENHOR falou."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-040:004-1",
+    "ref": "ISA 40:4-40:5",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "humanidade",
+    "condicao": null,
+    "promitente": "Isaías",
+    "ancora": "Todo vale será elevado",
+    "resumo": "A glória do SENHOR será revelada e vista por todos."
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-ISA-085",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 41:10",
+  "fim": "ISA 41:10",
+  "texto": {
+   "ISA 41:10": "Não tenha medo, pois estou com você. Não fique assustado, pois eu sou seu Deus. Eu o fortaleço, ajudo e sustento com minha mão direita de justiça."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-041:010-1",
+    "ref": "ISA 41:10",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Não tenha medo, pois estou com você",
+    "resumo": "Deus fortalece, ajuda e sustenta Israel"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-ISA-086",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 41:25",
+  "fim": "ISA 41:25",
+  "texto": {
+   "ISA 41:25": "Despertei alguém do Norte, e ele veio. Desde o nascer do sol, ele invocará meu nome. Pisará governantes como barro, como o oleiro pisa a argila."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-041:025-1",
+    "ref": "ISA 41:25",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Despertei alguém do Norte",
+    "resumo": "O SENHOR despertou alguém do Norte que pisará governantes"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ISA-041:025-1",
+    "ref": "ISA 41:25",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Despertei alguém do Norte, e ele veio",
+    "resumo": "Deus despertou alguém do norte que invocará seu nome e pisará governantes como barro"
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-087",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 42:1",
+  "fim": "ISA 42:4",
+  "texto": {
+   "ISA 42:1": "Eis meu servo, a quem sustento, meu escolhido, em quem minha alma se agrada. Pus meu Espírito sobre ele. Ele levará o direito às nações.",
+   "ISA 42:2": "Não clamará nem levantará a voz, nem fará que seja ouvida nas ruas.",
+   "ISA 42:3": "Não quebrará a cana esmagada nem apagará o pavio que ainda fumega. Com fidelidade levará o direito.",
+   "ISA 42:4": "Não desanimará nem será esmagado até estabelecer o direito na terra. As regiões costeiras esperarão por sua instrução."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-042:001-1",
+    "ref": "ISA 42:1-42:4",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "humanidade",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Eis meu servo, a quem sustento",
+    "resumo": "O servo, com o Espírito, levará o direito às nações sem desanimar até estabelecê-lo"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-ISA-088",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 42:13",
+  "fim": "ISA 42:15",
+  "texto": {
+   "ISA 42:13": "O SENHOR sairá como guerreiro e despertará o zelo como homem de guerra. Gritará, sim, dará um brado de guerra e mostrará sua força contra os inimigos.",
+   "ISA 42:14": "Por muito tempo fiquei em silêncio, permaneci quieto e me contive. Agora gritarei como mulher que dá à luz, ofegarei e arquejarei ao mesmo tempo.",
+   "ISA 42:15": "Devastarei montes e colinas e secarei toda a vegetação deles. Transformarei rios em regiões secas e secarei os lagos."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-042:013-1",
+    "ref": "ISA 42:13-42:15",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "humanidade",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "O SENHOR sairá como guerreiro",
+    "resumo": "O SENHOR sai como guerreiro e devasta montes e rios"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ISA-042:013-1",
+    "ref": "ISA 42:13",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": null,
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "O SENHOR sairá como guerreiro",
+    "resumo": "Anúncio profético de que o SENHOR agirá como guerreiro contra os inimigos."
+   },
+   {
+    "uid": "U2-ISA-042:014-1",
+    "ref": "ISA 42:14-42:15",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "criacao",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Agora gritarei como mulher que dá à luz",
+    "resumo": "Deus promete romper o silêncio com juízo devastador sobre a terra."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-089",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 42:17",
+  "fim": "ISA 42:17",
+  "texto": {
+   "ISA 42:17": "Voltarão para trás e serão completamente envergonhados os que confiam em imagens esculpidas e dizem às imagens fundidas: Vocês são nossos deuses."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-042:017-1",
+    "ref": "ISA 42:17",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Voltarão para trás e serão completamente envergonhados",
+    "resumo": "Os que confiam em ídolos serão envergonhados"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ISA-042:017-1",
+    "ref": "ISA 42:17",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Voltarão para trás e serão completamente envergonhados",
+    "resumo": "Promessa de juízo: os idólatras serão envergonhados."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-090",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 43:28",
+  "fim": "ISA 43:28",
+  "texto": {
+   "ISA 43:28": "Por isso profanarei os príncipes do santuário, entregarei Jacó à destruição e Israel à desonra."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-043:028-1",
+    "ref": "ISA 43:28",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "profanarei os príncipes do santuário",
+    "resumo": "O SENHOR profana os príncipes e entrega Jacó à destruição"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-ISA-091",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 44:2",
+  "fim": "ISA 44:5",
+  "texto": {
+   "ISA 44:2": "Assim diz o SENHOR, que o fez, que o formou desde o ventre e que o ajuda: Não tenha medo, Jacó, meu servo, Jesurum, a quem escolhi.",
+   "ISA 44:3": "Derramarei água sobre o sedento e correntes sobre a terra seca. Derramarei meu Espírito sobre sua descendência e minha bênção sobre seus filhos.",
+   "ISA 44:4": "Eles brotarão entre a relva como salgueiros junto às correntes de água.",
+   "ISA 44:5": "Um dirá: Eu pertenço ao SENHOR. Outro será chamado pelo nome de Jacó. Outro escreverá em sua mão: Do SENHOR, e adotará o nome de Israel."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-044:002-1",
+    "ref": "ISA 44:2-44:5",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Não tenha medo, Jacó, meu servo",
+    "resumo": "O SENHOR derrama água e seu Espírito sobre a descendência de Jacó, que brota e se identifica com o SENHOR"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-ISA-092",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 44:9",
+  "fim": "ISA 44:11",
+  "texto": {
+   "ISA 44:9": "Todos os que formam imagens esculpidas são inúteis, e os objetos que estimam não trazem proveito. As próprias testemunhas deles nada veem nem sabem, para que sejam envergonhadas.",
+   "ISA 44:10": "Quem forma um deus ou funde uma imagem que não traz proveito algum?",
+   "ISA 44:11": "Eis que todos os seus companheiros serão envergonhados. Os artesãos são apenas seres humanos. Que todos se reúnam e se apresentem. Ficarão aterrorizados e serão envergonhados juntos."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-044:011-1",
+    "ref": "ISA 44:11",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "todos os seus companheiros serão envergonhados",
+    "resumo": "Os fabricantes de ídolos serão envergonhados"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ISA-044:009-1",
+    "ref": "ISA 44:9-44:11",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": null,
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Ficarão aterrorizados e serão envergonhados juntos",
+    "resumo": "Os que fazem imagens esculpidas e seus companheiros serão envergonhados e aterrorizados."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-093",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 45:16",
+  "fim": "ISA 45:17",
+  "texto": {
+   "ISA 45:16": "Todos eles serão envergonhados e humilhados. Os fabricantes de imagens caminharão juntos em humilhação.",
+   "ISA 45:17": "Mas Israel será salvo pelo SENHOR com salvação eterna. Vocês não serão envergonhados nem humilhados por toda a eternidade."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-045:016-1",
+    "ref": "ISA 45:16-45:17",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Todos eles serão envergonhados e humilhados",
+    "resumo": "Fabricantes de imagens serão humilhados e Israel salvo com salvação eterna"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ISA-045:016-1",
+    "ref": "ISA 45:16",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": null,
+    "ancora": "Todos eles serão envergonhados e humilhados.",
+    "resumo": "Deus anuncia vergonha e humilhação para os fabricantes de imagens."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-094",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 45:24",
+  "fim": "ISA 45:25",
+  "texto": {
+   "ISA 45:24": "Dirão a meu respeito: Somente no SENHOR há justiça e força. Todos os que se enfurecem contra ele virão até ele e serão envergonhados.",
+   "ISA 45:25": "No SENHOR toda a descendência de Israel será justificada e se gloriará."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-045:024-1",
+    "ref": "ISA 45:24-45:25",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Todos os que se enfurecem contra ele virão",
+    "resumo": "No SENHOR a descendência de Israel será justificada e glorificada"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ISA-045:024-1",
+    "ref": "ISA 45:24",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": null,
+    "ancora": "Todos os que se enfurecem contra ele virão até ele e serão envergonhados.",
+    "resumo": "Deus anuncia que os que se enfurecem contra ele virão e serão envergonhados."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-095",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 46:10",
+  "fim": "ISA 46:11",
+  "texto": {
+   "ISA 46:10": "Desde o princípio anuncio o fim e, desde tempos antigos, as coisas que ainda não aconteceram. Eu digo: Meu propósito permanecerá, e farei tudo o que me agrada.",
+   "ISA 46:11": "Chamo uma ave de rapina desde o Oriente, de uma terra distante, o homem de meu propósito. Eu falei e farei acontecer. Eu o formei e também o realizarei."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-046:010-1",
+    "ref": "ISA 46:10-46:11",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "humanidade",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Meu propósito permanecerá",
+    "resumo": "O SENHOR garante cumprir seu propósito, chamando o homem do Oriente"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-ISA-096",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 46:13",
+  "fim": "ISA 46:13",
+  "texto": {
+   "ISA 46:13": "Faço minha justiça se aproximar. Ela não está longe, e minha salvação não demorará. Porei salvação em Sião e darei minha glória a Israel."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-046:013-1",
+    "ref": "ISA 46:13",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Faço minha justiça se aproximar",
+    "resumo": "O SENHOR traz justiça e salvação a Sião e dá sua glória a Israel"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-ISA-097",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 47:1",
+  "fim": "ISA 47:3",
+  "texto": {
+   "ISA 47:1": "Desça e sente-se no pó, virgem filha da Babilônia. Sente-se no chão, sem trono, filha dos caldeus, pois você já não será chamada delicada e mimada.",
+   "ISA 47:2": "Pegue as pedras do moinho e moa farinha. Retire o véu, levante a saia, descubra as pernas e atravesse os rios.",
+   "ISA 47:3": "Sua nudez será descoberta, e sua vergonha será vista. Executarei vingança e não pouparei ninguém."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-047:001-1",
+    "ref": "ISA 47:1-47:3",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Desça e sente-se no pó",
+    "resumo": "O SENHOR humilha e executa vingança sobre a Babilônia"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-ISA-098",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 47:9",
+  "fim": "ISA 47:11",
+  "texto": {
+   "ISA 47:9": "Mas estas duas coisas virão sobre você repentinamente, num só dia: perda de filhos e viuvez. Virão sobre você em sua plenitude, apesar da multidão de suas feitiçarias e da grande força de seus encantamentos.",
+   "ISA 47:10": "Você confiou em sua maldade e disse: Ninguém me vê. Sua sabedoria e seu conhecimento a desviaram, e você disse no coração: Eu sou, e não há ninguém além de mim.",
+   "ISA 47:11": "Por isso virá sobre você uma calamidade que não saberá afastar com encantamentos. Cairá sobre você uma desgraça que não poderá evitar. Virá repentinamente sobre você uma devastação que não conhece."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-047:009-1",
+    "ref": "ISA 47:9-47:11",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "estas duas coisas virão sobre você repentinamente",
+    "resumo": "Perda de filhos, viuvez e calamidade virão repentinamente sobre Babilônia"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ISA-047:009-1",
+    "ref": "ISA 47:9",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "estas duas coisas virão sobre você repentinamente, num só dia: perda de filhos e viuvez",
+    "resumo": "Deus anuncia perda de filhos e viuvez repentinas sobre a Babilônia."
+   },
+   {
+    "uid": "U2-ISA-047:011-1",
+    "ref": "ISA 47:11",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "virá sobre você uma calamidade que não saberá afastar com encantamentos",
+    "resumo": "Deus anuncia calamidade, desgraça e devastação inevitáveis sobre a Babilônia."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-099",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 48:14",
+  "fim": "ISA 48:15",
+  "texto": {
+   "ISA 48:14": "Reúnam-se todos e ouçam. Quem entre eles anunciou estas coisas? Aquele a quem o SENHOR ama executará seu propósito contra a Babilônia, e seu braço será contra os caldeus.",
+   "ISA 48:15": "Eu, somente eu, falei. Eu o chamei, eu o trouxe, e seu caminho prosperará."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-048:014-1",
+    "ref": "ISA 48:14-48:15",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "executará seu propósito contra a Babilônia",
+    "resumo": "Aquele a quem o SENHOR ama executa seu propósito contra a Babilônia e prospera"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ISA-048:014-1",
+    "ref": "ISA 48:14",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Aquele a quem o SENHOR ama executará seu propósito contra a Babilônia",
+    "resumo": "Oráculo de que o amado do SENHOR executará juízo contra Babilônia e os caldeus."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-100",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 49:6",
+  "fim": "ISA 49:6",
+  "texto": {
+   "ISA 49:6": "Ele diz: É pouco que você seja meu servo para levantar as tribos de Jacó e trazer de volta os preservados de Israel. Também farei de você luz para as nações, para que minha salvação alcance os confins da terra."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-049:006-1",
+    "ref": "ISA 49:6",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "farei de você luz para as nações",
+    "resumo": "O SENHOR faz do servo luz para as nações e salvação até os confins"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ISA-049:006-1",
+    "ref": "ISA 49:6",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "Isaías",
+    "ancora": "Também farei de você luz para as nações, para que minha salvação alcance os confins da terra",
+    "resumo": "Deus se obriga a fazer do servo luz para as nações, para que a salvação alcance os confins da terra, e a usá-lo para levantar as tribos de Jacó."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-101",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 49:7",
+  "fim": "ISA 49:7",
+  "texto": {
+   "ISA 49:7": "Assim diz o SENHOR, Redentor de Israel, seu Santo, àquele que é desprezado, abominado pela nação e servo de governantes: Reis verão e se levantarão, príncipes se prostrarão, por causa do SENHOR, que é fiel, do Santo de Israel, que escolheu você."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-049:007-1",
+    "ref": "ISA 49:7",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Reis verão e se levantarão",
+    "resumo": "Reis e príncipes se prostram diante do servo desprezado"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ISA-049:007-1",
+    "ref": "ISA 49:7",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": null,
+    "ancora": "Reis verão e se levantarão, príncipes se prostrarão",
+    "resumo": "O SENHOR anuncia que reis e príncipes se levantarão e se prostrarão diante do servo desprezado, por causa do SENHOR fiel."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-102",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 49:13",
+  "fim": "ISA 49:13",
+  "texto": {
+   "ISA 49:13": "Cantem de alegria, céus! Exulte, terra! Montes, irrompam em cânticos, pois o SENHOR consolou seu povo e terá compaixão de seus aflitos."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-049:013-1",
+    "ref": "ISA 49:13",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "o SENHOR consolou seu povo",
+    "resumo": "O SENHOR consolou seu povo e terá compaixão dos aflitos"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ISA-049:013-1",
+    "ref": "ISA 49:13",
+    "tipo": "indeterminada",
+    "origem": "indeterminada",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": null,
+    "ancora": "pois o SENHOR consolou seu povo e terá compaixão de seus aflitos",
+    "resumo": "Anúncio de que o SENHOR consolou o seu povo e terá compaixão dos seus aflitos, com convite à alegria da criação."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-103",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 49:15",
+  "fim": "ISA 49:16",
+  "texto": {
+   "ISA 49:15": "Acaso uma mulher pode esquecer o filho que amamenta e não ter compaixão do filho de seu ventre? Ainda que ela se esqueça, eu não me esquecerei de você.",
+   "ISA 49:16": "Eis que gravei você nas palmas de minhas mãos. Seus muros estão continuamente diante de mim."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-049:015-1",
+    "ref": "ISA 49:15-49:16",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "eu não me esquecerei de você",
+    "resumo": "O SENHOR não se esquece de Sião e a gravou nas palmas das mãos"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ISA-049:015-1",
+    "ref": "ISA 49:15",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": null,
+    "ancora": "Ainda que ela se esqueça, eu não me esquecerei de você",
+    "resumo": "O SENHOR se obriga a não esquecer Sião, mais que uma mãe ao filho que amamenta."
+   },
+   {
+    "uid": "U2-ISA-049:016-1",
+    "ref": "ISA 49:16",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": null,
+    "ancora": "Eis que gravei você nas palmas de minhas mãos",
+    "resumo": "O SENHOR declara gravada Sião nas palmas de suas mãos e seus muros sempre diante dele."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-104",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 49:25",
+  "fim": "ISA 49:26",
+  "texto": {
+   "ISA 49:25": "Assim diz o SENHOR: Sim, os cativos do guerreiro serão tirados, e a presa do tirano escapará. Eu contenderei com quem contende com você e salvarei seus filhos.",
+   "ISA 49:26": "Farei seus opressores comerem a própria carne, e eles se embriagarão com o próprio sangue como com vinho novo. Toda a humanidade saberá que eu sou o SENHOR, seu Salvador e seu Redentor, o Poderoso de Jacó."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-049:025-1",
+    "ref": "ISA 49:25-49:26",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "os cativos do guerreiro serão tirados",
+    "resumo": "O SENHOR resgata os cativos, contende com os opressores e salva os filhos"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-ISA-105",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 51:3",
+  "fim": "ISA 51:3",
+  "texto": {
+   "ISA 51:3": "O SENHOR consolará Sião, consolará todos os seus lugares devastados. Fará seu deserto como o Éden e seu ermo como o jardim do SENHOR. Alegria e júbilo serão encontrados nela, ação de graças e som de cântico."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-051:003-1",
+    "ref": "ISA 51:3",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "O SENHOR consolará Sião",
+    "resumo": "O SENHOR consola Sião, faz seu deserto como o Éden e traz alegria"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ISA-051:003-1",
+    "ref": "ISA 51:3",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "O SENHOR consolará Sião",
+    "resumo": "Deus consolará Sião e os seus lugares devastados, tornando o deserto como o Éden"
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-106",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 51:6",
+  "fim": "ISA 51:8",
+  "texto": {
+   "ISA 51:6": "Levantem os olhos para os céus e olhem para a terra abaixo. Os céus desaparecerão como fumaça, a terra envelhecerá como roupa, e seus habitantes morrerão da mesma maneira. Mas minha salvação durará para sempre, e minha justiça não será quebrada.",
+   "ISA 51:7": "Ouçam-me, vocês que conhecem a justiça, povo em cujo coração está minha instrução. Não tenham medo da afronta humana nem fiquem aterrorizados com seus insultos.",
+   "ISA 51:8": "A traça os comerá como roupa, e a larva os consumirá como lã. Mas minha justiça durará para sempre, e minha salvação, de geração em geração."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-051:006-1",
+    "ref": "ISA 51:6-51:8",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "minha salvação durará para sempre",
+    "resumo": "A salvação e a justiça do SENHOR duram para sempre; os que afrontam o povo são consumidos"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ISA-051:006-2",
+    "ref": "ISA 51:6",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "indeterminado",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "minha salvação durará para sempre",
+    "resumo": "A salvação e a justiça de Deus permanecem para sempre"
+   },
+   {
+    "uid": "U2-ISA-051:008-2",
+    "ref": "ISA 51:8",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "indeterminado",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "minha justiça durará para sempre",
+    "resumo": "A justiça e a salvação de Deus duram de geração em geração"
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-107",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 51:11",
+  "fim": "ISA 51:11",
+  "texto": {
+   "ISA 51:11": "Os resgatados do SENHOR retornarão e chegarão a Sião com cânticos de alegria. Alegria eterna estará sobre a cabeça deles. Alcançarão júbilo e alegria, e a tristeza e o gemido fugirão."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-051:011-1",
+    "ref": "ISA 51:11",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Os resgatados do SENHOR retornarão",
+    "resumo": "Os resgatados retornam a Sião com alegria eterna"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ISA-051:011-1",
+    "ref": "ISA 51:11",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Os resgatados do SENHOR retornarão e chegarão a Sião",
+    "resumo": "Os resgatados voltarão a Sião com alegria eterna; tristeza e gemido fugirão"
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-108",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 51:22",
+  "fim": "ISA 51:23",
+  "texto": {
+   "ISA 51:22": "Assim diz seu Senhor, o SENHOR, seu Deus, que defende a causa de seu povo: Eis que retiro de sua mão o cálice que causa vertigem, a taça de meu furor. Você nunca mais beberá dela.",
+   "ISA 51:23": "Eu a colocarei na mão dos que a afligiram, dos que lhe disseram: Curve-se, para que passemos sobre você. Você fez das costas como o chão e como a rua para os que passavam."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-051:022-1",
+    "ref": "ISA 51:22-51:23",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "retiro de sua mão o cálice que causa vertigem",
+    "resumo": "O SENHOR tira o cálice de furor de Jerusalém, nunca mais beberá, e o põe nas mãos dos que a afligiram"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ISA-051:022-1",
+    "ref": "ISA 51:22",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Eis que retiro de sua mão o cálice que causa vertigem",
+    "resumo": "O Senhor tira de Jerusalém o cálice do seu furor; ela nunca mais beberá dele"
+   },
+   {
+    "uid": "U2-ISA-051:023-1",
+    "ref": "ISA 51:23",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Eu a colocarei na mão dos que a afligiram",
+    "resumo": "O cálice do furor será posto na mão dos opressores de Jerusalém"
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-109",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 52:1",
+  "fim": "ISA 52:2",
+  "texto": {
+   "ISA 52:1": "Desperte, desperte! Revista-se de força, Sião! Vista suas roupas formosas, Jerusalém, cidade santa, pois o incircunciso e o impuro nunca mais entrarão em você.",
+   "ISA 52:2": "Sacuda o pó, levante-se e sente-se, Jerusalém. Liberte-se das correntes de seu pescoço, cativa filha de Sião."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-052:001-1",
+    "ref": "ISA 52:1-52:2",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "o incircunciso e o impuro nunca mais entrarão",
+    "resumo": "Nunca mais o incircunciso e o impuro entram em Jerusalém"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ISA-052:001-1",
+    "ref": "ISA 52:1",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": null,
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "o incircunciso e o impuro nunca mais entrarão em você",
+    "resumo": "Anúncio de que os incircuncisos e impuros nunca mais entrarão em Jerusalém."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-110",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 52:12",
+  "fim": "ISA 52:12",
+  "texto": {
+   "ISA 52:12": "Vocês não sairão apressadamente nem irão como quem foge, pois o SENHOR irá diante de vocês, e o Deus de Israel será sua retaguarda."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-052:012-1",
+    "ref": "ISA 52:12",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "o SENHOR irá diante de vocês",
+    "resumo": "O SENHOR vai diante e é a retaguarda dos que saem"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ISA-052:012-1",
+    "ref": "ISA 52:12",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": null,
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "o SENHOR irá diante de vocês, e o Deus de Israel será sua retaguarda",
+    "resumo": "Anúncio de que o SENHOR irá adiante do povo e o Deus de Israel será sua retaguarda."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-111",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 53:10",
+  "fim": "ISA 53:12",
+  "texto": {
+   "ISA 53:10": "Contudo, foi vontade do SENHOR esmagá-lo e fazê-lo sofrer. Quando sua vida se oferecer como oferta pela culpa, ele verá descendência, prolongará seus dias, e a vontade do SENHOR prosperará em sua mão.",
+   "ISA 53:11": "Depois do sofrimento de sua alma, ele verá e ficará satisfeito. Por seu conhecimento, meu servo justo justificará muitos e levará sobre si as iniquidades deles.",
+   "ISA 53:12": "Por isso lhe darei uma porção entre os grandes, e ele repartirá o despojo com os poderosos, porque derramou sua vida até a morte, foi contado entre os transgressores, levou sobre si o pecado de muitos e intercedeu pelos transgressores."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-053:010-1",
+    "ref": "ISA 53:10-53:12",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "ele verá descendência, prolongará seus dias",
+    "resumo": "O servo vê descendência, justifica muitos e recebe porção entre os grandes"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ISA-053:010-1",
+    "ref": "ISA 53:10",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": null,
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "ele verá descendência, prolongará seus dias, e a vontade do SENHOR prosperará em sua mão",
+    "resumo": "Declaração profética do propósito do SENHOR e do futuro frutífero do servo."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-112",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 54:1",
+  "fim": "ISA 54:3",
+  "texto": {
+   "ISA 54:1": "Cante de alegria, mulher estéril que não dava à luz. Irrompa em cântico e grite de alegria, você que não teve dores de parto, pois os filhos da mulher abandonada são mais numerosos que os filhos da casada, diz o SENHOR.",
+   "ISA 54:2": "Amplie o lugar de sua tenda, e que as cortinas de suas habitações sejam estendidas. Não economize. Alongue suas cordas e firme bem suas estacas.",
+   "ISA 54:3": "Você se expandirá para a direita e para a esquerda. Sua descendência tomará posse de nações e fará com que cidades devastadas sejam habitadas."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-054:001-1",
+    "ref": "ISA 54:1-54:3",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Cante de alegria, mulher estéril",
+    "resumo": "Os filhos da mulher abandonada serão mais numerosos; sua descendência possui nações"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-ISA-113",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 54:4",
+  "fim": "ISA 54:5",
+  "texto": {
+   "ISA 54:4": "Não tenha medo, pois não será envergonhada. Não fique humilhada, pois não será desonrada. Você se esquecerá da vergonha de sua juventude e já não se lembrará da desonra de sua viuvez.",
+   "ISA 54:5": "Pois seu Criador é seu marido. SENHOR dos Exércitos é seu nome. O Santo de Israel é seu Redentor. Ele será chamado Deus de toda a terra."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-054:004-1",
+    "ref": "ISA 54:4-54:5",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "não será envergonhada",
+    "resumo": "Sião não será envergonhada, esquece a vergonha da juventude; seu Criador é seu marido"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-ISA-114",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 55:1",
+  "fim": "ISA 55:3",
+  "texto": {
+   "ISA 55:1": "Venham às águas, todos vocês que têm sede. Vocês que não têm dinheiro, venham, comprem e comam. Venham, comprem vinho e leite sem dinheiro e sem preço.",
+   "ISA 55:2": "Por que gastam dinheiro naquilo que não é pão e seu trabalho naquilo que não satisfaz? Ouçam-me atentamente e comam o que é bom. Que sua alma se delicie com alimento rico.",
+   "ISA 55:3": "Inclinem os ouvidos e venham a mim. Ouçam, e sua alma viverá. Farei com vocês uma aliança eterna, os atos fiéis de amor prometidos a Davi."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-055:001-1",
+    "ref": "ISA 55:1-55:3",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "explicita",
+    "promitente": "pai",
+    "ancora": "Venham às águas",
+    "resumo": "Convite aos sedentos; o SENHOR firma aliança eterna com os que ouvem"
+   }
+  ],
+  "p2": []
+ }
+]

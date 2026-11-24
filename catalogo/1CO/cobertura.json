@@ -1,0 +1,10 @@
+{
+ "versiculos_lidos": 437,
+ "versiculos_do_livro": 437,
+ "leituras": [
+  "Claude (agente)",
+  "Codex",
+  "árbitro Gemini"
+ ],
+ "nota": "Fase 3 concluída (acordo=17, adj_ant=0, f3_conf=15, f3_rej=13, dup_rem=0)."
+}

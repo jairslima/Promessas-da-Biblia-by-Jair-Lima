@@ -1,0 +1,1976 @@
+[
+ {
+  "id": "F3-MIC-015",
+  "livro": "MIC",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "MIC 4:10",
+  "fim": "MIC 4:10",
+  "texto": {
+   "MIC 4:10": "Contorça-se e dê à luz, filha de Sião, como a mulher em trabalho de parto. Agora você sairá da cidade, habitará no campo e irá até a Babilônia. Ali será libertada, ali o SENHOR a resgatará da mão de seus inimigos."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-MIC-004:010-1",
+    "ref": "MIC 4:10",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": "Miqueias",
+    "ancora": "Agora você sairá da cidade, habitará no campo e irá até a Babilônia",
+    "resumo": "Anúncio de exílio para a filha de Sião."
+   }
+  ]
+ },
+ {
+  "id": "F3-MIC-016",
+  "livro": "MIC",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "MIC 6:2",
+  "fim": "MIC 6:2",
+  "texto": {
+   "MIC 6:2": "Ouçam, montes, a acusação do SENHOR, e vocês, fundamentos permanentes da terra. Pois o SENHOR tem uma causa contra seu povo e entrará em juízo com Israel."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-MIC-006:002-1",
+    "ref": "MIC 6:2",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "o SENHOR tem uma causa contra seu povo e entrará em juízo com Israel.",
+    "resumo": "O SENHOR anuncia que tem uma causa contra Israel e entrará em juízo com o povo."
+   }
+  ]
+ },
+ {
+  "id": "F3-MIC-017",
+  "livro": "MIC",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "MIC 6:13",
+  "fim": "MIC 6:15",
+  "texto": {
+   "MIC 6:13": "Por isso comecei a ferir você, a devastá-lo por causa de seus pecados.",
+   "MIC 6:14": "Você comerá, mas não ficará satisfeito, e continuará vazio por dentro. Guardará bens, mas não os salvará, e o que conseguir salvar eu entregarei à espada.",
+   "MIC 6:15": "Você semeará, mas não colherá. Prensará azeitonas, mas não se ungirá com o azeite. Pisará uvas, mas não beberá o vinho."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-MIC-006:013-1",
+    "ref": "MIC 6:13-6:15",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "Você comerá, mas não ficará satisfeito",
+    "resumo": "Deus declara juízo sobre Israel: insatisfação, perda dos bens e espada, sem proveito no trabalho."
+   }
+  ]
+ },
+ {
+  "id": "F3-MIC-018",
+  "livro": "MIC",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "MIC 6:16",
+  "fim": "MIC 6:16",
+  "texto": {
+   "MIC 6:16": "Vocês guardam os decretos de Onri e todas as práticas da casa de Acabe, e seguem seus conselhos. Por isso farei de você uma desolação e de seus moradores motivo de assobio. Vocês carregarão a vergonha de meu povo."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-MIC-006:016-1",
+    "ref": "MIC 6:16",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "farei de você uma desolação e de seus moradores motivo de assobio.",
+    "resumo": "Deus fará de Israel uma desolação e motivo de assobio, e o povo carregará vergonha."
+   }
+  ]
+ },
+ {
+  "id": "F3-NAM-001",
+  "livro": "NAM",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "NAM 1:8",
+  "fim": "NAM 1:10",
+  "texto": {
+   "NAM 1:8": "Mas com uma inundação avassaladora destruirá completamente o lugar de seus inimigos, e as trevas os perseguirão.",
+   "NAM 1:9": "O que vocês planejam contra o SENHOR? Ele causará destruição completa. A angústia não se levantará duas vezes.",
+   "NAM 1:10": "Ainda que estejam entrelaçados como espinhos e encharcados de bebida, serão totalmente consumidos como palha seca."
+  },
+  "p1": [
+   {
+    "uid": "U1-NAM-001:008-1",
+    "ref": "NAM 1:8-1:10",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "destruirá completamente o lugar de seus inimigos",
+    "resumo": "destruição dos inimigos de Deus"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-NAM-001:008-1",
+    "ref": "NAM 1:8",
+    "tipo": "indeterminada",
+    "origem": "indeterminada",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": null,
+    "ancora": "Mas com uma inundação avassaladora destruirá completamente o lugar de seus inimigos, e as trevas os perseguirão.",
+    "resumo": "Anúncio de destruição dos inimigos do SENHOR."
+   }
+  ]
+ },
+ {
+  "id": "F3-NAM-002",
+  "livro": "NAM",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "NAM 1:12",
+  "fim": "NAM 1:12",
+  "texto": {
+   "NAM 1:12": "Assim diz o SENHOR: Embora sejam fortes e numerosos, serão cortados e desaparecerão. Eu a afligi, Judá, mas não a afligirei outra vez."
+  },
+  "p1": [
+   {
+    "uid": "U1-NAM-001:012-1",
+    "ref": "NAM 1:12",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "serão cortados e desaparecerão",
+    "resumo": "Nínive cortada; Judá não será afligida outra vez"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-NAM-001:012-1",
+    "ref": "NAM 1:12",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": "nenhuma",
+    "promitente": "Naum",
+    "ancora": "Embora sejam fortes e numerosos, serão cortados e desaparecerão.",
+    "resumo": "Sentença do SENHOR contra os fortes e numerosos."
+   }
+  ]
+ },
+ {
+  "id": "F3-NAM-003",
+  "livro": "NAM",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "NAM 1:12",
+  "fim": "NAM 1:13",
+  "texto": {
+   "NAM 1:12": "Assim diz o SENHOR: Embora sejam fortes e numerosos, serão cortados e desaparecerão. Eu a afligi, Judá, mas não a afligirei outra vez.",
+   "NAM 1:13": "Agora quebrarei o jugo dele que está sobre você e romperei suas correntes."
+  },
+  "p1": [
+   {
+    "uid": "U1-NAM-001:012-2",
+    "ref": "NAM 1:12-1:13",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Eu a afligi, Judá, mas não a afligirei outra vez",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-NAM-001:012-2",
+    "ref": "NAM 1:12",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": "Naum",
+    "ancora": "Eu a afligi, Judá, mas não a afligirei outra vez.",
+    "resumo": "Promessa do SENHOR de não afligir Judá outra vez."
+   }
+  ]
+ },
+ {
+  "id": "F3-NAM-004",
+  "livro": "NAM",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "NAM 1:13",
+  "fim": "NAM 1:13",
+  "texto": {
+   "NAM 1:13": "Agora quebrarei o jugo dele que está sobre você e romperei suas correntes."
+  },
+  "p1": [
+   {
+    "uid": "U1-NAM-001:013-1",
+    "ref": "NAM 1:13",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Agora quebrarei o jugo dele que está sobre você e romperei suas correntes",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-NAM-001:013-1",
+    "ref": "NAM 1:13",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": "Naum",
+    "ancora": "Agora quebrarei o jugo dele que está sobre você e romperei suas correntes.",
+    "resumo": "Promessa de quebrar o jugo e as correntes sobre Judá."
+   }
+  ]
+ },
+ {
+  "id": "F3-NAM-005",
+  "livro": "NAM",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "NAM 1:14",
+  "fim": "NAM 1:14",
+  "texto": {
+   "NAM 1:14": "O SENHOR ordenou a seu respeito, Nínive: Seu nome não terá descendência. Eliminarei da casa de seus deuses as imagens esculpidas e fundidas. Prepararei seu túmulo, pois você é desprezível."
+  },
+  "p1": [
+   {
+    "uid": "U1-NAM-001:014-1",
+    "ref": "NAM 1:14",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Seu nome não terá descendência",
+    "resumo": "Nínive sem descendência; ídolos eliminados"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-NAM-001:014-1",
+    "ref": "NAM 1:14",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": "nenhuma",
+    "promitente": "Naum",
+    "ancora": "O SENHOR ordenou a seu respeito, Nínive: Seu nome não terá descendência. Eliminarei da casa de seus deuses as imagens esculpidas e fundidas. Prepararei seu túmulo, pois você é desprezível.",
+    "resumo": "Sentença do SENHOR contra Nínive: sem descendência, ídolos destruídos e túmulo preparado."
+   }
+  ]
+ },
+ {
+  "id": "F3-NAM-006",
+  "livro": "NAM",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "NAM 1:15",
+  "fim": "NAM 1:15",
+  "texto": {
+   "NAM 1:15": "Vejam sobre os montes os pés daquele que anuncia boas notícias e proclama a paz. Celebre suas festas, ó Judá, e cumpra seus votos, pois o perverso não voltará a passar por você. Ele foi completamente eliminado."
+  },
+  "p1": [
+   {
+    "uid": "U1-NAM-001:015-1",
+    "ref": "NAM 1:15",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "o perverso não voltará a passar por você",
+    "resumo": "boas notícias e paz a Judá"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-NAM-001:015-1",
+    "ref": "NAM 1:15",
+    "tipo": "indeterminada",
+    "origem": "indeterminada",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": null,
+    "ancora": "o perverso não voltará a passar por você. Ele foi completamente eliminado.",
+    "resumo": "Promessa de que o perverso não voltará a passar por Judá."
+   }
+  ]
+ },
+ {
+  "id": "F3-NAM-007",
+  "livro": "NAM",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "NAM 2:7",
+  "fim": "NAM 2:10",
+  "texto": {
+   "NAM 2:7": "Está decretado: ela será despida e levada embora. Suas servas a acompanham, gemendo como pombas e batendo no peito.",
+   "NAM 2:8": "Nínive era como um reservatório cheio de água, mas agora seu povo foge. Parem, parem, gritam, mas ninguém olha para trás.",
+   "NAM 2:9": "Saqueiem a prata, saqueiem o ouro. Não há fim para o tesouro, para a riqueza de todos os objetos preciosos.",
+   "NAM 2:10": "Devastada, vazia e arruinada. O coração desfalece, os joelhos tremem, todos os corpos se contorcem de dor, e todos os rostos perdem a cor."
+  },
+  "p1": [
+   {
+    "uid": "U1-NAM-002:007-1",
+    "ref": "NAM 2:7-2:10",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Está decretado: ela será despida e levada embora",
+    "resumo": "queda de Nínive"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-NAM-002:007-1",
+    "ref": "NAM 2:7-2:10",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Está decretado: ela será despida e levada embora.",
+    "resumo": "Anúncio da queda, fuga e saque da cidade."
+   }
+  ]
+ },
+ {
+  "id": "F3-NAM-008",
+  "livro": "NAM",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "NAM 2:13",
+  "fim": "NAM 2:13",
+  "texto": {
+   "NAM 2:13": "Estou contra você, diz o SENHOR dos Exércitos. Queimarei seus carros em fumaça, e a espada devorará seus leões novos. Eliminarei da terra sua presa, e a voz de seus mensageiros não será mais ouvida."
+  },
+  "p1": [
+   {
+    "uid": "U1-NAM-002:013-1",
+    "ref": "NAM 2:13",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Queimarei seus carros em fumaça",
+    "resumo": "Estou contra você, diz o SENHOR dos Exércitos"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-NAM-009",
+  "livro": "NAM",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "NAM 3:5",
+  "fim": "NAM 3:6",
+  "texto": {
+   "NAM 3:5": "Estou contra você, diz o SENHOR dos Exércitos. Levantarei suas vestes sobre seu rosto, mostrarei sua nudez às nações e sua vergonha aos reinos.",
+   "NAM 3:6": "Lançarei imundície sobre você, tratarei você com desprezo e farei de você um espetáculo."
+  },
+  "p1": [
+   {
+    "uid": "U1-NAM-003:005-1",
+    "ref": "NAM 3:5-3:6",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Levantarei suas vestes sobre seu rosto",
+    "resumo": "Estou contra você, Nínive"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-NAM-010",
+  "livro": "NAM",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "NAM 3:11",
+  "fim": "NAM 3:19",
+  "texto": {
+   "NAM 3:11": "Você também ficará embriagada e se esconderá. Também procurará refúgio contra o inimigo.",
+   "NAM 3:12": "Todas as suas fortalezas são como figueiras com os primeiros figos maduros. Quando sacudidas, os figos caem na boca de quem vai comê-los.",
+   "NAM 3:13": "Seus soldados no meio de você são como mulheres. As portas de sua terra estão completamente abertas para seus inimigos, e o fogo consome suas trancas.",
+   "NAM 3:14": "Tire água para o cerco, fortaleça suas defesas, entre no barro, pise a argila e repare o molde de tijolos.",
+   "NAM 3:15": "Ali o fogo a consumirá, e a espada a eliminará. Ela a devorará como o gafanhoto devorador. Multiplique-se como o gafanhoto devorador, multiplique-se como os gafanhotos.",
+   "NAM 3:16": "Você multiplicou seus comerciantes mais que as estrelas do céu, mas o gafanhoto devorador abre as asas e voa.",
+   "NAM 3:17": "Seus guardas são como gafanhotos, e seus oficiais, como enxames de gafanhotos que pousam nas cercas em dia frio. Quando o sol nasce, eles voam, e ninguém sabe onde estão.",
+   "NAM 3:18": "Seus pastores dormem, ó rei da Assíria, e seus nobres repousam. Seu povo está espalhado pelos montes, e ninguém o reúne.",
+   "NAM 3:19": "Não há alívio para sua ferida, seu golpe é incurável. Todos os que ouvirem a notícia a seu respeito baterão palmas por causa de sua queda, pois quem não sofreu continuamente com sua crueldade?"
+  },
+  "p1": [
+   {
+    "uid": "U1-NAM-003:011-1",
+    "ref": "NAM 3:11-3:19",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Você também ficará embriagada e se esconderá",
+    "resumo": "queda de Nínive e ferida incurável"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-NAM-003:011-1",
+    "ref": "NAM 3:11-3:13",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Você também ficará embriagada e se esconderá.",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-NAM-011",
+  "livro": "NAM",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "NAM 2:13",
+  "fim": "NAM 2:13",
+  "texto": {
+   "NAM 2:13": "Estou contra você, diz o SENHOR dos Exércitos. Queimarei seus carros em fumaça, e a espada devorará seus leões novos. Eliminarei da terra sua presa, e a voz de seus mensageiros não será mais ouvida."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-NAM-002:013-1",
+    "ref": "NAM 2:13",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "Estou contra você, diz o SENHOR dos Exércitos.",
+    "resumo": "O SENHOR declara-se contra a cidade e anuncia destruição."
+   }
+  ]
+ },
+ {
+  "id": "F3-NAM-012",
+  "livro": "NAM",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "NAM 3:5",
+  "fim": "NAM 3:7",
+  "texto": {
+   "NAM 3:5": "Estou contra você, diz o SENHOR dos Exércitos. Levantarei suas vestes sobre seu rosto, mostrarei sua nudez às nações e sua vergonha aos reinos.",
+   "NAM 3:6": "Lançarei imundície sobre você, tratarei você com desprezo e farei de você um espetáculo.",
+   "NAM 3:7": "Todos os que a virem fugirão e dirão: Nínive foi devastada. Quem lamentará por ela? Onde encontrarei quem a console?"
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-NAM-003:005-1",
+    "ref": "NAM 3:5-3:7",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Estou contra você, diz o SENHOR dos Exércitos.",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-HAB-001",
+  "livro": "HAB",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "HAB 1:5",
+  "fim": "HAB 1:6",
+  "texto": {
+   "HAB 1:5": "Olhem entre as nações, observem e fiquem completamente espantados. Pois realizo em seus dias uma obra em que vocês não acreditariam se lhes fosse contada.",
+   "HAB 1:6": "Estou levantando os caldeus, povo cruel e impetuoso, que percorre a extensão da terra para tomar moradas que não lhe pertencem."
+  },
+  "p1": [
+   {
+    "uid": "U1-HAB-001:005-1",
+    "ref": "HAB 1:5-1:6",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Estou levantando os caldeus, povo cruel e impetuoso",
+    "resumo": "Deus levanta os caldeus; obra incrível em seus dias"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-HAB-002",
+  "livro": "HAB",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "HAB 2:6",
+  "fim": "HAB 2:8",
+  "texto": {
+   "HAB 2:6": "Todos esses não levantarão contra ele um provérbio e uma zombaria enigmática? Dirão: Ai daquele que acumula o que não lhe pertence. Até quando continuará carregando bens tomados como garantia?",
+   "HAB 2:7": "Não se levantarão de repente os que cobrarão de você? Não despertarão os que o farão tremer? Então você se tornará presa deles.",
+   "HAB 2:8": "Porque você saqueou muitas nações, todos os povos restantes o saquearão, por causa do sangue humano e da violência contra a terra, a cidade e todos os seus moradores."
+  },
+  "p1": [
+   {
+    "uid": "U1-HAB-002:006-1",
+    "ref": "HAB 2:6-2:8",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Todos esses não levantarão contra ele um provérbio",
+    "resumo": "o saqueador será saqueado"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-HAB-003",
+  "livro": "HAB",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "HAB 2:14",
+  "fim": "HAB 2:14",
+  "texto": {
+   "HAB 2:14": "Pois a terra se encherá do conhecimento da glória do SENHOR, assim como as águas cobrem o mar."
+  },
+  "p1": [
+   {
+    "uid": "U1-HAB-002:014-1",
+    "ref": "HAB 2:14",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "humanidade",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "a terra se encherá do conhecimento da glória do SENHOR",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-HAB-002:014-1",
+    "ref": "HAB 2:14",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "criacao",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "a terra se encherá do conhecimento da glória do SENHOR",
+    "resumo": "A terra será cheia do conhecimento da glória do SENHOR."
+   }
+  ]
+ },
+ {
+  "id": "F3-HAB-004",
+  "livro": "HAB",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "HAB 2:16",
+  "fim": "HAB 2:17",
+  "texto": {
+   "HAB 2:16": "Você ficará cheio de vergonha em vez de glória. Beba também e exponha sua incircuncisão. O cálice da mão direita do SENHOR se voltará contra você, e a desonra cobrirá sua glória.",
+   "HAB 2:17": "A violência praticada contra o Líbano o cobrirá, e a destruição dos animais o aterrorizará, por causa do sangue humano e da violência contra a terra, a cidade e todos os seus moradores."
+  },
+  "p1": [
+   {
+    "uid": "U1-HAB-002:016-1",
+    "ref": "HAB 2:16-2:17",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "O cálice da mão direita do SENHOR se voltará contra você",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-HAB-005",
+  "livro": "HAB",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "HAB 1:5",
+  "fim": "HAB 1:11",
+  "texto": {
+   "HAB 1:5": "Olhem entre as nações, observem e fiquem completamente espantados. Pois realizo em seus dias uma obra em que vocês não acreditariam se lhes fosse contada.",
+   "HAB 1:6": "Estou levantando os caldeus, povo cruel e impetuoso, que percorre a extensão da terra para tomar moradas que não lhe pertencem.",
+   "HAB 1:7": "Eles são temíveis e assustadores. Deles mesmos procedem sua justiça e sua dignidade.",
+   "HAB 1:8": "Seus cavalos são mais velozes que leopardos e mais ferozes que lobos ao anoitecer. Seus cavaleiros avançam, vêm de longe e voam como águia que se lança sobre a presa.",
+   "HAB 1:9": "Todos eles vêm para praticar violência. Suas tropas avançam para a frente e reúnem prisioneiros como areia.",
+   "HAB 1:10": "Zombam de reis, e governantes são motivo de riso para eles. Riem de toda fortaleza, levantam rampas de terra e a conquistam.",
+   "HAB 1:11": "Então passam como o vento e seguem adiante. Tornam-se culpados, pois fazem de sua própria força seu deus."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-HAB-001:005-1",
+    "ref": "HAB 1:5-1:11",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "Pois realizo em seus dias uma obra em que vocês não acreditariam se lhes fosse contada.",
+    "resumo": "Deus anuncia que realiza uma obra espantosa: levanta os caldeus como instrumento de juízo."
+   }
+  ]
+ },
+ {
+  "id": "F3-HAB-006",
+  "livro": "HAB",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "HAB 2:6",
+  "fim": "HAB 2:8",
+  "texto": {
+   "HAB 2:6": "Todos esses não levantarão contra ele um provérbio e uma zombaria enigmática? Dirão: Ai daquele que acumula o que não lhe pertence. Até quando continuará carregando bens tomados como garantia?",
+   "HAB 2:7": "Não se levantarão de repente os que cobrarão de você? Não despertarão os que o farão tremer? Então você se tornará presa deles.",
+   "HAB 2:8": "Porque você saqueou muitas nações, todos os povos restantes o saquearão, por causa do sangue humano e da violência contra a terra, a cidade e todos os seus moradores."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-HAB-002:006-1",
+    "ref": "HAB 2:6-2:8",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Ai daquele que acumula o que não lhe pertence",
+    "resumo": "O acumulador injusto será cobrado e saqueado pelos povos."
+   }
+  ]
+ },
+ {
+  "id": "F3-HAB-007",
+  "livro": "HAB",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "HAB 2:9",
+  "fim": "HAB 2:11",
+  "texto": {
+   "HAB 2:9": "Ai daquele que obtém ganho perverso para sua casa, construindo seu ninho nas alturas para escapar das mãos da calamidade.",
+   "HAB 2:10": "Você planejou vergonha para sua própria casa ao destruir muitos povos e pecou contra sua própria vida.",
+   "HAB 2:11": "Pois a pedra clamará da parede, e a viga de madeira lhe responderá."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-HAB-002:009-1",
+    "ref": "HAB 2:9-2:11",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Ai daquele que obtém ganho perverso para sua casa",
+    "resumo": "O que enriquece sua casa com ganho perverso terá vergonha e a própria casa o denunciará."
+   }
+  ]
+ },
+ {
+  "id": "F3-HAB-008",
+  "livro": "HAB",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "HAB 2:12",
+  "fim": "HAB 2:13",
+  "texto": {
+   "HAB 2:12": "Ai daquele que constrói uma cidade com sangue e estabelece uma cidade por meio da injustiça.",
+   "HAB 2:13": "Isso não vem do SENHOR dos Exércitos? Os povos trabalham para alimentar o fogo, e as nações se cansam em vão."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-HAB-002:012-1",
+    "ref": "HAB 2:12-2:13",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Ai daquele que constrói uma cidade com sangue",
+    "resumo": "A cidade edificada com sangue e injustiça é objeto do juízo do SENHOR dos Exércitos."
+   }
+  ]
+ },
+ {
+  "id": "F3-HAB-009",
+  "livro": "HAB",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "HAB 2:15",
+  "fim": "HAB 2:17",
+  "texto": {
+   "HAB 2:15": "Ai daquele que dá bebida a seu próximo, misturando nela sua fúria e embriagando-o para contemplar sua nudez.",
+   "HAB 2:16": "Você ficará cheio de vergonha em vez de glória. Beba também e exponha sua incircuncisão. O cálice da mão direita do SENHOR se voltará contra você, e a desonra cobrirá sua glória.",
+   "HAB 2:17": "A violência praticada contra o Líbano o cobrirá, e a destruição dos animais o aterrorizará, por causa do sangue humano e da violência contra a terra, a cidade e todos os seus moradores."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-HAB-002:015-1",
+    "ref": "HAB 2:15-2:17",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Ai daquele que dá bebida a seu próximo",
+    "resumo": "O que embriaga o próximo para expô-lo será coberto de vergonha e receberá o cálice do juízo."
+   }
+  ]
+ },
+ {
+  "id": "F3-HAB-010",
+  "livro": "HAB",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "HAB 2:19",
+  "fim": "HAB 2:19",
+  "texto": {
+   "HAB 2:19": "Ai daquele que diz à madeira: Acorde, e à pedra sem voz: Desperte. Poderá ela ensinar? Está coberta de ouro e prata, mas não há fôlego algum dentro dela."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-HAB-002:019-1",
+    "ref": "HAB 2:19",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Ai daquele que diz à madeira: Acorde, e à pedra sem voz: Desperte.",
+    "resumo": "O idólatra que invoca ídolos sem fôlego está sob o ai do juízo."
+   }
+  ]
+ },
+ {
+  "id": "F3-ZEP-001",
+  "livro": "ZEP",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ZEP 1:8",
+  "fim": "ZEP 1:13",
+  "texto": {
+   "ZEP 1:8": "No dia do sacrifício do SENHOR, castigarei os oficiais, os filhos do rei e todos os que se vestem com roupas estrangeiras.",
+   "ZEP 1:9": "Naquele dia castigarei todos os que saltam sobre o limiar e enchem a casa de seus senhores com violência e fraude.",
+   "ZEP 1:10": "Naquele dia, diz o SENHOR, haverá gritos desde a Porta dos Peixes, lamentos desde o bairro novo e grande estrondo desde as colinas.",
+   "ZEP 1:11": "Lamentem, moradores do bairro do mercado, pois todo o povo de comerciantes será silenciado, e todos os que pesam prata serão eliminados.",
+   "ZEP 1:12": "Naquele tempo, examinarei Jerusalém com lâmpadas e castigarei os homens acomodados como vinho sobre a borra, que dizem no coração: O SENHOR não fará bem nem fará mal.",
+   "ZEP 1:13": "Sua riqueza será saqueada, e suas casas serão devastadas. Construirão casas, mas não habitarão nelas. Plantarão vinhas, mas não beberão seu vinho."
+  },
+  "p1": [
+   {
+    "uid": "U1-ZEP-001:008-1",
+    "ref": "ZEP 1:8-1:13",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "castigarei os oficiais, os filhos do rei",
+    "resumo": "castigo no dia do sacrifício do SENHOR; Jerusalém examinada"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-ZEP-002",
+  "livro": "ZEP",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ZEP 1:14",
+  "fim": "ZEP 1:18",
+  "texto": {
+   "ZEP 1:14": "O grande dia do SENHOR está próximo, próximo e chegando depressa. Ouçam o dia do SENHOR. Nele até o guerreiro gritará amargamente.",
+   "ZEP 1:15": "Aquele dia será dia de indignação, dia de angústia e aflição, dia de destruição e devastação, dia de trevas e escuridão, dia de nuvens e densas sombras.",
+   "ZEP 1:16": "Será dia de toque de trombeta e grito de guerra contra as cidades fortificadas e contra as torres elevadas.",
+   "ZEP 1:17": "Trarei angústia sobre os seres humanos, e eles andarão como cegos, porque pecaram contra o SENHOR. Seu sangue será derramado como pó, e suas entranhas, como esterco.",
+   "ZEP 1:18": "Nem sua prata nem seu ouro poderão livrá-los no dia da indignação do SENHOR. Toda a terra será consumida pelo fogo de seu zelo, pois ele dará fim repentino a todos os moradores da terra."
+  },
+  "p1": [
+   {
+    "uid": "U1-ZEP-001:014-1",
+    "ref": "ZEP 1:14-1:18",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "humanidade",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Trarei angústia sobre os seres humanos",
+    "resumo": "o grande dia do SENHOR"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-ZEP-003",
+  "livro": "ZEP",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ZEP 2:1",
+  "fim": "ZEP 2:3",
+  "texto": {
+   "ZEP 2:1": "Reúnam-se e examinem-se, ó nação que não tem vergonha,",
+   "ZEP 2:2": "antes que o decreto seja executado e o dia passe como palha levada pelo vento, antes que venha sobre vocês o ardor da ira do SENHOR, antes que venha sobre vocês o dia da ira do SENHOR.",
+   "ZEP 2:3": "Busquem o SENHOR, todos os humildes da terra que praticam suas ordenanças. Busquem a justiça, busquem a humildade. Talvez vocês sejam protegidos no dia da ira do SENHOR."
+  },
+  "p1": [
+   {
+    "uid": "U1-ZEP-002:003-1",
+    "ref": "ZEP 2:3",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "explicita",
+    "promitente": "pai",
+    "ancora": "Talvez vocês sejam protegidos no dia da ira do SENHOR",
+    "resumo": "possibilidade condicional de proteção para os humildes"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ZEP-002:001-1",
+    "ref": "ZEP 2:1-2:3",
+    "tipo": "advertencia",
+    "origem": "indeterminada",
+    "natureza": null,
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Talvez vocês sejam protegidos no dia da ira do SENHOR.",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-ZEP-004",
+  "livro": "ZEP",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ZEP 2:7",
+  "fim": "ZEP 2:7",
+  "texto": {
+   "ZEP 2:7": "Essa região pertencerá ao remanescente da casa de Judá. Ali apascentarão seus rebanhos e, ao anoitecer, descansarão nas casas de Ascalom. Pois o SENHOR, seu Deus, cuidará deles e restaurará sua condição."
+  },
+  "p1": [
+   {
+    "uid": "U1-ZEP-002:007-1",
+    "ref": "ZEP 2:7",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "o SENHOR, seu Deus, cuidará deles e restaurará sua condição",
+    "resumo": "o litoral pertencerá ao remanescente de Judá"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ZEP-002:007-1",
+    "ref": "ZEP 2:7",
+    "tipo": "indeterminada",
+    "origem": "indeterminada",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": null,
+    "ancora": "Pois o SENHOR, seu Deus, cuidará deles e restaurará sua condição.",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-ZEP-005",
+  "livro": "ZEP",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ZEP 2:13",
+  "fim": "ZEP 2:15",
+  "texto": {
+   "ZEP 2:13": "Ele estenderá sua mão contra o norte, destruirá a Assíria e fará de Nínive uma devastação, uma terra seca como o deserto.",
+   "ZEP 2:14": "Rebanhos se deitarão no meio dela, junto com toda espécie de animais. A coruja-do-deserto e o ouriço passarão a noite sobre seus capitéis. Uma voz cantará nas janelas. Haverá ruína nos umbrais, pois o revestimento de cedro ficará exposto.",
+   "ZEP 2:15": "Esta é a cidade alegre que habitava segura e dizia no coração: Eu sou, e não há outra além de mim. Como se tornou uma devastação, lugar onde os animais repousam! Todo aquele que passar por ela assobiará e agitará a mão."
+  },
+  "p1": [
+   {
+    "uid": "U1-ZEP-002:013-1",
+    "ref": "ZEP 2:13-2:15",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "destruirá a Assíria e fará de Nínive uma devastação",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ZEP-002:013-1",
+    "ref": "ZEP 2:13-2:15",
+    "tipo": "indeterminada",
+    "origem": "indeterminada",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": "nenhuma",
+    "promitente": null,
+    "ancora": "Ele estenderá sua mão contra o norte, destruirá a Assíria e fará de Nínive uma devastação",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-ZEP-006",
+  "livro": "ZEP",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ZEP 3:8",
+  "fim": "ZEP 3:8",
+  "texto": {
+   "ZEP 3:8": "Portanto, esperem por mim, diz o SENHOR, até o dia em que eu me levantar para tomar a presa. Minha decisão é reunir nações e congregar reinos para derramar sobre eles minha indignação, todo o ardor de minha ira. Toda a terra será consumida pelo fogo de meu zelo."
+  },
+  "p1": [
+   {
+    "uid": "U1-ZEP-003:008-1",
+    "ref": "ZEP 3:8",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Toda a terra será consumida pelo fogo de meu zelo",
+    "resumo": "reunião das nações e derramamento da ira"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-ZEP-007",
+  "livro": "ZEP",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ZEP 3:11",
+  "fim": "ZEP 3:13",
+  "texto": {
+   "ZEP 3:11": "Naquele dia você não será envergonhada por todas as ações com que se rebelou contra mim. Então retirarei de seu meio os que se alegram em seu orgulho, e você não voltará a se exaltar em meu santo monte.",
+   "ZEP 3:12": "Deixarei em seu meio um povo humilde e pobre, e eles buscarão refúgio no nome do SENHOR.",
+   "ZEP 3:13": "O remanescente de Israel não praticará injustiça nem falará mentira, e não se achará língua enganosa em sua boca. Eles se alimentarão e repousarão, sem que ninguém os faça temer."
+  },
+  "p1": [
+   {
+    "uid": "U1-ZEP-003:011-1",
+    "ref": "ZEP 3:11-3:13",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "retirarei de seu meio os que se alegram em seu orgulho",
+    "resumo": "remanescente humilde, sem injustiça"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-ZEP-008",
+  "livro": "ZEP",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ZEP 3:15",
+  "fim": "ZEP 3:17",
+  "texto": {
+   "ZEP 3:15": "O SENHOR retirou as sentenças contra você e eliminou seu inimigo. O Rei de Israel, o SENHOR, está no meio de você. Você não temerá mais calamidade alguma.",
+   "ZEP 3:16": "Naquele dia se dirá a Jerusalém: Não tema, Sião. Não deixe suas mãos enfraquecerem.",
+   "ZEP 3:17": "O SENHOR, seu Deus, está no meio de você, poderoso para salvar. Ele se alegrará por sua causa com grande alegria, se aquietará em seu amor e exultará por sua causa com cânticos."
+  },
+  "p1": [
+   {
+    "uid": "U1-ZEP-003:015-1",
+    "ref": "ZEP 3:15-3:17",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "O Rei de Israel, o SENHOR, está no meio de você. Você não temerá mais calamidade alguma",
+    "resumo": "Deus no meio de Sião, salvador poderoso"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ZEP-003:015-1",
+    "ref": "ZEP 3:15",
+    "tipo": "declaracao_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": null,
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "O SENHOR retirou as sentenças contra você e eliminou seu inimigo.",
+    "resumo": "(resumo não informado pelo leitor)"
+   },
+   {
+    "uid": "U2-ZEP-003:017-1",
+    "ref": "ZEP 3:17",
+    "tipo": "declaracao_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": null,
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "O SENHOR, seu Deus, está no meio de você, poderoso para salvar.",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-ZEP-009",
+  "livro": "ZEP",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ZEP 3:18",
+  "fim": "ZEP 3:20",
+  "texto": {
+   "ZEP 3:18": "Reunirei os que lamentam por não participarem das festas. Eles pertencem a você e carregavam a vergonha do exílio.",
+   "ZEP 3:19": "Naquele tempo agirei contra todos os seus opressores. Salvarei a que manca e reunirei a que foi expulsa. Darei a elas louvor e renome em toda terra onde foram envergonhadas.",
+   "ZEP 3:20": "Naquele tempo trarei vocês de volta e os reunirei. Darei a vocês renome e louvor entre todos os povos da terra, quando eu restaurar sua condição diante de seus olhos, diz o SENHOR."
+  },
+  "p1": [
+   {
+    "uid": "U1-ZEP-003:018-1",
+    "ref": "ZEP 3:18-3:20",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Reunirei os que lamentam",
+    "resumo": "reunião, salvação da que manca, renome e restauração; agirei contra os opressores"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ZEP-003:018-1",
+    "ref": "ZEP 3:18",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Reunirei os que lamentam por não participarem das festas.",
+    "resumo": "(resumo não informado pelo leitor)"
+   },
+   {
+    "uid": "U2-ZEP-003:020-1",
+    "ref": "ZEP 3:20",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Naquele tempo trarei vocês de volta e os reunirei.",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-ZEP-010",
+  "livro": "ZEP",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ZEP 1:7",
+  "fim": "ZEP 1:9",
+  "texto": {
+   "ZEP 1:7": "Silêncio diante do Senhor DEUS, pois o dia do SENHOR está próximo. O SENHOR preparou um sacrifício e consagrou seus convidados.",
+   "ZEP 1:8": "No dia do sacrifício do SENHOR, castigarei os oficiais, os filhos do rei e todos os que se vestem com roupas estrangeiras.",
+   "ZEP 1:9": "Naquele dia castigarei todos os que saltam sobre o limiar e enchem a casa de seus senhores com violência e fraude."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ZEP-001:007-1",
+    "ref": "ZEP 1:7-1:9",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": null,
+    "ancora": "pois o dia do SENHOR está próximo",
+    "resumo": "O dia do SENHOR está próximo; no sacrifício preparado, Deus castigará oficiais e transgressores."
+   }
+  ]
+ },
+ {
+  "id": "F3-ZEP-011",
+  "livro": "ZEP",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ZEP 1:10",
+  "fim": "ZEP 1:11",
+  "texto": {
+   "ZEP 1:10": "Naquele dia, diz o SENHOR, haverá gritos desde a Porta dos Peixes, lamentos desde o bairro novo e grande estrondo desde as colinas.",
+   "ZEP 1:11": "Lamentem, moradores do bairro do mercado, pois todo o povo de comerciantes será silenciado, e todos os que pesam prata serão eliminados."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ZEP-001:010-1",
+    "ref": "ZEP 1:10-1:11",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "Sofonias",
+    "ancora": "haverá gritos desde a Porta dos Peixes",
+    "resumo": "Gritos e lamentos em Jerusalém; comerciantes serão silenciados e eliminados."
+   }
+  ]
+ },
+ {
+  "id": "F3-ZEP-012",
+  "livro": "ZEP",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ZEP 1:12",
+  "fim": "ZEP 1:13",
+  "texto": {
+   "ZEP 1:12": "Naquele tempo, examinarei Jerusalém com lâmpadas e castigarei os homens acomodados como vinho sobre a borra, que dizem no coração: O SENHOR não fará bem nem fará mal.",
+   "ZEP 1:13": "Sua riqueza será saqueada, e suas casas serão devastadas. Construirão casas, mas não habitarão nelas. Plantarão vinhas, mas não beberão seu vinho."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ZEP-001:012-1",
+    "ref": "ZEP 1:12-1:13",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": null,
+    "ancora": "examinarei Jerusalém com lâmpadas",
+    "resumo": "Deus examinará Jerusalém e castigará os complacentes; riqueza e casas serão perdidas."
+   }
+  ]
+ },
+ {
+  "id": "F3-ZEP-013",
+  "livro": "ZEP",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ZEP 1:14",
+  "fim": "ZEP 1:18",
+  "texto": {
+   "ZEP 1:14": "O grande dia do SENHOR está próximo, próximo e chegando depressa. Ouçam o dia do SENHOR. Nele até o guerreiro gritará amargamente.",
+   "ZEP 1:15": "Aquele dia será dia de indignação, dia de angústia e aflição, dia de destruição e devastação, dia de trevas e escuridão, dia de nuvens e densas sombras.",
+   "ZEP 1:16": "Será dia de toque de trombeta e grito de guerra contra as cidades fortificadas e contra as torres elevadas.",
+   "ZEP 1:17": "Trarei angústia sobre os seres humanos, e eles andarão como cegos, porque pecaram contra o SENHOR. Seu sangue será derramado como pó, e suas entranhas, como esterco.",
+   "ZEP 1:18": "Nem sua prata nem seu ouro poderão livrá-los no dia da indignação do SENHOR. Toda a terra será consumida pelo fogo de seu zelo, pois ele dará fim repentino a todos os moradores da terra."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ZEP-001:014-1",
+    "ref": "ZEP 1:14-1:18",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "humanidade",
+    "condicao": "nenhuma",
+    "promitente": null,
+    "ancora": "O grande dia do SENHOR está próximo",
+    "resumo": "O grande dia do SENHOR traz indignação, angústia, guerra e consumo de toda a terra; Deus traz angústia e dá fim aos moradores."
+   }
+  ]
+ },
+ {
+  "id": "F3-ZEP-014",
+  "livro": "ZEP",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ZEP 2:9",
+  "fim": "ZEP 2:9",
+  "texto": {
+   "ZEP 2:9": "Portanto, tão certo como eu vivo, diz o SENHOR dos Exércitos, Deus de Israel, Moabe se tornará como Sodoma, e os filhos de Amom, como Gomorra: terreno tomado por urtigas, poços de sal e devastação permanente. O remanescente de meu povo os saqueará, e o restante de minha nação tomará posse deles."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ZEP-002:009-1",
+    "ref": "ZEP 2:9",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "O remanescente de meu povo os saqueará, e o restante de minha nação tomará posse deles.",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-ZEP-015",
+  "livro": "ZEP",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ZEP 3:8",
+  "fim": "ZEP 3:8",
+  "texto": {
+   "ZEP 3:8": "Portanto, esperem por mim, diz o SENHOR, até o dia em que eu me levantar para tomar a presa. Minha decisão é reunir nações e congregar reinos para derramar sobre eles minha indignação, todo o ardor de minha ira. Toda a terra será consumida pelo fogo de meu zelo."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ZEP-003:008-1",
+    "ref": "ZEP 3:8",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Minha decisão é reunir nações e congregar reinos para derramar sobre eles minha indignação, todo o ardor de minha ira.",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-ZEP-016",
+  "livro": "ZEP",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ZEP 3:10",
+  "fim": "ZEP 3:10",
+  "texto": {
+   "ZEP 3:10": "Desde além dos rios de Cuxe, meus adoradores, a comunidade de meus dispersos, trarão minha oferta."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ZEP-003:010-1",
+    "ref": "ZEP 3:10",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Desde além dos rios de Cuxe, meus adoradores, a comunidade de meus dispersos, trarão minha oferta.",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-ZEP-017",
+  "livro": "ZEP",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ZEP 3:11",
+  "fim": "ZEP 3:11",
+  "texto": {
+   "ZEP 3:11": "Naquele dia você não será envergonhada por todas as ações com que se rebelou contra mim. Então retirarei de seu meio os que se alegram em seu orgulho, e você não voltará a se exaltar em meu santo monte."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ZEP-003:011-1",
+    "ref": "ZEP 3:11",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Naquele dia você não será envergonhada por todas as ações com que se rebelou contra mim.",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-ZEP-018",
+  "livro": "ZEP",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ZEP 3:12",
+  "fim": "ZEP 3:12",
+  "texto": {
+   "ZEP 3:12": "Deixarei em seu meio um povo humilde e pobre, e eles buscarão refúgio no nome do SENHOR."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ZEP-003:012-1",
+    "ref": "ZEP 3:12",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Deixarei em seu meio um povo humilde e pobre, e eles buscarão refúgio no nome do SENHOR.",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-ZEP-019",
+  "livro": "ZEP",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ZEP 3:13",
+  "fim": "ZEP 3:13",
+  "texto": {
+   "ZEP 3:13": "O remanescente de Israel não praticará injustiça nem falará mentira, e não se achará língua enganosa em sua boca. Eles se alimentarão e repousarão, sem que ninguém os faça temer."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ZEP-003:013-1",
+    "ref": "ZEP 3:13",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "O remanescente de Israel não praticará injustiça nem falará mentira, e não se achará língua enganosa em sua boca.",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-ZEP-020",
+  "livro": "ZEP",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ZEP 3:19",
+  "fim": "ZEP 3:19",
+  "texto": {
+   "ZEP 3:19": "Naquele tempo agirei contra todos os seus opressores. Salvarei a que manca e reunirei a que foi expulsa. Darei a elas louvor e renome em toda terra onde foram envergonhadas."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ZEP-003:019-1",
+    "ref": "ZEP 3:19",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Naquele tempo agirei contra todos os seus opressores. Salvarei a que manca e reunirei a que foi expulsa.",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-HAG-001",
+  "livro": "HAG",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "HAG 1:8",
+  "fim": "HAG 1:8",
+  "texto": {
+   "HAG 1:8": "Subam ao monte, tragam madeira e reconstruam a casa. Eu me agradarei dela e serei glorificado, diz o SENHOR."
+  },
+  "p1": [
+   {
+    "uid": "U1-HAG-001:008-1",
+    "ref": "HAG 1:8",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "explicita",
+    "promitente": "pai",
+    "ancora": "Eu me agradarei dela e serei glorificado",
+    "resumo": "o SENHOR se agrada se reconstruírem a casa"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-HAG-001:008-1",
+    "ref": "HAG 1:8",
+    "tipo": "mandamento",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Eu me agradarei dela e serei glorificado",
+    "resumo": "Ordem para subir ao monte, trazer madeira e reconstruir a casa, com a promessa de que o SENHOR se agradará dela e será glorificado."
+   }
+  ]
+ },
+ {
+  "id": "F3-HAG-002",
+  "livro": "HAG",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "HAG 1:13",
+  "fim": "HAG 1:13",
+  "texto": {
+   "HAG 1:13": "Então Ageu, mensageiro do SENHOR, transmitiu ao povo a mensagem do SENHOR: Eu estou com vocês, diz o SENHOR."
+  },
+  "p1": [
+   {
+    "uid": "U1-HAG-001:013-1",
+    "ref": "HAG 1:13",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Eu estou com vocês",
+    "resumo": "a presença do SENHOR"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-HAG-001:013-1",
+    "ref": "HAG 1:13",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Eu estou com vocês, diz o SENHOR.",
+    "resumo": "Ageu transmite ao povo a mensagem do SENHOR: Eu estou com vocês."
+   }
+  ]
+ },
+ {
+  "id": "F3-HAG-003",
+  "livro": "HAG",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "HAG 2:4",
+  "fim": "HAG 2:5",
+  "texto": {
+   "HAG 2:4": "Agora seja forte, Zorobabel, diz o SENHOR. Seja forte, Josué, filho de Jeozadaque, sumo sacerdote. Sejam fortes, todos vocês, povo da terra, diz o SENHOR, e trabalhem, pois eu estou com vocês, diz o SENHOR dos Exércitos.",
+   "HAG 2:5": "Esta é a palavra da aliança que fiz com vocês quando saíram do Egito. Meu Espírito permanece no meio de vocês. Não tenham medo."
+  },
+  "p1": [
+   {
+    "uid": "U1-HAG-002:004-1",
+    "ref": "HAG 2:4-2:5",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "eu estou com vocês",
+    "resumo": "presença de Deus, aliança, Espírito no meio"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-HAG-002:004-1",
+    "ref": "HAG 2:4-2:5",
+    "tipo": "mandamento",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "pois eu estou com vocês, diz o SENHOR dos Exércitos",
+    "resumo": "Deus ordena coragem e trabalho, garantindo sua presença e a permanência do seu Espírito no meio do povo."
+   }
+  ]
+ },
+ {
+  "id": "F3-HAG-004",
+  "livro": "HAG",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "HAG 2:6",
+  "fim": "HAG 2:9",
+  "texto": {
+   "HAG 2:6": "Pois assim diz o SENHOR dos Exércitos: Mais uma vez, dentro de pouco tempo, farei tremer os céus, a terra, o mar e a terra seca.",
+   "HAG 2:7": "Farei tremer todas as nações, e as coisas preciosas de todas as nações virão. Encherei esta casa de glória, diz o SENHOR dos Exércitos.",
+   "HAG 2:8": "Minha é a prata, e meu é o ouro, diz o SENHOR dos Exércitos.",
+   "HAG 2:9": "A glória posterior desta casa será maior que a primeira, diz o SENHOR dos Exércitos, e neste lugar concederei paz, diz o SENHOR dos Exércitos."
+  },
+  "p1": [
+   {
+    "uid": "U1-HAG-002:006-1",
+    "ref": "HAG 2:6-2:9",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "farei tremer os céus, a terra, o mar e a terra seca",
+    "resumo": "nações trazem tesouros; glória posterior maior; paz"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-HAG-002:006-1",
+    "ref": "HAG 2:6",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "criacao",
+    "condicao": "nenhuma",
+    "promitente": null,
+    "ancora": "farei tremer os céus, a terra, o mar e a terra seca",
+    "resumo": "O SENHOR promete abalar a criação."
+   },
+   {
+    "uid": "U2-HAG-002:007-1",
+    "ref": "HAG 2:7",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": "nenhuma",
+    "promitente": null,
+    "ancora": "Farei tremer todas as nações",
+    "resumo": "O SENHOR promete abalar todas as nações."
+   }
+  ]
+ },
+ {
+  "id": "F3-HAG-005",
+  "livro": "HAG",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "HAG 2:21",
+  "fim": "HAG 2:22",
+  "texto": {
+   "HAG 2:21": "Fale a Zorobabel, governador de Judá: Farei tremer os céus e a terra.",
+   "HAG 2:22": "Derrubarei tronos de reinos e destruirei o poder dos reinos das nações. Derrubarei carros e seus condutores. Cavalos e cavaleiros cairão, cada um pela espada de seu irmão."
+  },
+  "p1": [
+   {
+    "uid": "U1-HAG-002:021-1",
+    "ref": "HAG 2:21-2:22",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Derrubarei tronos de reinos",
+    "resumo": "Farei tremer os céus e a terra; derrubada dos reinos"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-HAG-006",
+  "livro": "HAG",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "HAG 2:23",
+  "fim": "HAG 2:23",
+  "texto": {
+   "HAG 2:23": "Naquele dia, diz o SENHOR dos Exércitos, tomarei você, Zorobabel, filho de Sealtiel, meu servo, diz o SENHOR, e farei de você como um anel de selar, pois escolhi você, diz o SENHOR dos Exércitos."
+  },
+  "p1": [
+   {
+    "uid": "U1-HAG-002:023-1",
+    "ref": "HAG 2:23",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "tomarei você, Zorobabel, filho de Sealtiel, meu servo",
+    "resumo": "Zorobabel escolhido como anel de selar"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-HAG-007",
+  "livro": "HAG",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "HAG 1:6",
+  "fim": "HAG 1:6",
+  "texto": {
+   "HAG 1:6": "Vocês semeiam muito e colhem pouco. Comem, mas não ficam satisfeitos. Bebem, mas não chegam a se saciar. Vestem-se, mas ninguém se aquece. Quem recebe salário o coloca em uma bolsa furada."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-HAG-001:006-1",
+    "ref": "HAG 1:6",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Vocês semeiam muito e colhem pouco.",
+    "resumo": "O SENHOR declara a frustração contínua do povo: semeiam, comem, bebem, vestem-se e recebem salário sem satisfação."
+   }
+  ]
+ },
+ {
+  "id": "F3-HAG-008",
+  "livro": "HAG",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "HAG 1:9",
+  "fim": "HAG 1:11",
+  "texto": {
+   "HAG 1:9": "Vocês esperavam muito, mas colheram pouco. Quando trouxeram o que colheram para casa, eu o dissipei com um sopro. Por quê? diz o SENHOR dos Exércitos. Por causa de minha casa, que permanece em ruínas, enquanto cada um de vocês corre para cuidar da própria casa.",
+   "HAG 1:10": "Por isso os céus retiveram o orvalho, e a terra reteve sua produção.",
+   "HAG 1:11": "Convoquei uma seca sobre a terra e sobre os montes, sobre o cereal, o vinho novo, o azeite e tudo o que o solo produz, sobre os seres humanos, os animais e todo o trabalho das mãos."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-HAG-001:009-1",
+    "ref": "HAG 1:9-1:11",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "eu o dissipei com um sopro",
+    "resumo": "O SENHOR declara o juízo sobre o povo: dissipou o que colheram e convocou seca sobre a terra, os frutos, os seres humanos, os animais e todo o trabalho das mãos, por causa da casa do SENHOR em ruínas."
+   }
+  ]
+ },
+ {
+  "id": "F3-HAG-009",
+  "livro": "HAG",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "HAG 2:7",
+  "fim": "HAG 2:7",
+  "texto": {
+   "HAG 2:7": "Farei tremer todas as nações, e as coisas preciosas de todas as nações virão. Encherei esta casa de glória, diz o SENHOR dos Exércitos."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-HAG-002:007-2",
+    "ref": "HAG 2:7",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": null,
+    "ancora": "Encherei esta casa de glória",
+    "resumo": "O SENHOR promete que as riquezas das nações virão e que ele encherá a casa de glória."
+   }
+  ]
+ },
+ {
+  "id": "F3-HAG-010",
+  "livro": "HAG",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "HAG 2:9",
+  "fim": "HAG 2:9",
+  "texto": {
+   "HAG 2:9": "A glória posterior desta casa será maior que a primeira, diz o SENHOR dos Exércitos, e neste lugar concederei paz, diz o SENHOR dos Exércitos."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-HAG-002:009-1",
+    "ref": "HAG 2:9",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": null,
+    "ancora": "A glória posterior desta casa será maior que a primeira",
+    "resumo": "O SENHOR promete que a glória posterior da casa será maior que a primeira."
+   }
+  ]
+ },
+ {
+  "id": "F3-HAG-011",
+  "livro": "HAG",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "HAG 2:9",
+  "fim": "HAG 2:9",
+  "texto": {
+   "HAG 2:9": "A glória posterior desta casa será maior que a primeira, diz o SENHOR dos Exércitos, e neste lugar concederei paz, diz o SENHOR dos Exércitos."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-HAG-002:009-2",
+    "ref": "HAG 2:9",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": null,
+    "ancora": "neste lugar concederei paz",
+    "resumo": "O SENHOR promete conceder paz neste lugar."
+   }
+  ]
+ },
+ {
+  "id": "F3-HAG-012",
+  "livro": "HAG",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "HAG 2:21",
+  "fim": "HAG 2:22",
+  "texto": {
+   "HAG 2:21": "Fale a Zorobabel, governador de Judá: Farei tremer os céus e a terra.",
+   "HAG 2:22": "Derrubarei tronos de reinos e destruirei o poder dos reinos das nações. Derrubarei carros e seus condutores. Cavalos e cavaleiros cairão, cada um pela espada de seu irmão."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-HAG-002:021-1",
+    "ref": "HAG 2:21-2:22",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": "nenhuma",
+    "promitente": null,
+    "ancora": "Farei tremer os céus e a terra",
+    "resumo": "O SENHOR promete abalar os céus e a terra e derrubar o poder dos reinos e exércitos."
+   }
+  ]
+ },
+ {
+  "id": "F3-HAG-013",
+  "livro": "HAG",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "HAG 2:23",
+  "fim": "HAG 2:23",
+  "texto": {
+   "HAG 2:23": "Naquele dia, diz o SENHOR dos Exércitos, tomarei você, Zorobabel, filho de Sealtiel, meu servo, diz o SENHOR, e farei de você como um anel de selar, pois escolhi você, diz o SENHOR dos Exércitos."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-HAG-002:023-1",
+    "ref": "HAG 2:23",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": null,
+    "ancora": "farei de você como um anel de selar",
+    "resumo": "O SENHOR promete tomar Zorobabel, seu servo, e fazê-lo como anel de selar, pois o escolheu."
+   }
+  ]
+ },
+ {
+  "id": "F3-ZEC-001",
+  "livro": "ZEC",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ZEC 1:3",
+  "fim": "ZEC 1:3",
+  "texto": {
+   "ZEC 1:3": "Portanto, diga a este povo: Assim diz o SENHOR dos Exércitos: Voltem para mim, diz o SENHOR dos Exércitos, e eu voltarei para vocês, diz o SENHOR dos Exércitos."
+  },
+  "p1": [
+   {
+    "uid": "U1-ZEC-001:003-1",
+    "ref": "ZEC 1:3",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "explicita",
+    "promitente": "pai",
+    "ancora": "Voltem para mim, diz o SENHOR dos Exércitos, e eu voltarei para vocês",
+    "resumo": "retorno do povo condiciona o retorno de Deus"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ZEC-001:003-1",
+    "ref": "ZEC 1:3",
+    "tipo": "mandamento",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Voltem para mim, diz o SENHOR dos Exércitos, e eu voltarei para vocês, diz o SENHOR dos Exércitos.",
+    "resumo": "O SENHOR promete voltar para o povo se ele voltar para ele."
+   }
+  ]
+ }
+]

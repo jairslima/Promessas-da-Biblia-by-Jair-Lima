@@ -1,0 +1,2010 @@
+[
+ {
+  "id": "F3-ZEC-002",
+  "livro": "ZEC",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ZEC 1:15",
+  "fim": "ZEC 1:15",
+  "texto": {
+   "ZEC 1:15": "Estou extremamente irado contra as nações que vivem despreocupadas. Quando eu estava apenas um pouco irado, elas agravaram o sofrimento."
+  },
+  "p1": [
+   {
+    "uid": "U1-ZEC-001:015-1",
+    "ref": "ZEC 1:15",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Estou extremamente irado contra as nações que vivem despreocupadas",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-ZEC-003",
+  "livro": "ZEC",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ZEC 1:21",
+  "fim": "ZEC 1:21",
+  "texto": {
+   "ZEC 1:21": "Perguntei: O que estes vêm fazer? Ele respondeu: Aqueles são os chifres que dispersaram Judá de tal modo que ninguém conseguia levantar a cabeça. Estes artesãos vieram para aterrorizá-los e derrubar os chifres das nações que levantaram seu poder contra a terra de Judá para dispersá-la."
+  },
+  "p1": [
+   {
+    "uid": "U1-ZEC-001:021-1",
+    "ref": "ZEC 1:21",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Estes artesãos vieram para aterrorizá-los e derrubar os chifres das nações",
+    "resumo": "visão dos quatro artesãos: derrubada das nações que dispersaram Judá"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ZEC-001:021-1",
+    "ref": "ZEC 1:21",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Estes artesãos vieram para aterrorizá-los e derrubar os chifres das nações que levantaram seu poder contra a terra de Judá para dispersá-la.",
+    "resumo": "Os artesãos vêm para aterrorizar e derrubar os chifres das nações que dispersaram Judá."
+   }
+  ]
+ },
+ {
+  "id": "F3-ZEC-004",
+  "livro": "ZEC",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ZEC 2:4",
+  "fim": "ZEC 2:5",
+  "texto": {
+   "ZEC 2:4": "Este lhe disse: Corra e diga àquele jovem: Jerusalém será habitada como uma cidade sem muralhas por causa da multidão de pessoas e animais em seu meio.",
+   "ZEC 2:5": "Eu mesmo serei para ela um muro de fogo ao redor, diz o SENHOR, e serei sua glória no meio dela."
+  },
+  "p1": [
+   {
+    "uid": "U1-ZEC-002:004-1",
+    "ref": "ZEC 2:4",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Jerusalém será habitada como uma cidade sem muralhas",
+    "resumo": "mensagem do anjo ao jovem"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ZEC-002:004-1",
+    "ref": "ZEC 2:4-2:5",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Jerusalém será habitada como uma cidade sem muralhas",
+    "resumo": "Jerusalém será habitada em multidão, e o SENHOR mesmo será muro de fogo ao redor dela e glória no seu meio."
+   }
+  ]
+ },
+ {
+  "id": "F3-ZEC-005",
+  "livro": "ZEC",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ZEC 2:5",
+  "fim": "ZEC 2:5",
+  "texto": {
+   "ZEC 2:5": "Eu mesmo serei para ela um muro de fogo ao redor, diz o SENHOR, e serei sua glória no meio dela."
+  },
+  "p1": [
+   {
+    "uid": "U1-ZEC-002:005-1",
+    "ref": "ZEC 2:5",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Eu mesmo serei para ela um muro de fogo ao redor",
+    "resumo": "Deus como muro de fogo e glória no meio"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-ZEC-006",
+  "livro": "ZEC",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ZEC 2:8",
+  "fim": "ZEC 2:9",
+  "texto": {
+   "ZEC 2:8": "Pois assim diz o SENHOR dos Exércitos: Depois da glória, ele me enviou contra as nações que saquearam vocês, pois quem toca em vocês toca na pupila do olho dele.",
+   "ZEC 2:9": "Levantarei minha mão contra elas, e se tornarão presa de seus próprios servos. Então vocês saberão que o SENHOR dos Exércitos me enviou."
+  },
+  "p1": [
+   {
+    "uid": "U1-ZEC-002:008-1",
+    "ref": "ZEC 2:8-2:9",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Levantarei minha mão contra elas",
+    "resumo": "as nações que saquearam Israel serão presa de seus servos"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ZEC-002:008-1",
+    "ref": "ZEC 2:8-2:9",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "Zacarias",
+    "ancora": "Levantarei minha mão contra elas",
+    "resumo": "O SENHOR se volta contra as nações que saquearam o povo; quem toca no povo toca na pupila do olho dele, e elas se tornarão presa de seus próprios servos."
+   }
+  ]
+ },
+ {
+  "id": "F3-ZEC-007",
+  "livro": "ZEC",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ZEC 4:6",
+  "fim": "ZEC 4:7",
+  "texto": {
+   "ZEC 4:6": "Então ele me explicou: Esta é a palavra do SENHOR a Zorobabel: Não por força nem por poder, mas pelo meu Espírito, diz o SENHOR dos Exércitos.",
+   "ZEC 4:7": "Quem é você, grande monte? Diante de Zorobabel você se tornará uma planície. Ele colocará a pedra principal em meio a aclamações: Graça, graça sobre ela!"
+  },
+  "p1": [
+   {
+    "uid": "U1-ZEC-004:006-1",
+    "ref": "ZEC 4:6-4:7",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Não por força nem por poder, mas pelo meu Espírito",
+    "resumo": "palavra a Zorobabel; o grande monte será planície"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ZEC-004:006-1",
+    "ref": "ZEC 4:6-4:7",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "profeta",
+    "ancora": "Não por força nem por poder, mas pelo meu Espírito",
+    "resumo": "O SENHOR assegura a Zorobabel que a obra se fará pelo seu Espírito; o grande monte se tornará planície e ele porá a pedra principal."
+   }
+  ]
+ },
+ {
+  "id": "F3-ZEC-008",
+  "livro": "ZEC",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ZEC 4:9",
+  "fim": "ZEC 4:10",
+  "texto": {
+   "ZEC 4:9": "As mãos de Zorobabel lançaram os alicerces desta casa, e suas mãos também a concluirão. Então você saberá que o SENHOR dos Exércitos me enviou a vocês.",
+   "ZEC 4:10": "Pois quem desprezou o dia dos pequenos começos? Eles se alegrarão quando virem o prumo na mão de Zorobabel. Estes sete são os olhos do SENHOR, que percorrem toda a terra."
+  },
+  "p1": [
+   {
+    "uid": "U1-ZEC-004:009-1",
+    "ref": "ZEC 4:9-4:10",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "suas mãos também a concluirão",
+    "resumo": "Zorobabel concluirá o templo"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ZEC-004:009-1",
+    "ref": "ZEC 4:9",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "profeta",
+    "ancora": "suas mãos também a concluirão",
+    "resumo": "Deus promete que as mãos de Zorobabel concluirão a casa cujos alicerces ele lançou."
+   }
+  ]
+ },
+ {
+  "id": "F3-ZEC-009",
+  "livro": "ZEC",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ZEC 6:12",
+  "fim": "ZEC 6:13",
+  "texto": {
+   "ZEC 6:12": "Diga-lhe: Assim diz o SENHOR dos Exércitos: Aqui está o homem cujo nome é Renovo. Ele brotará de seu lugar e construirá o templo do SENHOR.",
+   "ZEC 6:13": "Ele construirá o templo do SENHOR, receberá honra e se assentará para governar em seu trono. Também haverá um sacerdote em seu trono, e haverá conselho de paz entre os dois."
+  },
+  "p1": [
+   {
+    "uid": "U1-ZEC-006:012-1",
+    "ref": "ZEC 6:12-6:13",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Ele brotará de seu lugar e construirá o templo do SENHOR",
+    "resumo": "o Renovo constrói o templo, recebe honra e governa; conselho de paz"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ZEC-006:012-1",
+    "ref": "ZEC 6:12-6:13",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "Zacarias",
+    "ancora": "Ele brotará de seu lugar e construirá o templo do SENHOR",
+    "resumo": "O Renovo brotará, construirá o templo do SENHOR, receberá honra, reinará em seu trono com um sacerdote e haverá conselho de paz."
+   }
+  ]
+ },
+ {
+  "id": "F3-ZEC-010",
+  "livro": "ZEC",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ZEC 6:15",
+  "fim": "ZEC 6:15",
+  "texto": {
+   "ZEC 6:15": "Os que estão longe virão e ajudarão a construir o templo do SENHOR. Então vocês saberão que o SENHOR dos Exércitos me enviou a vocês. Isso acontecerá se ouvirem atentamente a voz do SENHOR, seu Deus."
+  },
+  "p1": [
+   {
+    "uid": "U1-ZEC-006:015-1",
+    "ref": "ZEC 6:15",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "explicita",
+    "promitente": "pai",
+    "ancora": "Os que estão longe virão e ajudarão a construir o templo do SENHOR",
+    "resumo": "condicional à obediência"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ZEC-006:015-1",
+    "ref": "ZEC 6:15",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "explicita",
+    "promitente": "Zacarias",
+    "ancora": "Os que estão longe virão e ajudarão a construir o templo do SENHOR.",
+    "resumo": "Os que estão longe virão ajudar a construir o templo, e vocês saberão que o SENHOR enviou o profeta, se ouvirem a voz do SENHOR."
+   }
+  ]
+ },
+ {
+  "id": "F3-ZEC-011",
+  "livro": "ZEC",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ZEC 7:13",
+  "fim": "ZEC 7:14",
+  "texto": {
+   "ZEC 7:13": "Assim como eu clamei e eles não ouviram, também eles clamaram e eu não ouvi, diz o SENHOR dos Exércitos.",
+   "ZEC 7:14": "Eu os espalhei como por uma tempestade entre todas as nações que não conheciam. A terra ficou desolada atrás deles, sem ninguém que passasse por ela ou retornasse. Assim transformaram a terra desejável em desolação."
+  },
+  "p1": [
+   {
+    "uid": "U1-ZEC-007:013-1",
+    "ref": "ZEC 7:13-7:14",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "também eles clamaram e eu não ouvi",
+    "resumo": "retribuição pela recusa em ouvir; dispersão entre as nações"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-ZEC-012",
+  "livro": "ZEC",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ZEC 9:4",
+  "fim": "ZEC 9:6",
+  "texto": {
+   "ZEC 9:4": "O Senhor a despojará e lançará sua riqueza no mar, e ela será consumida pelo fogo.",
+   "ZEC 9:5": "Ascalom verá isso e terá medo. Gaza também verá e sentirá grande angústia, assim como Ecrom, pois sua esperança será frustrada. O rei desaparecerá de Gaza, e Ascalom ficará desabitada.",
+   "ZEC 9:6": "Um povo misto habitará em Asdode, e acabarei com o orgulho dos filisteus."
+  },
+  "p1": [
+   {
+    "uid": "U1-ZEC-009:004-1",
+    "ref": "ZEC 9:4-9:6",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "O Senhor a despojará e lançará sua riqueza no mar",
+    "resumo": "juízo sobre Tiro e as cidades filisteias"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-ZEC-013",
+  "livro": "ZEC",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ZEC 9:9",
+  "fim": "ZEC 9:10",
+  "texto": {
+   "ZEC 9:9": "Alegre-se muito, filha de Sião! Grite de alegria, filha de Jerusalém! Veja, seu rei vem a você, justo e vitorioso, humilde e montado em um jumento, em um potro, filho de uma jumenta.",
+   "ZEC 9:10": "Eliminarei os carros de Efraim e os cavalos de Jerusalém, e o arco de guerra será destruído. Ele anunciará paz às nações, e seu domínio se estenderá de mar a mar e desde o Rio até os confins da terra."
+  },
+  "p1": [
+   {
+    "uid": "U1-ZEC-009:009-1",
+    "ref": "ZEC 9:9",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "seu rei vem a você, justo e vitorioso, humilde e montado em um jumento",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ZEC-009:009-1",
+    "ref": "ZEC 9:9-9:10",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": null,
+    "ancora": "seu rei vem a você",
+    "resumo": "O rei justo e humilde vem a Sião; Deus remove os carros de guerra, e o rei anuncia paz às nações com domínio universal."
+   }
+  ]
+ },
+ {
+  "id": "F3-ZEC-014",
+  "livro": "ZEC",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ZEC 9:10",
+  "fim": "ZEC 9:10",
+  "texto": {
+   "ZEC 9:10": "Eliminarei os carros de Efraim e os cavalos de Jerusalém, e o arco de guerra será destruído. Ele anunciará paz às nações, e seu domínio se estenderá de mar a mar e desde o Rio até os confins da terra."
+  },
+  "p1": [
+   {
+    "uid": "U1-ZEC-009:010-1",
+    "ref": "ZEC 9:10",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Eliminarei os carros de Efraim e os cavalos de Jerusalém",
+    "resumo": "paz às nações e domínio de mar a mar"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-ZEC-015",
+  "livro": "ZEC",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ZEC 9:14",
+  "fim": "ZEC 9:17",
+  "texto": {
+   "ZEC 9:14": "O SENHOR aparecerá sobre eles, e sua flecha sairá como relâmpago. O Senhor DEUS tocará a trombeta e avançará nas tempestades do sul.",
+   "ZEC 9:15": "O SENHOR dos Exércitos os protegerá. Eles devorarão e vencerão as pedras das fundas, beberão e farão barulho como quem bebe vinho. Ficarão cheios como a bacia de sacrifício, como os cantos do altar.",
+   "ZEC 9:16": "Naquele dia, o SENHOR, seu Deus, os salvará como o rebanho de seu povo. Serão como pedras de uma coroa que brilham sobre a terra dele.",
+   "ZEC 9:17": "Como será grande sua bondade e sua beleza! O cereal fará florescer os rapazes, e o vinho novo, as moças."
+  },
+  "p1": [
+   {
+    "uid": "U1-ZEC-009:014-1",
+    "ref": "ZEC 9:14-9:17",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "O SENHOR dos Exércitos os protegerá",
+    "resumo": "vitória, salvação como rebanho, prosperidade"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-ZEC-016",
+  "livro": "ZEC",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ZEC 12:2",
+  "fim": "ZEC 12:4",
+  "texto": {
+   "ZEC 12:2": "Farei de Jerusalém um cálice que causa vertigem a todos os povos ao redor. Judá também será envolvido quando Jerusalém for cercada.",
+   "ZEC 12:3": "Naquele dia farei de Jerusalém uma pedra pesada para todos os povos. Todos os que tentarem levantá-la ficarão gravemente feridos. Todas as nações da terra se reunirão contra ela.",
+   "ZEC 12:4": "Naquele dia, diz o SENHOR, ferirei de pânico todos os cavalos e de loucura seus cavaleiros. Manterei meus olhos abertos sobre a casa de Judá, mas ferirei de cegueira todos os cavalos dos povos."
+  },
+  "p1": [
+   {
+    "uid": "U1-ZEC-012:002-1",
+    "ref": "ZEC 12:2-12:4",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Farei de Jerusalém um cálice que causa vertigem a todos os povos ao redor",
+    "resumo": "nações que vierem contra Jerusalém"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ZEC-012:002-1",
+    "ref": "ZEC 12:2",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Farei de Jerusalém um cálice que causa vertigem a todos os povos ao redor",
+    "resumo": "Deus faz de Jerusalém cálice de vertigem para os povos que a cercam"
+   },
+   {
+    "uid": "U2-ZEC-012:003-1",
+    "ref": "ZEC 12:3",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Naquele dia farei de Jerusalém uma pedra pesada para todos os povos",
+    "resumo": "Deus faz de Jerusalém pedra pesada; quem a levantar será ferido e as nações se reunirão contra ela"
+   }
+  ]
+ },
+ {
+  "id": "F3-ZEC-017",
+  "livro": "ZEC",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ZEC 12:6",
+  "fim": "ZEC 12:9",
+  "texto": {
+   "ZEC 12:6": "Naquele dia farei dos líderes de Judá como um braseiro aceso entre a lenha e como uma tocha ardente entre os feixes. Eles consumirão à direita e à esquerda todos os povos ao redor, mas Jerusalém continuará habitada em seu próprio lugar.",
+   "ZEC 12:7": "O SENHOR salvará primeiro as tendas de Judá, para que a glória da casa de Davi e dos habitantes de Jerusalém não seja exaltada acima de Judá.",
+   "ZEC 12:8": "Naquele dia o SENHOR protegerá os habitantes de Jerusalém. O mais fraco entre eles será como Davi, e a casa de Davi será como Deus, como o anjo do SENHOR que vai diante deles.",
+   "ZEC 12:9": "Naquele dia procurarei destruir todas as nações que vierem contra Jerusalém."
+  },
+  "p1": [
+   {
+    "uid": "U1-ZEC-012:006-1",
+    "ref": "ZEC 12:6-12:9",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Jerusalém continuará habitada em seu próprio lugar",
+    "resumo": "Judá consome os povos; o SENHOR protege Jerusalém e destrói as nações"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ZEC-012:008-1",
+    "ref": "ZEC 12:8",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "o SENHOR protegerá os habitantes de Jerusalém",
+    "resumo": "O SENHOR protege Jerusalém e fortalece o mais fraco como Davi"
+   }
+  ]
+ },
+ {
+  "id": "F3-ZEC-018",
+  "livro": "ZEC",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ZEC 12:11",
+  "fim": "ZEC 12:14",
+  "texto": {
+   "ZEC 12:11": "Naquele dia haverá grande lamento em Jerusalém, como o lamento por Hadade-Rimom no vale de Megido.",
+   "ZEC 12:12": "A terra lamentará, cada família separadamente: a família da casa de Davi separadamente, e suas mulheres separadamente; a família da casa de Natã separadamente, e suas mulheres separadamente;",
+   "ZEC 12:13": "a família da casa de Levi separadamente, e suas mulheres separadamente; a família de Simei separadamente, e suas mulheres separadamente;",
+   "ZEC 12:14": "e todas as famílias restantes separadamente, e suas mulheres separadamente."
+  },
+  "p1": [
+   {
+    "uid": "U1-ZEC-012:011-1",
+    "ref": "ZEC 12:11-12:14",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "haverá grande lamento em Jerusalém",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-ZEC-019",
+  "livro": "ZEC",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ZEC 13:1",
+  "fim": "ZEC 13:1",
+  "texto": {
+   "ZEC 13:1": "Naquele dia uma fonte será aberta para a casa de Davi e para os habitantes de Jerusalém, para purificá-los do pecado e da impureza."
+  },
+  "p1": [
+   {
+    "uid": "U1-ZEC-013:001-1",
+    "ref": "ZEC 13:1",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "uma fonte será aberta para a casa de Davi e para os habitantes de Jerusalém",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ZEC-013:001-1",
+    "ref": "ZEC 13:1",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "uma fonte será aberta para a casa de Davi e para os habitantes de Jerusalém",
+    "resumo": "Uma fonte será aberta para purificar a casa de Davi e os habitantes de Jerusalém do pecado e da impureza."
+   }
+  ]
+ },
+ {
+  "id": "F3-ZEC-020",
+  "livro": "ZEC",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ZEC 14:2",
+  "fim": "ZEC 14:3",
+  "texto": {
+   "ZEC 14:2": "Reunirei todas as nações para guerrearem contra Jerusalém. A cidade será tomada, as casas serão saqueadas e as mulheres serão violentadas. Metade da cidade irá para o exílio, mas o restante do povo não será eliminado da cidade.",
+   "ZEC 14:3": "Então o SENHOR sairá e lutará contra essas nações, como luta no dia da batalha."
+  },
+  "p1": [
+   {
+    "uid": "U1-ZEC-014:002-1",
+    "ref": "ZEC 14:2-14:3",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Reunirei todas as nações para guerrearem contra Jerusalém",
+    "resumo": "cidade tomada, mas o SENHOR sai e luta contra as nações"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ZEC-014:002-1",
+    "ref": "ZEC 14:2",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Reunirei todas as nações para guerrearem contra Jerusalém",
+    "resumo": "Deus reunirá as nações para atacar Jerusalém."
+   },
+   {
+    "uid": "U2-ZEC-014:003-1",
+    "ref": "ZEC 14:3",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": null,
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Então o SENHOR sairá e lutará contra essas nações, como luta no dia da batalha.",
+    "resumo": "O SENHOR lutará contra as nações."
+   }
+  ]
+ },
+ {
+  "id": "F3-ZEC-021",
+  "livro": "ZEC",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ZEC 14:4",
+  "fim": "ZEC 14:5",
+  "texto": {
+   "ZEC 14:4": "Naquele dia seus pés estarão sobre o monte das Oliveiras, a leste de Jerusalém. O monte das Oliveiras se dividirá ao meio, de leste a oeste, formando um vale muito grande. Metade do monte se moverá para o norte e metade para o sul.",
+   "ZEC 14:5": "Vocês fugirão pelo vale dos meus montes, pois o vale chegará até Azal. Fugirão como fugiram do terremoto nos dias de Uzias, rei de Judá. Então o SENHOR, meu Deus, virá, e todos os santos estarão com ele."
+  },
+  "p1": [
+   {
+    "uid": "U1-ZEC-014:004-1",
+    "ref": "ZEC 14:4-14:5",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "seus pés estarão sobre o monte das Oliveiras",
+    "resumo": "vinda do SENHOR e fuga pelo vale"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ZEC-014:004-1",
+    "ref": "ZEC 14:4",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": null,
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Naquele dia seus pés estarão sobre o monte das Oliveiras, a leste de Jerusalém.",
+    "resumo": "Os pés do SENHOR estarão sobre o monte das Oliveiras."
+   }
+  ]
+ },
+ {
+  "id": "F3-ZEC-022",
+  "livro": "ZEC",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ZEC 14:8",
+  "fim": "ZEC 14:11",
+  "texto": {
+   "ZEC 14:8": "Naquele dia águas vivas fluirão de Jerusalém, metade para o mar oriental e metade para o mar ocidental, tanto no verão como no inverno.",
+   "ZEC 14:9": "O SENHOR será rei sobre toda a terra. Naquele dia o SENHOR será um, e seu nome será um.",
+   "ZEC 14:10": "Toda a terra desde Geba até Rimom, ao sul de Jerusalém, se tornará como a planície. Jerusalém será elevada e permanecerá habitada em seu lugar, desde a porta de Benjamim até o lugar da Primeira Porta e a porta da Esquina, e desde a torre de Hananeel até os lagares do rei.",
+   "ZEC 14:11": "Pessoas habitarão nela, e nunca mais haverá destruição completa. Jerusalém habitará em segurança."
+  },
+  "p1": [
+   {
+    "uid": "U1-ZEC-014:008-1",
+    "ref": "ZEC 14:8-14:11",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "águas vivas fluirão de Jerusalém",
+    "resumo": "o SENHOR será rei sobre toda a terra; Jerusalém em segurança"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ZEC-014:008-1",
+    "ref": "ZEC 14:8",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": null,
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Naquele dia águas vivas fluirão de Jerusalém, metade para o mar oriental e metade para o mar ocidental, tanto no verão como no inverno.",
+    "resumo": "Águas vivas fluirão de Jerusalém."
+   },
+   {
+    "uid": "U2-ZEC-014:010-2",
+    "ref": "ZEC 14:10",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": null,
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Jerusalém será elevada e permanecerá habitada em seu lugar",
+    "resumo": "Jerusalém será elevada e habitada."
+   }
+  ]
+ },
+ {
+  "id": "F3-ZEC-023",
+  "livro": "ZEC",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ZEC 14:12",
+  "fim": "ZEC 14:15",
+  "texto": {
+   "ZEC 14:12": "Esta será a praga com que o SENHOR ferirá todos os povos que guerrearam contra Jerusalém: sua carne apodrecerá enquanto ainda estiverem de pé, seus olhos apodrecerão nas órbitas, e sua língua apodrecerá na boca.",
+   "ZEC 14:13": "Naquele dia o SENHOR provocará grande pânico entre eles. Cada um agarrará a mão de seu próximo e levantará a mão contra ele.",
+   "ZEC 14:14": "Judá também lutará em Jerusalém. As riquezas de todas as nações ao redor serão reunidas: ouro, prata e roupas em grande quantidade.",
+   "ZEC 14:15": "A mesma praga atingirá cavalos, mulas, camelos, jumentos e todos os animais nos acampamentos."
+  },
+  "p1": [
+   {
+    "uid": "U1-ZEC-014:012-1",
+    "ref": "ZEC 14:12-14:15",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Esta será a praga com que o SENHOR ferirá todos os povos que guerrearam contra Jerusalém",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ZEC-014:012-1",
+    "ref": "ZEC 14:12",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": null,
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Esta será a praga com que o SENHOR ferirá todos os povos que guerrearam contra Jerusalém",
+    "resumo": "Praga do SENHOR sobre os povos que guerrearam contra Jerusalém."
+   }
+  ]
+ },
+ {
+  "id": "F3-ZEC-024",
+  "livro": "ZEC",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ZEC 14:16",
+  "fim": "ZEC 14:19",
+  "texto": {
+   "ZEC 14:16": "Todos os sobreviventes das nações que vieram contra Jerusalém subirão de ano em ano para adorar o Rei, o SENHOR dos Exércitos, e celebrar a Festa das Cabanas.",
+   "ZEC 14:17": "Se alguma das famílias da terra não subir a Jerusalém para adorar o Rei, o SENHOR dos Exércitos, não haverá chuva sobre ela.",
+   "ZEC 14:18": "Se a família do Egito não subir nem vier, será atingida pela praga com que o SENHOR ferirá as nações que não subirem para celebrar a Festa das Cabanas.",
+   "ZEC 14:19": "Esse será o castigo do Egito e de todas as nações que não subirem para celebrar a Festa das Cabanas."
+  },
+  "p1": [
+   {
+    "uid": "U1-ZEC-014:016-1",
+    "ref": "ZEC 14:16-14:19",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "nacoes_especificas",
+    "condicao": "explicita",
+    "promitente": "pai",
+    "ancora": "Todos os sobreviventes das nações que vieram contra Jerusalém subirão de ano em ano para adorar o Rei",
+    "resumo": "nações adorarão; quem não subir fica sem chuva"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ZEC-014:016-1",
+    "ref": "ZEC 14:16",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": null,
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Todos os sobreviventes das nações que vieram contra Jerusalém subirão de ano em ano para adorar o Rei, o SENHOR dos Exércitos, e celebrar a Festa das Cabanas.",
+    "resumo": "Sobreviventes das nações subirão anualmente para adorar o SENHOR."
+   },
+   {
+    "uid": "U2-ZEC-014:017-1",
+    "ref": "ZEC 14:17",
+    "tipo": "advertencia",
+    "origem": "indeterminada",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Se alguma das famílias da terra não subir a Jerusalém para adorar o Rei, o SENHOR dos Exércitos, não haverá chuva sobre ela.",
+    "resumo": "Família que não subir não terá chuva."
+   }
+  ]
+ },
+ {
+  "id": "F3-ZEC-025",
+  "livro": "ZEC",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ZEC 14:20",
+  "fim": "ZEC 14:21",
+  "texto": {
+   "ZEC 14:20": "Naquele dia estará escrito nos sinos dos cavalos: SANTIDADE AO SENHOR. As panelas da casa do SENHOR serão como as bacias diante do altar.",
+   "ZEC 14:21": "Todas as panelas em Jerusalém e Judá serão santas ao SENHOR dos Exércitos. Todos os que vierem oferecer sacrifícios usarão algumas delas para cozinhar. Naquele dia não haverá mais comerciante na casa do SENHOR dos Exércitos."
+  },
+  "p1": [
+   {
+    "uid": "U1-ZEC-014:020-1",
+    "ref": "ZEC 14:20-14:21",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "estará escrito nos sinos dos cavalos: SANTIDADE AO SENHOR",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ZEC-014:020-1",
+    "ref": "ZEC 14:20",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": null,
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Naquele dia estará escrito nos sinos dos cavalos: SANTIDADE AO SENHOR.",
+    "resumo": "Nos sinos dos cavalos estará escrito: SANTIDADE AO SENHOR."
+   }
+  ]
+ },
+ {
+  "id": "F3-ZEC-026",
+  "livro": "ZEC",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ZEC 1:17",
+  "fim": "ZEC 1:17",
+  "texto": {
+   "ZEC 1:17": "Proclame também: Assim diz o SENHOR dos Exércitos: Minhas cidades voltarão a transbordar de prosperidade. O SENHOR ainda consolará Sião e ainda escolherá Jerusalém."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ZEC-001:017-1",
+    "ref": "ZEC 1:17",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": null,
+    "ancora": "Minhas cidades voltarão a transbordar de prosperidade. O SENHOR ainda consolará Sião e ainda escolherá Jerusalém.",
+    "resumo": "O SENHOR promete prosperidade às suas cidades e consolo a Sião, escolhendo Jerusalém."
+   }
+  ]
+ },
+ {
+  "id": "F3-ZEC-027",
+  "livro": "ZEC",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ZEC 2:11",
+  "fim": "ZEC 2:11",
+  "texto": {
+   "ZEC 2:11": "Naquele dia muitas nações se unirão ao SENHOR e se tornarão meu povo. Habitarei no meio de você, e você saberá que o SENHOR dos Exércitos me enviou a você."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ZEC-002:011-1",
+    "ref": "ZEC 2:11",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "muitas nações se unirão ao SENHOR e se tornarão meu povo",
+    "resumo": "Naquele dia muitas nações se unirão ao SENHOR e se tornarão povo dele."
+   }
+  ]
+ },
+ {
+  "id": "F3-ZEC-028",
+  "livro": "ZEC",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ZEC 2:12",
+  "fim": "ZEC 2:12",
+  "texto": {
+   "ZEC 2:12": "O SENHOR tomará Judá como sua porção na terra santa e escolherá novamente Jerusalém."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ZEC-002:012-1",
+    "ref": "ZEC 2:12",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "Zacarias",
+    "ancora": "O SENHOR tomará Judá como sua porção na terra santa",
+    "resumo": "O SENHOR tomará Judá como sua porção na terra santa e escolherá de novo Jerusalém."
+   }
+  ]
+ },
+ {
+  "id": "F3-ZEC-029",
+  "livro": "ZEC",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ZEC 3:2",
+  "fim": "ZEC 3:2",
+  "texto": {
+   "ZEC 3:2": "O SENHOR disse a Satanás: O SENHOR o repreenda, Satanás! Sim, o SENHOR, que escolheu Jerusalém, o repreenda! Não é este homem um pedaço de madeira tirado do fogo?"
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ZEC-003:002-1",
+    "ref": "ZEC 3:2",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "O SENHOR o repreenda, Satanás!",
+    "resumo": "O SENHOR, que escolheu Jerusalém, pronuncia repreensão contra Satanás, que acusa Josué."
+   }
+  ]
+ },
+ {
+  "id": "F3-ZEC-030",
+  "livro": "ZEC",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ZEC 3:9",
+  "fim": "ZEC 3:9",
+  "texto": {
+   "ZEC 3:9": "Veja a pedra que coloquei diante de Josué. Sobre esta única pedra há sete olhos. Gravarei nela uma inscrição, diz o SENHOR dos Exércitos, e removerei a culpa desta terra em um só dia."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ZEC-003:009-1",
+    "ref": "ZEC 3:9",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "removerei a culpa desta terra em um só dia",
+    "resumo": "O SENHOR dos Exércitos promete gravar inscrição na pedra e remover a culpa da terra em um só dia."
+   }
+  ]
+ },
+ {
+  "id": "F3-ZEC-031",
+  "livro": "ZEC",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ZEC 8:4",
+  "fim": "ZEC 8:5",
+  "texto": {
+   "ZEC 8:4": "Assim diz o SENHOR dos Exércitos: Homens e mulheres idosos voltarão a se sentar nas praças de Jerusalém, cada um com seu cajado na mão por causa da idade avançada.",
+   "ZEC 8:5": "As ruas da cidade ficarão cheias de meninos e meninas brincando nelas."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ZEC-008:004-1",
+    "ref": "ZEC 8:4-8:5",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": null,
+    "ancora": "Homens e mulheres idosos voltarão a se sentar nas praças de Jerusalém",
+    "resumo": "O SENHOR promete restauração social em Jerusalém, com idosos e crianças nas ruas."
+   }
+  ]
+ },
+ {
+  "id": "F3-ZEC-032",
+  "livro": "ZEC",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ZEC 9:1",
+  "fim": "ZEC 9:4",
+  "texto": {
+   "ZEC 9:1": "Sentença da palavra do SENHOR contra a terra de Hadraque, tendo Damasco como seu lugar de repouso, pois os olhos da humanidade e de todas as tribos de Israel estão voltados para o SENHOR.",
+   "ZEC 9:2": "A sentença também alcança Hamate, que faz fronteira com ela, e Tiro e Sidom, embora sejam muito sábias.",
+   "ZEC 9:3": "Tiro construiu uma fortaleza para si, amontoou prata como pó e ouro como lama das ruas.",
+   "ZEC 9:4": "O Senhor a despojará e lançará sua riqueza no mar, e ela será consumida pelo fogo."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ZEC-009:001-1",
+    "ref": "ZEC 9:1-9:4",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": "nenhuma",
+    "promitente": "profeta",
+    "ancora": "Sentença da palavra do SENHOR contra a terra de Hadraque",
+    "resumo": "Sentença do SENHOR contra Hadraque, Damasco, Hamate, Tiro e Sidom, incluindo a destruição de Tiro."
+   }
+  ]
+ },
+ {
+  "id": "F3-ZEC-033",
+  "livro": "ZEC",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ZEC 9:5",
+  "fim": "ZEC 9:6",
+  "texto": {
+   "ZEC 9:5": "Ascalom verá isso e terá medo. Gaza também verá e sentirá grande angústia, assim como Ecrom, pois sua esperança será frustrada. O rei desaparecerá de Gaza, e Ascalom ficará desabitada.",
+   "ZEC 9:6": "Um povo misto habitará em Asdode, e acabarei com o orgulho dos filisteus."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ZEC-009:005-1",
+    "ref": "ZEC 9:5-9:6",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": "nenhuma",
+    "promitente": null,
+    "ancora": "Ascalom verá isso e terá medo",
+    "resumo": "As cidades filisteias serão tomadas de medo e desolação, e Deus acabará com o orgulho dos filisteus."
+   }
+  ]
+ },
+ {
+  "id": "F3-ZEC-034",
+  "livro": "ZEC",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ZEC 9:7",
+  "fim": "ZEC 9:7",
+  "texto": {
+   "ZEC 9:7": "Tirarei de sua boca o sangue e de entre seus dentes as coisas abomináveis. O sobrevivente também pertencerá ao nosso Deus e será como um clã em Judá, e Ecrom será como os jebuseus."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ZEC-009:007-1",
+    "ref": "ZEC 9:7",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": null,
+    "ancora": "Tirarei de sua boca o sangue",
+    "resumo": "Deus purificará o remanescente filisteu, e o sobrevivente pertencerá ao SENHOR e será incorporado a Judá."
+   }
+  ]
+ },
+ {
+  "id": "F3-ZEC-035",
+  "livro": "ZEC",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ZEC 9:17",
+  "fim": "ZEC 9:17",
+  "texto": {
+   "ZEC 9:17": "Como será grande sua bondade e sua beleza! O cereal fará florescer os rapazes, e o vinho novo, as moças."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ZEC-009:017-1",
+    "ref": "ZEC 9:17",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": "profeta",
+    "ancora": "O cereal fará florescer os rapazes",
+    "resumo": "A bondade e beleza do SENHOR trarão abundância de cereal e vinho novo, florescendo os jovens."
+   }
+  ]
+ },
+ {
+  "id": "F3-ZEC-036",
+  "livro": "ZEC",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ZEC 10:11",
+  "fim": "ZEC 10:11",
+  "texto": {
+   "ZEC 10:11": "Eles atravessarão o mar da angústia. As ondas do mar serão feridas, e todas as profundezas do Nilo secarão. O orgulho da Assíria será abatido, e o cetro do Egito desaparecerá."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ZEC-010:011-1",
+    "ref": "ZEC 10:11",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "Eles atravessarão o mar da angústia.",
+    "resumo": "Promessa de atravessar obstáculos e triunfar sobre águas."
+   }
+  ]
+ },
+ {
+  "id": "F3-ZEC-037",
+  "livro": "ZEC",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ZEC 10:11",
+  "fim": "ZEC 10:11",
+  "texto": {
+   "ZEC 10:11": "Eles atravessarão o mar da angústia. As ondas do mar serão feridas, e todas as profundezas do Nilo secarão. O orgulho da Assíria será abatido, e o cetro do Egito desaparecerá."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ZEC-010:011-2",
+    "ref": "ZEC 10:11",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "O orgulho da Assíria será abatido, e o cetro do Egito desaparecerá.",
+    "resumo": "Promessa de juízo sobre o orgulho da Assíria e o poder do Egito."
+   }
+  ]
+ },
+ {
+  "id": "F3-ZEC-038",
+  "livro": "ZEC",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ZEC 11:9",
+  "fim": "ZEC 11:9",
+  "texto": {
+   "ZEC 11:9": "Então eu disse: Não apascentarei mais vocês. A que estiver morrendo, que morra; a que estiver sendo eliminada, que seja eliminada; e as restantes devorem a carne umas das outras."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ZEC-011:009-1",
+    "ref": "ZEC 11:9",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "profeta",
+    "ancora": "Não apascentarei mais vocês",
+    "resumo": "O pastor simbólico declara que abandonará o rebanho, deixando que os animais se dispersem e se devorem."
+   }
+  ]
+ },
+ {
+  "id": "F3-ZEC-039",
+  "livro": "ZEC",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ZEC 11:17",
+  "fim": "ZEC 11:17",
+  "texto": {
+   "ZEC 11:17": "Ai do pastor inútil que abandona o rebanho! A espada atingirá seu braço e seu olho direito. Seu braço ficará completamente ressequido, e seu olho direito ficará totalmente cego."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ZEC-011:017-1",
+    "ref": "ZEC 11:17",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": null,
+    "ancora": "A espada atingirá seu braço e seu olho direito",
+    "resumo": "Sentença de juízo contra o pastor inútil: seu braço e seu olho serão atingidos e inutilizados."
+   }
+  ]
+ },
+ {
+  "id": "F3-ZEC-040",
+  "livro": "ZEC",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ZEC 12:4",
+  "fim": "ZEC 12:4",
+  "texto": {
+   "ZEC 12:4": "Naquele dia, diz o SENHOR, ferirei de pânico todos os cavalos e de loucura seus cavaleiros. Manterei meus olhos abertos sobre a casa de Judá, mas ferirei de cegueira todos os cavalos dos povos."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ZEC-012:004-1",
+    "ref": "ZEC 12:4",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "ferirei de pânico todos os cavalos e de loucura seus cavaleiros",
+    "resumo": "Deus fere de pânico e cegueira os cavalos e cavaleiros dos povos"
+   }
+  ]
+ },
+ {
+  "id": "F3-ZEC-041",
+  "livro": "ZEC",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ZEC 12:4",
+  "fim": "ZEC 12:4",
+  "texto": {
+   "ZEC 12:4": "Naquele dia, diz o SENHOR, ferirei de pânico todos os cavalos e de loucura seus cavaleiros. Manterei meus olhos abertos sobre a casa de Judá, mas ferirei de cegueira todos os cavalos dos povos."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ZEC-012:004-2",
+    "ref": "ZEC 12:4",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Manterei meus olhos abertos sobre a casa de Judá",
+    "resumo": "Deus mantém os olhos abertos sobre a casa de Judá"
+   }
+  ]
+ },
+ {
+  "id": "F3-ZEC-042",
+  "livro": "ZEC",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ZEC 12:6",
+  "fim": "ZEC 12:6",
+  "texto": {
+   "ZEC 12:6": "Naquele dia farei dos líderes de Judá como um braseiro aceso entre a lenha e como uma tocha ardente entre os feixes. Eles consumirão à direita e à esquerda todos os povos ao redor, mas Jerusalém continuará habitada em seu próprio lugar."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ZEC-012:006-1",
+    "ref": "ZEC 12:6",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "farei dos líderes de Judá como um braseiro aceso entre a lenha",
+    "resumo": "Deus torna os líderes de Judá devoradores dos povos ao redor, e Jerusalém permanece habitada"
+   }
+  ]
+ },
+ {
+  "id": "F3-ZEC-043",
+  "livro": "ZEC",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ZEC 12:7",
+  "fim": "ZEC 12:7",
+  "texto": {
+   "ZEC 12:7": "O SENHOR salvará primeiro as tendas de Judá, para que a glória da casa de Davi e dos habitantes de Jerusalém não seja exaltada acima de Judá."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ZEC-012:007-1",
+    "ref": "ZEC 12:7",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "O SENHOR salvará primeiro as tendas de Judá",
+    "resumo": "O SENHOR salva primeiro as tendas de Judá"
+   }
+  ]
+ },
+ {
+  "id": "F3-ZEC-044",
+  "livro": "ZEC",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ZEC 12:9",
+  "fim": "ZEC 12:9",
+  "texto": {
+   "ZEC 12:9": "Naquele dia procurarei destruir todas as nações que vierem contra Jerusalém."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ZEC-012:009-1",
+    "ref": "ZEC 12:9",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "procurarei destruir todas as nações que vierem contra Jerusalém",
+    "resumo": "Deus procura destruir as nações que atacarem Jerusalém"
+   }
+  ]
+ },
+ {
+  "id": "F3-ZEC-045",
+  "livro": "ZEC",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ZEC 13:3",
+  "fim": "ZEC 13:3",
+  "texto": {
+   "ZEC 13:3": "Se alguém ainda profetizar, seu próprio pai e sua mãe, que o geraram, lhe dirão: Você não viverá, pois falou falsamente em nome do SENHOR. Seu pai e sua mãe, que o geraram, o traspassarão quando ele profetizar."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ZEC-013:003-1",
+    "ref": "ZEC 13:3",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": "explicita",
+    "promitente": null,
+    "ancora": "Seu pai e sua mãe, que o geraram, o traspassarão quando ele profetizar.",
+    "resumo": "Se alguém ainda profetizar, seus próprios pais o rejeitarão e o matarão."
+   }
+  ]
+ },
+ {
+  "id": "F3-ZEC-046",
+  "livro": "ZEC",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ZEC 13:4",
+  "fim": "ZEC 13:6",
+  "texto": {
+   "ZEC 13:4": "Naquele dia cada profeta se envergonhará de sua visão quando profetizar e não vestirá um manto de pelos para enganar.",
+   "ZEC 13:5": "Ele dirá: Não sou profeta. Sou trabalhador da terra, pois um homem me adquiriu para esse trabalho desde minha juventude.",
+   "ZEC 13:6": "Se alguém lhe perguntar: Que feridas são estas entre seus braços? Ele responderá: São as feridas que recebi na casa dos meus amigos."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ZEC-013:004-1",
+    "ref": "ZEC 13:4-13:6",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Naquele dia cada profeta se envergonhará de sua visão quando profetizar e não vestirá um manto de pelos para enganar.",
+    "resumo": "Os falsos profetas se envergonharão, abandonarão o manto de profeta e negarão seu ofício."
+   }
+  ]
+ },
+ {
+  "id": "F3-ZEC-047",
+  "livro": "ZEC",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ZEC 14:2",
+  "fim": "ZEC 14:2",
+  "texto": {
+   "ZEC 14:2": "Reunirei todas as nações para guerrearem contra Jerusalém. A cidade será tomada, as casas serão saqueadas e as mulheres serão violentadas. Metade da cidade irá para o exílio, mas o restante do povo não será eliminado da cidade."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ZEC-014:002-2",
+    "ref": "ZEC 14:2",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "mas o restante do povo não será eliminado da cidade",
+    "resumo": "O restante do povo não será eliminado da cidade."
+   }
+  ]
+ },
+ {
+  "id": "F3-MAL-001",
+  "livro": "MAL",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "MAL 1:5",
+  "fim": "MAL 1:5",
+  "texto": {
+   "MAL 1:5": "Vocês verão isso com os próprios olhos e dirão: O SENHOR seja engrandecido além das fronteiras de Israel."
+  },
+  "p1": [
+   {
+    "uid": "U1-MAL-001:005-1",
+    "ref": "MAL 1:5",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Vocês verão isso com os próprios olhos",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-MAL-001:005-1",
+    "ref": "MAL 1:5",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Vocês verão isso com os próprios olhos",
+    "resumo": "Israel verá a queda de Edom e reconhecerá a grandeza do SENHOR."
+   }
+  ]
+ },
+ {
+  "id": "F3-MAL-002",
+  "livro": "MAL",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "MAL 1:14",
+  "fim": "MAL 1:14",
+  "texto": {
+   "MAL 1:14": "Maldito seja o enganador que tem no rebanho um macho sem defeito, faz um voto e depois sacrifica ao Senhor um animal defeituoso. Pois eu sou um grande Rei, diz o SENHOR dos Exércitos, e meu nome é temido entre as nações."
+  },
+  "p1": [
+   {
+    "uid": "U1-MAL-001:014-1",
+    "ref": "MAL 1:14",
+    "tipo": "advertencia",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Maldito seja o enganador",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-MAL-001:014-1",
+    "ref": "MAL 1:14",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": "explicita",
+    "promitente": null,
+    "ancora": "Maldito seja o enganador",
+    "resumo": "Sentença de maldição contra quem promete sacrifício perfeito e oferece animal defeituoso."
+   }
+  ]
+ },
+ {
+  "id": "F3-MAL-003",
+  "livro": "MAL",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "MAL 3:6",
+  "fim": "MAL 3:6",
+  "texto": {
+   "MAL 3:6": "Pois eu, o SENHOR, não mudo. Por isso vocês, filhos de Jacó, não foram destruídos."
+  },
+  "p1": [
+   {
+    "uid": "U1-MAL-003:006-1",
+    "ref": "MAL 3:6",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Pois eu, o SENHOR, não mudo",
+    "resumo": "imutabilidade; filhos de Jacó não destruídos"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-MAL-003:006-1",
+    "ref": "MAL 3:6",
+    "tipo": "declaracao_sem_compromisso",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Pois eu, o SENHOR, não mudo.",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-MAL-004",
+  "livro": "MAL",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "MAL 3:7",
+  "fim": "MAL 3:7",
+  "texto": {
+   "MAL 3:7": "Desde os dias de seus antepassados vocês se desviaram dos meus decretos e não os guardaram. Voltem para mim, e eu voltarei para vocês, diz o SENHOR dos Exércitos. Mas vocês perguntam: De que maneira devemos voltar?"
+  },
+  "p1": [
+   {
+    "uid": "U1-MAL-003:007-1",
+    "ref": "MAL 3:7",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "explicita",
+    "promitente": "pai",
+    "ancora": "Voltem para mim, e eu voltarei para vocês",
+    "resumo": "retorno condicional"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-MAL-003:007-1",
+    "ref": "MAL 3:7",
+    "tipo": "mandamento",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Voltem para mim, e eu voltarei para vocês, diz o SENHOR dos Exércitos.",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-MAL-005",
+  "livro": "MAL",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "MAL 3:10",
+  "fim": "MAL 3:12",
+  "texto": {
+   "MAL 3:10": "Tragam todos os dízimos ao depósito, para que haja alimento em minha casa. Ponham-me à prova nisto, diz o SENHOR dos Exércitos, e vejam se não abrirei as janelas dos céus e derramarei sobre vocês uma bênção até não haver mais necessidade.",
+   "MAL 3:11": "Repreenderei o devorador em favor de vocês, para que não destrua o fruto da terra, e a videira no campo não deixará de produzir, diz o SENHOR dos Exércitos.",
+   "MAL 3:12": "Todas as nações chamarão vocês de felizes, pois sua terra será agradável, diz o SENHOR dos Exércitos."
+  },
+  "p1": [
+   {
+    "uid": "U1-MAL-003:010-1",
+    "ref": "MAL 3:10-3:12",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "explicita",
+    "promitente": "pai",
+    "ancora": "abrirei as janelas dos céus e derramarei sobre vocês uma bênção até não haver mais necessidade",
+    "resumo": "bênção condicionada a trazer os dízimos; devorador repreendido; nações os chamarão felizes"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-MAL-003:010-1",
+    "ref": "MAL 3:10",
+    "tipo": "mandamento",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "abrirei as janelas dos céus e derramarei sobre vocês uma bênção até não haver mais necessidade.",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-MAL-006",
+  "livro": "MAL",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "MAL 4:1",
+  "fim": "MAL 4:1",
+  "texto": {
+   "MAL 4:1": "Pois está chegando o dia, ardente como uma fornalha. Todos os arrogantes e todos os que praticam a maldade serão como palha. O dia que está chegando os queimará, diz o SENHOR dos Exércitos, e não lhes deixará raiz nem ramo."
+  },
+  "p1": [
+   {
+    "uid": "U1-MAL-004:001-1",
+    "ref": "MAL 4:1",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "O dia que está chegando os queimará",
+    "resumo": "arrogantes e maus queimados; sem raiz nem ramo"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-MAL-007",
+  "livro": "MAL",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "MAL 2:9",
+  "fim": "MAL 2:9",
+  "texto": {
+   "MAL 2:9": "Por isso também fiz vocês desprezíveis e humilhados diante de todo o povo, porque não guardaram meus caminhos e mostraram parcialidade ao aplicar a instrução."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-MAL-002:009-1",
+    "ref": "MAL 2:9",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "fiz vocês desprezíveis e humilhados diante de todo o povo",
+    "resumo": "Deus declara que, por causa da infidelidade dos sacerdotes, eles foram feitos desprezíveis e humilhados diante do povo."
+   }
+  ]
+ },
+ {
+  "id": "F3-MAL-008",
+  "livro": "MAL",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "MAL 3:9",
+  "fim": "MAL 3:9",
+  "texto": {
+   "MAL 3:9": "Vocês estão sob maldição porque me roubam, toda a nação."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-MAL-003:009-1",
+    "ref": "MAL 3:9",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Vocês estão sob maldição porque me roubam, toda a nação.",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-MAL-009",
+  "livro": "MAL",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "MAL 3:11",
+  "fim": "MAL 3:11",
+  "texto": {
+   "MAL 3:11": "Repreenderei o devorador em favor de vocês, para que não destrua o fruto da terra, e a videira no campo não deixará de produzir, diz o SENHOR dos Exércitos."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-MAL-003:011-1",
+    "ref": "MAL 3:11",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Repreenderei o devorador em favor de vocês, para que não destrua o fruto da terra, e a videira no campo não deixará de produzir",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-MAL-010",
+  "livro": "MAL",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "MAL 3:12",
+  "fim": "MAL 3:12",
+  "texto": {
+   "MAL 3:12": "Todas as nações chamarão vocês de felizes, pois sua terra será agradável, diz o SENHOR dos Exércitos."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-MAL-003:012-1",
+    "ref": "MAL 3:12",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Todas as nações chamarão vocês de felizes, pois sua terra será agradável",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-MAL-011",
+  "livro": "MAL",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "MAL 3:18",
+  "fim": "MAL 3:18",
+  "texto": {
+   "MAL 3:18": "Então vocês voltarão a perceber a diferença entre o justo e o perverso, entre aquele que serve a Deus e aquele que não o serve."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-MAL-003:018-1",
+    "ref": "MAL 3:18",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Então vocês voltarão a perceber a diferença entre o justo e o perverso, entre aquele que serve a Deus e aquele que não o serve.",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-MAL-012",
+  "livro": "MAL",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "MAL 4:1",
+  "fim": "MAL 4:1",
+  "texto": {
+   "MAL 4:1": "Pois está chegando o dia, ardente como uma fornalha. Todos os arrogantes e todos os que praticam a maldade serão como palha. O dia que está chegando os queimará, diz o SENHOR dos Exércitos, e não lhes deixará raiz nem ramo."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-MAL-004:001-1",
+    "ref": "MAL 4:1",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "deus_indistinto",
+    "ancora": "Todos os arrogantes e todos os que praticam a maldade serão como palha",
+    "resumo": "Anuncia que o dia vindouro queimará os arrogantes e os praticantes da maldade, sem lhes deixar raiz nem ramo."
+   }
+  ]
+ },
+ {
+  "id": "F3-MAL-013",
+  "livro": "MAL",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "MAL 4:3",
+  "fim": "MAL 4:3",
+  "texto": {
+   "MAL 4:3": "Vocês pisarão os perversos, pois eles serão cinzas debaixo das plantas de seus pés no dia que prepararei, diz o SENHOR dos Exércitos."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-MAL-004:003-1",
+    "ref": "MAL 4:3",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "deus_indistinto",
+    "ancora": "Vocês pisarão os perversos",
+    "resumo": "Promete aos destinatários que pisarão os perversos, que serão como cinzas no dia que o SENHOR preparar."
+   }
+  ]
+ },
+ {
+  "id": "F3-LUK-001",
+  "livro": "LUK",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "LUK 1:45",
+  "fim": "LUK 1:45",
+  "texto": {
+   "LUK 1:45": "Bem-aventurada aquela que creu, porque se cumprirão as coisas que lhe foram ditas da parte do Senhor."
+  },
+  "p1": [
+   {
+    "uid": "U1-LUK-001:045-1",
+    "ref": "LUK 1:45",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "Isabel",
+    "ancora": "se cumprirão as coisas que lhe foram ditas da parte do Senhor",
+    "resumo": "Beatitude sobre a que creu, com certeza de cumprimento do que lhe foi dito."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-LUK-001:045-1",
+    "ref": "LUK 1:45",
+    "tipo": "declaracao_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "se cumprirão as coisas que lhe foram ditas",
+    "resumo": "Isabel afirma que se cumprirá o que o Senhor disse a Maria"
+   }
+  ]
+ }
+]

@@ -1,0 +1,1830 @@
+[
+ {
+  "id": "F3-ISA-235",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 54:3",
+  "fim": "ISA 54:3",
+  "texto": {
+   "ISA 54:3": "Você se expandirá para a direita e para a esquerda. Sua descendência tomará posse de nações e fará com que cidades devastadas sejam habitadas."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ISA-054:003-2",
+    "ref": "ISA 54:3",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": null,
+    "ancora": "Sua descendência tomará posse de nações e fará com que cidades devastadas sejam habitadas",
+    "resumo": "Promete que a descendência possuirá nações e repovoará cidades devastadas."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-236",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 54:4",
+  "fim": "ISA 54:4",
+  "texto": {
+   "ISA 54:4": "Não tenha medo, pois não será envergonhada. Não fique humilhada, pois não será desonrada. Você se esquecerá da vergonha de sua juventude e já não se lembrará da desonra de sua viuvez."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ISA-054:004-1",
+    "ref": "ISA 54:4",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": null,
+    "ancora": "Você se esquecerá da vergonha de sua juventude",
+    "resumo": "Promete remoção da vergonha e da desonra."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-237",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 54:13",
+  "fim": "ISA 54:13",
+  "texto": {
+   "ISA 54:13": "Todos os seus filhos serão ensinados pelo SENHOR, e grande será a paz de seus filhos."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ISA-054:013-1",
+    "ref": "ISA 54:13",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": null,
+    "ancora": "Todos os seus filhos serão ensinados pelo SENHOR",
+    "resumo": "Promete que os filhos serão ensinados pelo SENHOR."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-238",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 54:13",
+  "fim": "ISA 54:13",
+  "texto": {
+   "ISA 54:13": "Todos os seus filhos serão ensinados pelo SENHOR, e grande será a paz de seus filhos."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ISA-054:013-2",
+    "ref": "ISA 54:13",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": null,
+    "ancora": "grande será a paz de seus filhos",
+    "resumo": "Promete grande paz para os filhos."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-239",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 54:14",
+  "fim": "ISA 54:14",
+  "texto": {
+   "ISA 54:14": "Você será estabelecida em justiça. Ficará longe da opressão, pois não terá medo, e longe do terror, pois ele não se aproximará de você."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ISA-054:014-1",
+    "ref": "ISA 54:14",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": null,
+    "ancora": "Você será estabelecida em justiça",
+    "resumo": "Promete estabelecer a mulher em justiça."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-240",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 54:14",
+  "fim": "ISA 54:14",
+  "texto": {
+   "ISA 54:14": "Você será estabelecida em justiça. Ficará longe da opressão, pois não terá medo, e longe do terror, pois ele não se aproximará de você."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ISA-054:014-2",
+    "ref": "ISA 54:14",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": null,
+    "ancora": "Ficará longe da opressão, pois não terá medo, e longe do terror",
+    "resumo": "Promete distância da opressão e do terror."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-241",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 54:17",
+  "fim": "ISA 54:17",
+  "texto": {
+   "ISA 54:17": "Nenhuma arma formada contra você terá sucesso, e você condenará toda língua que se levantar contra você em juízo. Esta é a herança dos servos do SENHOR, e sua justiça procede de mim, declara o SENHOR."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ISA-054:017-1",
+    "ref": "ISA 54:17",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": null,
+    "ancora": "Nenhuma arma formada contra você terá sucesso",
+    "resumo": "Promete proteção vitoriosa e vindicação como herança dos servos do SENHOR."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-242",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 55:3",
+  "fim": "ISA 55:3",
+  "texto": {
+   "ISA 55:3": "Inclinem os ouvidos e venham a mim. Ouçam, e sua alma viverá. Farei com vocês uma aliança eterna, os atos fiéis de amor prometidos a Davi."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ISA-055:003-1",
+    "ref": "ISA 55:3",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "explicita",
+    "promitente": "pai",
+    "ancora": "Farei com vocês uma aliança eterna, os atos fiéis de amor prometidos a Davi.",
+    "resumo": "Deus se obriga a fazer aliança eterna com os que ouvem; a vida da alma é o resultado anunciado."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-243",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 55:10",
+  "fim": "ISA 55:11",
+  "texto": {
+   "ISA 55:10": "Assim como a chuva e a neve descem dos céus e não voltam para lá sem regar a terra, fazê-la produzir e brotar e dar semente ao semeador e pão ao que come,",
+   "ISA 55:11": "assim será a palavra que sai de minha boca. Não voltará para mim vazia, mas fará o que me agrada e terá sucesso naquilo para que a enviei."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ISA-055:010-1",
+    "ref": "ISA 55:10-55:11",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "assim será a palavra que sai de minha boca. Não voltará para mim vazia",
+    "resumo": "Deus garante a eficácia da sua palavra: não volta vazia, cumpre o que lhe agrada e prospera no que foi enviada."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-244",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 55:13",
+  "fim": "ISA 55:13",
+  "texto": {
+   "ISA 55:13": "Em lugar do espinheiro crescerá o cipreste, e em lugar da urtiga crescerá a murta. Isso dará nome ao SENHOR e será sinal eterno que não será eliminado."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ISA-055:013-1",
+    "ref": "ISA 55:13",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "será sinal eterno que não será eliminado",
+    "resumo": "Promessa de transformação da vegetação em lugar do espinheiro e da urtiga, como sinal eterno ao SENHOR."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-245",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 56:4",
+  "fim": "ISA 56:5",
+  "texto": {
+   "ISA 56:4": "Pois assim diz o SENHOR aos eunucos que guardam meus sábados, escolhem aquilo que me agrada e se apegam à minha aliança:",
+   "ISA 56:5": "Darei a eles, em minha casa e dentro de meus muros, memorial e nome melhores que filhos e filhas. Darei a cada um deles um nome eterno, que não será eliminado."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ISA-056:004-1",
+    "ref": "ISA 56:4-56:5",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": null,
+    "ancora": "Darei a eles, em minha casa e dentro de meus muros, memorial e nome melhores que filhos e filhas",
+    "resumo": "O SENHOR promete aos eunucos fiéis memorial, nome e lugar em sua casa, nome eterno que não será eliminado."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-246",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 56:6",
+  "fim": "ISA 56:7",
+  "texto": {
+   "ISA 56:6": "Quanto aos filhos dos estrangeiros que se unem ao SENHOR para servi-lo, amar o nome do SENHOR e ser seus servos, todos os que guardam o sábado sem profaná-lo e se apegam à minha aliança,",
+   "ISA 56:7": "eu os levarei ao meu santo monte e lhes darei alegria em minha casa de oração. Seus holocaustos e sacrifícios serão aceitos em meu altar, pois minha casa será chamada casa de oração para todos os povos."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ISA-056:006-1",
+    "ref": "ISA 56:6-56:7",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": null,
+    "ancora": "eu os levarei ao meu santo monte e lhes darei alegria em minha casa de oração",
+    "resumo": "O SENHOR promete levar os estrangeiros fiéis ao seu santo monte, alegrá-los em sua casa e aceitar seus sacrifícios."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-247",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 57:16",
+  "fim": "ISA 57:16",
+  "texto": {
+   "ISA 57:16": "Não contenderei para sempre nem ficarei continuamente irado, pois diante de mim o espírito desfaleceria, assim como as vidas que eu criei."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ISA-057:016-1",
+    "ref": "ISA 57:16",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "humanidade",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Não contenderei para sempre nem ficarei continuamente irado, pois diante de mim o espírito desfaleceria, assim como as vidas que eu criei.",
+    "resumo": "Deus promete não contender para sempre nem ficar continuamente irado."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-248",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 57:19",
+  "fim": "ISA 57:19",
+  "texto": {
+   "ISA 57:19": "Eu crio o fruto dos lábios: Paz, paz para os que estão longe e para os que estão perto, diz o SENHOR, e eu os curarei."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ISA-057:019-1",
+    "ref": "ISA 57:19",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Eu crio o fruto dos lábios: Paz, paz para os que estão longe e para os que estão perto, diz o SENHOR, e eu os curarei.",
+    "resumo": "Deus cria paz para os de longe e de perto e os cura."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-249",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 58:9",
+  "fim": "ISA 58:9",
+  "texto": {
+   "ISA 58:9": "Então você clamará, e o SENHOR responderá. Gritará por ajuda, e ele dirá: Eis-me aqui. Isso acontecerá se remover do meio de você o jugo, o dedo acusador e a fala perversa,"
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ISA-058:009-1",
+    "ref": "ISA 58:9",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "explicita",
+    "promitente": null,
+    "ancora": "o SENHOR responderá",
+    "resumo": "Se removerem o jugo, o dedo acusador e a fala perversa, Deus responderá ao clamor."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-250",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 58:10",
+  "fim": "ISA 58:10",
+  "texto": {
+   "ISA 58:10": "se derramar sua própria vida pelo faminto e satisfizer a pessoa aflita. Então sua luz nascerá nas trevas, e sua escuridão será como o meio-dia."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ISA-058:010-1",
+    "ref": "ISA 58:10",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "explicita",
+    "promitente": null,
+    "ancora": "sua luz nascerá nas trevas",
+    "resumo": "Se derramarem a vida pelo faminto e satisfizerem o aflito, a luz nascerá nas trevas."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-251",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 58:11",
+  "fim": "ISA 58:11",
+  "texto": {
+   "ISA 58:11": "O SENHOR o guiará continuamente, satisfará sua vida em lugares ressequidos e fortalecerá seus ossos. Você será como jardim regado e como fonte de águas cujas águas nunca faltam."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ISA-058:011-1",
+    "ref": "ISA 58:11",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "explicita",
+    "promitente": null,
+    "ancora": "O SENHOR o guiará continuamente",
+    "resumo": "O SENHOR guiará, sustentará e fortalecerá, e o povo será como jardim regado."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-252",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 58:12",
+  "fim": "ISA 58:12",
+  "texto": {
+   "ISA 58:12": "Os que procederem de você reconstruirão as antigas ruínas. Você levantará os fundamentos de muitas gerações e será chamado Reparador de Brechas e Restaurador de Caminhos para Habitação."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ISA-058:012-1",
+    "ref": "ISA 58:12",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "explicita",
+    "promitente": null,
+    "ancora": "reconstruirão as antigas ruínas",
+    "resumo": "Os descendentes reconstruirão ruínas, e o povo será chamado Reparador de Brechas."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-253",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 58:13",
+  "fim": "ISA 58:14",
+  "texto": {
+   "ISA 58:13": "Se você desviar seu pé de profanar o sábado, de buscar o próprio prazer em meu santo dia, se chamar o sábado de deleite e o santo dia do SENHOR de honrado, se o honrar, não seguindo seus próprios caminhos, não buscando o próprio prazer nem falando suas próprias palavras,",
+   "ISA 58:14": "então terá prazer no SENHOR, e eu o farei cavalgar sobre as alturas da terra e o alimentarei com a herança de Jacó, seu pai, pois a boca do SENHOR falou."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ISA-058:013-1",
+    "ref": "ISA 58:13-58:14",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "explicita",
+    "promitente": null,
+    "ancora": "eu o farei cavalgar sobre as alturas da terra",
+    "resumo": "Se honrarem o sábado do SENHOR, terão prazer nele, e Deus os exaltará e alimentará com a herança de Jacó."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-254",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 59:21",
+  "fim": "ISA 59:21",
+  "texto": {
+   "ISA 59:21": "Quanto a mim, esta é minha aliança com eles, diz o SENHOR: Meu Espírito, que está sobre você, e minhas palavras, que pus em sua boca, não se afastarão de sua boca, da boca de seus filhos nem da boca dos filhos de seus filhos, diz o SENHOR, desde agora e para sempre."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ISA-059:021-1",
+    "ref": "ISA 59:21",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "esta é minha aliança com eles",
+    "resumo": "O SENHOR estabelece aliança: seu Espírito e suas palavras não se afastarão da boca deles nem de sua descendência, para sempre."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-255",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 60:7",
+  "fim": "ISA 60:7",
+  "texto": {
+   "ISA 60:7": "Todos os rebanhos de Quedar serão reunidos para você, e os carneiros de Nebaiote a servirão. Subirão com aceitação ao meu altar, e glorificarei a casa de minha glória."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ISA-060:007-1",
+    "ref": "ISA 60:7",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "glorificarei a casa de minha glória",
+    "resumo": "O SENHOR aceitará os rebanhos e glorificará a sua casa."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-256",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 60:9",
+  "fim": "ISA 60:9",
+  "texto": {
+   "ISA 60:9": "As regiões costeiras esperam em mim, e os navios de Társis vêm primeiro, para trazer de longe seus filhos, com a prata e o ouro deles, para o nome do SENHOR, seu Deus, e para o Santo de Israel, pois ele glorificou você."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ISA-060:009-1",
+    "ref": "ISA 60:9",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "As regiões costeiras esperam em mim",
+    "resumo": "As costas e os navios de Társis trarão os filhos e a riqueza a Sião."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-257",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 60:10",
+  "fim": "ISA 60:11",
+  "texto": {
+   "ISA 60:10": "Filhos de estrangeiros reconstruirão seus muros, e os reis deles a servirão. Eu a feri em meu furor, mas em meu favor tive compaixão de você.",
+   "ISA 60:11": "Seus portões permanecerão sempre abertos. Não serão fechados nem de dia nem de noite, para que tragam a você a riqueza das nações, com seus reis conduzidos em procissão."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ISA-060:010-1",
+    "ref": "ISA 60:10-60:11",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Eu a feri em meu furor, mas em meu favor tive compaixão de você",
+    "resumo": "Estrangeiros e reis reconstruirão e servirão a Sião; seus portões ficarão abertos para as riquezas."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-258",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 60:13",
+  "fim": "ISA 60:13",
+  "texto": {
+   "ISA 60:13": "A glória do Líbano virá para você, o cipreste, o pinheiro e o buxo juntos, para ornamentarem o lugar de meu santuário. Glorificarei o lugar de meus pés."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ISA-060:013-1",
+    "ref": "ISA 60:13",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Glorificarei o lugar de meus pés",
+    "resumo": "A glória do Líbano ornará o santuário, e o SENHOR o glorificará."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-259",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 60:17",
+  "fim": "ISA 60:18",
+  "texto": {
+   "ISA 60:17": "Em lugar de bronze trarei ouro, em lugar de ferro, prata, em lugar de madeira, bronze, e em lugar de pedras, ferro. Farei da paz seus administradores e da justiça seus supervisores.",
+   "ISA 60:18": "Nunca mais se ouvirá falar de violência em sua terra, nem de devastação e destruição dentro de seus limites. Você chamará seus muros de Salvação e seus portões de Louvor."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ISA-060:017-1",
+    "ref": "ISA 60:17-60:18",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Farei da paz seus administradores",
+    "resumo": "O SENHOR substituirá materiais e porá paz e justiça; violência e devastação cessarão."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-260",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 60:21",
+  "fim": "ISA 60:22",
+  "texto": {
+   "ISA 60:21": "Todo o seu povo será justo e possuirá a terra para sempre. Eles serão o broto de minha plantação, obra de minhas mãos, para que eu seja glorificado.",
+   "ISA 60:22": "O menor se tornará mil, e o mais fraco, uma nação poderosa. Eu, o SENHOR, apressarei isso no tempo certo."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ISA-060:021-1",
+    "ref": "ISA 60:21-60:22",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Eu, o SENHOR, apressarei isso no tempo certo",
+    "resumo": "O povo será justo e possuirá a terra; o pequeno se multiplicará, e o SENHOR apressará isso."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-261",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 62:6",
+  "fim": "ISA 62:6",
+  "texto": {
+   "ISA 62:6": "Jerusalém, coloquei vigias sobre seus muros. Eles jamais se calarão, nem de dia nem de noite. Vocês que fazem o SENHOR lembrar, não descansem,"
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ISA-062:006-1",
+    "ref": "ISA 62:6",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "coloquei vigias sobre seus muros. Eles jamais se calarão, nem de dia nem de noite",
+    "resumo": "Deus afirma ter posto vigias sobre os muros de Jerusalém, que nunca se calarão"
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-262",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 62:8",
+  "fim": "ISA 62:9",
+  "texto": {
+   "ISA 62:8": "O SENHOR jurou por sua mão direita e por seu braço poderoso: Nunca mais darei seu cereal como alimento a seus inimigos, nem estrangeiros beberão o vinho novo pelo qual você trabalhou.",
+   "ISA 62:9": "Os que ajuntarem o cereal o comerão e louvarão o SENHOR; e os que colherem as uvas beberão o vinho nos pátios de meu santuário."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ISA-062:008-1",
+    "ref": "ISA 62:8-62:9",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "Isaías",
+    "ancora": "O SENHOR jurou por sua mão direita e por seu braço poderoso",
+    "resumo": "Por juramento, Deus garante que os inimigos não comerão o cereal nem os estrangeiros beberão o vinho do trabalho de Sião, mas os que colherem comerão e louvarão o SENHOR"
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-263",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 62:11",
+  "fim": "ISA 62:11",
+  "texto": {
+   "ISA 62:11": "Eis que o SENHOR fez uma proclamação até os confins da terra: Digam à filha de Sião: Eis que vem sua salvação. Eis que sua recompensa está com ele, e sua retribuição vem diante dele."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ISA-062:011-1",
+    "ref": "ISA 62:11",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "Isaías",
+    "ancora": "Eis que o SENHOR fez uma proclamação até os confins da terra",
+    "resumo": "Proclamação do SENHOR anunciando à filha de Sião que vem sua salvação, com sua recompensa e retribuição"
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-264",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 63:4",
+  "fim": "ISA 63:5",
+  "texto": {
+   "ISA 63:4": "Pois o dia da vingança estava em meu coração, e chegou o ano de meus redimidos.",
+   "ISA 63:5": "Olhei, mas não havia quem me ajudasse; fiquei espantado por não haver quem me sustentasse. Então meu próprio braço me trouxe salvação, e meu furor me sustentou."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ISA-063:004-1",
+    "ref": "ISA 63:4-63:5",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": null,
+    "ancora": "chegou o ano de meus redimidos",
+    "resumo": "O SENHOR anuncia a chegada da redenção para os seus redimidos."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-265",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 65:18",
+  "fim": "ISA 65:19",
+  "texto": {
+   "ISA 65:18": "Alegrem-se e exultem para sempre naquilo que crio, pois eis que crio Jerusalém para exultação e seu povo para alegria.",
+   "ISA 65:19": "Exultarei por Jerusalém e me alegrarei por meu povo. Nunca mais se ouvirá nela voz de choro nem voz de clamor."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ISA-065:018-1",
+    "ref": "ISA 65:18-65:19",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "pois eis que crio Jerusalém para exultação e seu povo para alegria",
+    "resumo": "Deus cria Jerusalém para exultação e seu povo para alegria; não haverá mais choro nem clamor."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-266",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 65:20",
+  "fim": "ISA 65:20",
+  "texto": {
+   "ISA 65:20": "Nunca mais haverá ali criança que viva poucos dias, nem velho que não complete seus dias. Quem morrer aos cem anos será considerado jovem, mas o pecador que não chegar aos cem será considerado amaldiçoado."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ISA-065:020-2",
+    "ref": "ISA 65:20",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "o pecador que não chegar aos cem será considerado amaldiçoado",
+    "resumo": "O pecador que não chegar aos cem anos será amaldiçoado."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-267",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 65:21",
+  "fim": "ISA 65:22",
+  "texto": {
+   "ISA 65:21": "Eles construirão casas e nelas habitarão; plantarão vinhas e comerão seu fruto.",
+   "ISA 65:22": "Não construirão para que outro habite, nem plantarão para que outro coma, pois os dias de meu povo serão como os dias de uma árvore, e meus escolhidos desfrutarão plenamente da obra de suas mãos."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ISA-065:021-1",
+    "ref": "ISA 65:21-65:22",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "Eles construirão casas e nelas habitarão",
+    "resumo": "O povo construirá e habitará, plantará e comerá; não será para outros, e desfrutará o trabalho."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-268",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 65:23",
+  "fim": "ISA 65:23",
+  "texto": {
+   "ISA 65:23": "Não trabalharão em vão, nem terão filhos destinados à calamidade, pois são descendência dos abençoados do SENHOR, eles e seus filhos com eles."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ISA-065:023-1",
+    "ref": "ISA 65:23",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "Não trabalharão em vão",
+    "resumo": "Não trabalharão em vão nem terão filhos para calamidade; são descendência abençoada."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-269",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 65:25",
+  "fim": "ISA 65:25",
+  "texto": {
+   "ISA 65:25": "O lobo e o cordeiro pastarão juntos, o leão comerá palha como o boi, e o pó será o alimento da serpente. Não farão mal nem causarão destruição em todo o meu santo monte, diz o SENHOR."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ISA-065:025-1",
+    "ref": "ISA 65:25",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "criacao",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "Não farão mal nem causarão destruição em todo o meu santo monte",
+    "resumo": "Na criação renovada não haverá mal nem destruição no santo monte do SENHOR."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-270",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 66:12",
+  "fim": "ISA 66:12",
+  "texto": {
+   "ISA 66:12": "Pois assim diz o SENHOR: Eis que estenderei sobre ela a paz como um rio e a glória das nações como uma corrente transbordante. Vocês mamarão, serão carregados no colo e acariciados sobre os joelhos."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ISA-066:012-1",
+    "ref": "ISA 66:12",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Eis que estenderei sobre ela a paz como um rio e a glória das nações como uma corrente transbordante.",
+    "resumo": "O SENHOR promete paz e a glória das nações sobre Jerusalém."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-271",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 66:13",
+  "fim": "ISA 66:13",
+  "texto": {
+   "ISA 66:13": "Como uma mãe consola seu filho, assim eu os consolarei; em Jerusalém vocês serão consolados."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ISA-066:013-1",
+    "ref": "ISA 66:13",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Como uma mãe consola seu filho, assim eu os consolarei",
+    "resumo": "O SENHOR promete consolar seu povo como uma mãe consola o filho."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-272",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 66:14",
+  "fim": "ISA 66:16",
+  "texto": {
+   "ISA 66:14": "Vocês verão isso, e seu coração se alegrará; seus ossos florescerão como a relva. A mão do SENHOR será conhecida por seus servos, mas ele mostrará indignação contra seus inimigos.",
+   "ISA 66:15": "Pois eis que o SENHOR virá com fogo, e seus carros serão como a tempestade, para retribuir sua ira com furor e sua repreensão com chamas de fogo.",
+   "ISA 66:16": "Pois com fogo e com sua espada o SENHOR entrará em juízo contra toda a humanidade, e serão muitos os mortos pelo SENHOR."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ISA-066:014-2",
+    "ref": "ISA 66:14-66:16",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "humanidade",
+    "condicao": null,
+    "promitente": "profeta",
+    "ancora": "mas ele mostrará indignação contra seus inimigos.",
+    "resumo": "O SENHOR anuncia indignação e juízo contra seus inimigos e toda a humanidade rebelde."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-273",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 66:17",
+  "fim": "ISA 66:17",
+  "texto": {
+   "ISA 66:17": "Os que se consagram e se purificam para entrar nos jardins, seguindo aquela que está no meio, os que comem carne de porco, coisas abomináveis e ratos, todos eles chegarão ao fim, declara o SENHOR."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ISA-066:017-1",
+    "ref": "ISA 66:17",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "todos eles chegarão ao fim",
+    "resumo": "Os que se consagram a cultos abomináveis chegarão ao fim."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-274",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 66:19",
+  "fim": "ISA 66:19",
+  "texto": {
+   "ISA 66:19": "Porei um sinal entre elas e enviarei alguns de seus sobreviventes às nações: a Társis, Pul e Lude, povos que manejam o arco, a Tubal, Javã e às terras distantes do mar, que não ouviram falar de mim nem viram minha glória. Eles anunciarão minha glória entre as nações."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ISA-066:019-1",
+    "ref": "ISA 66:19",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Porei um sinal entre elas e enviarei alguns de seus sobreviventes às nações",
+    "resumo": "O SENHOR promete pôr um sinal e enviar sobreviventes para anunciar sua glória às nações."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-275",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 66:21",
+  "fim": "ISA 66:21",
+  "texto": {
+   "ISA 66:21": "Também tomarei alguns deles para sacerdotes e levitas, diz o SENHOR."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ISA-066:021-1",
+    "ref": "ISA 66:21",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Também tomarei alguns deles para sacerdotes e levitas",
+    "resumo": "O SENHOR promete tomar alguns para sacerdotes e levitas."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-276",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 66:23",
+  "fim": "ISA 66:23",
+  "texto": {
+   "ISA 66:23": "De uma lua nova a outra e de um sábado a outro, toda a humanidade virá adorar diante de mim, diz o SENHOR."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ISA-066:023-1",
+    "ref": "ISA 66:23",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "humanidade",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "toda a humanidade virá adorar diante de mim",
+    "resumo": "Promessa de que toda a humanidade virá adorar diante do SENHOR."
+   }
+  ]
+ },
+ {
+  "id": "F3-JER-001",
+  "livro": "JER",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JER 3:17",
+  "fim": "JER 3:17",
+  "texto": {
+   "JER 3:17": "Naquele tempo, chamarão Jerusalém de Trono do SENHOR. Todas as nações se reunirão nela por causa do nome do SENHOR em Jerusalém e não mais seguirão a obstinação de seu coração mau."
+  },
+  "p1": [
+   {
+    "uid": "U1-JER-003:017-1",
+    "ref": "JER 3:17",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "chamarão Jerusalém de Trono do SENHOR",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JER-003:017-1",
+    "ref": "JER 3:17",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "chamarão Jerusalém de Trono do SENHOR.",
+    "resumo": "Naquele tempo, Jerusalém será chamada Trono do SENHOR."
+   },
+   {
+    "uid": "U2-JER-003:017-2",
+    "ref": "JER 3:17",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Todas as nações se reunirão nela por causa do nome do SENHOR em Jerusalém",
+    "resumo": "Todas as nações se reunirão em Jerusalém por causa do nome do SENHOR e não seguirão mais a obstinação do coração mau."
+   }
+  ]
+ },
+ {
+  "id": "F3-JER-002",
+  "livro": "JER",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JER 5:6",
+  "fim": "JER 5:6",
+  "texto": {
+   "JER 5:6": "Por isso, um leão da floresta os atacará, um lobo do deserto os devastará e um leopardo ficará à espreita contra suas cidades. Todo aquele que sair delas será despedaçado, pois suas transgressões se multiplicaram e suas rebeldias se tornaram numerosas."
+  },
+  "p1": [
+   {
+    "uid": "U1-JER-005:006-1",
+    "ref": "JER 5:6",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "um leão da floresta os atacará",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JER-005:006-1",
+    "ref": "JER 5:6",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "um leão da floresta os atacará",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-JER-003",
+  "livro": "JER",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JER 6:9",
+  "fim": "JER 6:9",
+  "texto": {
+   "JER 6:9": "Assim diz o SENHOR dos Exércitos: Rebuscarão completamente o remanescente de Israel como uma videira. Passe novamente a mão sobre os ramos, como o vindimador."
+  },
+  "p1": [
+   {
+    "uid": "U1-JER-006:009-1",
+    "ref": "JER 6:9",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Rebuscarão completamente o remanescente de Israel",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JER-006:009-1",
+    "ref": "JER 6:9",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "Jeremias",
+    "ancora": "Rebuscarão completamente o remanescente de Israel como uma videira",
+    "resumo": "O remanescente será rebuscado como videira."
+   }
+  ]
+ },
+ {
+  "id": "F3-JER-004",
+  "livro": "JER",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JER 6:15",
+  "fim": "JER 6:15",
+  "texto": {
+   "JER 6:15": "Acaso se envergonham de ter cometido abominação? De modo nenhum se envergonham, nem sabem sentir vergonha. Por isso, cairão entre os que caem; tropeçarão quando eu os castigar, diz o SENHOR."
+  },
+  "p1": [
+   {
+    "uid": "U1-JER-006:015-1",
+    "ref": "JER 6:15",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "cairão entre os que caem",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JER-006:015-1",
+    "ref": "JER 6:15",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "Jeremias",
+    "ancora": "cairão entre os que caem; tropeçarão quando eu os castigar, diz o SENHOR",
+    "resumo": "Os ímpios cairão e tropeçarão no castigo divino."
+   }
+  ]
+ },
+ {
+  "id": "F3-JER-005",
+  "livro": "JER",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JER 6:16",
+  "fim": "JER 6:16",
+  "texto": {
+   "JER 6:16": "Assim diz o SENHOR: Parem nos caminhos e olhem. Perguntem pelas veredas antigas, onde está o bom caminho, e andem por ele; assim encontrarão descanso para sua alma. Mas eles dizem: Não andaremos por ele."
+  },
+  "p1": [
+   {
+    "uid": "U1-JER-006:016-1",
+    "ref": "JER 6:16",
+    "tipo": "mandamento",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "assim encontrarão descanso para sua alma",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JER-006:016-1",
+    "ref": "JER 6:16",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "explicita",
+    "promitente": "Jeremias",
+    "ancora": "andem por ele; assim encontrarão descanso para sua alma",
+    "resumo": "Se andarem no bom caminho, encontrarão descanso."
+   }
+  ]
+ },
+ {
+  "id": "F3-JER-006",
+  "livro": "JER",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JER 6:21",
+  "fim": "JER 6:21",
+  "texto": {
+   "JER 6:21": "Portanto, assim diz o SENHOR: Eis que porei obstáculos diante deste povo. Pais e filhos tropeçarão neles juntamente; o vizinho e seu companheiro perecerão."
+  },
+  "p1": [
+   {
+    "uid": "U1-JER-006:021-1",
+    "ref": "JER 6:21",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "porei obstáculos diante deste povo",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JER-006:021-1",
+    "ref": "JER 6:21",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "Jeremias",
+    "ancora": "Eis que porei obstáculos diante deste povo",
+    "resumo": "Deus porá obstáculos que farão cair pais, filhos e vizinhos."
+   }
+  ]
+ },
+ {
+  "id": "F3-JER-007",
+  "livro": "JER",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JER 6:22",
+  "fim": "JER 6:23",
+  "texto": {
+   "JER 6:22": "Assim diz o SENHOR: Eis que um povo vem da terra do norte, e uma grande nação se levanta das extremidades da terra.",
+   "JER 6:23": "Empunham arco e lança. São cruéis e não têm misericórdia. Sua voz ruge como o mar, e cavalgam sobre cavalos, dispostos como guerreiros para a batalha contra você, filha de Sião."
+  },
+  "p1": [
+   {
+    "uid": "U1-JER-006:022-1",
+    "ref": "JER 6:22-6:23",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "um povo vem da terra do norte",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JER-006:022-1",
+    "ref": "JER 6:22-6:23",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "Jeremias",
+    "ancora": "Eis que um povo vem da terra do norte, e uma grande nação se levanta das extremidades da terra",
+    "resumo": "Povo cruel do norte se prepara para a batalha contra Sião."
+   }
+  ]
+ },
+ {
+  "id": "F3-JER-008",
+  "livro": "JER",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JER 7:15",
+  "fim": "JER 7:15",
+  "texto": {
+   "JER 7:15": "Eu os expulsarei de minha presença, como expulsei todos os irmãos de vocês, toda a descendência de Efraim."
+  },
+  "p1": [
+   {
+    "uid": "U1-JER-007:015-1",
+    "ref": "JER 7:15",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Eu os expulsarei de minha presença",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-JER-009",
+  "livro": "JER",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JER 7:34",
+  "fim": "JER 7:34",
+  "texto": {
+   "JER 7:34": "Farei cessar nas cidades de Judá e nas ruas de Jerusalém a voz de alegria e a voz de júbilo, a voz do noivo e a voz da noiva, pois a terra se tornará uma desolação."
+  },
+  "p1": [
+   {
+    "uid": "U1-JER-007:034-1",
+    "ref": "JER 7:34",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Farei cessar nas cidades de Judá",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-JER-010",
+  "livro": "JER",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JER 9:16",
+  "fim": "JER 9:16",
+  "texto": {
+   "JER 9:16": "Eu os espalharei entre nações que nem eles nem seus pais conheceram e enviarei a espada atrás deles, até que os tenha consumido."
+  },
+  "p1": [
+   {
+    "uid": "U1-JER-009:016-1",
+    "ref": "JER 9:16",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Eu os espalharei entre nações",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-JER-011",
+  "livro": "JER",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JER 12:14",
+  "fim": "JER 12:14",
+  "texto": {
+   "JER 12:14": "Assim diz o SENHOR a respeito de todos os meus vizinhos maus, que tocam na herança que dei a meu povo Israel: Eis que os arrancarei de sua terra e arrancarei a casa de Judá do meio deles."
+  },
+  "p1": [
+   {
+    "uid": "U1-JER-012:014-1",
+    "ref": "JER 12:14",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "os arrancarei de sua terra",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JER-012:014-1",
+    "ref": "JER 12:14",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "Eis que os arrancarei de sua terra",
+    "resumo": "O SENHOR arrancará de sua terra os vizinhos maus."
+   },
+   {
+    "uid": "U2-JER-012:014-2",
+    "ref": "JER 12:14",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "arrancarei a casa de Judá do meio deles",
+    "resumo": "O SENHOR arrancará a casa de Judá do meio dos vizinhos maus."
+   }
+  ]
+ },
+ {
+  "id": "F3-JER-012",
+  "livro": "JER",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JER 13:14",
+  "fim": "JER 13:14",
+  "texto": {
+   "JER 13:14": "Eu os despedaçarei uns contra os outros, pais e filhos juntamente, declara o SENHOR. Não terei compaixão, não os pouparei nem terei misericórdia, deixando de destruí-los."
+  },
+  "p1": [
+   {
+    "uid": "U1-JER-013:014-1",
+    "ref": "JER 13:14",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Eu os despedaçarei uns contra os outros",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-JER-013",
+  "livro": "JER",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JER 13:26",
+  "fim": "JER 13:26",
+  "texto": {
+   "JER 13:26": "Eu mesmo levantarei suas roupas sobre seu rosto, e sua vergonha será vista."
+  },
+  "p1": [
+   {
+    "uid": "U1-JER-013:026-1",
+    "ref": "JER 13:26",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Eu mesmo levantarei suas roupas sobre seu rosto",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-JER-014",
+  "livro": "JER",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JER 14:10",
+  "fim": "JER 14:10",
+  "texto": {
+   "JER 14:10": "Assim diz o SENHOR a respeito deste povo: Eles gostaram tanto de vaguear e não contiveram os pés. Por isso, o SENHOR não se agrada deles. Agora ele se lembrará de sua iniquidade e castigará seus pecados."
+  },
+  "p1": [
+   {
+    "uid": "U1-JER-014:010-1",
+    "ref": "JER 14:10",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "castigará seus pecados",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JER-014:010-1",
+    "ref": "JER 14:10",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": "Jeremias",
+    "ancora": "Agora ele se lembrará de sua iniquidade e castigará seus pecados.",
+    "resumo": "O SENHOR anuncia, por meio do profeta, castigo decidido sobre este povo."
+   }
+  ]
+ },
+ {
+  "id": "F3-JER-015",
+  "livro": "JER",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JER 14:12",
+  "fim": "JER 14:12",
+  "texto": {
+   "JER 14:12": "Quando jejuarem, não ouvirei seu clamor. Quando oferecerem holocaustos e ofertas de cereal, não me agradarei deles. Antes, eu os consumirei pela espada, pela fome e pela peste."
+  },
+  "p1": [
+   {
+    "uid": "U1-JER-014:012-1",
+    "ref": "JER 14:12",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "eu os consumirei pela espada, pela fome e pela peste",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JER-014:012-1",
+    "ref": "JER 14:12",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": "Jeremias",
+    "ancora": "Antes, eu os consumirei pela espada, pela fome e pela peste.",
+    "resumo": "Deus se obriga a não ouvir o clamor e a consumir o povo pela espada, fome e peste."
+   }
+  ]
+ },
+ {
+  "id": "F3-JER-016",
+  "livro": "JER",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JER 14:15",
+  "fim": "JER 14:15",
+  "texto": {
+   "JER 14:15": "Portanto, assim diz o SENHOR acerca dos profetas que profetizam em meu nome sem que eu os tenha enviado e que dizem que não haverá espada nem fome nesta terra: Esses profetas serão consumidos pela espada e pela fome."
+  },
+  "p1": [
+   {
+    "uid": "U1-JER-014:015-1",
+    "ref": "JER 14:15",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Esses profetas serão consumidos pela espada e pela fome",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JER-014:015-1",
+    "ref": "JER 14:15",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "Jeremias",
+    "ancora": "Esses profetas serão consumidos pela espada e pela fome.",
+    "resumo": "Sentença do SENHOR contra os profetas falsos: serão consumidos pela espada e pela fome."
+   }
+  ]
+ },
+ {
+  "id": "F3-JER-017",
+  "livro": "JER",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JER 14:16",
+  "fim": "JER 14:16",
+  "texto": {
+   "JER 14:16": "O povo a quem eles profetizam será lançado nas ruas de Jerusalém por causa da fome e da espada. Não haverá quem sepulte essas pessoas, suas mulheres, seus filhos e suas filhas. Assim derramarei sobre eles sua própria maldade."
+  },
+  "p1": [
+   {
+    "uid": "U1-JER-014:016-1",
+    "ref": "JER 14:16",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "derramarei sobre eles sua própria maldade",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JER-014:016-1",
+    "ref": "JER 14:16",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": "Jeremias",
+    "ancora": "Assim derramarei sobre eles sua própria maldade.",
+    "resumo": "O povo que ouve os profetas falsos será entregue à fome e à espada, sem sepultura."
+   }
+  ]
+ },
+ {
+  "id": "F3-JER-018",
+  "livro": "JER",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JER 15:2",
+  "fim": "JER 15:3",
+  "texto": {
+   "JER 15:2": "Quando lhe perguntarem: Para onde iremos? você lhes dirá: Assim diz o SENHOR: Quem está destinado à morte, para a morte; quem está destinado à espada, para a espada; quem está destinado à fome, para a fome; e quem está destinado ao cativeiro, para o cativeiro.",
+   "JER 15:3": "Eu os castigarei com quatro tipos de destruidores, declara o SENHOR: a espada para matar, os cães para arrastar, as aves dos céus e os animais da terra para devorar e destruir."
+  },
+  "p1": [
+   {
+    "uid": "U1-JER-015:002-1",
+    "ref": "JER 15:2-15:3",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Quem está destinado à morte, para a morte",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JER-015:002-1",
+    "ref": "JER 15:2",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": "Jeremias",
+    "ancora": "Quem está destinado à morte, para a morte",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ }
+]

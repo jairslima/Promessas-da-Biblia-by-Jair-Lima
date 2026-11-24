@@ -1,0 +1,2408 @@
+[
+ {
+  "id": "F3-PRO-001",
+  "livro": "PRO",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "PRO 1:13",
+  "fim": "PRO 1:14",
+  "texto": {
+   "PRO 1:13": "Encontraremos toda sorte de bens preciosos e encheremos nossas casas de despojos.",
+   "PRO 1:14": "Lança tua sorte entre nós; teremos todos uma só bolsa."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-PRO-001:013-1",
+    "ref": "PRO 1:13-1:14",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "os pecadores",
+    "ancora": "Encontraremos toda sorte de bens preciosos",
+    "resumo": "Promessa humana dos pecadores de bens e despojos ao convidado."
+   }
+  ]
+ },
+ {
+  "id": "F3-ECC-001",
+  "livro": "ECC",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ECC 11:9",
+  "fim": "ECC 11:9",
+  "texto": {
+   "ECC 11:9": "Alegra-te, jovem, em tua mocidade, e recreia o teu coração nos dias de tua mocidade; e caminha nos caminhos de teu coração, e na vista de teus olhos; porém sabe que por todas estas coisas te trará Deus ao juízo."
+  },
+  "p1": [
+   {
+    "uid": "U1-ECC-011:009-1",
+    "ref": "ECC 11:9",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "por todas estas coisas te trará Deus ao juízo",
+    "resumo": "Deus trará o jovem ao juízo por todas as coisas"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ECC-011:009-1",
+    "ref": "ECC 11:9",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "porém sabe que por todas estas coisas te trará Deus ao juízo",
+    "resumo": "Deus trará o jovem a juízo por todas estas coisas"
+   }
+  ]
+ },
+ {
+  "id": "F3-SNG-001",
+  "livro": "SNG",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "SNG 1:11",
+  "fim": "SNG 1:11",
+  "texto": {
+   "SNG 1:11": "Faremos para ti adornos de ouro com pontos de prata."
+  },
+  "p1": [
+   {
+    "uid": "U1-SNG-001:011-1",
+    "ref": "SNG 1:11",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Faremos para ti adornos de ouro com pontos de prata",
+    "resumo": "Os que falam se obrigam a fazer adornos de ouro com pontos de prata para a amada"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-SNG-001:011-1",
+    "ref": "SNG 1:11",
+    "tipo": "indeterminada",
+    "origem": "indeterminada",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Faremos para ti adornos de ouro com pontos de prata.",
+    "resumo": "Compromisso humano, de origem não identificada, de fazer adornos para a amada."
+   }
+  ]
+ },
+ {
+  "id": "F3-SNG-002",
+  "livro": "SNG",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "SNG 4:6",
+  "fim": "SNG 4:6",
+  "texto": {
+   "SNG 4:6": "Até que o dia respire e as sombras fujam, irei ao monte da mirra e à colina do incenso."
+  },
+  "p1": [
+   {
+    "uid": "U1-SNG-004:006-1",
+    "ref": "SNG 4:6",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "irei ao monte da mirra e à colina do incenso",
+    "resumo": "O amado declara que irá ao monte da mirra até o dia respirar e as sombras fugirem"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-SNG-003",
+  "livro": "SNG",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "SNG 8:9",
+  "fim": "SNG 8:9",
+  "texto": {
+   "SNG 8:9": "Se ela for um muro, construiremos sobre ela uma torre de prata; se for uma porta, nós a cercaremos com tábuas de cedro."
+  },
+  "p1": [
+   {
+    "uid": "U1-SNG-008:009-1",
+    "ref": "SNG 8:9",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "explicita",
+    "promitente": null,
+    "ancora": "construiremos sobre ela uma torre de prata",
+    "resumo": "Os irmãos prometem construir uma torre de prata se a irmã for um muro e cercá-la de cedro se for uma porta"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-SNG-008:009-1",
+    "ref": "SNG 8:9",
+    "tipo": "indeterminada",
+    "origem": "indeterminada",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "explicita",
+    "promitente": null,
+    "ancora": "Se ela for um muro, construiremos sobre ela uma torre de prata",
+    "resumo": "Promessa condicional dos irmãos: se a irmã for muro, construirão torre de prata."
+   }
+  ]
+ },
+ {
+  "id": "F3-SNG-004",
+  "livro": "SNG",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "SNG 6:1",
+  "fim": "SNG 6:1",
+  "texto": {
+   "SNG 6:1": "Para onde foi o teu amado, ó a mais formosa entre as mulheres? Para onde virou a vista o teu amado? E nós o buscaremos contigo."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-SNG-006:001-1",
+    "ref": "SNG 6:1",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "nós",
+    "ancora": "E nós o buscaremos contigo.",
+    "resumo": "As companheiras prometem buscar o amado com a Sulamita."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-001",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 1:20",
+  "fim": "ISA 1:20",
+  "texto": {
+   "ISA 1:20": "Mas, se recusarem e forem rebeldes, serão devorados pela espada, porque a boca do SENHOR falou."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-001:020-1",
+    "ref": "ISA 1:20",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": "explicita",
+    "promitente": "pai",
+    "ancora": "serão devorados pela espada",
+    "resumo": "Se recusarem e forem rebeldes, serão devorados pela espada"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ISA-001:020-1",
+    "ref": "ISA 1:20",
+    "tipo": "advertencia",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Mas, se recusarem e forem rebeldes, serão devorados pela espada, porque a boca do SENHOR falou.",
+    "resumo": "Se recusarem e forem rebeldes, serão devorados pela espada."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-002",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 1:25",
+  "fim": "ISA 1:27",
+  "texto": {
+   "ISA 1:25": "Voltarei minha mão contra você, purificarei completamente sua escória e removerei toda impureza.",
+   "ISA 1:26": "Restaurarei seus juízes como no princípio e seus conselheiros como no começo. Depois disso você será chamada cidade da justiça, cidade fiel.",
+   "ISA 1:27": "Sião será redimida pelo juízo, e os que voltarem a ela, pela justiça."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-001:025-1",
+    "ref": "ISA 1:25-1:27",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "purificarei completamente sua escória",
+    "resumo": "O SENHOR purificará e restaurará Sião, redimida pelo juízo"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ISA-001:025-1",
+    "ref": "ISA 1:25",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Voltarei minha mão contra você, purificarei completamente sua escória e removerei toda impureza.",
+    "resumo": "Deus promete voltar a mão contra Jerusalém e purificá-la de sua escória e impureza."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-003",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 1:28",
+  "fim": "ISA 1:28",
+  "texto": {
+   "ISA 1:28": "Porém os transgressores e os pecadores serão destruídos juntos, e os que abandonarem o SENHOR serão consumidos."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-001:028-1",
+    "ref": "ISA 1:28",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "serão destruídos juntos",
+    "resumo": "Transgressores e pecadores que abandonam o SENHOR serão destruídos"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ISA-001:028-1",
+    "ref": "ISA 1:28",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Porém os transgressores e os pecadores serão destruídos juntos, e os que abandonarem o SENHOR serão consumidos.",
+    "resumo": "Transgressores e pecadores serão destruídos; os que abandonam o SENHOR serão consumidos."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-004",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 1:29",
+  "fim": "ISA 1:31",
+  "texto": {
+   "ISA 1:29": "Vocês se envergonharão dos carvalhos que desejaram e serão humilhados por causa dos jardins que escolheram.",
+   "ISA 1:30": "Pois serão como carvalho cujas folhas murcham e como jardim que não tem água.",
+   "ISA 1:31": "O forte se tornará em estopa, e sua obra, em faísca. Ambos queimarão juntos, e ninguém os apagará."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-001:029-1",
+    "ref": "ISA 1:29-1:31",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Vocês se envergonharão dos carvalhos",
+    "resumo": "Os idólatras serão envergonhados e queimarão sem quem os apague"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ISA-001:029-1",
+    "ref": "ISA 1:29-1:31",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Vocês se envergonharão dos carvalhos que desejaram e serão humilhados por causa dos jardins que escolheram.",
+    "resumo": "Deus anuncia vergonha e destruição para os que desejam carvalhos e jardins idólatras; o forte e sua obra queimarão sem quem os apague."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-005",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 3:1",
+  "fim": "ISA 3:5",
+  "texto": {
+   "ISA 3:1": "Eis que o Senhor, o SENHOR dos Exércitos, retirará de Jerusalém e de Judá todo apoio e sustento, todo sustento de pão e todo sustento de água,",
+   "ISA 3:2": "o valente e o guerreiro, o juiz e o profeta, o adivinho e o ancião,",
+   "ISA 3:3": "o comandante de cinquenta e o homem respeitado, o conselheiro, o perito em artes e o hábil encantador.",
+   "ISA 3:4": "Eu lhes darei jovens por governantes, e meninos dominarão sobre eles.",
+   "ISA 3:5": "O povo oprimirá uns aos outros, cada um a seu próximo. O jovem se levantará contra o idoso, e o desprezível, contra o honrado."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-003:001-1",
+    "ref": "ISA 3:1-3:5",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "retirará de Jerusalém e de Judá todo apoio e sustento",
+    "resumo": "O Senhor retirará de Jerusalém e Judá apoio e líderes e dará jovens por governantes"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ISA-003:001-1",
+    "ref": "ISA 3:1-3:3",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "Isaías",
+    "ancora": "retirará de Jerusalém e de Judá todo apoio e sustento",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-006",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 3:10",
+  "fim": "ISA 3:10",
+  "texto": {
+   "ISA 3:10": "Digam ao justo que tudo lhe irá bem, pois comerá do fruto de suas obras."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-003:010-1",
+    "ref": "ISA 3:10",
+    "tipo": "principio_sapiencial",
+    "origem": "indeterminada",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "tudo lhe irá bem",
+    "resumo": "Ao justo tudo irá bem, comerá o fruto de suas obras"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ISA-003:010-1",
+    "ref": "ISA 3:10",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "Isaías",
+    "ancora": "tudo lhe irá bem",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-007",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 3:11",
+  "fim": "ISA 3:11",
+  "texto": {
+   "ISA 3:11": "Ai do perverso! Tudo lhe irá mal, pois receberá a recompensa de suas próprias mãos."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-003:011-1",
+    "ref": "ISA 3:11",
+    "tipo": "principio_sapiencial",
+    "origem": "indeterminada",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Tudo lhe irá mal",
+    "resumo": "Ao perverso tudo irá mal, receberá a recompensa de suas mãos"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ISA-003:011-1",
+    "ref": "ISA 3:11",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "Isaías",
+    "ancora": "Ai do perverso! Tudo lhe irá mal",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-008",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 3:16",
+  "fim": "ISA 3:24",
+  "texto": {
+   "ISA 3:16": "O SENHOR disse: Porque as filhas de Sião são arrogantes, andam com o pescoço erguido, lançam olhares provocantes, caminham com passos curtos e fazem soar os enfeites dos pés,",
+   "ISA 3:17": "o Senhor cobrirá de feridas a cabeça das filhas de Sião, e o SENHOR exporá sua nudez.",
+   "ISA 3:18": "Naquele dia o Senhor removerá os enfeites dos tornozelos, as faixas da cabeça e os adornos em forma de lua,",
+   "ISA 3:19": "os pingentes, os braceletes e os véus,",
+   "ISA 3:20": "os turbantes, os ornamentos dos braços, os cintos, os frascos de perfume e os amuletos,",
+   "ISA 3:21": "os anéis e os adornos do nariz,",
+   "ISA 3:22": "as roupas festivas, os mantos, as capas e as bolsas,",
+   "ISA 3:23": "os espelhos, as roupas de linho fino, os turbantes e os xales.",
+   "ISA 3:24": "Em lugar de perfume haverá podridão; em lugar de cinto, corda; em lugar de cabelo bem arrumado, calvície; em lugar de roupa luxuosa, pano de saco; e em lugar de beleza, marca de queimadura."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-003:016-1",
+    "ref": "ISA 3:16-3:24",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "as filhas de Sião são arrogantes",
+    "resumo": "O SENHOR disse que as filhas de Sião arrogantes serão feridas e despojadas de seus enfeites"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ISA-003:016-1",
+    "ref": "ISA 3:16-3:24",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "o Senhor cobrirá de feridas a cabeça das filhas de Sião",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-009",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 5:5",
+  "fim": "ISA 5:6",
+  "texto": {
+   "ISA 5:5": "Agora lhes mostrarei o que farei com minha vinha: retirarei sua cerca, e ela será consumida; derrubarei seu muro, e ela será pisada.",
+   "ISA 5:6": "Farei dela uma devastação. Não será podada nem cultivada, e nela crescerão espinhos e ervas daninhas. Ordenarei às nuvens que não derramem chuva sobre ela."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-005:005-1",
+    "ref": "ISA 5:5-5:6",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "retirarei sua cerca, e ela será consumida",
+    "resumo": "O SENHOR devastará a vinha (Israel): cerca e muro retirados, espinhos e sem chuva"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-ISA-010",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 5:9",
+  "fim": "ISA 5:10",
+  "texto": {
+   "ISA 5:9": "O SENHOR dos Exércitos declarou aos meus ouvidos: Certamente muitas casas ficarão desertas, grandes e belas, sem moradores.",
+   "ISA 5:10": "Dez jeiras de vinha produzirão somente um bato, e um ômer de semente produzirá somente um efa."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-005:009-1",
+    "ref": "ISA 5:9-5:10",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "muitas casas ficarão desertas",
+    "resumo": "O SENHOR declarou que casas ficarão desertas e as terras produzirão pouco"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-ISA-011",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 5:13",
+  "fim": "ISA 5:17",
+  "texto": {
+   "ISA 5:13": "Por isso meu povo irá para o exílio por falta de conhecimento. Seus homens honrados passarão fome, e sua multidão ficará ressequida de sede.",
+   "ISA 5:14": "Por isso o mundo dos mortos alargou sua garganta e abriu desmedidamente sua boca. Para lá descerão a nobreza, a multidão, o tumulto e os que se alegram na cidade.",
+   "ISA 5:15": "O ser humano será abatido, e o homem será humilhado. Os olhos dos altivos serão rebaixados.",
+   "ISA 5:16": "Porém o SENHOR dos Exércitos será exaltado pelo juízo, e o Deus santo será santificado pela justiça.",
+   "ISA 5:17": "Então cordeiros pastarão como em seus próprios campos, e estrangeiros comerão entre as ruínas dos ricos."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-005:013-1",
+    "ref": "ISA 5:13-5:17",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "meu povo irá para o exílio",
+    "resumo": "O povo irá ao exílio, passará fome e o altivo será humilhado"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ISA-005:013-1",
+    "ref": "ISA 5:13-5:15",
+    "tipo": "indeterminada",
+    "origem": "indeterminada",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": null,
+    "ancora": "meu povo irá para o exílio por falta de conhecimento",
+    "resumo": "O povo será levado ao exílio e sofrerá fome, sede e humilhação."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-012",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 5:26",
+  "fim": "ISA 5:30",
+  "texto": {
+   "ISA 5:26": "Ele levantará uma bandeira para uma nação distante e assobiará para ela desde os confins da terra. Ela virá rápida e velozmente.",
+   "ISA 5:27": "Entre eles não haverá cansado nem alguém que tropece. Ninguém cochilará nem dormirá. O cinto de sua cintura não se soltará, e a correia de suas sandálias não se romperá.",
+   "ISA 5:28": "Suas flechas estarão afiadas, e todos os seus arcos, preparados. Os cascos de seus cavalos parecerão pedra, e as rodas de seus carros, redemoinho.",
+   "ISA 5:29": "Seu rugido será como o de uma leoa. Rugirão como leões novos, agarrarão a presa e a levarão, sem que ninguém a livre.",
+   "ISA 5:30": "Naquele dia rugirão contra a terra como o rugido do mar. Quando alguém olhar para a terra, verá trevas e aflição, e a luz estará escurecida pelas nuvens."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-005:026-1",
+    "ref": "ISA 5:26-5:30",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Ele levantará uma bandeira para uma nação distante",
+    "resumo": "O SENHOR trará nação distante veloz contra o povo, com trevas e aflição"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ISA-005:026-1",
+    "ref": "ISA 5:26-5:30",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": "Isaías",
+    "ancora": "Ele levantará uma bandeira para uma nação distante",
+    "resumo": "O SENHOR convocará uma nação distante, rápida e poderosa, para executar juízo contra o povo."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-013",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 6:11",
+  "fim": "ISA 6:13",
+  "texto": {
+   "ISA 6:11": "Então perguntei: Até quando, Senhor? Ele respondeu: Até que as cidades fiquem devastadas e sem habitantes, as casas fiquem sem pessoas e a terra seja completamente assolada,",
+   "ISA 6:12": "até que o SENHOR afaste para longe os seres humanos, e seja grande o abandono no meio da terra.",
+   "ISA 6:13": "Ainda que nela reste a décima parte, ela voltará a ser consumida. Porém, como o carvalho e a azinheira deixam um tronco quando são cortados, a santa descendência será seu tronco."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-006:011-1",
+    "ref": "ISA 6:11-6:12",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Até que as cidades fiquem devastadas",
+    "resumo": "O Senhor responde: as cidades ficarão devastadas e o povo afastado"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ISA-006:011-1",
+    "ref": "ISA 6:11-6:13",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": null,
+    "ancora": "Até que as cidades fiquem devastadas e sem habitantes",
+    "resumo": "Deus responde que a desolação durará até que cidades e casas fiquem vazias, a terra assolada e os seres humanos sejam afastados; mesmo o remanescente será consumido."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-014",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 6:13",
+  "fim": "ISA 6:13",
+  "texto": {
+   "ISA 6:13": "Ainda que nela reste a décima parte, ela voltará a ser consumida. Porém, como o carvalho e a azinheira deixam um tronco quando são cortados, a santa descendência será seu tronco."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-006:013-1",
+    "ref": "ISA 6:13",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "a santa descendência será seu tronco",
+    "resumo": "Do povo restará um tronco, a santa descendência"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ISA-006:013-1",
+    "ref": "ISA 6:13",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "familia_ou_linhagem",
+    "condicao": "nenhuma",
+    "promitente": null,
+    "ancora": "a santa descendência será seu tronco",
+    "resumo": "Ainda que o remanescente seja consumido, a santa descendência permanecerá como o tronco que resta depois do corte."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-015",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 7:14",
+  "fim": "ISA 7:16",
+  "texto": {
+   "ISA 7:14": "Por isso o próprio Senhor lhes dará um sinal: Eis que a virgem conceberá e dará à luz um filho, e chamará seu nome Emanuel.",
+   "ISA 7:15": "Ele comerá coalhada e mel até que saiba rejeitar o mal e escolher o bem.",
+   "ISA 7:16": "Pois, antes que o menino saiba rejeitar o mal e escolher o bem, a terra dos dois reis que você teme será abandonada."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-007:014-1",
+    "ref": "ISA 7:14-7:15",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "familia_ou_linhagem",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "a virgem conceberá e dará à luz um filho",
+    "resumo": "O Senhor dará um sinal: a virgem conceberá e dará à luz Emanuel"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ISA-007:014-1",
+    "ref": "ISA 7:14-7:16",
+    "tipo": "indeterminada",
+    "origem": "indeterminada",
+    "natureza": "bencao",
+    "destinatario": "familia_ou_linhagem",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "o próprio Senhor lhes dará um sinal",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-016",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 7:16",
+  "fim": "ISA 7:16",
+  "texto": {
+   "ISA 7:16": "Pois, antes que o menino saiba rejeitar o mal e escolher o bem, a terra dos dois reis que você teme será abandonada."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-007:016-1",
+    "ref": "ISA 7:16",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "familia_ou_linhagem",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "a terra dos dois reis que você teme será abandonada",
+    "resumo": "Antes de o menino discernir, a terra dos dois reis será abandonada"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-ISA-017",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 7:17",
+  "fim": "ISA 7:25",
+  "texto": {
+   "ISA 7:17": "O SENHOR fará vir sobre você, sobre seu povo e sobre a casa de seu pai dias como nunca vieram desde que Efraim se separou de Judá. Ele fará vir o rei da Assíria.",
+   "ISA 7:18": "Naquele dia, o SENHOR assobiará para as moscas que estão nos canais mais distantes do Egito e para as abelhas que estão na terra da Assíria.",
+   "ISA 7:19": "Todas elas virão e pousarão nos vales íngremes, nas fendas das rochas, em todos os espinheiros e em todas as pastagens.",
+   "ISA 7:20": "Naquele dia, o Senhor rapará com uma navalha alugada do outro lado do rio, isto é, com o rei da Assíria, a cabeça e os pelos das pernas, e também removerá a barba.",
+   "ISA 7:21": "Naquele dia, alguém manterá uma novilha e duas ovelhas.",
+   "ISA 7:22": "Por causa da abundância de leite que produzirem, comerá coalhada. Todos os que restarem no meio da terra comerão coalhada e mel.",
+   "ISA 7:23": "Naquele dia, todo lugar onde havia mil videiras, avaliadas em mil moedas de prata, será tomado por espinhos e ervas daninhas.",
+   "ISA 7:24": "Entrarão ali com arco e flechas, porque toda a terra estará coberta de espinhos e ervas daninhas.",
+   "ISA 7:25": "Quanto a todos os montes que costumavam ser cultivados com enxada, ninguém irá ali por medo dos espinhos e das ervas daninhas. Servirão para soltar bois e para o gado pisar."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-007:017-1",
+    "ref": "ISA 7:17-7:25",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "familia_ou_linhagem",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "O SENHOR fará vir sobre você",
+    "resumo": "O SENHOR trará sobre Acaz e seu povo dias duros pela Assíria, com devastação da terra"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ISA-007:017-1",
+    "ref": "ISA 7:17",
+    "tipo": "indeterminada",
+    "origem": "indeterminada",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "O SENHOR fará vir sobre você, sobre seu povo e sobre a casa de seu pai dias como nunca vieram desde que Efraim se separou de Judá",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-018",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 8:6",
+  "fim": "ISA 8:8",
+  "texto": {
+   "ISA 8:6": "Visto que este povo rejeitou as águas de Siloé, que correm suavemente, e se alegrou com Rezim e com o filho de Remalias,",
+   "ISA 8:7": "o Senhor fará subir contra eles as águas fortes e impetuosas do rio, o rei da Assíria e toda a sua glória. O rio subirá sobre todos os seus canais e transbordará sobre todas as suas margens.",
+   "ISA 8:8": "Ele invadirá Judá, transbordará e passará, chegando até o pescoço. A extensão de suas asas encherá toda a largura de sua terra, ó Emanuel."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-008:006-1",
+    "ref": "ISA 8:6-8:8",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "este povo rejeitou as águas de Siloé",
+    "resumo": "O Senhor trará o rei da Assíria como rio contra este povo e Judá"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-ISA-019",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 8:14",
+  "fim": "ISA 8:15",
+  "texto": {
+   "ISA 8:14": "Ele será santuário, mas também pedra de tropeço e rocha de escândalo para as duas casas de Israel, armadilha e laço para os moradores de Jerusalém.",
+   "ISA 8:15": "Muitos entre eles tropeçarão, cairão e serão quebrados, ficarão presos no laço e serão capturados."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-008:014-1",
+    "ref": "ISA 8:14-8:15",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Ele será santuário, mas também pedra de tropeço",
+    "resumo": "O SENHOR será santuário e pedra de tropeço; muitos cairão e serão capturados"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ISA-008:014-1",
+    "ref": "ISA 8:14",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "indeterminado",
+    "condicao": null,
+    "promitente": "Isaías",
+    "ancora": "Ele será santuário",
+    "resumo": "O Senhor será santuário."
+   },
+   {
+    "uid": "U2-ISA-008:014-2",
+    "ref": "ISA 8:14-8:15",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "Isaías",
+    "ancora": "pedra de tropeço e rocha de escândalo para as duas casas de Israel, armadilha e laço para os moradores de Jerusalém",
+    "resumo": "O Senhor será pedra de tropeço e laço; muitos tropeçarão, cairão e serão capturados."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-020",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 9:11",
+  "fim": "ISA 9:21",
+  "texto": {
+   "ISA 9:11": "Por isso o SENHOR levantará contra eles os adversários de Rezim e incitará seus inimigos.",
+   "ISA 9:12": "Os sírios virão do Oriente, e os filisteus, do Ocidente. De boca aberta devorarão Israel. Apesar de tudo isso, sua ira não recuou, e sua mão continua estendida.",
+   "ISA 9:13": "Porém o povo não voltou para aquele que o feriu, nem buscou o SENHOR dos Exércitos.",
+   "ISA 9:14": "Por isso o SENHOR cortará de Israel a cabeça e a cauda, o ramo de palmeira e o junco, num só dia.",
+   "ISA 9:15": "O ancião e o homem respeitado são a cabeça, e o profeta que ensina mentira é a cauda.",
+   "ISA 9:16": "Os que guiam este povo o fazem errar, e os que são guiados por eles são destruídos.",
+   "ISA 9:17": "Por isso o Senhor não se alegrará com seus jovens nem terá compaixão de seus órfãos e viúvas, pois todos são ímpios e malfeitores, e toda boca fala insensatez. Apesar de tudo isso, sua ira não recuou, e sua mão continua estendida.",
+   "ISA 9:18": "Pois a perversidade queima como fogo. Consome espinhos e ervas daninhas, incendeia os emaranhados da floresta, e eles sobem como uma coluna de fumaça.",
+   "ISA 9:19": "Pela ira do SENHOR dos Exércitos a terra foi queimada, e o povo se tornou combustível para o fogo. Ninguém poupa seu irmão.",
+   "ISA 9:20": "Alguém corta carne à direita, mas continua com fome; come à esquerda, mas não se satisfaz. Cada um devora a carne de seu próprio braço.",
+   "ISA 9:21": "Manassés devora Efraim, e Efraim devora Manassés. Juntos eles se levantam contra Judá. Apesar de tudo isso, sua ira não recuou, e sua mão continua estendida."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-009:011-1",
+    "ref": "ISA 9:11-9:21",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "o SENHOR levantará contra eles os adversários de Rezim",
+    "resumo": "O SENHOR levantará adversários contra Israel, cortará cabeça e cauda; ira não recuou"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ISA-009:011-1",
+    "ref": "ISA 9:11-9:12",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "o SENHOR levantará contra eles os adversários de Rezim",
+    "resumo": "Promessa de juízo: o SENHOR levantará adversários que devorarão Israel"
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-021",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 10:16",
+  "fim": "ISA 10:19",
+  "texto": {
+   "ISA 10:16": "Por isso o Senhor, o SENHOR dos Exércitos, enviará fraqueza entre seus guerreiros robustos, e debaixo de sua glória acenderá um incêndio como chama de fogo.",
+   "ISA 10:17": "A Luz de Israel se tornará fogo, e seu Santo, uma chama. Num só dia ela queimará e consumirá seus espinhos e suas ervas daninhas.",
+   "ISA 10:18": "Consumirá a glória de sua floresta e de seu campo fértil, desde a alma até o corpo. Será como um enfermo que definha.",
+   "ISA 10:19": "As árvores que restarem em sua floresta serão tão poucas que um menino poderá contá-las."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-010:016-1",
+    "ref": "ISA 10:16-10:19",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "enviará fraqueza entre seus guerreiros robustos",
+    "resumo": "O Senhor enviará fraqueza e fogo contra a Assíria; restarão poucas árvores"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-ISA-022",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 10:22",
+  "fim": "ISA 10:23",
+  "texto": {
+   "ISA 10:22": "Ainda que seu povo, ó Israel, seja como a areia do mar, somente um remanescente voltará. A destruição está decretada e transborda de justiça.",
+   "ISA 10:23": "Pois o Senhor, o SENHOR dos Exércitos, executará no meio de toda a terra a destruição que foi decretada."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-010:022-1",
+    "ref": "ISA 10:22-10:23",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "somente um remanescente voltará",
+    "resumo": "Somente um remanescente voltará; a destruição decretada será executada"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-ISA-023",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 10:24",
+  "fim": "ISA 10:27",
+  "texto": {
+   "ISA 10:24": "Por isso assim diz o Senhor, o SENHOR dos Exércitos: Meu povo que habita em Sião, não tema a Assíria quando ela o ferir com a vara e levantar contra você seu bastão, como fez o Egito.",
+   "ISA 10:25": "Pois dentro de muito pouco tempo minha indignação chegará ao fim, e minha ira se voltará para a destruição deles.",
+   "ISA 10:26": "O SENHOR dos Exércitos levantará contra a Assíria um açoite, como na derrota de Midiã junto à rocha de Orebe. Levantará sua vara sobre o mar, como fez no Egito.",
+   "ISA 10:27": "Naquele dia, a carga da Assíria será removida de seus ombros, e seu jugo, de seu pescoço. O jugo será quebrado por causa da unção."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-010:024-1",
+    "ref": "ISA 10:24-10:27",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Meu povo que habita em Sião, não tema a Assíria",
+    "resumo": "O SENHOR diz a seu povo em Sião que não tema a Assíria: o jugo será quebrado"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ISA-010:024-1",
+    "ref": "ISA 10:24-10:27",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": null,
+    "ancora": "não tema a Assíria",
+    "resumo": "O Senhor promete que sua indignação terminará e o jugo assírio será removido de seu povo."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-024",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 10:33",
+  "fim": "ISA 10:34",
+  "texto": {
+   "ISA 10:33": "Eis que o Senhor, o SENHOR dos Exércitos, cortará os ramos com terrível poder. As árvores mais altas serão derrubadas, e as elevadas serão abatidas.",
+   "ISA 10:34": "Ele cortará com ferro os emaranhados da floresta, e o Líbano cairá diante do Poderoso."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-010:033-1",
+    "ref": "ISA 10:33-10:34",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "cortará os ramos com terrível poder",
+    "resumo": "O Senhor derrubará as árvores altas da floresta e o Líbano cairá"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ISA-010:033-1",
+    "ref": "ISA 10:33-10:34",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": "nenhuma",
+    "promitente": "Isaías",
+    "ancora": "cortará os ramos com terrível poder",
+    "resumo": "O Senhor derrubará a Assíria como árvores altas; o Líbano cairá diante do Poderoso."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-025",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 13:6",
+  "fim": "ISA 13:10",
+  "texto": {
+   "ISA 13:6": "Lamentem, pois o dia do SENHOR está próximo. Ele vem como devastação da parte do Todo-poderoso.",
+   "ISA 13:7": "Por isso todas as mãos enfraquecerão, e todo coração humano se derreterá.",
+   "ISA 13:8": "Eles ficarão aterrorizados. Dores e angústias se apoderarão deles, e se contorcerão como mulher em trabalho de parto. Olharão espantados uns para os outros, e seus rostos estarão em chamas.",
+   "ISA 13:9": "Eis que o dia do SENHOR vem, cruel, com furor e ira ardente, para transformar a terra em desolação e destruir dela os pecadores.",
+   "ISA 13:10": "As estrelas dos céus e suas constelações não darão sua luz. O sol escurecerá ao nascer, e a lua não fará resplandecer sua luz."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-013:006-1",
+    "ref": "ISA 13:6-13:10",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "o dia do SENHOR está próximo",
+    "resumo": "O dia do SENHOR vem como devastação, com terror e escuridão"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ISA-013:006-1",
+    "ref": "ISA 13:6-13:10",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "humanidade",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Lamentem, pois o dia do SENHOR está próximo.",
+    "resumo": "Anúncio do dia do SENHOR como devastação, com terror e sinais cósmicos."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-026",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 13:11",
+  "fim": "ISA 13:16",
+  "texto": {
+   "ISA 13:11": "Castigarei o mundo por sua maldade e os perversos por sua iniquidade. Farei cessar a arrogância dos soberbos e abaterei o orgulho dos tiranos.",
+   "ISA 13:12": "Tornarei o ser humano mais raro que o ouro fino, e a humanidade, mais rara que o ouro de Ofir.",
+   "ISA 13:13": "Por isso farei os céus estremecerem, e a terra será sacudida de seu lugar, por causa do furor do SENHOR dos Exércitos e no dia de sua ira ardente.",
+   "ISA 13:14": "Como gazela perseguida e como rebanho que ninguém reúne, cada um se voltará para seu próprio povo e fugirá para sua própria terra.",
+   "ISA 13:15": "Todo aquele que for encontrado será atravessado, e todo o que for capturado cairá à espada.",
+   "ISA 13:16": "Suas crianças serão despedaçadas diante de seus olhos, suas casas serão saqueadas, e suas mulheres serão violentadas."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-013:011-1",
+    "ref": "ISA 13:11-13:16",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Castigarei o mundo por sua maldade",
+    "resumo": "O SENHOR castiga os perversos e abate a arrogância; o povo de Babilônia será morto e saqueado"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ISA-013:011-1",
+    "ref": "ISA 13:11-13:13",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "humanidade",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Castigarei o mundo por sua maldade e os perversos por sua iniquidade.",
+    "resumo": "Deus promete castigar o mundo, humilhar os soberbos e fazer tremer os céus e a terra."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-027",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 14:1",
+  "fim": "ISA 14:2",
+  "texto": {
+   "ISA 14:1": "O SENHOR terá compaixão de Jacó, tornará a escolher Israel e os estabelecerá em sua própria terra. Estrangeiros se juntarão a eles e se unirão à casa de Jacó.",
+   "ISA 14:2": "Povos os tomarão e os levarão para seu lugar. A casa de Israel os possuirá como servos e servas na terra do SENHOR. Levarão cativos os que os haviam levado cativos e dominarão sobre seus opressores."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-014:001-1",
+    "ref": "ISA 14:1-14:2",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "O SENHOR terá compaixão de Jacó",
+    "resumo": "O SENHOR tem compaixão de Jacó, escolhe Israel de novo, estabelece-o na terra e domina os opressores"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ISA-014:001-1",
+    "ref": "ISA 14:1",
+    "tipo": "indeterminada",
+    "origem": "indeterminada",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "O SENHOR terá compaixão de Jacó, tornará a escolher Israel e os estabelecerá em sua própria terra.",
+    "resumo": "O SENHOR se compadecerá, escolherá e estabelecerá Israel em sua terra."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-028",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 14:24",
+  "fim": "ISA 14:27",
+  "texto": {
+   "ISA 14:24": "O SENHOR dos Exércitos jurou: Certamente acontecerá como planejei e se cumprirá como determinei.",
+   "ISA 14:25": "Quebrarei a Assíria em minha terra e a pisarei em meus montes. Seu jugo será removido de meu povo, e sua carga será tirada de seus ombros.",
+   "ISA 14:26": "Este é o plano determinado para toda a terra, e esta é a mão estendida sobre todas as nações.",
+   "ISA 14:27": "Pois o SENHOR dos Exércitos determinou, e quem poderá frustrá-lo? Sua mão está estendida, e quem poderá fazê-la recuar?"
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-014:024-1",
+    "ref": "ISA 14:24-14:27",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "O SENHOR dos Exércitos jurou: Certamente acontecerá como planejei",
+    "resumo": "O SENHOR jura que o plano se cumprirá: quebrará a Assíria em sua terra e removerá o jugo do seu povo"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ISA-014:024-1",
+    "ref": "ISA 14:24-14:27",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "O SENHOR dos Exércitos jurou: Certamente acontecerá como planejei e se cumprirá como determinei.",
+    "resumo": "O SENHOR jurou que quebrará a Assíria e cumprirá seu plano."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-029",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 14:29",
+  "fim": "ISA 14:30",
+  "texto": {
+   "ISA 14:29": "Não se alegre, toda a Filístia, porque foi quebrada a vara que a feria. Da raiz da serpente sairá uma víbora, e seu fruto será uma serpente ardente e voadora.",
+   "ISA 14:30": "Os mais pobres serão alimentados, e os necessitados repousarão em segurança. Porém farei sua raiz morrer de fome, e ele matará seu remanescente."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-014:029-1",
+    "ref": "ISA 14:29-14:30",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Não se alegre, toda a Filístia",
+    "resumo": "A Filístia não terá motivo de alegria: dela virá uma serpente ardente; o SENHOR fará sua raiz morrer de fome"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-ISA-030",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 15:1",
+  "fim": "ISA 15:9",
+  "texto": {
+   "ISA 15:1": "Oráculo contra Moabe. Numa só noite Ar de Moabe foi devastada e destruída. Numa só noite Quir de Moabe foi devastada e destruída.",
+   "ISA 15:2": "O povo sobe ao templo, a Dibom e aos lugares altos para chorar. Moabe lamenta por Nebo e Medeba. Toda cabeça está raspada, e toda barba foi cortada.",
+   "ISA 15:3": "Vestem pano de saco em suas ruas. Nos terraços e nas praças todos lamentam e descem chorando.",
+   "ISA 15:4": "Hesbom e Eleale gritam, e sua voz é ouvida até Jaza. Por isso os guerreiros de Moabe clamam, e sua alma treme dentro deles.",
+   "ISA 15:5": "Meu coração clama por Moabe. Seus fugitivos chegam a Zoar e Eglate-Selisia. Sobem chorando pela subida de Luíte e levantam um grito de destruição no caminho de Horonaim.",
+   "ISA 15:6": "As águas de Ninrim se tornarão desolação. A relva secou, a vegetação desapareceu e nada verde restou.",
+   "ISA 15:7": "Por isso eles levam para além do ribeiro dos Salgueiros os bens que acumularam e tudo quanto guardaram.",
+   "ISA 15:8": "O clamor percorre todo o território de Moabe. Seu lamento chega até Eglaim, e seu grito, até Beer-Elim.",
+   "ISA 15:9": "As águas de Dimom estão cheias de sangue, mas acrescentarei ainda mais sobre Dimom: leões contra os fugitivos de Moabe e contra o remanescente da terra."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-015:001-1",
+    "ref": "ISA 15:1-15:9",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Numa só noite Ar de Moabe foi devastada e destruída",
+    "resumo": "Moabe é devastada; o SENHOR acrescenta ainda leões contra os fugitivos"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ISA-015:001-1",
+    "ref": "ISA 15:1-15:9",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Oráculo contra Moabe.",
+    "resumo": "Anúncio profético de devastação e lamento sobre Moabe."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-031",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 16:4",
+  "fim": "ISA 16:5",
+  "texto": {
+   "ISA 16:4": "Que os desterrados de Moabe habitem com você. Seja para eles abrigo diante do destruidor. Pois o opressor chegará ao fim, a destruição cessará, e os que pisam os outros desaparecerão da terra.",
+   "ISA 16:5": "Então um trono será estabelecido em amor leal. Sobre ele se assentará fielmente, na tenda de Davi, aquele que julga, busca a justiça e se apressa em fazer o que é reto."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-016:004-1",
+    "ref": "ISA 16:4-16:5",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "o opressor chegará ao fim",
+    "resumo": "O opressor chega ao fim e um trono se estabelece em amor leal na tenda de Davi"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ISA-016:004-1",
+    "ref": "ISA 16:4-16:5",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "familia_ou_linhagem",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "Pois o opressor chegará ao fim, a destruição cessará, e os que pisam os outros desaparecerão da terra.",
+    "resumo": "Anúncio do fim do opressor e do trono fiel na tenda de Davi."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-032",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 16:7",
+  "fim": "ISA 16:12",
+  "texto": {
+   "ISA 16:7": "Por isso Moabe lamentará por Moabe. Todos lamentarão. Gemerão pelos bolos de passas de Quir-Haresete, completamente destruídos.",
+   "ISA 16:8": "Os campos de Hesbom murcharam, assim como a videira de Sibma. Os governantes das nações esmagaram seus ramos escolhidos. Eles chegavam até Jazer, espalhavam-se pelo deserto, estendiam seus brotos e atravessavam o mar.",
+   "ISA 16:9": "Por isso chorarei com o choro de Jazer pela videira de Sibma. Eu os regarei com minhas lágrimas, Hesbom e Eleale, porque cessaram os gritos de alegria sobre seus frutos de verão e sua colheita.",
+   "ISA 16:10": "A alegria e o júbilo foram retirados do campo fértil. Nas vinhas já não há cânticos nem gritos de alegria. Ninguém pisa uvas nos lagares. Fiz cessar o grito da colheita.",
+   "ISA 16:11": "Por isso meu íntimo ressoa como harpa por Moabe, e meu coração, por Quir-Heres.",
+   "ISA 16:12": "Quando Moabe comparecer e se cansar nos lugares altos, entrará em seu santuário para orar, mas nada conseguirá."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-016:007-1",
+    "ref": "ISA 16:7-16:12",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Por isso Moabe lamentará por Moabe",
+    "resumo": "Moabe lamentará e suas oferendas serão inúteis"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ISA-016:007-1",
+    "ref": "ISA 16:7-16:8",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "Por isso Moabe lamentará por Moabe.",
+    "resumo": "Anúncio de lamento e ruína sobre Moabe."
+   },
+   {
+    "uid": "U2-ISA-016:011-1",
+    "ref": "ISA 16:11",
+    "tipo": "declaracao_sem_compromisso",
+    "origem": "humana_em_nome_proprio",
+    "natureza": null,
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "Isaías",
+    "ancora": "Por isso meu íntimo ressoa como harpa por Moabe",
+    "resumo": "Lamento íntimo por Moabe."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-033",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 16:14",
+  "fim": "ISA 16:14",
+  "texto": {
+   "ISA 16:14": "Agora, porém, o SENHOR diz: Dentro de três anos, contados rigorosamente como os anos de um trabalhador contratado, a glória de Moabe será desprezada com toda a sua grande multidão, e o remanescente será muito pequeno e sem força."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-016:014-1",
+    "ref": "ISA 16:14",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Dentro de três anos, contados rigorosamente",
+    "resumo": "O SENHOR declara que em três anos a glória de Moabe será desprezada e o remanescente pequeno"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ISA-016:014-1",
+    "ref": "ISA 16:14",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "Dentro de três anos, contados rigorosamente como os anos de um trabalhador contratado, a glória de Moabe será desprezada",
+    "resumo": "Sentença do SENHOR: em três anos a glória de Moabe será desprezada."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-034",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 17:12",
+  "fim": "ISA 17:14",
+  "texto": {
+   "ISA 17:12": "Ai do tumulto de muitos povos, que rugem como os mares, e do estrondo das nações, que ressoam como águas impetuosas.",
+   "ISA 17:13": "As nações ressoam como muitas águas, mas ele as repreenderá, e fugirão para longe. Serão perseguidas como palha dos montes diante do vento e como erva seca diante da tempestade.",
+   "ISA 17:14": "Ao anoitecer haverá terror, mas antes da manhã eles já não existirão. Essa é a porção dos que nos saqueiam e a sorte dos que nos despojam."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-017:013-1",
+    "ref": "ISA 17:13-17:14",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "mas ele as repreenderá, e fugirão para longe",
+    "resumo": "O SENHOR repreende as nações que saqueiam o seu povo e elas fogem"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ISA-017:012-1",
+    "ref": "ISA 17:12-17:14",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": "nenhuma",
+    "promitente": "Isaías",
+    "ancora": "ele as repreenderá, e fugirão para longe",
+    "resumo": "O tumulto de muitos povos e o estrondo das nações serão repreendidos por ele e fugirão como palha diante do vento; ao anoitecer haverá terror e antes da manhã já não existirão: essa é a porção dos que saqueiam e despojam"
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-035",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 18:4",
+  "fim": "ISA 18:6",
+  "texto": {
+   "ISA 18:4": "Pois assim me disse o SENHOR: Ficarei quieto e observarei desde minha morada, como o calor brilhante à luz do sol e como uma nuvem de orvalho no calor da colheita.",
+   "ISA 18:5": "Antes da colheita, quando a floração terminar e a flor se transformar em uva que amadurece, ele cortará os brotos com podadeiras e removerá os ramos espalhados.",
+   "ISA 18:6": "Todos serão deixados para as aves de rapina dos montes e para os animais da terra. As aves de rapina passarão o verão sobre eles, e todos os animais da terra passarão ali o inverno."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-018:004-1",
+    "ref": "ISA 18:4-18:6",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Ficarei quieto e observarei desde minha morada",
+    "resumo": "O SENHOR observa quieto e depois corta os ramos da nação poderosa, deixados às aves e animais"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-ISA-036",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 18:7",
+  "fim": "ISA 18:7",
+  "texto": {
+   "ISA 18:7": "Naquele tempo, um presente será levado ao SENHOR dos Exércitos por uma nação alta e de pele lisa, por um povo temido perto e longe, nação poderosa e conquistadora, cuja terra os rios dividem. Será levado ao lugar do nome do SENHOR dos Exércitos, ao monte Sião."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-018:007-1",
+    "ref": "ISA 18:7",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "um presente será levado ao SENHOR dos Exércitos",
+    "resumo": "Naquele tempo a nação trará um presente ao SENHOR no monte Sião"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ISA-018:007-1",
+    "ref": "ISA 18:7",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Naquele tempo, um presente será levado ao SENHOR dos Exércitos",
+    "resumo": "Profecias de que, naquele tempo, a nação alta levará presente ao SENHOR, ao monte Sião."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-037",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 19:5",
+  "fim": "ISA 19:10",
+  "texto": {
+   "ISA 19:5": "As águas do mar secarão, e o rio ficará esgotado e seco.",
+   "ISA 19:6": "Os canais ficarão fétidos, os braços do Nilo do Egito diminuirão e secarão, e os juncos e as canas murcharão.",
+   "ISA 19:7": "A vegetação junto ao Nilo, nas margens do rio, e tudo o que foi semeado junto ao Nilo secará, será levado pelo vento e deixará de existir.",
+   "ISA 19:8": "Os pescadores lamentarão. Todos os que lançam anzol no Nilo gemerão, e os que estendem redes sobre as águas desfalecerão.",
+   "ISA 19:9": "Os que trabalham com linho penteado e os tecelões de tecido branco ficarão envergonhados.",
+   "ISA 19:10": "Seus pilares serão esmagados, e todos os trabalhadores assalariados ficarão abatidos."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-019:005-1",
+    "ref": "ISA 19:5-19:10",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "As águas do mar secarão",
+    "resumo": "O rio do Egito seca e a economia do Nilo fenece"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ISA-019:005-1",
+    "ref": "ISA 19:5-19:10",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "profeta",
+    "ancora": "As águas do mar secarão, e o rio ficará esgotado e seco.",
+    "resumo": "As águas e a economia do Egito serão arruinadas."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-038",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 19:18",
+  "fim": "ISA 19:20",
+  "texto": {
+   "ISA 19:18": "Naquele dia, haverá cinco cidades na terra do Egito que falarão a língua de Canaã e jurarão pelo SENHOR dos Exércitos. Uma delas será chamada Cidade da Destruição.",
+   "ISA 19:19": "Naquele dia, haverá um altar ao SENHOR no meio da terra do Egito e uma coluna ao SENHOR junto à sua fronteira.",
+   "ISA 19:20": "Isso servirá de sinal e testemunho ao SENHOR dos Exércitos na terra do Egito. Eles clamarão ao SENHOR por causa dos opressores, e ele lhes enviará um salvador e defensor, que os livrará."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-019:018-1",
+    "ref": "ISA 19:18-19:20",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "haverá cinco cidades na terra do Egito",
+    "resumo": "Cidades do Egito falarão a língua de Canaã, jurarão pelo SENHOR; o SENHOR lhes enviará salvador que as livrará"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ISA-019:018-1",
+    "ref": "ISA 19:18",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "profeta",
+    "ancora": "Naquele dia, haverá cinco cidades na terra do Egito que falarão a língua de Canaã e jurarão pelo SENHOR dos Exércitos.",
+    "resumo": "Cinco cidades egípcias passarão a falar a língua de Canaã e jurar pelo SENHOR."
+   },
+   {
+    "uid": "U2-ISA-019:019-1",
+    "ref": "ISA 19:19-19:20",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "profeta",
+    "ancora": "Naquele dia, haverá um altar ao SENHOR no meio da terra do Egito e uma coluna ao SENHOR junto à sua fronteira.",
+    "resumo": "Haverá altar e coluna ao SENHOR no Egito; ele enviará salvador e defensor ao povo que clamar."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-039",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 19:21",
+  "fim": "ISA 19:22",
+  "texto": {
+   "ISA 19:21": "O SENHOR se fará conhecido aos egípcios, e naquele dia os egípcios conhecerão o SENHOR. Eles o servirão com sacrifícios e ofertas, farão votos ao SENHOR e os cumprirão.",
+   "ISA 19:22": "O SENHOR ferirá os egípcios, ferirá e curará. Eles voltarão ao SENHOR, ele atenderá suas súplicas e os curará."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-019:021-1",
+    "ref": "ISA 19:21-19:22",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "O SENHOR se fará conhecido aos egípcios",
+    "resumo": "O SENHOR se faz conhecido aos egípcios, fere e cura, atende suas súplicas"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ISA-019:021-1",
+    "ref": "ISA 19:21",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "profeta",
+    "ancora": "O SENHOR se fará conhecido aos egípcios, e naquele dia os egípcios conhecerão o SENHOR.",
+    "resumo": "Os egípcios conhecerão o SENHOR e o servirão com sacrifícios e votos."
+   },
+   {
+    "uid": "U2-ISA-019:022-1",
+    "ref": "ISA 19:22",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "profeta",
+    "ancora": "O SENHOR ferirá os egípcios",
+    "resumo": "O SENHOR ferirá os egípcios."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-040",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 19:23",
+  "fim": "ISA 19:25",
+  "texto": {
+   "ISA 19:23": "Naquele dia, haverá uma estrada do Egito até a Assíria. Os assírios irão ao Egito, e os egípcios, à Assíria. Os egípcios e os assírios servirão juntos.",
+   "ISA 19:24": "Naquele dia, Israel será o terceiro com o Egito e a Assíria, uma bênção no meio da terra.",
+   "ISA 19:25": "O SENHOR dos Exércitos os abençoará: Bendito seja o Egito, meu povo, a Assíria, obra de minhas mãos, e Israel, minha herança."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-019:023-1",
+    "ref": "ISA 19:23-19:25",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "humanidade",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Os assírios irão ao Egito",
+    "resumo": "Egito, Assíria e Israel servem juntos e o SENHOR os abençoa"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-ISA-041",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 20:3",
+  "fim": "ISA 20:5",
+  "texto": {
+   "ISA 20:3": "Então o SENHOR disse: Assim como meu servo Isaías andou nu e descalço durante três anos como sinal e prodígio contra o Egito e Cuxe,",
+   "ISA 20:4": "assim o rei da Assíria levará os cativos do Egito e os exilados de Cuxe, jovens e idosos, nus e descalços, com as nádegas descobertas, para vergonha do Egito.",
+   "ISA 20:5": "Eles ficarão apavorados e envergonhados por causa de Cuxe, em quem esperavam, e do Egito, de quem se orgulhavam."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-020:003-1",
+    "ref": "ISA 20:3-20:5",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Assim como meu servo Isaías andou nu e descalço",
+    "resumo": "O rei da Assíria leva cativos do Egito e Cuxe, nus e descalços"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-ISA-042",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 21:2",
+  "fim": "ISA 21:2",
+  "texto": {
+   "ISA 21:2": "Uma visão severa me foi revelada: O traidor continua traindo, e o destruidor continua destruindo. Suba, Elão. Cerque, Média. Farei cessar todo o gemido que Babilônia causou."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-021:002-1",
+    "ref": "ISA 21:2",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Farei cessar todo o gemido que Babilônia causou",
+    "resumo": "O SENHOR faz cessar o gemido causado por Babilônia"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ISA-021:002-1",
+    "ref": "ISA 21:2",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "Isaías",
+    "ancora": "Farei cessar todo o gemido que Babilônia causou.",
+    "resumo": "Compromisso divino, na visão, de fazer cessar o gemido causado por Babilônia."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-043",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 21:16",
+  "fim": "ISA 21:17",
+  "texto": {
+   "ISA 21:16": "Assim me disse o Senhor: Dentro de um ano, contado rigorosamente como o ano de um trabalhador contratado, toda a glória de Quedar chegará ao fim.",
+   "ISA 21:17": "O restante dos arqueiros e dos guerreiros dos filhos de Quedar será reduzido, porque o SENHOR, Deus de Israel, falou."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-021:016-1",
+    "ref": "ISA 21:16-21:17",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Dentro de um ano, contado rigorosamente",
+    "resumo": "Em um ano a glória de Quedar chegará ao fim e os arqueiros serão reduzidos"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-ISA-044",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 22:5",
+  "fim": "ISA 22:8",
+  "texto": {
+   "ISA 22:5": "Pois o Senhor, o SENHOR dos Exércitos, tem um dia de tumulto, atropelamento e confusão no vale da Visão, dia de derrubar muros e de clamar aos montes.",
+   "ISA 22:6": "Elão tomou a aljava, com carros de guerra, homens e cavaleiros, e Quir descobriu os escudos.",
+   "ISA 22:7": "Seus vales mais escolhidos ficaram cheios de carros, e os cavaleiros tomaram posição diante das portas.",
+   "ISA 22:8": "Ele removeu a proteção de Judá. Naquele dia vocês olharam para as armas da Casa da Floresta."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-022:005-1",
+    "ref": "ISA 22:5",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "o SENHOR dos Exércitos, tem um dia de tumulto",
+    "resumo": "O SENHOR tem um dia de tumulto no vale da Visão"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ISA-022:005-1",
+    "ref": "ISA 22:5-22:8",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Pois o Senhor, o SENHOR dos Exércitos, tem um dia de tumulto, atropelamento e confusão no vale da Visão",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-045",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 22:14",
+  "fim": "ISA 22:14",
+  "texto": {
+   "ISA 22:14": "O SENHOR dos Exércitos revelou aos meus ouvidos: Certamente esta iniquidade não será expiada até que vocês morram, diz o Senhor, o SENHOR dos Exércitos."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-022:014-1",
+    "ref": "ISA 22:14",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "esta iniquidade não será expiada até que vocês morram",
+    "resumo": "O SENHOR declara que a iniquidade não será expiada até que morram"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ISA-022:014-1",
+    "ref": "ISA 22:14",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "O SENHOR dos Exércitos revelou aos meus ouvidos: Certamente esta iniquidade não será expiada até que vocês morram",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-046",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 22:25",
+  "fim": "ISA 22:25",
+  "texto": {
+   "ISA 22:25": "Naquele dia, declara o SENHOR dos Exércitos, o prego fixado em lugar firme será removido, cortado e cairá. A carga que estava sobre ele será destruída, porque o SENHOR falou."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-022:025-1",
+    "ref": "ISA 22:25",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "o prego fixado em lugar firme será removido",
+    "resumo": "O prego será removido e a carga sobre ele destruída"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ISA-022:025-1",
+    "ref": "ISA 22:25",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Naquele dia, declara o SENHOR dos Exércitos, o prego fixado em lugar firme será removido",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-047",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 23:1",
+  "fim": "ISA 23:14",
+  "texto": {
+   "ISA 23:1": "Oráculo contra Tiro. Lamentem, navios de Társis, porque Tiro foi destruída, sem casa nem porto. Desde a terra de Quitim isso lhes foi revelado.",
+   "ISA 23:2": "Fiquem em silêncio, moradores da região costeira, a quem os mercadores de Sidom, atravessando o mar, enchiam de riquezas.",
+   "ISA 23:3": "Sobre muitas águas vinha o cereal de Sior, a colheita do Nilo, que era sua receita. Tiro era o mercado das nações.",
+   "ISA 23:4": "Envergonhe-se, Sidom, porque o mar, a fortaleza do mar, falou: Não tive dores de parto nem dei à luz, não criei jovens nem eduquei moças.",
+   "ISA 23:5": "Quando a notícia chegar ao Egito, eles sentirão angústia por causa das notícias de Tiro.",
+   "ISA 23:6": "Atravessem para Társis. Lamentem, moradores da região costeira.",
+   "ISA 23:7": "É esta a cidade alegre, cuja origem vem dos dias antigos, cujos próprios pés a levavam para estabelecer-se em terras distantes?",
+   "ISA 23:8": "Quem planejou isso contra Tiro, a que concedia coroas, cujos mercadores eram governantes e cujos negociantes eram honrados na terra?",
+   "ISA 23:9": "O SENHOR dos Exércitos planejou isso para profanar o orgulho de toda beleza e humilhar todos os honrados da terra.",
+   "ISA 23:10": "Atravesse sua terra como o Nilo, filha de Társis, pois já não há porto.",
+   "ISA 23:11": "Ele estendeu a mão sobre o mar e fez os reinos tremerem. O SENHOR deu ordem contra Canaã para destruir suas fortalezas.",
+   "ISA 23:12": "Ele disse: Você não voltará a exultar, virgem oprimida, filha de Sidom. Levante-se e atravesse para Quitim, mas nem mesmo ali encontrará descanso.",
+   "ISA 23:13": "Eis a terra dos caldeus. Esse povo não existia. A Assíria a estabeleceu para os habitantes do deserto. Eles levantaram suas torres de cerco, destruíram seus palácios e a transformaram em ruína.",
+   "ISA 23:14": "Lamentem, navios de Társis, porque sua fortaleza foi destruída."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-023:001-1",
+    "ref": "ISA 23:1-23:14",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Tiro foi destruída, sem casa nem porto",
+    "resumo": "O SENHOR planejou profanar Tiro e destruir as fortalezas de Canaã"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ISA-023:001-1",
+    "ref": "ISA 23:1-23:14",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": "nenhuma",
+    "promitente": "Isaías",
+    "ancora": "Oráculo contra Tiro",
+    "resumo": "O SENHOR dos Exércitos planejou a destruição de Tiro e a humilhação dos seus honrados; os navios de Társis e os moradores da costa devem lamentar."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-048",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 23:15",
+  "fim": "ISA 23:16",
+  "texto": {
+   "ISA 23:15": "Naquele dia, Tiro será esquecida por setenta anos, como os dias de um rei. Ao fim dos setenta anos acontecerá a Tiro como na canção da prostituta:",
+   "ISA 23:16": "Pegue a harpa, percorra a cidade, prostituta esquecida. Toque bem, multiplique suas canções, para que se lembrem de você."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-023:015-1",
+    "ref": "ISA 23:15-23:16",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Tiro será esquecida por setenta anos",
+    "resumo": "Tiro será esquecida por setenta anos"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ISA-023:015-1",
+    "ref": "ISA 23:15-23:16",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": "nenhuma",
+    "promitente": "Isaías",
+    "ancora": "Tiro será esquecida por setenta anos",
+    "resumo": "Tiro ficará esquecida por setenta anos, como os dias de um rei, e depois voltará a ser procurada, como na canção da prostituta."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-049",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 23:17",
+  "fim": "ISA 23:18",
+  "texto": {
+   "ISA 23:17": "Ao fim dos setenta anos, o SENHOR visitará Tiro. Ela voltará a receber seu pagamento e se prostituirá com todos os reinos que há sobre a face da terra.",
+   "ISA 23:18": "Seu comércio e seu pagamento serão consagrados ao SENHOR. Não serão acumulados nem guardados, pois seu comércio será para os que habitam diante do SENHOR, para que comam até se satisfazer e tenham roupas finas."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-023:017-1",
+    "ref": "ISA 23:17-23:18",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "o SENHOR visitará Tiro",
+    "resumo": "Findos os setenta anos o SENHOR visita Tiro e seu comércio é consagrado ao SENHOR"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ISA-023:017-1",
+    "ref": "ISA 23:17",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "nacoes_especificas",
+    "condicao": "nenhuma",
+    "promitente": "Isaías",
+    "ancora": "o SENHOR visitará Tiro",
+    "resumo": "Ao fim dos setenta anos o SENHOR visitará Tiro, e ela voltará a receber seu pagamento e a negociar com todos os reinos da terra."
+   },
+   {
+    "uid": "U2-ISA-023:018-1",
+    "ref": "ISA 23:18",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "Isaías",
+    "ancora": "Seu comércio e seu pagamento serão consagrados ao SENHOR",
+    "resumo": "O comércio e o pagamento de Tiro serão consagrados ao SENHOR, não acumulados, mas para alimento farto e roupas finas aos que habitam diante do SENHOR."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-050",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 24:5",
+  "fim": "ISA 24:6",
+  "texto": {
+   "ISA 24:5": "A terra está contaminada debaixo de seus habitantes, pois transgrediram as instruções, alteraram o estatuto e quebraram a aliança eterna.",
+   "ISA 24:6": "Por isso a maldição consome a terra, e seus habitantes carregam sua culpa. Por isso os moradores da terra são consumidos pelo fogo, e poucos seres humanos restam."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-024:005-1",
+    "ref": "ISA 24:5-24:6",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "humanidade",
+    "condicao": "contextual",
+    "promitente": "pai",
+    "ancora": "transgrediram as instruções, alteraram o estatuto",
+    "resumo": "A maldição consome a terra por quebrarem a aliança eterna"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-ISA-051",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 24:17",
+  "fim": "ISA 24:20",
+  "texto": {
+   "ISA 24:17": "Terror, cova e laço vêm sobre você, habitante da terra.",
+   "ISA 24:18": "Quem fugir do som do terror cairá na cova, e quem subir da cova será preso pelo laço. As comportas do alto se abriram, e os fundamentos da terra tremem.",
+   "ISA 24:19": "A terra está completamente quebrada, a terra está inteiramente despedaçada, a terra é violentamente sacudida.",
+   "ISA 24:20": "A terra cambaleia como bêbado e balança como cabana. Sua transgressão pesa sobre ela. Cairá e nunca mais se levantará."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-024:017-1",
+    "ref": "ISA 24:17-24:20",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "humanidade",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Terror, cova e laço vêm sobre você",
+    "resumo": "Terror, cova e laço sobre os habitantes; a terra cai e não se levanta mais"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ISA-024:017-1",
+    "ref": "ISA 24:17-24:20",
+    "tipo": "indeterminada",
+    "origem": "indeterminada",
+    "natureza": "juizo",
+    "destinatario": "humanidade",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Terror, cova e laço vêm sobre você, habitante da terra.",
+    "resumo": "Juízo sobre o habitante da terra: fuga impossível, terra quebrada e queda sem restauração."
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-052",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 25:6",
+  "fim": "ISA 25:8",
+  "texto": {
+   "ISA 25:6": "Neste monte, o SENHOR dos Exércitos preparará para todos os povos um banquete de alimentos ricos, um banquete de vinhos envelhecidos, de alimentos ricos em tutano e de vinhos envelhecidos e bem refinados.",
+   "ISA 25:7": "Neste monte ele destruirá o véu que cobre todos os povos e a cobertura estendida sobre todas as nações.",
+   "ISA 25:8": "Destruirá a morte para sempre. O Senhor SENHOR enxugará as lágrimas de todos os rostos e removerá de toda a terra a vergonha de seu povo, porque o SENHOR falou."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-025:006-1",
+    "ref": "ISA 25:6-25:8",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "humanidade",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "o SENHOR dos Exércitos preparará para todos os povos um banquete",
+    "resumo": "O SENHOR prepara banquete a todos os povos, destrói o véu e a morte para sempre, enxuga as lágrimas e remove a vergonha de seu povo"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ISA-025:006-1",
+    "ref": "ISA 25:6",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "humanidade",
+    "condicao": null,
+    "promitente": "Isaías",
+    "ancora": "o SENHOR dos Exércitos preparará para todos os povos um banquete de alimentos ricos",
+    "resumo": "(resumo não informado pelo leitor)"
+   },
+   {
+    "uid": "U2-ISA-025:007-1",
+    "ref": "ISA 25:7",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "humanidade",
+    "condicao": null,
+    "promitente": "Isaías",
+    "ancora": "ele destruirá o véu que cobre todos os povos",
+    "resumo": "(resumo não informado pelo leitor)"
+   },
+   {
+    "uid": "U2-ISA-025:008-2",
+    "ref": "ISA 25:8",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "humanidade",
+    "condicao": null,
+    "promitente": "Isaías",
+    "ancora": "O Senhor SENHOR enxugará as lágrimas de todos os rostos",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-ISA-053",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 26:20",
+  "fim": "ISA 26:21",
+  "texto": {
+   "ISA 26:20": "Vá, meu povo, entre em seus quartos e feche as portas atrás de você. Esconda-se por um breve momento, até que passe a indignação.",
+   "ISA 26:21": "Pois eis que o SENHOR sai de seu lugar para castigar a iniquidade dos habitantes da terra. A terra revelará o sangue derramado sobre ela e já não encobrirá seus mortos."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-026:020-1",
+    "ref": "ISA 26:20-26:21",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "humanidade",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Vá, meu povo, entre em seus quartos",
+    "resumo": "O povo se esconde até passar a indignação; o SENHOR castiga a iniquidade dos habitantes da terra"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-ISA-054",
+  "livro": "ISA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "ISA 27:1",
+  "fim": "ISA 27:1",
+  "texto": {
+   "ISA 27:1": "Naquele dia, o SENHOR castigará com sua espada dura, grande e forte o Leviatã, a serpente veloz, o Leviatã, a serpente sinuosa, e matará o monstro que está no mar."
+  },
+  "p1": [
+   {
+    "uid": "U1-ISA-027:001-1",
+    "ref": "ISA 27:1",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "criacao",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "o SENHOR castigará com sua espada dura",
+    "resumo": "O SENHOR castiga o Leviatã e mata o monstro do mar"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ISA-027:001-1",
+    "ref": "ISA 27:1",
+    "tipo": "indeterminada",
+    "origem": "indeterminada",
+    "natureza": "juizo",
+    "destinatario": "criacao",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "o SENHOR castigará com sua espada dura, grande e forte o Leviatã",
+    "resumo": "O SENHOR castigará e matará o Leviatã e o monstro do mar."
+   }
+  ]
+ }
+]

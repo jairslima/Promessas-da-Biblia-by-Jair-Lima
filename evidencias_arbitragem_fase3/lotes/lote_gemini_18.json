@@ -1,0 +1,1883 @@
+[
+ {
+  "id": "F3-LUK-062",
+  "livro": "LUK",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "LUK 1:69",
+  "fim": "LUK 1:75",
+  "texto": {
+   "LUK 1:69": "Ele nos levantou um poderoso Salvador na casa de Davi, seu servo,",
+   "LUK 1:70": "conforme falou pela boca de seus santos profetas desde o princípio do mundo,",
+   "LUK 1:71": "para nos salvar de nossos inimigos e da mão de todos os que nos odeiam,",
+   "LUK 1:72": "para usar de misericórdia com nossos pais e lembrar-se de sua santa aliança,",
+   "LUK 1:73": "do juramento que fez a Abraão, nosso pai,",
+   "LUK 1:74": "concedendo-nos que, livres da mão de nossos inimigos, o sirvamos sem temor,",
+   "LUK 1:75": "em santidade e justiça diante dele todos os dias de nossa vida."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-LUK-001:069-1",
+    "ref": "LUK 1:69-1:75",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "Zacarias",
+    "ancora": "Ele nos levantou um poderoso Salvador",
+    "resumo": "Zacarias profetiza salvação e livramento de Israel conforme o juramento a Abraão"
+   }
+  ]
+ },
+ {
+  "id": "F3-LUK-063",
+  "livro": "LUK",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "LUK 3:4",
+  "fim": "LUK 3:6",
+  "texto": {
+   "LUK 3:4": "conforme está escrito no livro das palavras do profeta Isaías: Voz daquele que clama no deserto: Preparai o caminho do Senhor, endireitai suas veredas.",
+   "LUK 3:5": "Todo vale será preenchido, todo monte e colina serão abaixados; os caminhos tortuosos serão endireitados, e os ásperos, aplainados.",
+   "LUK 3:6": "E toda carne verá a salvação de Deus."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-LUK-003:004-1",
+    "ref": "LUK 3:4-3:6",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "humanidade",
+    "condicao": null,
+    "promitente": "Isaías",
+    "ancora": "toda carne verá a salvação de Deus",
+    "resumo": "Oráculo de Isaías citado: preparo do caminho e salvação vista por toda carne"
+   }
+  ]
+ },
+ {
+  "id": "F3-LUK-064",
+  "livro": "LUK",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "LUK 5:20",
+  "fim": "LUK 5:20",
+  "texto": {
+   "LUK 5:20": "Vendo a fé deles, Jesus disse ao homem: Teus pecados te são perdoados."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-LUK-005:020-1",
+    "ref": "LUK 5:20",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "filho",
+    "ancora": "Teus pecados te são perdoados",
+    "resumo": "Jesus declara perdoados os pecados do paralítico"
+   }
+  ]
+ },
+ {
+  "id": "F3-LUK-065",
+  "livro": "LUK",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "LUK 6:22",
+  "fim": "LUK 6:23",
+  "texto": {
+   "LUK 6:22": "Bem-aventurados sereis quando os homens vos odiarem, excluírem, insultarem e rejeitarem vosso nome como mau por causa do Filho do Homem.",
+   "LUK 6:23": "Alegrai-vos naquele dia e exultai, pois grande é vosso galardão no céu. Assim os pais deles faziam aos profetas."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-LUK-006:022-1",
+    "ref": "LUK 6:22-6:23",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "filho",
+    "ancora": "grande é vosso galardão no céu",
+    "resumo": "Bem-aventurados os perseguidos por causa do Filho do Homem: grande galardão no céu"
+   }
+  ]
+ },
+ {
+  "id": "F3-LUK-066",
+  "livro": "LUK",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "LUK 11:49",
+  "fim": "LUK 11:51",
+  "texto": {
+   "LUK 11:49": "Por isso também disse a sabedoria de Deus: Enviar-lhes-ei profetas e apóstolos. Eles matarão alguns e perseguirão outros,",
+   "LUK 11:50": "para que desta geração seja requerido o sangue de todos os profetas derramado desde a fundação do mundo,",
+   "LUK 11:51": "desde o sangue de Abel até o sangue de Zacarias, morto entre o altar e o templo. Sim, digo-vos, será requerido desta geração."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-LUK-011:049-1",
+    "ref": "LUK 11:49-11:51",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "filho",
+    "ancora": "será requerido desta geração",
+    "resumo": "O sangue dos profetas será requerido desta geração"
+   }
+  ]
+ },
+ {
+  "id": "F3-LUK-067",
+  "livro": "LUK",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "LUK 12:37",
+  "fim": "LUK 12:37",
+  "texto": {
+   "LUK 12:37": "Bem-aventurados os servos que o senhor, ao chegar, encontrar vigiando. Em verdade vos digo que ele se cingirá, os fará reclinar-se à mesa e os servirá."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-LUK-012:037-1",
+    "ref": "LUK 12:37",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "explicita",
+    "promitente": "filho",
+    "ancora": "ele se cingirá, os fará reclinar-se à mesa e os servirá",
+    "resumo": "O senhor servirá os servos que encontrar vigiando"
+   }
+  ]
+ },
+ {
+  "id": "F3-LUK-068",
+  "livro": "LUK",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "LUK 12:44",
+  "fim": "LUK 12:44",
+  "texto": {
+   "LUK 12:44": "Em verdade vos digo que o porá sobre todos os seus bens."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-LUK-012:044-1",
+    "ref": "LUK 12:44",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "explicita",
+    "promitente": "filho",
+    "ancora": "o porá sobre todos os seus bens",
+    "resumo": "O servo fiel será posto sobre todos os bens do senhor"
+   }
+  ]
+ },
+ {
+  "id": "F3-LUK-069",
+  "livro": "LUK",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "LUK 14:14",
+  "fim": "LUK 14:14",
+  "texto": {
+   "LUK 14:14": "Serás bem-aventurado, porque eles não têm como recompensar-te, mas serás recompensado na ressurreição dos justos."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-LUK-014:014-1",
+    "ref": "LUK 14:14",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "explicita",
+    "promitente": "filho",
+    "ancora": "serás recompensado na ressurreição dos justos",
+    "resumo": "Quem convida os pobres será recompensado na ressurreição dos justos"
+   }
+  ]
+ },
+ {
+  "id": "F3-LUK-070",
+  "livro": "LUK",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "LUK 17:6",
+  "fim": "LUK 17:6",
+  "texto": {
+   "LUK 17:6": "O Senhor respondeu: Se tivésseis fé como um grão de mostarda, diríeis a esta amoreira: Arranca-te pela raiz e planta-te no mar, e ela vos obedeceria."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-LUK-017:006-1",
+    "ref": "LUK 17:6",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "explicita",
+    "promitente": "filho",
+    "ancora": "ela vos obedeceria",
+    "resumo": "Fé como grão de mostarda faria a amoreira obedecer"
+   }
+  ]
+ },
+ {
+  "id": "F3-LUK-071",
+  "livro": "LUK",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "LUK 17:19",
+  "fim": "LUK 17:19",
+  "texto": {
+   "LUK 17:19": "E disse-lhe: Levanta-te e vai. Tua fé te salvou."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-LUK-017:019-1",
+    "ref": "LUK 17:19",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "filho",
+    "ancora": "Tua fé te salvou",
+    "resumo": "Jesus ao samaritano purificado"
+   }
+  ]
+ },
+ {
+  "id": "F3-LUK-072",
+  "livro": "LUK",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "LUK 18:42",
+  "fim": "LUK 18:42",
+  "texto": {
+   "LUK 18:42": "Jesus lhe disse: Recupera a visão; tua fé te salvou."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-LUK-018:042-1",
+    "ref": "LUK 18:42",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "filho",
+    "ancora": "Recupera a visão; tua fé te salvou",
+    "resumo": "Jesus ao cego de Jericó"
+   }
+  ]
+ },
+ {
+  "id": "F3-LUK-073",
+  "livro": "LUK",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "LUK 19:43",
+  "fim": "LUK 19:44",
+  "texto": {
+   "LUK 19:43": "Pois virão dias em que teus inimigos levantarão uma barreira ao teu redor, te cercarão e te apertarão por todos os lados.",
+   "LUK 19:44": "Derrubarão por terra a ti e a teus filhos dentro de ti. Não deixarão em ti pedra sobre pedra, porque não reconheceste o tempo em que foste visitada."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-LUK-019:043-1",
+    "ref": "LUK 19:43-19:44",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "filho",
+    "ancora": "Não deixarão em ti pedra sobre pedra",
+    "resumo": "Jesus prevê o cerco e a destruição de Jerusalém"
+   }
+  ]
+ },
+ {
+  "id": "F3-LUK-074",
+  "livro": "LUK",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "LUK 20:42",
+  "fim": "LUK 20:43",
+  "texto": {
+   "LUK 20:42": "Pois o próprio Davi declara no livro dos Salmos: Disse o Senhor ao meu Senhor: Senta-te à minha direita,",
+   "LUK 20:43": "até que eu ponha teus inimigos como apoio para teus pés."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-LUK-020:042-1",
+    "ref": "LUK 20:42-20:43",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "Davi",
+    "ancora": "até que eu ponha teus inimigos como apoio para teus pés",
+    "resumo": "Salmo citado: o Senhor diz ao Senhor de Davi que se assente à sua direita até pôr os inimigos por estrado"
+   }
+  ]
+ },
+ {
+  "id": "F3-LUK-075",
+  "livro": "LUK",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "LUK 22:20",
+  "fim": "LUK 22:20",
+  "texto": {
+   "LUK 22:20": "Do mesmo modo, depois da ceia, tomou o cálice e disse: Este cálice é a nova aliança em meu sangue, derramado por vós."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-LUK-022:020-1",
+    "ref": "LUK 22:20",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "filho",
+    "ancora": "Este cálice é a nova aliança em meu sangue, derramado por vós",
+    "resumo": "Nova aliança no sangue de Jesus em favor dos discípulos"
+   }
+  ]
+ },
+ {
+  "id": "F3-JHN-001",
+  "livro": "JHN",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "JHN 1:12",
+  "fim": "JHN 1:13",
+  "texto": {
+   "JHN 1:12": "Contudo, a todos os que a receberam, aos que creem em seu nome, deu o direito de se tornarem filhos de Deus.",
+   "JHN 1:13": "Estes não nasceram de sangues, nem da vontade da carne, nem da vontade de homem, mas de Deus."
+  },
+  "p1": [
+   {
+    "uid": "U1-JHN-001:012-1",
+    "ref": "JHN 1:12-1:13",
+    "tipo": "indeterminada",
+    "origem": "indeterminada",
+    "natureza": "bencao",
+    "destinatario": "igreja",
+    "condicao": "explicita",
+    "promitente": null,
+    "ancora": "deu o direito de se tornarem filhos de Deus",
+    "resumo": "Aos que recebem a Palavra, é dado o direito de se tornarem filhos de Deus."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JHN-001:012-1",
+    "ref": "JHN 1:12-1:13",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "crente_individual",
+    "condicao": "explicita",
+    "promitente": "João",
+    "ancora": "deu o direito de se tornarem filhos de Deus",
+    "resumo": "Os que receberam a Palavra e creem em seu nome recebem o direito de ser filhos de Deus"
+   }
+  ]
+ },
+ {
+  "id": "F3-JHN-002",
+  "livro": "JHN",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "JHN 1:33",
+  "fim": "JHN 1:33",
+  "texto": {
+   "JHN 1:33": "Eu não o conhecia, mas aquele que me enviou a batizar com água me disse: Aquele sobre quem vires o Espírito descer e permanecer é quem batiza com o Espírito Santo."
+  },
+  "p1": [
+   {
+    "uid": "U1-JHN-001:033-1",
+    "ref": "JHN 1:33",
+    "tipo": "declaracao_sem_compromisso",
+    "origem": "divina_relatada_por_humano",
+    "natureza": null,
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "João",
+    "ancora": "Aquele sobre quem vires o Espírito descer e permanecer é quem batiza com o Espírito Santo.",
+    "resumo": "Revelação divina a João para identificar o batizador com o Espírito Santo."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JHN-001:033-1",
+    "ref": "JHN 1:33",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "João Batista",
+    "ancora": "Aquele sobre quem vires o Espírito descer e permanecer é quem batiza com o Espírito Santo",
+    "resumo": "Deus disse a João que quem recebesse o Espírito descendo e permanecendo batizaria com o Espírito Santo"
+   }
+  ]
+ },
+ {
+  "id": "F3-JHN-003",
+  "livro": "JHN",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "JHN 2:19",
+  "fim": "JHN 2:19",
+  "texto": {
+   "JHN 2:19": "Jesus lhes respondeu: Destruí este templo, e em três dias eu o levantarei."
+  },
+  "p1": [
+   {
+    "uid": "U1-JHN-002:019-1",
+    "ref": "JHN 2:19",
+    "tipo": "mandamento",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Destruí este templo, e em três dias eu o levantarei",
+    "resumo": "Jesus manda destruir este templo e promete que em três dias o levantará."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JHN-002:019-1",
+    "ref": "JHN 2:19",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "filho",
+    "ancora": "em três dias eu o levantarei",
+    "resumo": "Jesus levantará em três dias o templo de seu corpo"
+   }
+  ]
+ },
+ {
+  "id": "F3-JHN-004",
+  "livro": "JHN",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "JHN 3:14",
+  "fim": "JHN 3:16",
+  "texto": {
+   "JHN 3:14": "Assim como Moisés levantou a serpente no deserto, também é necessário que o Filho do Homem seja levantado,",
+   "JHN 3:15": "para que todo aquele que nele crê não pereça, mas tenha vida eterna.",
+   "JHN 3:16": "Pois Deus amou o mundo desta maneira: deu seu Filho unigênito, para que todo aquele que nele crê não pereça, mas tenha vida eterna."
+  },
+  "p1": [
+   {
+    "uid": "U1-JHN-003:014-1",
+    "ref": "JHN 3:14-3:15",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "crente_individual",
+    "condicao": "explicita",
+    "promitente": "filho",
+    "ancora": "para que todo aquele que nele crê não pereça, mas tenha vida eterna",
+    "resumo": "Jesus promete vida eterna a quem nele crê, por meio do Filho levantado."
+   },
+   {
+    "uid": "U1-JHN-003:016-1",
+    "ref": "JHN 3:16",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "crente_individual",
+    "condicao": "explicita",
+    "promitente": "pai",
+    "ancora": "Deus amou o mundo desta maneira: deu seu Filho unigênito, para que todo aquele que nele crê não pereça, mas tenha vida eterna",
+    "resumo": "Deus dá seu Filho para que quem crê tenha vida eterna."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JHN-003:014-1",
+    "ref": "JHN 3:14-3:16",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "humanidade",
+    "condicao": "explicita",
+    "promitente": "filho",
+    "ancora": "todo aquele que nele crê não pereça, mas tenha vida eterna",
+    "resumo": "Quem crê no Filho do Homem levantado não perece, mas tem vida eterna"
+   }
+  ]
+ },
+ {
+  "id": "F3-JHN-005",
+  "livro": "JHN",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "JHN 3:36",
+  "fim": "JHN 3:36",
+  "texto": {
+   "JHN 3:36": "Quem crê no Filho tem vida eterna; quem desobedece ao Filho não verá a vida, mas a ira de Deus permanece sobre ele."
+  },
+  "p1": [
+   {
+    "uid": "U1-JHN-003:036-1",
+    "ref": "JHN 3:36",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "crente_individual",
+    "condicao": "explicita",
+    "promitente": "João Batista",
+    "ancora": "Quem crê no Filho tem vida eterna",
+    "resumo": "Quem crê no Filho tem vida eterna."
+   },
+   {
+    "uid": "U1-JHN-003:036-2",
+    "ref": "JHN 3:36",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": "explicita",
+    "promitente": "João Batista",
+    "ancora": "quem desobedece ao Filho não verá a vida, mas a ira de Deus permanece sobre ele",
+    "resumo": "Quem desobedece ao Filho não verá a vida; a ira de Deus permanece sobre ele."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JHN-003:036-1",
+    "ref": "JHN 3:36",
+    "tipo": "indeterminada",
+    "origem": "indeterminada",
+    "natureza": "bencao",
+    "destinatario": "humanidade",
+    "condicao": "explicita",
+    "promitente": null,
+    "ancora": "Quem crê no Filho tem vida eterna",
+    "resumo": "Quem crê no Filho tem vida eterna"
+   },
+   {
+    "uid": "U2-JHN-003:036-2",
+    "ref": "JHN 3:36",
+    "tipo": "indeterminada",
+    "origem": "indeterminada",
+    "natureza": "juizo",
+    "destinatario": "humanidade",
+    "condicao": "explicita",
+    "promitente": null,
+    "ancora": "quem desobedece ao Filho não verá a vida, mas a ira de Deus permanece sobre ele",
+    "resumo": "Quem desobedece ao Filho não verá a vida e a ira de Deus permanece sobre ele"
+   }
+  ]
+ },
+ {
+  "id": "F3-JHN-006",
+  "livro": "JHN",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "JHN 4:10",
+  "fim": "JHN 4:10",
+  "texto": {
+   "JHN 4:10": "Jesus respondeu: Se conhecesses o dom de Deus e quem é aquele que te diz: Dá-me de beber, tu lhe pedirias, e ele te daria água viva."
+  },
+  "p1": [
+   {
+    "uid": "U1-JHN-004:010-1",
+    "ref": "JHN 4:10",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "explicita",
+    "promitente": "filho",
+    "ancora": "e ele te daria água viva",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-JHN-007",
+  "livro": "JHN",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "JHN 5:20",
+  "fim": "JHN 5:20",
+  "texto": {
+   "JHN 5:20": "O Pai ama o Filho e lhe mostra tudo o que faz. E lhe mostrará obras maiores do que estas, para que fiqueis maravilhados."
+  },
+  "p1": [
+   {
+    "uid": "U1-JHN-005:020-1",
+    "ref": "JHN 5:20",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "E lhe mostrará obras maiores do que estas, para que fiqueis maravilhados.",
+    "resumo": "O Pai mostrará ao Filho obras maiores, para que os ouvintes se maravilhem."
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-JHN-008",
+  "livro": "JHN",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "JHN 5:45",
+  "fim": "JHN 5:45",
+  "texto": {
+   "JHN 5:45": "Não penseis que eu vos acusarei diante do Pai. Quem vos acusa é Moisés, em quem depositais vossa esperança."
+  },
+  "p1": [
+   {
+    "uid": "U1-JHN-005:045-1",
+    "ref": "JHN 5:45",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "filho",
+    "ancora": "Não penseis que eu vos acusarei diante do Pai.",
+    "resumo": "Jesus afirma que não acusará os ouvintes diante do Pai."
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-JHN-009",
+  "livro": "JHN",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "JHN 6:32",
+  "fim": "JHN 6:33",
+  "texto": {
+   "JHN 6:32": "Jesus lhes disse: Em verdade, em verdade vos digo que não foi Moisés quem vos deu o pão do céu. Meu Pai é quem vos dá o verdadeiro pão do céu.",
+   "JHN 6:33": "Pois o pão de Deus é aquele que desce do céu e dá vida ao mundo."
+  },
+  "p1": [
+   {
+    "uid": "U1-JHN-006:032-1",
+    "ref": "JHN 6:32-6:33",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Meu Pai é quem vos dá o verdadeiro pão do céu.",
+    "resumo": "O Pai dá o verdadeiro pão do céu, que desce e dá vida ao mundo."
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-JHN-010",
+  "livro": "JHN",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "JHN 6:39",
+  "fim": "JHN 6:40",
+  "texto": {
+   "JHN 6:39": "Esta é a vontade do Pai que me enviou: que eu não perca nenhum de todos os que ele me deu, mas o ressuscite no último dia.",
+   "JHN 6:40": "E esta é a vontade daquele que me enviou: que todo aquele que contempla o Filho e nele crê tenha vida eterna, e eu o ressuscitarei no último dia."
+  },
+  "p1": [
+   {
+    "uid": "U1-JHN-006:039-1",
+    "ref": "JHN 6:39",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "igreja",
+    "condicao": null,
+    "promitente": "filho",
+    "ancora": "que eu não perca nenhum de todos os que ele me deu, mas o ressuscite no último dia.",
+    "resumo": "É vontade do Pai que o Filho não perca nenhum dos que lhe foram dados e os ressuscite no último dia."
+   },
+   {
+    "uid": "U1-JHN-006:040-1",
+    "ref": "JHN 6:40",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "igreja",
+    "condicao": "explicita",
+    "promitente": "filho",
+    "ancora": "que todo aquele que contempla o Filho e nele crê tenha vida eterna, e eu o ressuscitarei no último dia.",
+    "resumo": "Todo aquele que contempla e crê no Filho tem vida eterna e será ressuscitado por ele."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JHN-006:039-1",
+    "ref": "JHN 6:39-6:40",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "humanidade",
+    "condicao": "explicita",
+    "promitente": "filho",
+    "ancora": "eu o ressuscitarei no último dia",
+    "resumo": "Jesus não perderá nenhum que o Pai lhe deu e ressuscitará no último dia quem crê no Filho"
+   }
+  ]
+ },
+ {
+  "id": "F3-JHN-011",
+  "livro": "JHN",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "JHN 6:50",
+  "fim": "JHN 6:50",
+  "texto": {
+   "JHN 6:50": "Este é o pão que desce do céu, para que aquele que dele comer não morra."
+  },
+  "p1": [
+   {
+    "uid": "U1-JHN-006:050-1",
+    "ref": "JHN 6:50",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "crente_individual",
+    "condicao": "explicita",
+    "promitente": "filho",
+    "ancora": "para que aquele que dele comer não morra",
+    "resumo": "Aquele que comer do pão que desce do céu não morrerá."
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-JHN-012",
+  "livro": "JHN",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "JHN 6:51",
+  "fim": "JHN 6:51",
+  "texto": {
+   "JHN 6:51": "Eu sou o pão vivo que desceu do céu. Se alguém comer deste pão, viverá para sempre. E o pão que eu darei é minha carne, que darei pela vida do mundo."
+  },
+  "p1": [
+   {
+    "uid": "U1-JHN-006:051-3",
+    "ref": "JHN 6:51",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "humanidade",
+    "condicao": null,
+    "promitente": "filho",
+    "ancora": "E o pão que eu darei é minha carne, que darei pela vida do mundo.",
+    "resumo": "Jesus dará sua carne pela vida do mundo."
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-JHN-013",
+  "livro": "JHN",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "JHN 6:58",
+  "fim": "JHN 6:58",
+  "texto": {
+   "JHN 6:58": "Este é o pão que desceu do céu, não como o maná que vossos pais comeram, pois eles morreram. Quem comer este pão viverá para sempre."
+  },
+  "p1": [
+   {
+    "uid": "U1-JHN-006:058-1",
+    "ref": "JHN 6:58",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "crente_individual",
+    "condicao": "explicita",
+    "promitente": "filho",
+    "ancora": "Quem comer este pão viverá para sempre.",
+    "resumo": "Quem comer deste pão viverá para sempre."
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-JHN-014",
+  "livro": "JHN",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "JHN 7:17",
+  "fim": "JHN 7:17",
+  "texto": {
+   "JHN 7:17": "Se alguém quiser fazer a vontade dele, saberá se este ensino vem de Deus ou se falo por mim mesmo."
+  },
+  "p1": [
+   {
+    "uid": "U1-JHN-007:017-1",
+    "ref": "JHN 7:17",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "explicita",
+    "promitente": "filho",
+    "ancora": "Se alguém quiser fazer a vontade dele, saberá se este ensino vem de Deus ou se falo por mim mesmo.",
+    "resumo": "Jesus promete que quem quiser fazer a vontade de Deus saberá se seu ensino vem de Deus."
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-JHN-015",
+  "livro": "JHN",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "JHN 9:41",
+  "fim": "JHN 9:41",
+  "texto": {
+   "JHN 9:41": "Jesus lhes respondeu: Se fôsseis cegos, não teríeis pecado. Mas agora dizeis: Nós vemos. Portanto, vosso pecado permanece."
+  },
+  "p1": [
+   {
+    "uid": "U1-JHN-009:041-1",
+    "ref": "JHN 9:41",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "filho",
+    "ancora": "Se fôsseis cegos, não teríeis pecado. Mas agora dizeis: Nós vemos. Portanto, vosso pecado permanece.",
+    "resumo": "Jesus sentencia que, permanecendo os fariseus na pretensão de ver, o pecado deles permanece."
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-JHN-016",
+  "livro": "JHN",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "JHN 10:11",
+  "fim": "JHN 10:11",
+  "texto": {
+   "JHN 10:11": "Eu sou o bom Pastor. O bom Pastor entrega sua vida pelas ovelhas."
+  },
+  "p1": [
+   {
+    "uid": "U1-JHN-010:011-1",
+    "ref": "JHN 10:11",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "filho",
+    "ancora": "O bom Pastor entrega sua vida pelas ovelhas.",
+    "resumo": "Jesus se compromete a dar a vida pelas ovelhas."
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-JHN-017",
+  "livro": "JHN",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "JHN 11:4",
+  "fim": "JHN 11:4",
+  "texto": {
+   "JHN 11:4": "Ao ouvir isso, Jesus disse: Esta enfermidade não terminará em morte, mas servirá para a glória de Deus, para que o Filho de Deus seja glorificado por meio dela."
+  },
+  "p1": [
+   {
+    "uid": "U1-JHN-011:004-1",
+    "ref": "JHN 11:4",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "divina_direta",
+    "natureza": null,
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Esta enfermidade não terminará em morte",
+    "resumo": "Jesus declara que a enfermidade de Lázaro não terminará em morte, mas será para a glória de Deus."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JHN-011:004-1",
+    "ref": "JHN 11:4",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "filho",
+    "ancora": "Esta enfermidade não terminará em morte",
+    "resumo": "A enfermidade de Lázaro não terminará em morte, mas servirá para a glória de Deus"
+   }
+  ]
+ },
+ {
+  "id": "F3-JHN-018",
+  "livro": "JHN",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "JHN 11:11",
+  "fim": "JHN 11:11",
+  "texto": {
+   "JHN 11:11": "Depois de dizer isso, acrescentou: Nosso amigo Lázaro adormeceu, mas vou despertá-lo."
+  },
+  "p1": [
+   {
+    "uid": "U1-JHN-011:011-1",
+    "ref": "JHN 11:11",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "filho",
+    "ancora": "vou despertá-lo",
+    "resumo": "Jesus diz que Lázaro adormeceu e que vai despertá-lo."
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-JHN-019",
+  "livro": "JHN",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "JHN 12:25",
+  "fim": "JHN 12:25",
+  "texto": {
+   "JHN 12:25": "Quem ama sua vida a perderá, mas quem odeia sua vida neste mundo a conservará para a vida eterna."
+  },
+  "p1": [
+   {
+    "uid": "U1-JHN-012:025-1",
+    "ref": "JHN 12:25",
+    "tipo": "principio_sapiencial",
+    "origem": "indeterminada",
+    "natureza": null,
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Quem ama sua vida a perderá, mas quem odeia sua vida neste mundo a conservará para a vida eterna.",
+    "resumo": "Princípio sobre perder e conservar a vida para a vida eterna."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JHN-012:025-1",
+    "ref": "JHN 12:25",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "humanidade",
+    "condicao": "explicita",
+    "promitente": "filho",
+    "ancora": "quem odeia sua vida neste mundo a conservará para a vida eterna",
+    "resumo": "Quem odeia sua vida neste mundo a conservará para a vida eterna"
+   }
+  ]
+ },
+ {
+  "id": "F3-JHN-020",
+  "livro": "JHN",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "JHN 12:26",
+  "fim": "JHN 12:26",
+  "texto": {
+   "JHN 12:26": "Se alguém me serve, siga-me. Onde eu estiver, ali também estará meu servo. Se alguém me servir, meu Pai o honrará."
+  },
+  "p1": [
+   {
+    "uid": "U1-JHN-012:026-1",
+    "ref": "JHN 12:26",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "explicita",
+    "promitente": "filho",
+    "ancora": "Onde eu estiver, ali também estará meu servo.",
+    "resumo": "O servo estará onde Jesus estiver."
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-JHN-021",
+  "livro": "JHN",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "JHN 12:46",
+  "fim": "JHN 12:46",
+  "texto": {
+   "JHN 12:46": "Eu vim ao mundo como luz, para que todo aquele que crê em mim não permaneça nas trevas."
+  },
+  "p1": [
+   {
+    "uid": "U1-JHN-012:046-1",
+    "ref": "JHN 12:46",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "crente_individual",
+    "condicao": "explicita",
+    "promitente": "filho",
+    "ancora": "Eu vim ao mundo como luz, para que todo aquele que crê em mim não permaneça nas trevas.",
+    "resumo": "Jesus veio como luz para que o crente não permaneça nas trevas."
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-JHN-022",
+  "livro": "JHN",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "JHN 13:7",
+  "fim": "JHN 13:7",
+  "texto": {
+   "JHN 13:7": "Jesus respondeu: Agora não compreendes o que faço, mas depois entenderás."
+  },
+  "p1": [
+   {
+    "uid": "U1-JHN-013:007-1",
+    "ref": "JHN 13:7",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "filho",
+    "ancora": "mas depois entenderás",
+    "resumo": "Jesus assegura a Pedro que depois entenderá o que agora não compreende."
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-JHN-023",
+  "livro": "JHN",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "JHN 13:32",
+  "fim": "JHN 13:32",
+  "texto": {
+   "JHN 13:32": "Se Deus é glorificado nele, também Deus o glorificará em si mesmo, e logo o glorificará."
+  },
+  "p1": [
+   {
+    "uid": "U1-JHN-013:032-1",
+    "ref": "JHN 13:32",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "também Deus o glorificará em si mesmo, e logo o glorificará.",
+    "resumo": "Jesus anuncia que Deus o glorificará."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JHN-013:032-1",
+    "ref": "JHN 13:32",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "filho",
+    "ancora": "também Deus o glorificará em si mesmo, e logo o glorificará",
+    "resumo": "Deus glorificará o Filho em si mesmo, e logo"
+   }
+  ]
+ },
+ {
+  "id": "F3-JHN-024",
+  "livro": "JHN",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "JHN 13:35",
+  "fim": "JHN 13:35",
+  "texto": {
+   "JHN 13:35": "Nisto todos saberão que sois meus discípulos: se tiverdes amor uns pelos outros."
+  },
+  "p1": [
+   {
+    "uid": "U1-JHN-013:035-1",
+    "ref": "JHN 13:35",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "explicita",
+    "promitente": "filho",
+    "ancora": "Nisto todos saberão que sois meus discípulos: se tiverdes amor uns pelos outros.",
+    "resumo": "Jesus assegura que o amor mútuo fará todos reconhecerem que são seus discípulos."
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-JHN-025",
+  "livro": "JHN",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "JHN 13:37",
+  "fim": "JHN 13:37",
+  "texto": {
+   "JHN 13:37": "Pedro perguntou: Senhor, por que não posso seguir-te agora? Entregarei minha vida por ti."
+  },
+  "p1": [
+   {
+    "uid": "U1-JHN-013:037-1",
+    "ref": "JHN 13:37",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "Pedro",
+    "ancora": "Entregarei minha vida por ti.",
+    "resumo": "Pedro promete entregar sua vida por Jesus."
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-JHN-026",
+  "livro": "JHN",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "JHN 14:2",
+  "fim": "JHN 14:3",
+  "texto": {
+   "JHN 14:2": "Na casa de meu Pai há muitas moradas. Se não fosse assim, eu vos teria dito. Vou preparar-vos um lugar.",
+   "JHN 14:3": "E, quando eu for e vos preparar um lugar, voltarei e vos receberei para mim, para que estejais onde eu estiver."
+  },
+  "p1": [
+   {
+    "uid": "U1-JHN-014:002-2",
+    "ref": "JHN 14:2-14:3",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "filho",
+    "ancora": "Vou preparar-vos um lugar.",
+    "resumo": "Jesus promete preparar lugar e voltar para receber os discípulos."
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-JHN-027",
+  "livro": "JHN",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "JHN 14:19",
+  "fim": "JHN 14:19",
+  "texto": {
+   "JHN 14:19": "Dentro de pouco tempo, o mundo não me verá mais, mas vós me vereis. Porque eu vivo, vós também vivereis."
+  },
+  "p1": [
+   {
+    "uid": "U1-JHN-014:019-1",
+    "ref": "JHN 14:19",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "filho",
+    "ancora": "mas vós me vereis",
+    "resumo": "Jesus declara que os discípulos o verão."
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-JHN-028",
+  "livro": "JHN",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "JHN 14:19",
+  "fim": "JHN 14:19",
+  "texto": {
+   "JHN 14:19": "Dentro de pouco tempo, o mundo não me verá mais, mas vós me vereis. Porque eu vivo, vós também vivereis."
+  },
+  "p1": [
+   {
+    "uid": "U1-JHN-014:019-2",
+    "ref": "JHN 14:19",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "filho",
+    "ancora": "Porque eu vivo, vós também vivereis",
+    "resumo": "Jesus declara que, porque ele vive, os discípulos também viverão."
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-JHN-029",
+  "livro": "JHN",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "JHN 14:20",
+  "fim": "JHN 14:20",
+  "texto": {
+   "JHN 14:20": "Naquele dia sabereis que eu estou em meu Pai, vós em mim e eu em vós."
+  },
+  "p1": [
+   {
+    "uid": "U1-JHN-014:020-1",
+    "ref": "JHN 14:20",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "filho",
+    "ancora": "Naquele dia sabereis que eu estou em meu Pai, vós em mim e eu em vós.",
+    "resumo": "Jesus declara que naquele dia os discípulos saberão da união com o Pai e com ele."
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-JHN-030",
+  "livro": "JHN",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "JHN 15:2",
+  "fim": "JHN 15:2",
+  "texto": {
+   "JHN 15:2": "Ele retira todo ramo em mim que não produz fruto, e poda todo aquele que produz fruto, para que produza ainda mais."
+  },
+  "p1": [
+   {
+    "uid": "U1-JHN-015:002-1",
+    "ref": "JHN 15:2",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "indeterminado",
+    "condicao": "explicita",
+    "promitente": "filho",
+    "ancora": "Ele retira todo ramo em mim que não produz fruto",
+    "resumo": "O Pai retira o ramo que não produz fruto."
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-JHN-031",
+  "livro": "JHN",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "JHN 15:2",
+  "fim": "JHN 15:2",
+  "texto": {
+   "JHN 15:2": "Ele retira todo ramo em mim que não produz fruto, e poda todo aquele que produz fruto, para que produza ainda mais."
+  },
+  "p1": [
+   {
+    "uid": "U1-JHN-015:002-2",
+    "ref": "JHN 15:2",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "indeterminado",
+    "condicao": "explicita",
+    "promitente": "filho",
+    "ancora": "poda todo aquele que produz fruto, para que produza ainda mais",
+    "resumo": "O Pai poda o ramo frutífero para que produza mais."
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-JHN-032",
+  "livro": "JHN",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "JHN 15:4",
+  "fim": "JHN 15:4",
+  "texto": {
+   "JHN 15:4": "Permanecei em mim, e eu permanecerei em vós. Assim como o ramo não pode produzir fruto por si mesmo se não permanecer na videira, também vós não podeis se não permanecerdes em mim."
+  },
+  "p1": [
+   {
+    "uid": "U1-JHN-015:004-1",
+    "ref": "JHN 15:4",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "explicita",
+    "promitente": "filho",
+    "ancora": "Permanecei em mim, e eu permanecerei em vós",
+    "resumo": "Jesus promete permanecer nos que nele permanecem."
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-JHN-033",
+  "livro": "JHN",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "JHN 15:5",
+  "fim": "JHN 15:5",
+  "texto": {
+   "JHN 15:5": "Eu sou a videira; vós sois os ramos. Quem permanece em mim, e eu nele, produz muito fruto, pois sem mim nada podeis fazer."
+  },
+  "p1": [
+   {
+    "uid": "U1-JHN-015:005-1",
+    "ref": "JHN 15:5",
+    "tipo": "principio_sapiencial",
+    "origem": "indeterminada",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Quem permanece em mim, e eu nele, produz muito fruto",
+    "resumo": "Princípio da frutificação de quem permanece em Cristo."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JHN-015:005-1",
+    "ref": "JHN 15:5",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "explicita",
+    "promitente": "filho",
+    "ancora": "Quem permanece em mim, e eu nele, produz muito fruto",
+    "resumo": "Quem permanece em Jesus produz muito fruto"
+   }
+  ]
+ },
+ {
+  "id": "F3-JHN-034",
+  "livro": "JHN",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "JHN 15:11",
+  "fim": "JHN 15:11",
+  "texto": {
+   "JHN 15:11": "Tenho-vos dito essas coisas para que meu gozo permaneça em vós e vosso gozo seja completo."
+  },
+  "p1": [
+   {
+    "uid": "U1-JHN-015:011-1",
+    "ref": "JHN 15:11",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "filho",
+    "ancora": "para que meu gozo permaneça em vós e vosso gozo seja completo",
+    "resumo": "Jesus declara o efeito visado de sua fala: gozo permanente e completo nos discípulos."
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-JHN-035",
+  "livro": "JHN",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "JHN 15:16",
+  "fim": "JHN 15:16",
+  "texto": {
+   "JHN 15:16": "Não fostes vós que me escolhestes; eu vos escolhi e vos designei para que vades, produzais fruto e vosso fruto permaneça, a fim de que o Pai vos dê tudo o que pedirdes em meu nome."
+  },
+  "p1": [
+   {
+    "uid": "U1-JHN-015:016-1",
+    "ref": "JHN 15:16",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "filho",
+    "ancora": "eu vos escolhi e vos designei para que vades, produzais fruto e vosso fruto permaneça",
+    "resumo": "Jesus declara a designação dos discípulos para fruto permanente."
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-JHN-036",
+  "livro": "JHN",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "JHN 15:26",
+  "fim": "JHN 15:26",
+  "texto": {
+   "JHN 15:26": "Quando vier o Consolador, que eu vos enviarei da parte do Pai, o Espírito da verdade que procede do Pai, ele testemunhará a meu respeito."
+  },
+  "p1": [
+   {
+    "uid": "U1-JHN-015:026-1",
+    "ref": "JHN 15:26",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "filho",
+    "ancora": "Quando vier o Consolador, que eu vos enviarei da parte do Pai",
+    "resumo": "Jesus promete enviar o Consolador, que testemunhará a seu respeito."
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-JHN-037",
+  "livro": "JHN",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "JHN 16:16",
+  "fim": "JHN 16:16",
+  "texto": {
+   "JHN 16:16": "Dentro de pouco tempo não me vereis; e novamente, pouco depois, me vereis, porque vou para o Pai."
+  },
+  "p1": [
+   {
+    "uid": "U1-JHN-016:016-1",
+    "ref": "JHN 16:16",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "filho",
+    "ancora": "Dentro de pouco tempo não me vereis; e novamente, pouco depois, me vereis",
+    "resumo": "Jesus promete que os discípulos voltarão a vê-lo."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JHN-016:016-1",
+    "ref": "JHN 16:16",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "pouco depois, me vereis",
+    "resumo": "Jesus diz que dentro de pouco não o verão e depois o verão novamente"
+   }
+  ]
+ },
+ {
+  "id": "F3-JHN-038",
+  "livro": "JHN",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "JHN 16:25",
+  "fim": "JHN 16:25",
+  "texto": {
+   "JHN 16:25": "Tenho-vos falado essas coisas por figuras. Vem a hora em que já não vos falarei por figuras, mas vos anunciarei claramente a respeito do Pai."
+  },
+  "p1": [
+   {
+    "uid": "U1-JHN-016:025-1",
+    "ref": "JHN 16:25",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "filho",
+    "ancora": "Vem a hora em que já não vos falarei por figuras, mas vos anunciarei claramente a respeito do Pai",
+    "resumo": "Jesus promete falar claramente sobre o Pai."
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-JHN-039",
+  "livro": "JHN",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "JHN 16:27",
+  "fim": "JHN 16:27",
+  "texto": {
+   "JHN 16:27": "pois o próprio Pai vos ama, porque me amastes e crestes que saí de Deus."
+  },
+  "p1": [
+   {
+    "uid": "U1-JHN-016:027-1",
+    "ref": "JHN 16:27",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "filho",
+    "ancora": "o próprio Pai vos ama",
+    "resumo": "Jesus assegura o amor do Pai pelos discípulos."
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-JHN-040",
+  "livro": "JHN",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "JHN 16:33",
+  "fim": "JHN 16:33",
+  "texto": {
+   "JHN 16:33": "Tenho-vos dito essas coisas para que tenhais paz em mim. No mundo tereis aflição, mas tende coragem: eu venci o mundo."
+  },
+  "p1": [
+   {
+    "uid": "U1-JHN-016:033-1",
+    "ref": "JHN 16:33",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "No mundo tereis aflição",
+    "resumo": "Jesus prediz aflição no mundo."
+   },
+   {
+    "uid": "U1-JHN-016:033-2",
+    "ref": "JHN 16:33",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "filho",
+    "ancora": "eu venci o mundo",
+    "resumo": "Jesus assegura sua vitória sobre o mundo."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JHN-016:033-1",
+    "ref": "JHN 16:33",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "No mundo tereis aflição",
+    "resumo": "Os discípulos terão aflição no mundo"
+   }
+  ]
+ },
+ {
+  "id": "F3-JHN-041",
+  "livro": "JHN",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "JHN 17:2",
+  "fim": "JHN 17:2",
+  "texto": {
+   "JHN 17:2": "assim como lhe deste autoridade sobre toda a humanidade, para que conceda vida eterna a todos os que lhe deste."
+  },
+  "p1": [
+   {
+    "uid": "U1-JHN-017:002-1",
+    "ref": "JHN 17:2",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "filho",
+    "ancora": "para que conceda vida eterna a todos os que lhe deste",
+    "resumo": "Jesus declara que recebeu autoridade sobre toda a humanidade para dar vida eterna aos que o Pai lhe deu."
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-JHN-042",
+  "livro": "JHN",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "JHN 17:13",
+  "fim": "JHN 17:13",
+  "texto": {
+   "JHN 17:13": "Agora vou para ti, mas digo essas coisas no mundo para que tenham em si mesmos minha alegria completa."
+  },
+  "p1": [
+   {
+    "uid": "U1-JHN-017:013-1",
+    "ref": "JHN 17:13",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "filho",
+    "ancora": "digo essas coisas no mundo para que tenham em si mesmos minha alegria completa",
+    "resumo": "Jesus declara que diz essas coisas no mundo para que os discípulos tenham nele a alegria completa."
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-JHN-043",
+  "livro": "JHN",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "JHN 17:19",
+  "fim": "JHN 17:19",
+  "texto": {
+   "JHN 17:19": "E por eles eu me santifico, para que eles também sejam santificados na verdade."
+  },
+  "p1": [
+   {
+    "uid": "U1-JHN-017:019-1",
+    "ref": "JHN 17:19",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "filho",
+    "ancora": "por eles eu me santifico, para que eles também sejam santificados na verdade",
+    "resumo": "Jesus declara que se santifica por eles, para que também sejam santificados na verdade."
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-JHN-044",
+  "livro": "JHN",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "JHN 17:22",
+  "fim": "JHN 17:23",
+  "texto": {
+   "JHN 17:22": "Eu lhes dei a glória que me deste, para que sejam um, assim como nós somos um:",
+   "JHN 17:23": "eu neles e tu em mim, para que sejam aperfeiçoados em unidade e para que o mundo saiba que tu me enviaste e os amaste como me amaste."
+  },
+  "p1": [
+   {
+    "uid": "U1-JHN-017:022-1",
+    "ref": "JHN 17:22-17:23",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "filho",
+    "ancora": "Eu lhes dei a glória que me deste, para que sejam um, assim como nós somos um",
+    "resumo": "Jesus declara que deu aos discípulos a glória recebida do Pai, para que sejam um e aperfeiçoados em unidade."
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-JHN-045",
+  "livro": "JHN",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "JHN 17:26",
+  "fim": "JHN 17:26",
+  "texto": {
+   "JHN 17:26": "Eu lhes dei a conhecer teu nome e continuarei a dá-lo a conhecer, para que o amor com que me amaste esteja neles, e eu neles."
+  },
+  "p1": [
+   {
+    "uid": "U1-JHN-017:026-1",
+    "ref": "JHN 17:26",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "filho",
+    "ancora": "continuarei a dá-lo a conhecer, para que o amor com que me amaste esteja neles, e eu neles",
+    "resumo": "Jesus promete continuar a dar a conhecer o nome do Pai, para que o amor do Pai esteja nos discípulos."
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-JHN-046",
+  "livro": "JHN",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "JHN 20:23",
+  "fim": "JHN 20:23",
+  "texto": {
+   "JHN 20:23": "Àqueles cujos pecados perdoardes, serão perdoados; àqueles cujos pecados retiverdes, serão retidos."
+  },
+  "p1": [
+   {
+    "uid": "U1-JHN-020:023-1",
+    "ref": "JHN 20:23",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "explicita",
+    "promitente": "filho",
+    "ancora": "Àqueles cujos pecados perdoardes, serão perdoados",
+    "resumo": "Jesus garante que os pecados que os discípulos perdoarem serão perdoados."
+   },
+   {
+    "uid": "U1-JHN-020:023-2",
+    "ref": "JHN 20:23",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": "explicita",
+    "promitente": "filho",
+    "ancora": "àqueles cujos pecados retiverdes, serão retidos",
+    "resumo": "Jesus garante que os pecados que os discípulos retiverem serão retidos."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JHN-020:023-1",
+    "ref": "JHN 20:23",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "filho",
+    "ancora": "Àqueles cujos pecados perdoardes, serão perdoados",
+    "resumo": "Os pecados que os discípulos perdoarem serão perdoados e os que retiverem serão retidos"
+   }
+  ]
+ }
+]

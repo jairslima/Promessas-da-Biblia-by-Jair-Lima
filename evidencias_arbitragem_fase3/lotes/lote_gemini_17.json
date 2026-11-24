@@ -1,0 +1,2007 @@
+[
+ {
+  "id": "F3-LUK-002",
+  "livro": "LUK",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "LUK 2:10",
+  "fim": "LUK 2:12",
+  "texto": {
+   "LUK 2:10": "O anjo lhes disse: Não temais. Eis que vos anuncio boas-novas de grande alegria, que será para todo o povo:",
+   "LUK 2:11": "hoje vos nasceu, na cidade de Davi, o Salvador, que é Cristo, o Senhor.",
+   "LUK 2:12": "Isto vos servirá de sinal: encontrareis o menino envolto em panos e deitado numa manjedoura."
+  },
+  "p1": [
+   {
+    "uid": "U1-LUK-002:010-1",
+    "ref": "LUK 2:10-2:12",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "divina_direta",
+    "natureza": null,
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Eis que vos anuncio boas-novas de grande alegria, que será para todo o povo",
+    "resumo": "Anúncio angélico aos pastores do nascimento do Salvador e do sinal para encontrá-lo."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-LUK-002:010-1",
+    "ref": "LUK 2:10-2:12",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "anjo do Senhor",
+    "ancora": "boas-novas de grande alegria",
+    "resumo": "Anjo anuncia aos pastores o nascimento do Salvador e o sinal do menino na manjedoura"
+   }
+  ]
+ },
+ {
+  "id": "F3-LUK-003",
+  "livro": "LUK",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "LUK 2:26",
+  "fim": "LUK 2:26",
+  "texto": {
+   "LUK 2:26": "O Espírito Santo lhe revelara que ele não veria a morte antes de ver o Cristo do Senhor."
+  },
+  "p1": [
+   {
+    "uid": "U1-LUK-002:026-1",
+    "ref": "LUK 2:26",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "espirito",
+    "ancora": "O Espírito Santo lhe revelara que ele não veria a morte antes de ver o Cristo do Senhor.",
+    "resumo": "Revelação do Espírito a Simeão de que não morreria antes de ver o Cristo."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-LUK-002:026-1",
+    "ref": "LUK 2:26",
+    "tipo": "cumprimento_narrado",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "Lucas",
+    "ancora": "ele não veria a morte antes de ver o Cristo do Senhor",
+    "resumo": "O Espírito revelara a Simeão que veria o Cristo antes de morrer"
+   }
+  ]
+ },
+ {
+  "id": "F3-LUK-004",
+  "livro": "LUK",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "LUK 6:21",
+  "fim": "LUK 6:21",
+  "texto": {
+   "LUK 6:21": "Bem-aventurados vós que agora tendes fome, porque sereis fartos. Bem-aventurados vós que agora chorais, porque rireis."
+  },
+  "p1": [
+   {
+    "uid": "U1-LUK-006:021-2",
+    "ref": "LUK 6:21",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "filho",
+    "ancora": "Bem-aventurados vós que agora chorais, porque rireis.",
+    "resumo": "Jesus promete aos que choram que rirão."
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-LUK-005",
+  "livro": "LUK",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "LUK 6:22",
+  "fim": "LUK 6:23",
+  "texto": {
+   "LUK 6:22": "Bem-aventurados sereis quando os homens vos odiarem, excluírem, insultarem e rejeitarem vosso nome como mau por causa do Filho do Homem.",
+   "LUK 6:23": "Alegrai-vos naquele dia e exultai, pois grande é vosso galardão no céu. Assim os pais deles faziam aos profetas."
+  },
+  "p1": [
+   {
+    "uid": "U1-LUK-006:022-1",
+    "ref": "LUK 6:22-6:23",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "filho",
+    "ancora": "Bem-aventurados sereis quando os homens vos odiarem, excluírem, insultarem e rejeitarem vosso nome como mau por causa do Filho do Homem.",
+    "resumo": "Jesus promete bênção e grande galardão no céu aos perseguidos por causa do Filho do Homem."
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-LUK-006",
+  "livro": "LUK",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "LUK 6:24",
+  "fim": "LUK 6:24",
+  "texto": {
+   "LUK 6:24": "Mas ai de vós, ricos, porque já recebestes vossa consolação."
+  },
+  "p1": [
+   {
+    "uid": "U1-LUK-006:024-1",
+    "ref": "LUK 6:24",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "filho",
+    "ancora": "Mas ai de vós, ricos, porque já recebestes vossa consolação.",
+    "resumo": "Jesus pronuncia ai sobre os ricos que já receberam consolação."
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-LUK-007",
+  "livro": "LUK",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "LUK 6:25",
+  "fim": "LUK 6:25",
+  "texto": {
+   "LUK 6:25": "Ai de vós que agora estais fartos, porque tereis fome. Ai de vós que agora rides, porque lamentareis e chorareis."
+  },
+  "p1": [
+   {
+    "uid": "U1-LUK-006:025-2",
+    "ref": "LUK 6:25",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "filho",
+    "ancora": "Ai de vós que agora rides, porque lamentareis e chorareis.",
+    "resumo": "Jesus pronuncia ai sobre os que riem, que lamentarão e chorarão."
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-LUK-008",
+  "livro": "LUK",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "LUK 6:26",
+  "fim": "LUK 6:26",
+  "texto": {
+   "LUK 6:26": "Ai de vós quando todos os homens falarem bem de vós, pois assim os pais deles faziam aos falsos profetas."
+  },
+  "p1": [
+   {
+    "uid": "U1-LUK-006:026-1",
+    "ref": "LUK 6:26",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "filho",
+    "ancora": "Ai de vós quando todos os homens falarem bem de vós, pois assim os pais deles faziam aos falsos profetas.",
+    "resumo": "Jesus pronuncia ai sobre os que recebem aprovação de todos, como os falsos profetas."
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-LUK-009",
+  "livro": "LUK",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "LUK 6:35",
+  "fim": "LUK 6:35",
+  "texto": {
+   "LUK 6:35": "Amai vossos inimigos, fazei o bem e emprestai sem nada esperar em troca. Vosso galardão será grande, e sereis filhos do Altíssimo, porque ele é bondoso até para com os ingratos e maus."
+  },
+  "p1": [
+   {
+    "uid": "U1-LUK-006:035-1",
+    "ref": "LUK 6:35",
+    "tipo": "mandamento",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Amai vossos inimigos, fazei o bem e emprestai sem nada esperar em troca. Vosso galardão será grande, e sereis filhos do Altíssimo, porque ele é bondoso até para com os ingratos e maus.",
+    "resumo": "Jesus ordena amar os inimigos e promete grande galardão e filiação ao Altíssimo."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-LUK-006:035-1",
+    "ref": "LUK 6:35",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "explicita",
+    "promitente": "filho",
+    "ancora": "Vosso galardão será grande, e sereis filhos do Altíssimo",
+    "resumo": "Galardão e filiação a quem ama os inimigos e faz o bem sem esperar retorno"
+   }
+  ]
+ },
+ {
+  "id": "F3-LUK-010",
+  "livro": "LUK",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "LUK 6:37",
+  "fim": "LUK 6:38",
+  "texto": {
+   "LUK 6:37": "Não julgueis, e não sereis julgados. Não condeneis, e não sereis condenados. Perdoai, e sereis perdoados.",
+   "LUK 6:38": "Dai, e ser-vos-á dado: boa medida, recalcada, sacudida e transbordante será colocada em vosso regaço. Pois com a medida com que medirdes vos medirão novamente."
+  },
+  "p1": [
+   {
+    "uid": "U1-LUK-006:037-1",
+    "ref": "LUK 6:37",
+    "tipo": "mandamento",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Não julgueis, e não sereis julgados.",
+    "resumo": "Jesus promete não ser julgado a quem não julga."
+   },
+   {
+    "uid": "U1-LUK-006:037-2",
+    "ref": "LUK 6:37",
+    "tipo": "mandamento",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Não condeneis, e não sereis condenados.",
+    "resumo": "Jesus promete não ser condenado a quem não condena."
+   },
+   {
+    "uid": "U1-LUK-006:037-3",
+    "ref": "LUK 6:37",
+    "tipo": "mandamento",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Perdoai, e sereis perdoados.",
+    "resumo": "Jesus promete perdão a quem perdoa."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-LUK-006:037-1",
+    "ref": "LUK 6:37-6:38",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "explicita",
+    "promitente": "filho",
+    "ancora": "não sereis julgados",
+    "resumo": "Quem não julga, não condena e perdoa não será julgado nem condenado e será perdoado; quem dá recebe boa medida"
+   }
+  ]
+ },
+ {
+  "id": "F3-LUK-011",
+  "livro": "LUK",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "LUK 7:47",
+  "fim": "LUK 7:50",
+  "texto": {
+   "LUK 7:47": "Por isso te digo: Seus muitos pecados lhe são perdoados, porque muito amou. Mas aquele a quem pouco se perdoa pouco ama.",
+   "LUK 7:48": "Então disse à mulher: Teus pecados te são perdoados.",
+   "LUK 7:49": "Os que estavam à mesa começaram a dizer entre si: Quem é este que até perdoa pecados?",
+   "LUK 7:50": "E Jesus disse à mulher: Tua fé te salvou. Vai em paz."
+  },
+  "p1": [
+   {
+    "uid": "U1-LUK-007:047-1",
+    "ref": "LUK 7:47-7:48",
+    "tipo": "declaracao_sem_compromisso",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Seus muitos pecados lhe são perdoados",
+    "resumo": "Jesus declara perdoados os pecados da mulher."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-LUK-007:047-1",
+    "ref": "LUK 7:47-7:50",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "filho",
+    "ancora": "Seus muitos pecados lhe são perdoados",
+    "resumo": "Jesus declara perdoada e salva a mulher pecadora que o ungiu"
+   }
+  ]
+ },
+ {
+  "id": "F3-LUK-012",
+  "livro": "LUK",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "LUK 8:48",
+  "fim": "LUK 8:48",
+  "texto": {
+   "LUK 8:48": "Ele lhe disse: Tem bom ânimo, filha. Tua fé te salvou. Vai em paz."
+  },
+  "p1": [
+   {
+    "uid": "U1-LUK-008:048-1",
+    "ref": "LUK 8:48",
+    "tipo": "declaracao_sem_compromisso",
+    "origem": "divina_direta",
+    "natureza": null,
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Tua fé te salvou.",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-LUK-008:048-1",
+    "ref": "LUK 8:48",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "filho",
+    "ancora": "Tua fé te salvou",
+    "resumo": "Jesus à mulher do fluxo de sangue"
+   }
+  ]
+ },
+ {
+  "id": "F3-LUK-013",
+  "livro": "LUK",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "LUK 9:23",
+  "fim": "LUK 9:24",
+  "texto": {
+   "LUK 9:23": "Então dizia a todos: Se alguém quer vir após mim, negue-se a si mesmo, tome diariamente sua cruz e siga-me.",
+   "LUK 9:24": "Pois quem quiser salvar sua vida a perderá, mas quem perder sua vida por minha causa a salvará."
+  },
+  "p1": [
+   {
+    "uid": "U1-LUK-009:024-1",
+    "ref": "LUK 9:24",
+    "tipo": "principio_sapiencial",
+    "origem": "indeterminada",
+    "natureza": null,
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Pois quem quiser salvar sua vida a perderá, mas quem perder sua vida por minha causa a salvará.",
+    "resumo": "Princípio de perda e salvação da vida por causa de Jesus."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-LUK-009:023-1",
+    "ref": "LUK 9:23-9:24",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "explicita",
+    "promitente": "filho",
+    "ancora": "quem perder sua vida por minha causa a salvará",
+    "resumo": "Quem perder a vida por causa de Jesus a salvará"
+   }
+  ]
+ },
+ {
+  "id": "F3-LUK-014",
+  "livro": "LUK",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "LUK 10:13",
+  "fim": "LUK 10:14",
+  "texto": {
+   "LUK 10:13": "Ai de ti, Corazim! Ai de ti, Betsaida! Se em Tiro e Sidom tivessem sido realizados os milagres feitos em vós, há muito teriam se arrependido, assentadas em saco e cinza.",
+   "LUK 10:14": "Por isso haverá mais tolerância no juízo para Tiro e Sidom do que para vós."
+  },
+  "p1": [
+   {
+    "uid": "U1-LUK-010:013-1",
+    "ref": "LUK 10:13-10:14",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "filho",
+    "ancora": "Ai de ti, Corazim! Ai de ti, Betsaida!",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-LUK-015",
+  "livro": "LUK",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "LUK 10:20",
+  "fim": "LUK 10:20",
+  "texto": {
+   "LUK 10:20": "Contudo, não vos alegreis porque os espíritos se vos sujeitam. Alegrai-vos, antes, porque vossos nomes estão escritos nos céus."
+  },
+  "p1": [
+   {
+    "uid": "U1-LUK-010:020-1",
+    "ref": "LUK 10:20",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "filho",
+    "ancora": "vossos nomes estão escritos nos céus",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-LUK-016",
+  "livro": "LUK",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "LUK 10:35",
+  "fim": "LUK 10:35",
+  "texto": {
+   "LUK 10:35": "No dia seguinte, tirou dois denários, entregou-os ao hospedeiro e disse: Cuida dele. Quando eu voltar, pagarei tudo o que gastares a mais."
+  },
+  "p1": [
+   {
+    "uid": "U1-LUK-010:035-1",
+    "ref": "LUK 10:35",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "samaritano",
+    "ancora": "pagarei tudo o que gastares a mais.",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-LUK-017",
+  "livro": "LUK",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "LUK 11:9",
+  "fim": "LUK 11:10",
+  "texto": {
+   "LUK 11:9": "Por isso vos digo: Pedi, e ser-vos-á dado. Buscai, e achareis. Batei, e abrir-se-vos-á.",
+   "LUK 11:10": "Pois todo o que pede recebe, quem busca acha, e a quem bate se abrirá."
+  },
+  "p1": [
+   {
+    "uid": "U1-LUK-011:009-1",
+    "ref": "LUK 11:9-11:10",
+    "tipo": "mandamento",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Pedi, e ser-vos-á dado.",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-LUK-011:009-1",
+    "ref": "LUK 11:9-11:10",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "explicita",
+    "promitente": "filho",
+    "ancora": "Pedi, e ser-vos-á dado",
+    "resumo": "Quem pede recebe, quem busca acha, a quem bate se abrirá"
+   }
+  ]
+ },
+ {
+  "id": "F3-LUK-018",
+  "livro": "LUK",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "LUK 11:29",
+  "fim": "LUK 11:32",
+  "texto": {
+   "LUK 11:29": "Como as multidões aumentavam, Jesus começou a dizer: Esta geração é má. Ela pede um sinal, mas nenhum sinal lhe será dado, exceto o sinal do profeta Jonas.",
+   "LUK 11:30": "Assim como Jonas foi sinal para os ninivitas, também o Filho do Homem será sinal para esta geração.",
+   "LUK 11:31": "A rainha do Sul se levantará no juízo com os homens desta geração e os condenará, porque veio dos confins da terra para ouvir a sabedoria de Salomão. E eis aqui quem é maior que Salomão.",
+   "LUK 11:32": "Os homens de Nínive se levantarão no juízo com esta geração e a condenarão, porque se arrependeram com a pregação de Jonas. E eis aqui quem é maior que Jonas."
+  },
+  "p1": [
+   {
+    "uid": "U1-LUK-011:029-1",
+    "ref": "LUK 11:29-11:30",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "nenhum sinal lhe será dado, exceto o sinal do profeta Jonas.",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-LUK-011:029-1",
+    "ref": "LUK 11:29-11:32",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "filho",
+    "ancora": "nenhum sinal lhe será dado, exceto o sinal do profeta Jonas",
+    "resumo": "Esta geração será condenada no juízo e só receberá o sinal de Jonas"
+   }
+  ]
+ },
+ {
+  "id": "F3-LUK-019",
+  "livro": "LUK",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "LUK 11:41",
+  "fim": "LUK 11:41",
+  "texto": {
+   "LUK 11:41": "Dai, porém, como esmola o que tendes, e eis que tudo vos será limpo."
+  },
+  "p1": [
+   {
+    "uid": "U1-LUK-011:041-1",
+    "ref": "LUK 11:41",
+    "tipo": "mandamento",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Dai, porém, como esmola o que tendes, e eis que tudo vos será limpo.",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-LUK-011:041-1",
+    "ref": "LUK 11:41",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "explicita",
+    "promitente": "filho",
+    "ancora": "tudo vos será limpo",
+    "resumo": "Quem der esmola do que tem terá tudo limpo"
+   }
+  ]
+ },
+ {
+  "id": "F3-LUK-020",
+  "livro": "LUK",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "LUK 11:42",
+  "fim": "LUK 11:42",
+  "texto": {
+   "LUK 11:42": "Ai de vós, fariseus, porque dais o dízimo da hortelã, da arruda e de toda hortaliça, mas desprezais o juízo e o amor de Deus. Devíeis fazer estas coisas sem deixar as outras."
+  },
+  "p1": [
+   {
+    "uid": "U1-LUK-011:042-1",
+    "ref": "LUK 11:42",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "filho",
+    "ancora": "Ai de vós, fariseus, porque dais o dízimo da hortelã, da arruda e de toda hortaliça, mas desprezais o juízo e o amor de Deus.",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-LUK-021",
+  "livro": "LUK",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "LUK 11:43",
+  "fim": "LUK 11:43",
+  "texto": {
+   "LUK 11:43": "Ai de vós, fariseus, porque amais os primeiros assentos nas sinagogas e as saudações nas praças."
+  },
+  "p1": [
+   {
+    "uid": "U1-LUK-011:043-1",
+    "ref": "LUK 11:43",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "filho",
+    "ancora": "Ai de vós, fariseus, porque amais os primeiros assentos nas sinagogas e as saudações nas praças.",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-LUK-022",
+  "livro": "LUK",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "LUK 11:44",
+  "fim": "LUK 11:44",
+  "texto": {
+   "LUK 11:44": "Ai de vós, escribas e fariseus hipócritas, porque sois como sepulturas invisíveis, sobre as quais os homens andam sem saber."
+  },
+  "p1": [
+   {
+    "uid": "U1-LUK-011:044-1",
+    "ref": "LUK 11:44",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "filho",
+    "ancora": "Ai de vós, escribas e fariseus hipócritas, porque sois como sepulturas invisíveis, sobre as quais os homens andam sem saber.",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-LUK-023",
+  "livro": "LUK",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "LUK 11:46",
+  "fim": "LUK 11:46",
+  "texto": {
+   "LUK 11:46": "Jesus disse: Ai de vós também, mestres da Lei, porque carregais os homens com cargas difíceis de suportar, mas vós mesmos não tocais nessas cargas nem com um dedo."
+  },
+  "p1": [
+   {
+    "uid": "U1-LUK-011:046-1",
+    "ref": "LUK 11:46",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "filho",
+    "ancora": "Ai de vós também, mestres da Lei, porque carregais os homens com cargas difíceis de suportar, mas vós mesmos não tocais nessas cargas nem com um dedo.",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-LUK-024",
+  "livro": "LUK",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "LUK 11:47",
+  "fim": "LUK 11:48",
+  "texto": {
+   "LUK 11:47": "Ai de vós, porque edificais os sepulcros dos profetas que vossos pais mataram.",
+   "LUK 11:48": "Assim testemunhais que consentis nas obras de vossos pais. Eles mataram os profetas, e vós edificais seus sepulcros."
+  },
+  "p1": [
+   {
+    "uid": "U1-LUK-011:047-1",
+    "ref": "LUK 11:47-11:48",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "filho",
+    "ancora": "Ai de vós, porque edificais os sepulcros dos profetas que vossos pais mataram.",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-LUK-025",
+  "livro": "LUK",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "LUK 11:49",
+  "fim": "LUK 11:51",
+  "texto": {
+   "LUK 11:49": "Por isso também disse a sabedoria de Deus: Enviar-lhes-ei profetas e apóstolos. Eles matarão alguns e perseguirão outros,",
+   "LUK 11:50": "para que desta geração seja requerido o sangue de todos os profetas derramado desde a fundação do mundo,",
+   "LUK 11:51": "desde o sangue de Abel até o sangue de Zacarias, morto entre o altar e o templo. Sim, digo-vos, será requerido desta geração."
+  },
+  "p1": [
+   {
+    "uid": "U1-LUK-011:049-1",
+    "ref": "LUK 11:49-11:51",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Enviar-lhes-ei profetas e apóstolos.",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-LUK-026",
+  "livro": "LUK",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "LUK 11:52",
+  "fim": "LUK 11:52",
+  "texto": {
+   "LUK 11:52": "Ai de vós, mestres da Lei, porque tomastes a chave do conhecimento. Vós mesmos não entrastes e impedistes os que entravam."
+  },
+  "p1": [
+   {
+    "uid": "U1-LUK-011:052-1",
+    "ref": "LUK 11:52",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "filho",
+    "ancora": "Ai de vós, mestres da Lei, porque tomastes a chave do conhecimento.",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-LUK-027",
+  "livro": "LUK",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "LUK 12:10",
+  "fim": "LUK 12:10",
+  "texto": {
+   "LUK 12:10": "Todo aquele que disser uma palavra contra o Filho do Homem será perdoado, mas quem blasfemar contra o Espírito Santo não será perdoado."
+  },
+  "p1": [
+   {
+    "uid": "U1-LUK-012:010-1",
+    "ref": "LUK 12:10",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "explicita",
+    "promitente": "filho",
+    "ancora": "Todo aquele que disser uma palavra contra o Filho do Homem será perdoado",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-LUK-028",
+  "livro": "LUK",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "LUK 12:10",
+  "fim": "LUK 12:10",
+  "texto": {
+   "LUK 12:10": "Todo aquele que disser uma palavra contra o Filho do Homem será perdoado, mas quem blasfemar contra o Espírito Santo não será perdoado."
+  },
+  "p1": [
+   {
+    "uid": "U1-LUK-012:010-2",
+    "ref": "LUK 12:10",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": "explicita",
+    "promitente": "filho",
+    "ancora": "quem blasfemar contra o Espírito Santo não será perdoado",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-LUK-029",
+  "livro": "LUK",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "LUK 12:20",
+  "fim": "LUK 12:20",
+  "texto": {
+   "LUK 12:20": "Mas Deus lhe disse: Insensato, esta noite tua alma será requerida de ti. Então, para quem será o que preparaste?"
+  },
+  "p1": [
+   {
+    "uid": "U1-LUK-012:020-1",
+    "ref": "LUK 12:20",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "esta noite tua alma será requerida de ti",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-LUK-012:020-1",
+    "ref": "LUK 12:20",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "esta noite tua alma será requerida de ti",
+    "resumo": "Deus declara ao rico insensato que morrerá naquela noite"
+   }
+  ]
+ },
+ {
+  "id": "F3-LUK-030",
+  "livro": "LUK",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "LUK 12:31",
+  "fim": "LUK 12:31",
+  "texto": {
+   "LUK 12:31": "Buscai antes o Reino de Deus, e todas essas coisas vos serão acrescentadas."
+  },
+  "p1": [
+   {
+    "uid": "U1-LUK-012:031-1",
+    "ref": "LUK 12:31",
+    "tipo": "mandamento",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Buscai antes o Reino de Deus, e todas essas coisas vos serão acrescentadas.",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-LUK-012:031-1",
+    "ref": "LUK 12:31",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "explicita",
+    "promitente": "filho",
+    "ancora": "todas essas coisas vos serão acrescentadas",
+    "resumo": "Quem buscar o Reino receberá o que necessita"
+   }
+  ]
+ },
+ {
+  "id": "F3-LUK-031",
+  "livro": "LUK",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "LUK 12:37",
+  "fim": "LUK 12:38",
+  "texto": {
+   "LUK 12:37": "Bem-aventurados os servos que o senhor, ao chegar, encontrar vigiando. Em verdade vos digo que ele se cingirá, os fará reclinar-se à mesa e os servirá.",
+   "LUK 12:38": "Se ele vier na segunda vigília ou na terceira e os encontrar assim, bem-aventurados são aqueles servos."
+  },
+  "p1": [
+   {
+    "uid": "U1-LUK-012:037-1",
+    "ref": "LUK 12:37-12:38",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "explicita",
+    "promitente": "filho",
+    "ancora": "Bem-aventurados os servos que o senhor, ao chegar, encontrar vigiando.",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-LUK-032",
+  "livro": "LUK",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "LUK 12:43",
+  "fim": "LUK 12:44",
+  "texto": {
+   "LUK 12:43": "Bem-aventurado aquele servo a quem seu senhor, quando vier, encontrar procedendo assim.",
+   "LUK 12:44": "Em verdade vos digo que o porá sobre todos os seus bens."
+  },
+  "p1": [
+   {
+    "uid": "U1-LUK-012:043-1",
+    "ref": "LUK 12:43-12:44",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "explicita",
+    "promitente": "filho",
+    "ancora": "Bem-aventurado aquele servo a quem seu senhor, quando vier, encontrar procedendo assim.",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-LUK-033",
+  "livro": "LUK",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "LUK 12:45",
+  "fim": "LUK 12:46",
+  "texto": {
+   "LUK 12:45": "Mas, se aquele servo disser em seu coração: Meu senhor demora a voltar, e começar a espancar criados e criadas, a comer, beber e embriagar-se,",
+   "LUK 12:46": "o senhor daquele servo virá num dia em que não o espera e numa hora que não conhece. Ele o separará e lhe dará parte com os infiéis."
+  },
+  "p1": [
+   {
+    "uid": "U1-LUK-012:045-1",
+    "ref": "LUK 12:45-12:46",
+    "tipo": "advertencia",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "o senhor daquele servo virá num dia em que não o espera e numa hora que não conhece",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-LUK-012:045-1",
+    "ref": "LUK 12:45-12:46",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": "explicita",
+    "promitente": "filho",
+    "ancora": "o senhor daquele servo virá num dia em que não o espera",
+    "resumo": "O servo infiel será separado e terá parte com os infiéis"
+   }
+  ]
+ },
+ {
+  "id": "F3-LUK-034",
+  "livro": "LUK",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "LUK 12:47",
+  "fim": "LUK 12:48",
+  "texto": {
+   "LUK 12:47": "O servo que conheceu a vontade de seu senhor, mas não se preparou nem agiu conforme essa vontade, receberá muitos açoites.",
+   "LUK 12:48": "Mas aquele que não a conheceu e fez coisas dignas de castigo receberá poucos açoites. A quem muito foi dado, muito será exigido; e a quem muito se confiou, muito mais se pedirá."
+  },
+  "p1": [
+   {
+    "uid": "U1-LUK-012:047-1",
+    "ref": "LUK 12:47",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": "explicita",
+    "promitente": "filho",
+    "ancora": "receberá muitos açoites",
+    "resumo": "(resumo não informado pelo leitor)"
+   },
+   {
+    "uid": "U1-LUK-012:048-1",
+    "ref": "LUK 12:48",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": "explicita",
+    "promitente": "filho",
+    "ancora": "receberá poucos açoites",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-LUK-012:047-1",
+    "ref": "LUK 12:47-12:48",
+    "tipo": "advertencia",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "receberá muitos açoites",
+    "resumo": "O servo que conheceu a vontade do senhor e não a fez receberá muitos açoites"
+   }
+  ]
+ },
+ {
+  "id": "F3-LUK-035",
+  "livro": "LUK",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "LUK 13:8",
+  "fim": "LUK 13:9",
+  "texto": {
+   "LUK 13:8": "Ele respondeu: Senhor, deixa-a ainda este ano, até que eu cave ao redor e a adube.",
+   "LUK 13:9": "Se der fruto, deixa-a ficar; caso contrário, depois a cortarás."
+  },
+  "p1": [
+   {
+    "uid": "U1-LUK-013:008-1",
+    "ref": "LUK 13:8-13:9",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "explicita",
+    "promitente": "vinhateiro",
+    "ancora": "até que eu cave ao redor e a adube",
+    "resumo": "Proposta do vinhateiro: cuidar da figueira mais um ano; se der fruto, deixa-se; senão, corta-se."
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-LUK-036",
+  "livro": "LUK",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "LUK 13:29",
+  "fim": "LUK 13:29",
+  "texto": {
+   "LUK 13:29": "Virão do oriente, do ocidente, do norte e do sul e se assentarão à mesa no Reino de Deus."
+  },
+  "p1": [
+   {
+    "uid": "U1-LUK-013:029-1",
+    "ref": "LUK 13:29",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Virão do oriente, do ocidente, do norte e do sul e se assentarão à mesa no Reino de Deus.",
+    "resumo": "Proclamação de que muitos virão de todas as direções e se assentarão à mesa no Reino de Deus."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-LUK-013:029-1",
+    "ref": "LUK 13:29",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "humanidade",
+    "condicao": null,
+    "promitente": "filho",
+    "ancora": "Virão do oriente, do ocidente, do norte e do sul e se assentarão à mesa no Reino de Deus",
+    "resumo": "Virão de todos os pontos e se assentarão à mesa no Reino"
+   }
+  ]
+ },
+ {
+  "id": "F3-LUK-037",
+  "livro": "LUK",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "LUK 14:24",
+  "fim": "LUK 14:24",
+  "texto": {
+   "LUK 14:24": "Pois vos digo que nenhum daqueles homens que foram convidados provará minha ceia."
+  },
+  "p1": [
+   {
+    "uid": "U1-LUK-014:024-1",
+    "ref": "LUK 14:24",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "filho",
+    "ancora": "nenhum daqueles homens que foram convidados provará minha ceia",
+    "resumo": "Declaração de juízo sobre os convidados que recusaram."
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-LUK-038",
+  "livro": "LUK",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "LUK 15:31",
+  "fim": "LUK 15:31",
+  "texto": {
+   "LUK 15:31": "O pai lhe disse: Filho, tu sempre estás comigo, e tudo o que é meu é teu."
+  },
+  "p1": [
+   {
+    "uid": "U1-LUK-015:031-1",
+    "ref": "LUK 15:31",
+    "tipo": "declaracao_sem_compromisso",
+    "origem": "humana_em_nome_proprio",
+    "natureza": null,
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "O pai lhe disse: Filho, tu sempre estás comigo, e tudo o que é meu é teu.",
+    "resumo": "O pai assegura ao filho mais velho que está com ele e que tudo o que é do pai é dele."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-LUK-015:031-1",
+    "ref": "LUK 15:31",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "filho",
+    "ancora": "tudo o que é meu é teu",
+    "resumo": "O pai da parábola garante ao filho mais velho tudo o que é seu"
+   }
+  ]
+ },
+ {
+  "id": "F3-LUK-039",
+  "livro": "LUK",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "LUK 16:2",
+  "fim": "LUK 16:2",
+  "texto": {
+   "LUK 16:2": "Chamando-o, perguntou: Que é isso que ouço a teu respeito? Presta contas de tua administração, porque já não poderás continuar administrando."
+  },
+  "p1": [
+   {
+    "uid": "U1-LUK-016:002-1",
+    "ref": "LUK 16:2",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "o senhor",
+    "ancora": "já não poderás continuar administrando",
+    "resumo": "O senhor decide retirar do administrador a administração"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-LUK-040",
+  "livro": "LUK",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "LUK 16:9",
+  "fim": "LUK 16:9",
+  "texto": {
+   "LUK 16:9": "Eu vos digo: Fazei amigos para vós com as riquezas da injustiça, para que, quando vos faltarem, eles vos recebam nos tabernáculos eternos."
+  },
+  "p1": [
+   {
+    "uid": "U1-LUK-016:009-1",
+    "ref": "LUK 16:9",
+    "tipo": "mandamento",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Fazei amigos para vós com as riquezas da injustiça, para que, quando vos faltarem, eles vos recebam nos tabernáculos eternos",
+    "resumo": "Mandamento de usar as riquezas com a promessa de acolhimento nos tabernáculos eternos"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-LUK-016:009-1",
+    "ref": "LUK 16:9",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "explicita",
+    "promitente": "filho",
+    "ancora": "para que, quando vos faltarem, eles vos recebam nos tabernáculos eternos",
+    "resumo": "Quem fizer amigos com as riquezas será recebido nos tabernáculos eternos"
+   }
+  ]
+ },
+ {
+  "id": "F3-LUK-041",
+  "livro": "LUK",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "LUK 17:1",
+  "fim": "LUK 17:1",
+  "texto": {
+   "LUK 17:1": "Jesus disse a seus discípulos: É impossível que não venham tropeços, mas ai daquele por quem vierem!"
+  },
+  "p1": [
+   {
+    "uid": "U1-LUK-017:001-1",
+    "ref": "LUK 17:1",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "filho",
+    "ancora": "ai daquele por quem vierem!",
+    "resumo": "Jesus pronuncia ai sobre aquele por quem vêm os tropeços."
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-LUK-042",
+  "livro": "LUK",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "LUK 17:6",
+  "fim": "LUK 17:6",
+  "texto": {
+   "LUK 17:6": "O Senhor respondeu: Se tivésseis fé como um grão de mostarda, diríeis a esta amoreira: Arranca-te pela raiz e planta-te no mar, e ela vos obedeceria."
+  },
+  "p1": [
+   {
+    "uid": "U1-LUK-017:006-1",
+    "ref": "LUK 17:6",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "explicita",
+    "promitente": "filho",
+    "ancora": "Se tivésseis fé como um grão de mostarda, diríeis a esta amoreira: Arranca-te pela raiz e planta-te no mar, e ela vos obedeceria.",
+    "resumo": "Jesus garante aos apóstolos que a fé, ainda pequena, faria a amoreira obedecer."
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-LUK-043",
+  "livro": "LUK",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "LUK 17:33",
+  "fim": "LUK 17:33",
+  "texto": {
+   "LUK 17:33": "Quem procurar salvar sua vida a perderá, e quem a perder a conservará."
+  },
+  "p1": [
+   {
+    "uid": "U1-LUK-017:033-1",
+    "ref": "LUK 17:33",
+    "tipo": "principio_sapiencial",
+    "origem": "indeterminada",
+    "natureza": null,
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Quem procurar salvar sua vida a perderá, e quem a perder a conservará.",
+    "resumo": "Jesus enuncia o princípio de que perder a vida é conservá-la."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-LUK-017:033-1",
+    "ref": "LUK 17:33",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "explicita",
+    "promitente": "filho",
+    "ancora": "Quem procurar salvar sua vida a perderá, e quem a perder a conservará",
+    "resumo": "Quem perder a vida a conservará"
+   }
+  ]
+ },
+ {
+  "id": "F3-LUK-044",
+  "livro": "LUK",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "LUK 18:5",
+  "fim": "LUK 18:5",
+  "texto": {
+   "LUK 18:5": "farei justiça a esta viúva, porque ela me incomoda, para que não continue vindo e por fim me fatigue."
+  },
+  "p1": [
+   {
+    "uid": "U1-LUK-018:005-1",
+    "ref": "LUK 18:5",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "juiz injusto",
+    "ancora": "farei justiça a esta viúva",
+    "resumo": "O juiz decide fazer justiça à viúva que insiste."
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-LUK-045",
+  "livro": "LUK",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "LUK 19:8",
+  "fim": "LUK 19:8",
+  "texto": {
+   "LUK 19:8": "Zaqueu levantou-se e disse ao Senhor: Senhor, darei aos pobres metade de meus bens; e, se defraudei alguém em alguma coisa, restituirei quatro vezes mais."
+  },
+  "p1": [
+   {
+    "uid": "U1-LUK-019:008-1",
+    "ref": "LUK 19:8",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "Zaqueu",
+    "ancora": "darei aos pobres metade de meus bens",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-LUK-046",
+  "livro": "LUK",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "LUK 19:8",
+  "fim": "LUK 19:8",
+  "texto": {
+   "LUK 19:8": "Zaqueu levantou-se e disse ao Senhor: Senhor, darei aos pobres metade de meus bens; e, se defraudei alguém em alguma coisa, restituirei quatro vezes mais."
+  },
+  "p1": [
+   {
+    "uid": "U1-LUK-019:008-2",
+    "ref": "LUK 19:8",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "explicita",
+    "promitente": "Zaqueu",
+    "ancora": "se defraudei alguém em alguma coisa, restituirei quatro vezes mais",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-LUK-047",
+  "livro": "LUK",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "LUK 19:17",
+  "fim": "LUK 19:17",
+  "texto": {
+   "LUK 19:17": "Ele respondeu: Muito bem, servo bom! Porque foste fiel numa coisa pequena, recebe autoridade sobre dez cidades."
+  },
+  "p1": [
+   {
+    "uid": "U1-LUK-019:017-1",
+    "ref": "LUK 19:17",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "explicita",
+    "promitente": "o senhor",
+    "ancora": "recebe autoridade sobre dez cidades",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-LUK-048",
+  "livro": "LUK",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "LUK 19:19",
+  "fim": "LUK 19:19",
+  "texto": {
+   "LUK 19:19": "A este respondeu: Tu também governarás cinco cidades."
+  },
+  "p1": [
+   {
+    "uid": "U1-LUK-019:019-1",
+    "ref": "LUK 19:19",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "o senhor",
+    "ancora": "Tu também governarás cinco cidades",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-LUK-049",
+  "livro": "LUK",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "LUK 19:22",
+  "fim": "LUK 19:22",
+  "texto": {
+   "LUK 19:22": "O senhor lhe respondeu: Servo mau, julgarei a partir de tuas próprias palavras. Sabias que sou homem severo, que retiro o que não depositei e colho o que não semeei."
+  },
+  "p1": [
+   {
+    "uid": "U1-LUK-019:022-1",
+    "ref": "LUK 19:22",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "o senhor",
+    "ancora": "julgarei a partir de tuas próprias palavras",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-LUK-050",
+  "livro": "LUK",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "LUK 20:16",
+  "fim": "LUK 20:16",
+  "texto": {
+   "LUK 20:16": "Ele virá, destruirá esses lavradores e dará a vinha a outros. Ao ouvirem isso, disseram: Que isso jamais aconteça!"
+  },
+  "p1": [
+   {
+    "uid": "U1-LUK-020:016-1",
+    "ref": "LUK 20:16",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Ele virá, destruirá esses lavradores e dará a vinha a outros.",
+    "resumo": "Jesus prediz, na parábola, que o dono da vinha virá, destruirá os lavradores e entregará a vinha a outros."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-LUK-020:016-1",
+    "ref": "LUK 20:16",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "filho",
+    "ancora": "Ele virá, destruirá esses lavradores e dará a vinha a outros",
+    "resumo": "Na parábola, o dono destruirá os lavradores e dará a vinha a outros"
+   }
+  ]
+ },
+ {
+  "id": "F3-LUK-051",
+  "livro": "LUK",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "LUK 21:13",
+  "fim": "LUK 21:13",
+  "texto": {
+   "LUK 21:13": "Isso vos servirá de ocasião para testemunhar."
+  },
+  "p1": [
+   {
+    "uid": "U1-LUK-021:013-1",
+    "ref": "LUK 21:13",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "filho",
+    "ancora": "Isso vos servirá de ocasião para testemunhar",
+    "resumo": "A perseguição será oportunidade de testemunho"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-LUK-052",
+  "livro": "LUK",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "LUK 21:14",
+  "fim": "LUK 21:15",
+  "texto": {
+   "LUK 21:14": "Decidi, portanto, em vosso coração não preparar antecipadamente vossa defesa.",
+   "LUK 21:15": "Pois eu vos darei palavras e sabedoria às quais nenhum de vossos adversários poderá resistir ou contradizer."
+  },
+  "p1": [
+   {
+    "uid": "U1-LUK-021:014-1",
+    "ref": "LUK 21:14-21:15",
+    "tipo": "mandamento",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "eu vos darei palavras e sabedoria",
+    "resumo": "Jesus promete palavras e sabedoria aos discípulos perseguidos"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-LUK-021:015-1",
+    "ref": "LUK 21:15",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "filho",
+    "ancora": "eu vos darei palavras e sabedoria às quais nenhum de vossos adversários poderá resistir",
+    "resumo": "Jesus dará palavras e sabedoria diante dos adversários"
+   }
+  ]
+ },
+ {
+  "id": "F3-LUK-053",
+  "livro": "LUK",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "LUK 21:28",
+  "fim": "LUK 21:28",
+  "texto": {
+   "LUK 21:28": "Quando essas coisas começarem a acontecer, endireitai-vos e levantai a cabeça, porque vossa redenção se aproxima."
+  },
+  "p1": [
+   {
+    "uid": "U1-LUK-021:028-1",
+    "ref": "LUK 21:28",
+    "tipo": "mandamento",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "vossa redenção se aproxima",
+    "resumo": "Asserção de que a redenção dos discípulos se aproxima"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-LUK-021:028-1",
+    "ref": "LUK 21:28",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "explicita",
+    "promitente": "filho",
+    "ancora": "vossa redenção se aproxima",
+    "resumo": "Quando essas coisas começarem, a redenção dos discípulos se aproxima"
+   }
+  ]
+ },
+ {
+  "id": "F3-LUK-054",
+  "livro": "LUK",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "LUK 21:33",
+  "fim": "LUK 21:33",
+  "texto": {
+   "LUK 21:33": "O céu e a terra passarão, mas minhas palavras jamais passarão."
+  },
+  "p1": [
+   {
+    "uid": "U1-LUK-021:033-1",
+    "ref": "LUK 21:33",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "filho",
+    "ancora": "minhas palavras jamais passarão",
+    "resumo": "Jesus garante a permanência de suas palavras"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-LUK-055",
+  "livro": "LUK",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "LUK 22:4",
+  "fim": "LUK 22:6",
+  "texto": {
+   "LUK 22:4": "Judas foi conversar com os chefes dos sacerdotes e os capitães do templo sobre como lhes entregaria Jesus.",
+   "LUK 22:5": "Eles se alegraram e combinaram dar-lhe dinheiro.",
+   "LUK 22:6": "Judas concordou e começou a procurar uma ocasião para entregá-lo sem a presença da multidão."
+  },
+  "p1": [
+   {
+    "uid": "U1-LUK-022:004-1",
+    "ref": "LUK 22:4-22:6",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "Judas",
+    "ancora": "sobre como lhes entregaria Jesus",
+    "resumo": "Judas se compromete a entregar Jesus aos chefes dos sacerdotes e capitães do templo"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-LUK-056",
+  "livro": "LUK",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "LUK 22:5",
+  "fim": "LUK 22:5",
+  "texto": {
+   "LUK 22:5": "Eles se alegraram e combinaram dar-lhe dinheiro."
+  },
+  "p1": [
+   {
+    "uid": "U1-LUK-022:005-1",
+    "ref": "LUK 22:5",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "os chefes dos sacerdotes",
+    "ancora": "combinaram dar-lhe dinheiro",
+    "resumo": "os chefes dos sacerdotes combinam pagar dinheiro a Judas"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-LUK-057",
+  "livro": "LUK",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "LUK 22:16",
+  "fim": "LUK 22:16",
+  "texto": {
+   "LUK 22:16": "Pois vos digo que não tornarei a comê-la até que ela se cumpra no Reino de Deus."
+  },
+  "p1": [
+   {
+    "uid": "U1-LUK-022:016-1",
+    "ref": "LUK 22:16",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "filho",
+    "ancora": "não tornarei a comê-la até que ela se cumpra no Reino de Deus",
+    "resumo": "Jesus declara que não voltará a comer a Páscoa até seu cumprimento no Reino de Deus"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-LUK-022:016-1",
+    "ref": "LUK 22:16",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "não tornarei a comê-la até que ela se cumpra no Reino de Deus",
+    "resumo": "Jesus não comerá a Páscoa até o cumprimento no Reino"
+   }
+  ]
+ },
+ {
+  "id": "F3-LUK-058",
+  "livro": "LUK",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "LUK 22:18",
+  "fim": "LUK 22:18",
+  "texto": {
+   "LUK 22:18": "Pois vos digo que não beberei do fruto da videira até que venha o Reino de Deus."
+  },
+  "p1": [
+   {
+    "uid": "U1-LUK-022:018-1",
+    "ref": "LUK 22:18",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "filho",
+    "ancora": "não beberei do fruto da videira até que venha o Reino de Deus",
+    "resumo": "Jesus declara que não beberá do fruto da videira até a vinda do Reino de Deus"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-LUK-022:018-1",
+    "ref": "LUK 22:18",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "não beberei do fruto da videira até que venha o Reino de Deus",
+    "resumo": "Jesus não beberá do fruto da videira até que venha o Reino"
+   }
+  ]
+ },
+ {
+  "id": "F3-LUK-059",
+  "livro": "LUK",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "LUK 22:22",
+  "fim": "LUK 22:22",
+  "texto": {
+   "LUK 22:22": "O Filho do Homem segue conforme o que foi determinado, mas ai daquele homem por meio de quem ele é traído!"
+  },
+  "p1": [
+   {
+    "uid": "U1-LUK-022:022-1",
+    "ref": "LUK 22:22",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "filho",
+    "ancora": "ai daquele homem por meio de quem ele é traído",
+    "resumo": "sentença de ai sobre o homem que entrega o Filho do Homem"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-LUK-022:022-1",
+    "ref": "LUK 22:22",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "ai daquele homem por meio de quem ele é traído",
+    "resumo": "Ai do traidor"
+   }
+  ]
+ },
+ {
+  "id": "F3-LUK-060",
+  "livro": "LUK",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "LUK 22:32",
+  "fim": "LUK 22:32",
+  "texto": {
+   "LUK 22:32": "Eu, porém, orei por ti para que tua fé não desfaleça. E tu, quando voltares, fortalece teus irmãos."
+  },
+  "p1": [
+   {
+    "uid": "U1-LUK-022:032-1",
+    "ref": "LUK 22:32",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "filho",
+    "ancora": "orei por ti para que tua fé não desfaleça",
+    "resumo": "Jesus assegura a Simão que sua fé não desfalecerá"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-LUK-061",
+  "livro": "LUK",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "LUK 23:16",
+  "fim": "LUK 23:16",
+  "texto": {
+   "LUK 23:16": "Portanto, mandarei castigá-lo e depois o soltarei."
+  },
+  "p1": [
+   {
+    "uid": "U1-LUK-023:016-1",
+    "ref": "LUK 23:16",
+    "tipo": "indeterminada",
+    "origem": "humana_em_nome_proprio",
+    "natureza": null,
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "Pilatos",
+    "ancora": "mandarei castigá-lo e depois o soltarei",
+    "resumo": "Pilatos declara sua intenção de castigar e depois soltar Jesus."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-LUK-023:016-1",
+    "ref": "LUK 23:16",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "Pilatos",
+    "ancora": "mandarei castigá-lo e depois o soltarei",
+    "resumo": "Pilatos declara que mandará castigar Jesus e depois o soltará"
+   }
+  ]
+ }
+]

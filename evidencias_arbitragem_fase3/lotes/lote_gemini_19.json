@@ -1,0 +1,2039 @@
+[
+ {
+  "id": "F3-JHN-047",
+  "livro": "JHN",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "JHN 20:29",
+  "fim": "JHN 20:29",
+  "texto": {
+   "JHN 20:29": "Jesus lhe disse: Porque me viste, ó Tomé, creste. Bem-aventurados os que não viram e creram."
+  },
+  "p1": [
+   {
+    "uid": "U1-JHN-020:029-1",
+    "ref": "JHN 20:29",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "filho",
+    "ancora": "Bem-aventurados os que não viram e creram",
+    "resumo": "Jesus declara abençoados os que creem sem ter visto."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JHN-020:029-1",
+    "ref": "JHN 20:29",
+    "tipo": "desejo_ou_bencao_votiva",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Bem-aventurados os que não viram e creram",
+    "resumo": "Bem-aventurança aos que creem sem ter visto"
+   }
+  ]
+ },
+ {
+  "id": "F3-JHN-048",
+  "livro": "JHN",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "JHN 21:6",
+  "fim": "JHN 21:6",
+  "texto": {
+   "JHN 21:6": "Ele lhes disse: Lançai a rede do lado direito do barco e encontrareis. Eles a lançaram e já não conseguiam puxá-la por causa da grande quantidade de peixes."
+  },
+  "p1": [
+   {
+    "uid": "U1-JHN-021:006-1",
+    "ref": "JHN 21:6",
+    "tipo": "mandamento",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Lançai a rede do lado direito do barco e encontrareis.",
+    "resumo": "Jesus ordena lançar a rede e promete que encontrarão."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JHN-021:006-1",
+    "ref": "JHN 21:6",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "filho",
+    "ancora": "Lançai a rede do lado direito do barco e encontrareis",
+    "resumo": "Jesus diz que encontrarão peixes se lançarem a rede à direita"
+   }
+  ]
+ },
+ {
+  "id": "F3-JHN-049",
+  "livro": "JHN",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "JHN 21:18",
+  "fim": "JHN 21:19",
+  "texto": {
+   "JHN 21:18": "Em verdade, em verdade te digo: Quando eras mais jovem, tu mesmo te vestias e andavas para onde querias. Quando fores velho, estenderás as mãos, outro te vestirá e te levará para onde não queres.",
+   "JHN 21:19": "Jesus disse isso para indicar com que morte Pedro glorificaria a Deus. Depois lhe disse: Segue-me."
+  },
+  "p1": [
+   {
+    "uid": "U1-JHN-021:018-1",
+    "ref": "JHN 21:18",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "filho",
+    "ancora": "Em verdade, em verdade te digo: Quando eras mais jovem, tu mesmo te vestias e andavas para onde querias. Quando fores velho, estenderás as mãos, outro te vestirá e te levará para onde não queres.",
+    "resumo": "Jesus anuncia a Pedro o sofrimento e a morte que glorificarão a Deus."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JHN-021:018-1",
+    "ref": "JHN 21:18-21:19",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Quando fores velho, estenderás as mãos, outro te vestirá e te levará para onde não queres",
+    "resumo": "Jesus prediz a morte de Pedro"
+   }
+  ]
+ },
+ {
+  "id": "F3-JHN-050",
+  "livro": "JHN",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "JHN 7:37",
+  "fim": "JHN 7:39",
+  "texto": {
+   "JHN 7:37": "No último e mais importante dia da festa, Jesus pôs-se em pé e clamou: Se alguém tem sede, venha a mim e beba.",
+   "JHN 7:38": "Quem crê em mim, como diz a Escritura, de seu interior fluirão rios de água viva.",
+   "JHN 7:39": "Ele disse isso a respeito do Espírito, que receberiam os que nele cressem. O Espírito Santo ainda não havia sido dado, porque Jesus ainda não havia sido glorificado."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JHN-007:037-1",
+    "ref": "JHN 7:37-7:39",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "humanidade",
+    "condicao": "explicita",
+    "promitente": "filho",
+    "ancora": "de seu interior fluirão rios de água viva",
+    "resumo": "Quem tem sede e crê em Jesus terá rios de água viva, isto é, o Espírito"
+   }
+  ]
+ },
+ {
+  "id": "F3-JHN-051",
+  "livro": "JHN",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "JHN 12:40",
+  "fim": "JHN 12:40",
+  "texto": {
+   "JHN 12:40": "Ele lhes cegou os olhos e endureceu o coração, para que não vejam com os olhos, nem entendam com o coração, nem se convertam, e eu os cure."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JHN-012:040-1",
+    "ref": "JHN 12:40",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "Isaías",
+    "ancora": "Ele lhes cegou os olhos e endureceu o coração",
+    "resumo": "Isaías 6 citado: Deus cegou os olhos e endureceu o coração para que não se convertam"
+   }
+  ]
+ },
+ {
+  "id": "F3-JHN-052",
+  "livro": "JHN",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "JHN 14:2",
+  "fim": "JHN 14:3",
+  "texto": {
+   "JHN 14:2": "Na casa de meu Pai há muitas moradas. Se não fosse assim, eu vos teria dito. Vou preparar-vos um lugar.",
+   "JHN 14:3": "E, quando eu for e vos preparar um lugar, voltarei e vos receberei para mim, para que estejais onde eu estiver."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JHN-014:002-1",
+    "ref": "JHN 14:2-14:3",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "filho",
+    "ancora": "voltarei e vos receberei para mim",
+    "resumo": "Jesus prepara lugar na casa do Pai e voltará para receber os discípulos"
+   }
+  ]
+ },
+ {
+  "id": "F3-JHN-053",
+  "livro": "JHN",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "JHN 15:26",
+  "fim": "JHN 15:27",
+  "texto": {
+   "JHN 15:26": "Quando vier o Consolador, que eu vos enviarei da parte do Pai, o Espírito da verdade que procede do Pai, ele testemunhará a meu respeito.",
+   "JHN 15:27": "E vós também testemunhareis, porque estais comigo desde o princípio."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JHN-015:026-1",
+    "ref": "JHN 15:26-15:27",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "filho",
+    "ancora": "ele testemunhará a meu respeito",
+    "resumo": "Quando vier o Consolador, o Espírito da verdade, testemunhará de Jesus, e os discípulos também"
+   }
+  ]
+ },
+ {
+  "id": "F3-ACT-001",
+  "livro": "ACT",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "ACT 2:19",
+  "fim": "ACT 2:20",
+  "texto": {
+   "ACT 2:19": "Mostrarei maravilhas acima no céu e sinais abaixo na terra: sangue, fogo e vapor de fumaça.",
+   "ACT 2:20": "O sol se transformará em trevas e a lua em sangue, antes que venha o grande e glorioso dia do Senhor."
+  },
+  "p1": [
+   {
+    "uid": "U1-ACT-002:019-1",
+    "ref": "ACT 2:19-2:20",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "humanidade",
+    "condicao": "nenhuma",
+    "promitente": "deus_indistinto",
+    "ancora": "Mostrarei maravilhas acima no céu e sinais abaixo na terra",
+    "resumo": "Deus anuncia sinais cósmicos e terrores antes do dia do Senhor."
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-ACT-002",
+  "livro": "ACT",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "ACT 2:34",
+  "fim": "ACT 2:35",
+  "texto": {
+   "ACT 2:34": "Pois Davi não subiu aos céus, mas ele mesmo diz: Disse o Senhor a meu Senhor: Assenta-te à minha direita,",
+   "ACT 2:35": "até que eu ponha teus inimigos como estrado de teus pés."
+  },
+  "p1": [
+   {
+    "uid": "U1-ACT-002:034-1",
+    "ref": "ACT 2:34-2:35",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "Disse o Senhor a meu Senhor: Assenta-te à minha direita",
+    "resumo": "Deus promete ao Senhor exaltado que porá seus inimigos por estrado."
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-ACT-003",
+  "livro": "ACT",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "ACT 2:38",
+  "fim": "ACT 2:39",
+  "texto": {
+   "ACT 2:38": "Pedro respondeu: Arrependei-vos, e cada um de vós seja batizado em nome de Jesus Cristo para perdão dos pecados, e recebereis o dom do Espírito Santo.",
+   "ACT 2:39": "Pois a promessa pertence a vós, a vossos filhos e a todos os que estão longe, a tantos quantos o Senhor, nosso Deus, chamar."
+  },
+  "p1": [
+   {
+    "uid": "U1-ACT-002:038-1",
+    "ref": "ACT 2:38",
+    "tipo": "mandamento",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "Pedro",
+    "ancora": "recebereis o dom do Espírito Santo",
+    "resumo": "Pedro chama ao arrependimento e batismo e promete o dom do Espírito."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ACT-002:038-1",
+    "ref": "ACT 2:38-2:39",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "explicita",
+    "promitente": "Pedro",
+    "ancora": "recebereis o dom do Espírito Santo",
+    "resumo": "Quem se arrepender e for batizado em nome de Jesus receberá o dom do Espírito Santo; a promessa vale para eles, seus filhos e todos os que o Senhor chamar"
+   }
+  ]
+ },
+ {
+  "id": "F3-ACT-004",
+  "livro": "ACT",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "ACT 2:39",
+  "fim": "ACT 2:39",
+  "texto": {
+   "ACT 2:39": "Pois a promessa pertence a vós, a vossos filhos e a todos os que estão longe, a tantos quantos o Senhor, nosso Deus, chamar."
+  },
+  "p1": [
+   {
+    "uid": "U1-ACT-002:039-1",
+    "ref": "ACT 2:39",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "humanidade",
+    "condicao": "nenhuma",
+    "promitente": "Pedro",
+    "ancora": "a promessa pertence a vós, a vossos filhos e a todos os que estão longe",
+    "resumo": "Pedro declara que a promessa do Espírito alcança os ouvintes, seus filhos e os que estão longe, quantos o Senhor chamar."
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-ACT-005",
+  "livro": "ACT",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "ACT 3:19",
+  "fim": "ACT 3:21",
+  "texto": {
+   "ACT 3:19": "Arrependei-vos, portanto, e convertei-vos, para que vossos pecados sejam apagados e venham tempos de refrigério da presença do Senhor,",
+   "ACT 3:20": "e ele envie Jesus Cristo, que antes vos foi anunciado.",
+   "ACT 3:21": "É necessário que o céu o receba até os tempos da restauração de todas as coisas, das quais Deus falou desde os tempos antigos pela boca de todos os seus santos profetas."
+  },
+  "p1": [
+   {
+    "uid": "U1-ACT-003:019-1",
+    "ref": "ACT 3:19-3:20",
+    "tipo": "mandamento",
+    "origem": "indeterminada",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Arrependei-vos, portanto, e convertei-vos, para que vossos pecados sejam apagados",
+    "resumo": "Arrependimento e conversão levam ao perdão e ao refrigério da parte do Senhor"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ACT-003:019-1",
+    "ref": "ACT 3:19-3:21",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "explicita",
+    "promitente": "Pedro",
+    "ancora": "para que vossos pecados sejam apagados e venham tempos de refrigério",
+    "resumo": "Quem se arrepender e se converter terá os pecados apagados, haverá tempos de refrigério e Deus enviará Jesus"
+   }
+  ]
+ },
+ {
+  "id": "F3-ACT-006",
+  "livro": "ACT",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "ACT 3:23",
+  "fim": "ACT 3:23",
+  "texto": {
+   "ACT 3:23": "Toda pessoa que não ouvir esse Profeta será eliminada do meio do povo."
+  },
+  "p1": [
+   {
+    "uid": "U1-ACT-003:023-1",
+    "ref": "ACT 3:23",
+    "tipo": "advertencia",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "Moisés",
+    "ancora": "Toda pessoa que não ouvir esse Profeta será eliminada do meio do povo.",
+    "resumo": "Advertência de juízo para quem não ouvir o Profeta"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ACT-003:023-1",
+    "ref": "ACT 3:23",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": "explicita",
+    "promitente": "Moisés",
+    "ancora": "Toda pessoa que não ouvir esse Profeta será eliminada do meio do povo",
+    "resumo": "Moisés citado: quem não ouvir o Profeta será eliminado do povo"
+   }
+  ]
+ },
+ {
+  "id": "F3-ACT-007",
+  "livro": "ACT",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "ACT 6:4",
+  "fim": "ACT 6:4",
+  "texto": {
+   "ACT 6:4": "Quanto a nós, perseveraremos na oração e no ministério da palavra."
+  },
+  "p1": [
+   {
+    "uid": "U1-ACT-006:004-1",
+    "ref": "ACT 6:4",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "igreja",
+    "condicao": "nenhuma",
+    "promitente": "os doze",
+    "ancora": "perseveraremos na oração e no ministério da palavra",
+    "resumo": "Os apóstolos se comprometem a perseverar na oração e no ministério da palavra."
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-ACT-008",
+  "livro": "ACT",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "ACT 7:3",
+  "fim": "ACT 7:3",
+  "texto": {
+   "ACT 7:3": "e lhe disse: Sai de tua terra e de tua parentela e vai para a terra que eu te mostrarei."
+  },
+  "p1": [
+   {
+    "uid": "U1-ACT-007:003-1",
+    "ref": "ACT 7:3",
+    "tipo": "mandamento",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "Estêvão",
+    "ancora": "vai para a terra que eu te mostrarei",
+    "resumo": "Deus ordena a Abraão sair e promete mostrar-lhe a terra"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ACT-007:003-1",
+    "ref": "ACT 7:3",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "Estêvão",
+    "ancora": "vai para a terra que eu te mostrarei",
+    "resumo": "Deus manda Abraão sair e ir à terra que lhe mostraria"
+   }
+  ]
+ },
+ {
+  "id": "F3-ACT-009",
+  "livro": "ACT",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "ACT 7:5",
+  "fim": "ACT 7:5",
+  "texto": {
+   "ACT 7:5": "Não lhe deu nela herança, nem sequer espaço para apoiar um pé, mas prometeu dá-la como propriedade a ele e à sua descendência, embora ainda não tivesse filho."
+  },
+  "p1": [
+   {
+    "uid": "U1-ACT-007:005-1",
+    "ref": "ACT 7:5",
+    "tipo": "declaracao_sem_compromisso",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "Estêvão",
+    "ancora": "prometeu dá-la como propriedade a ele e à sua descendência",
+    "resumo": "Deus prometeu a terra a Abraão e à sua descendência"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ACT-007:005-1",
+    "ref": "ACT 7:5",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "familia_ou_linhagem",
+    "condicao": null,
+    "promitente": "Estêvão",
+    "ancora": "prometeu dá-la como propriedade a ele e à sua descendência",
+    "resumo": "Deus prometeu a Abraão e à sua descendência a terra como propriedade"
+   }
+  ]
+ },
+ {
+  "id": "F3-ACT-010",
+  "livro": "ACT",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "ACT 7:6",
+  "fim": "ACT 7:7",
+  "texto": {
+   "ACT 7:6": "Deus também declarou que sua descendência viveria como estrangeira em terra alheia, seria escravizada e maltratada por quatrocentos anos.",
+   "ACT 7:7": "Eu julgarei a nação à qual servirem, disse Deus, e depois disso sairão e me servirão neste lugar."
+  },
+  "p1": [
+   {
+    "uid": "U1-ACT-007:007-1",
+    "ref": "ACT 7:7",
+    "tipo": "declaracao_sem_compromisso",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "Estêvão",
+    "ancora": "Eu julgarei a nação à qual servirem",
+    "resumo": "Deus declara que julgará a nação opressora"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ACT-007:006-1",
+    "ref": "ACT 7:6-7:7",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "Estêvão",
+    "ancora": "Eu julgarei a nação à qual servirem",
+    "resumo": "Deus declara que a descendência será estrangeira e escravizada, que ele julgará a nação opressora e que depois sairão e o servirão"
+   }
+  ]
+ },
+ {
+  "id": "F3-ACT-011",
+  "livro": "ACT",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "ACT 7:34",
+  "fim": "ACT 7:34",
+  "texto": {
+   "ACT 7:34": "Certamente vi a aflição de meu povo no Egito, ouvi seu gemido e desci para livrá-lo. Agora vem, e eu te enviarei ao Egito."
+  },
+  "p1": [
+   {
+    "uid": "U1-ACT-007:034-1",
+    "ref": "ACT 7:34",
+    "tipo": "declaracao_sem_compromisso",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "Estêvão",
+    "ancora": "desci para livrá-lo",
+    "resumo": "Deus declara que desceu para livrar seu povo"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ACT-007:034-1",
+    "ref": "ACT 7:34",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "Estêvão",
+    "ancora": "desci para livrá-lo. Agora vem, e eu te enviarei ao Egito",
+    "resumo": "Deus desce para livrar seu povo no Egito e envia Moisés"
+   }
+  ]
+ },
+ {
+  "id": "F3-ACT-012",
+  "livro": "ACT",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "ACT 7:37",
+  "fim": "ACT 7:37",
+  "texto": {
+   "ACT 7:37": "Esse é o Moisés que disse aos filhos de Israel: O Senhor, vosso Deus, levantará dentre vossos irmãos um Profeta semelhante a mim; a ele ouvireis."
+  },
+  "p1": [
+   {
+    "uid": "U1-ACT-007:037-1",
+    "ref": "ACT 7:37",
+    "tipo": "declaracao_sem_compromisso",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "Moisés",
+    "ancora": "O Senhor, vosso Deus, levantará dentre vossos irmãos um Profeta semelhante a mim; a ele ouvireis",
+    "resumo": "Moisés anunciou que Deus levantaria um profeta semelhante a ele"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ACT-007:037-1",
+    "ref": "ACT 7:37",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "Estêvão",
+    "ancora": "O Senhor, vosso Deus, levantará dentre vossos irmãos um Profeta semelhante a mim",
+    "resumo": "Moisés disse a Israel que Deus levantaria um Profeta semelhante a ele"
+   }
+  ]
+ },
+ {
+  "id": "F3-ACT-013",
+  "livro": "ACT",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "ACT 7:42",
+  "fim": "ACT 7:43",
+  "texto": {
+   "ACT 7:42": "Então Deus se afastou e os entregou ao culto do exército do céu, como está escrito no livro dos profetas: Ó casa de Israel, oferecestes-me animais mortos e sacrifícios durante quarenta anos no deserto?",
+   "ACT 7:43": "Carregastes o tabernáculo de Moloque e a estrela de vosso deus Renfã, imagens que fizestes para adorar. Por isso, eu vos transportarei para além da Babilônia."
+  },
+  "p1": [
+   {
+    "uid": "U1-ACT-007:042-1",
+    "ref": "ACT 7:42-7:43",
+    "tipo": "declaracao_sem_compromisso",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "Estêvão",
+    "ancora": "eu vos transportarei para além da Babilônia",
+    "resumo": "Deus anuncia juízo sobre Israel por idolatria"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ACT-007:043-1",
+    "ref": "ACT 7:43",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "Estêvão",
+    "ancora": "eu vos transportarei para além da Babilônia",
+    "resumo": "Deus declara que transportará Israel para além da Babilônia por causa da idolatria"
+   }
+  ]
+ },
+ {
+  "id": "F3-ACT-014",
+  "livro": "ACT",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "ACT 9:6",
+  "fim": "ACT 9:6",
+  "texto": {
+   "ACT 9:6": "Tremendo e atônito, ele perguntou: Senhor, que queres que eu faça? O Senhor lhe disse: Levanta-te, entra na cidade, e ali te será dito o que deves fazer."
+  },
+  "p1": [
+   {
+    "uid": "U1-ACT-009:006-1",
+    "ref": "ACT 9:6",
+    "tipo": "mandamento",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Levanta-te, entra na cidade, e ali te será dito o que deves fazer.",
+    "resumo": "Jesus manda Saulo entrar na cidade e assegura que ali lhe será dito o que deve fazer."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ACT-009:006-1",
+    "ref": "ACT 9:6",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "filho",
+    "ancora": "ali te será dito o que deves fazer",
+    "resumo": "Jesus diz a Saulo que na cidade lhe será dito o que fazer"
+   }
+  ]
+ },
+ {
+  "id": "F3-ACT-015",
+  "livro": "ACT",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "ACT 9:17",
+  "fim": "ACT 9:17",
+  "texto": {
+   "ACT 9:17": "Ananias foi, entrou na casa e impôs as mãos sobre ele, dizendo: Irmão Saulo, o Senhor Jesus, que te apareceu no caminho por onde vinhas, enviou-me para que recuperes a visão e fiques cheio do Espírito Santo."
+  },
+  "p1": [
+   {
+    "uid": "U1-ACT-009:017-1",
+    "ref": "ACT 9:17",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "filho",
+    "ancora": "enviou-me para que recuperes a visão e fiques cheio do Espírito Santo.",
+    "resumo": "Ananias assegura a Saulo que Jesus o enviou para que recupere a visão e seja cheio do Espírito Santo."
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-ACT-016",
+  "livro": "ACT",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "ACT 9:34",
+  "fim": "ACT 9:34",
+  "texto": {
+   "ACT 9:34": "Pedro lhe disse: Eneias, Jesus Cristo te cura. Levanta-te e arruma tua cama. Imediatamente ele se levantou."
+  },
+  "p1": [
+   {
+    "uid": "U1-ACT-009:034-1",
+    "ref": "ACT 9:34",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "filho",
+    "ancora": "Jesus Cristo te cura.",
+    "resumo": "Pedro declara, em nome de Jesus, a cura de Eneias."
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-ACT-017",
+  "livro": "ACT",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "ACT 11:29",
+  "fim": "ACT 11:30",
+  "texto": {
+   "ACT 11:29": "Então os discípulos decidiram, cada um conforme suas possibilidades, enviar ajuda aos irmãos que habitavam na Judeia.",
+   "ACT 11:30": "Assim fizeram, enviando-a aos anciãos pelas mãos de Barnabé e Saulo."
+  },
+  "p1": [
+   {
+    "uid": "U1-ACT-011:029-1",
+    "ref": "ACT 11:29-11:30",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "os discípulos",
+    "ancora": "os discípulos decidiram, cada um conforme suas possibilidades, enviar ajuda aos irmãos que habitavam na Judeia",
+    "resumo": "Os discípulos se comprometem a enviar ajuda aos irmãos da Judeia e cumprem."
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-ACT-018",
+  "livro": "ACT",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "ACT 13:11",
+  "fim": "ACT 13:11",
+  "texto": {
+   "ACT 13:11": "Agora a mão do Senhor está contra ti. Ficarás cego e não verás o sol por algum tempo. Imediatamente caíram sobre ele escuridão e trevas, e, andando ao redor, procurava quem o conduzisse pela mão."
+  },
+  "p1": [
+   {
+    "uid": "U1-ACT-013:011-1",
+    "ref": "ACT 13:11",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Agora a mão do Senhor está contra ti. Ficarás cego e não verás o sol por algum tempo.",
+    "resumo": "Paulo declara juízo divino sobre Elimas: cegueira temporária."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ACT-013:011-1",
+    "ref": "ACT 13:11",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "Paulo",
+    "ancora": "Ficarás cego e não verás o sol por algum tempo",
+    "resumo": "Paulo anuncia que Elimas ficará cego por algum tempo, pela mão do Senhor"
+   }
+  ]
+ },
+ {
+  "id": "F3-ACT-019",
+  "livro": "ACT",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "ACT 16:31",
+  "fim": "ACT 16:31",
+  "texto": {
+   "ACT 16:31": "Eles responderam: Crê no Senhor Jesus Cristo e serás salvo, tu e tua casa."
+  },
+  "p1": [
+   {
+    "uid": "U1-ACT-016:031-1",
+    "ref": "ACT 16:31",
+    "tipo": "mandamento",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "Paulo e Silas",
+    "ancora": "Crê no Senhor Jesus Cristo e serás salvo, tu e tua casa.",
+    "resumo": "Resposta de Paulo e Silas ao carcereiro: crer em Jesus traz salvação para ele e sua casa."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ACT-016:031-1",
+    "ref": "ACT 16:31",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "familia_ou_linhagem",
+    "condicao": "explicita",
+    "promitente": "Paulo",
+    "ancora": "Crê no Senhor Jesus Cristo e serás salvo, tu e tua casa",
+    "resumo": "Paulo e Silas dizem ao carcereiro que, se crer no Senhor Jesus, será salvo com a sua casa"
+   }
+  ]
+ },
+ {
+  "id": "F3-ACT-020",
+  "livro": "ACT",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "ACT 18:9",
+  "fim": "ACT 18:10",
+  "texto": {
+   "ACT 18:9": "Certa noite, o Senhor disse a Paulo em visão: Não temas. Continua falando e não te cales,",
+   "ACT 18:10": "porque eu estou contigo. Ninguém te atacará para te fazer mal, pois tenho muito povo nesta cidade."
+  },
+  "p1": [
+   {
+    "uid": "U1-ACT-018:009-1",
+    "ref": "ACT 18:9-18:10",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "deus_indistinto",
+    "ancora": "porque eu estou contigo",
+    "resumo": "O Senhor, em visão, assegura a Paulo sua presença, que ninguém o atacará para lhe fazer mal e que tem muito povo naquela cidade"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-ACT-021",
+  "livro": "ACT",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "ACT 18:21",
+  "fim": "ACT 18:21",
+  "texto": {
+   "ACT 18:21": "Despediu-se, dizendo: É necessário que eu celebre em Jerusalém a festa que se aproxima. Se Deus quiser, voltarei a vós. Então partiu de Éfeso."
+  },
+  "p1": [
+   {
+    "uid": "U1-ACT-018:021-1",
+    "ref": "ACT 18:21",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "contextual",
+    "promitente": "Paulo",
+    "ancora": "Se Deus quiser, voltarei a vós",
+    "resumo": "Paulo se compromete a voltar aos de Éfeso, sob a condição da vontade de Deus"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-ACT-022",
+  "livro": "ACT",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "ACT 20:23",
+  "fim": "ACT 20:23",
+  "texto": {
+   "ACT 20:23": "exceto que o Espírito Santo me dá testemunho de cidade em cidade, dizendo que prisões e aflições me aguardam."
+  },
+  "p1": [
+   {
+    "uid": "U1-ACT-020:023-1",
+    "ref": "ACT 20:23",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "Paulo",
+    "ancora": "prisões e aflições me aguardam",
+    "resumo": "o Espírito testifica que prisões e aflições aguardam Paulo"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ACT-020:023-1",
+    "ref": "ACT 20:23",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "Paulo",
+    "ancora": "prisões e aflições me aguardam",
+    "resumo": "Paulo diz que o Espírito Santo testifica de cidade em cidade que prisões e aflições o aguardam"
+   }
+  ]
+ },
+ {
+  "id": "F3-ACT-023",
+  "livro": "ACT",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "ACT 20:32",
+  "fim": "ACT 20:32",
+  "texto": {
+   "ACT 20:32": "Agora, irmãos, encomendo-vos a Deus e à palavra de sua graça, que é poderosa para vos edificar e dar herança entre todos os santificados."
+  },
+  "p1": [
+   {
+    "uid": "U1-ACT-020:032-1",
+    "ref": "ACT 20:32",
+    "tipo": "desejo_ou_bencao_votiva",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "Paulo",
+    "ancora": "encomendo-vos a Deus e à palavra de sua graça",
+    "resumo": "Paulo encomenda os irmãos a Deus e à palavra da graça, capaz de edificar e dar herança"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ACT-020:032-1",
+    "ref": "ACT 20:32",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "igreja",
+    "condicao": null,
+    "promitente": "Paulo",
+    "ancora": "à palavra de sua graça, que é poderosa para vos edificar e dar herança",
+    "resumo": "Paulo encomenda os anciãos a Deus e à palavra de sua graça, poderosa para edificar e dar herança entre os santificados"
+   }
+  ]
+ },
+ {
+  "id": "F3-ACT-024",
+  "livro": "ACT",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "ACT 22:14",
+  "fim": "ACT 22:15",
+  "texto": {
+   "ACT 22:14": "Ele disse: O Deus de nossos pais te escolheu previamente para conheceres sua vontade, veres o Justo e ouvires a voz de sua boca,",
+   "ACT 22:15": "porque serás testemunha dele diante de todos os homens acerca do que viste e ouviste."
+  },
+  "p1": [
+   {
+    "uid": "U1-ACT-022:014-1",
+    "ref": "ACT 22:14-22:15",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "Ananias",
+    "ancora": "porque serás testemunha dele diante de todos os homens acerca do que viste e ouviste",
+    "resumo": "Ananias declara que Deus escolheu Paulo para conhecer sua vontade e que ele será testemunha diante de todos."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ACT-022:014-1",
+    "ref": "ACT 22:14-22:15",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "Paulo",
+    "ancora": "serás testemunha dele diante de todos os homens",
+    "resumo": "Ananias diz a Saulo que Deus o escolheu para conhecer sua vontade, ver o Justo e ser testemunha diante de todos os homens"
+   }
+  ]
+ },
+ {
+  "id": "F3-ACT-025",
+  "livro": "ACT",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "ACT 23:12",
+  "fim": "ACT 23:12",
+  "texto": {
+   "ACT 23:12": "Quando amanheceu, alguns judeus formaram uma conspiração e se comprometeram sob maldição a não comer nem beber até matarem Paulo."
+  },
+  "p1": [
+   {
+    "uid": "U1-ACT-023:012-1",
+    "ref": "ACT 23:12",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "judeus conspiradores",
+    "ancora": "se comprometeram sob maldição a não comer nem beber até matarem Paulo",
+    "resumo": "Conspiradores se obrigam sob maldição a matar Paulo"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-ACT-026",
+  "livro": "ACT",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "ACT 23:35",
+  "fim": "ACT 23:35",
+  "texto": {
+   "ACT 23:35": "disse: Eu te ouvirei quando teus acusadores também chegarem. E ordenou que fosse guardado no palácio de Herodes."
+  },
+  "p1": [
+   {
+    "uid": "U1-ACT-023:035-1",
+    "ref": "ACT 23:35",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "Félix",
+    "ancora": "Eu te ouvirei quando teus acusadores também chegarem.",
+    "resumo": "Félix se compromete a ouvir Paulo quando chegarem os acusadores"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-ACT-027",
+  "livro": "ACT",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "ACT 24:22",
+  "fim": "ACT 24:22",
+  "texto": {
+   "ACT 24:22": "Félix, conhecendo com maior precisão as questões relativas ao caminho, adiou o caso e disse: Quando o comandante Lísias descer, decidirei vossa causa."
+  },
+  "p1": [
+   {
+    "uid": "U1-ACT-024:022-1",
+    "ref": "ACT 24:22",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "contextual",
+    "promitente": "Félix",
+    "ancora": "Quando o comandante Lísias descer, decidirei vossa causa.",
+    "resumo": "Félix promete decidir a causa quando Lísias descer."
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-ACT-028",
+  "livro": "ACT",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "ACT 24:25",
+  "fim": "ACT 24:25",
+  "texto": {
+   "ACT 24:25": "Quando Paulo falava sobre justiça, domínio próprio e o juízo futuro, Félix ficou amedrontado e respondeu: Por agora, podes ir. Quando tiver oportunidade, te chamarei."
+  },
+  "p1": [
+   {
+    "uid": "U1-ACT-024:025-1",
+    "ref": "ACT 24:25",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "contextual",
+    "promitente": "Félix",
+    "ancora": "Quando tiver oportunidade, te chamarei.",
+    "resumo": "Félix promete chamar Paulo quando tiver oportunidade."
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-ACT-029",
+  "livro": "ACT",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "ACT 25:12",
+  "fim": "ACT 25:12",
+  "texto": {
+   "ACT 25:12": "Então Festo, depois de consultar seu conselho, respondeu: Apelaste para César; a César irás."
+  },
+  "p1": [
+   {
+    "uid": "U1-ACT-025:012-1",
+    "ref": "ACT 25:12",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "Festo",
+    "ancora": "a César irás",
+    "resumo": "Festo decide que Paulo, tendo apelado, será enviado a César"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-ACT-030",
+  "livro": "ACT",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "ACT 25:22",
+  "fim": "ACT 25:22",
+  "texto": {
+   "ACT 25:22": "Agripa disse a Festo: Eu também gostaria de ouvir esse homem. Ele respondeu: Amanhã o ouvirás."
+  },
+  "p1": [
+   {
+    "uid": "U1-ACT-025:022-1",
+    "ref": "ACT 25:22",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "Festo",
+    "ancora": "Amanhã o ouvirás",
+    "resumo": "Festo se compromete a fazer Agripa ouvir Paulo no dia seguinte"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-ACT-031",
+  "livro": "ACT",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "ACT 26:16",
+  "fim": "ACT 26:16",
+  "texto": {
+   "ACT 26:16": "Mas levanta-te e fica em pé, pois apareci a ti para te constituir ministro e testemunha tanto das coisas que viste como daquelas em que ainda aparecerei a ti."
+  },
+  "p1": [
+   {
+    "uid": "U1-ACT-026:016-1",
+    "ref": "ACT 26:16",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "filho",
+    "ancora": "apareci a ti para te constituir ministro e testemunha tanto das coisas que viste como daquelas em que ainda aparecerei a ti",
+    "resumo": "Jesus se compromete a tornar Paulo ministro e testemunha e a continuar aparecendo a ele"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-ACT-032",
+  "livro": "ACT",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "ACT 26:18",
+  "fim": "ACT 26:18",
+  "texto": {
+   "ACT 26:18": "para lhes abrir os olhos e convertê-los das trevas para a luz e do poder de Satanás para Deus, a fim de que recebam perdão dos pecados e herança entre os santificados pela fé em mim."
+  },
+  "p1": [
+   {
+    "uid": "U1-ACT-026:018-1",
+    "ref": "ACT 26:18",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "filho",
+    "ancora": "para lhes abrir os olhos e convertê-los das trevas para a luz",
+    "resumo": "O envio de Paulo tem por fim que os ouvintes recebam perdão dos pecados e herança entre os santificados"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-ACT-033",
+  "livro": "ACT",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "ACT 27:22",
+  "fim": "ACT 27:26",
+  "texto": {
+   "ACT 27:22": "Agora vos aconselho a ter coragem, pois nenhuma vida entre vós se perderá, mas somente o navio.",
+   "ACT 27:23": "Nesta noite esteve comigo um anjo do Deus a quem pertenço e sirvo,",
+   "ACT 27:24": "dizendo: Não temas, Paulo. É necessário que compareças diante de César. Deus te concedeu todos os que navegam contigo.",
+   "ACT 27:25": "Portanto, homens, tende coragem, pois creio em Deus que acontecerá exatamente como me foi dito.",
+   "ACT 27:26": "Contudo, devemos encalhar em alguma ilha."
+  },
+  "p1": [
+   {
+    "uid": "U1-ACT-027:022-1",
+    "ref": "ACT 27:22-27:26",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "nenhuma vida entre vós se perderá, mas somente o navio",
+    "resumo": "Paulo transmite a garantia de que nenhuma vida entre os que navegam se perderá, embora o navio se perca, e que ele deve comparecer diante de César."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ACT-027:022-1",
+    "ref": "ACT 27:22",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "Paulo",
+    "ancora": "nenhuma vida entre vós se perderá, mas somente o navio",
+    "resumo": "Paulo garante aos que estão no navio que nenhuma vida se perderá, somente o navio"
+   }
+  ]
+ },
+ {
+  "id": "F3-ACT-034",
+  "livro": "ACT",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "ACT 27:34",
+  "fim": "ACT 27:34",
+  "texto": {
+   "ACT 27:34": "Por isso vos aconselho a comer, pois isso é necessário para vossa sobrevivência. Nem um cabelo da cabeça de qualquer de vós cairá."
+  },
+  "p1": [
+   {
+    "uid": "U1-ACT-027:034-1",
+    "ref": "ACT 27:34",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "Paulo",
+    "ancora": "Nem um cabelo da cabeça de qualquer de vós cairá",
+    "resumo": "Paulo assegura que nenhum dos que estão no navio perderá a vida."
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-ACT-035",
+  "livro": "ACT",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "ACT 28:28",
+  "fim": "ACT 28:28",
+  "texto": {
+   "ACT 28:28": "Portanto, seja-vos conhecido que esta salvação de Deus é enviada aos gentios, e eles a ouvirão."
+  },
+  "p1": [
+   {
+    "uid": "U1-ACT-028:028-1",
+    "ref": "ACT 28:28",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "Paulo",
+    "ancora": "eles a ouvirão",
+    "resumo": "Paulo declara que a salvação de Deus é enviada aos gentios e que eles ouvirão."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ACT-028:028-1",
+    "ref": "ACT 28:28",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "humanidade",
+    "condicao": null,
+    "promitente": "Paulo",
+    "ancora": "esta salvação de Deus é enviada aos gentios, e eles a ouvirão",
+    "resumo": "Paulo declara que a salvação de Deus é enviada aos gentios e eles a ouvirão"
+   }
+  ]
+ },
+ {
+  "id": "F3-ACT-036",
+  "livro": "ACT",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "ACT 2:34",
+  "fim": "ACT 2:35",
+  "texto": {
+   "ACT 2:34": "Pois Davi não subiu aos céus, mas ele mesmo diz: Disse o Senhor a meu Senhor: Assenta-te à minha direita,",
+   "ACT 2:35": "até que eu ponha teus inimigos como estrado de teus pés."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ACT-002:034-1",
+    "ref": "ACT 2:34-2:35",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "Davi",
+    "ancora": "até que eu ponha teus inimigos como estrado de teus pés",
+    "resumo": "Salmo citado: o Senhor diz ao Senhor de Davi que se assente à sua direita até pôr os inimigos por estrado"
+   }
+  ]
+ },
+ {
+  "id": "F3-ACT-037",
+  "livro": "ACT",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "ACT 18:9",
+  "fim": "ACT 18:10",
+  "texto": {
+   "ACT 18:9": "Certa noite, o Senhor disse a Paulo em visão: Não temas. Continua falando e não te cales,",
+   "ACT 18:10": "porque eu estou contigo. Ninguém te atacará para te fazer mal, pois tenho muito povo nesta cidade."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ACT-018:009-1",
+    "ref": "ACT 18:9-18:10",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "filho",
+    "ancora": "Ninguém te atacará para te fazer mal",
+    "resumo": "O Senhor garante a Paulo, em visão, que está com ele e que ninguém o atacará para lhe fazer mal em Corinto"
+   }
+  ]
+ },
+ {
+  "id": "F3-ACT-038",
+  "livro": "ACT",
+  "leitor_p1": "Flash",
+  "leitor_p2": "Claude",
+  "arbitro_designado": "gemini",
+  "ini": "ACT 27:24",
+  "fim": "ACT 27:24",
+  "texto": {
+   "ACT 27:24": "dizendo: Não temas, Paulo. É necessário que compareças diante de César. Deus te concedeu todos os que navegam contigo."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ACT-027:024-1",
+    "ref": "ACT 27:24",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "Paulo",
+    "ancora": "Deus te concedeu todos os que navegam contigo",
+    "resumo": "O anjo do Senhor diz a Paulo que ele comparecerá diante de César e que Deus lhe concedeu todos os que navegam com ele"
+   }
+  ]
+ },
+ {
+  "id": "F3-ROM-001",
+  "livro": "ROM",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "ROM 2:6",
+  "fim": "ROM 2:7",
+  "texto": {
+   "ROM 2:6": "que recompensará a cada um segundo suas obras:",
+   "ROM 2:7": "vida eterna aos que, perseverando em fazer o bem, procuram glória, honra e incorruptibilidade;"
+  },
+  "p1": [
+   {
+    "uid": "U1-ROM-002:006-1",
+    "ref": "ROM 2:6-2:7",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "humanidade",
+    "condicao": "explicita",
+    "promitente": "Paulo",
+    "ancora": "recompensará a cada um segundo suas obras",
+    "resumo": "Deus dará vida eterna aos que perseveram em fazer o bem."
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-ROM-002",
+  "livro": "ROM",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "ROM 5:19",
+  "fim": "ROM 5:19",
+  "texto": {
+   "ROM 5:19": "Pois, assim como pela desobediência de um só homem muitos foram constituídos pecadores, também pela obediência de um só muitos serão constituídos justos."
+  },
+  "p1": [
+   {
+    "uid": "U1-ROM-005:019-1",
+    "ref": "ROM 5:19",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "crente_individual",
+    "condicao": null,
+    "promitente": "Paulo",
+    "ancora": "muitos serão constituídos justos",
+    "resumo": "Pela obediência de um só, muitos serão constituídos justos."
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-ROM-003",
+  "livro": "ROM",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "ROM 8:18",
+  "fim": "ROM 8:18",
+  "texto": {
+   "ROM 8:18": "Considero que os sofrimentos do tempo presente não podem ser comparados com a glória que será revelada em nós."
+  },
+  "p1": [
+   {
+    "uid": "U1-ROM-008:018-1",
+    "ref": "ROM 8:18",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "crente_individual",
+    "condicao": null,
+    "promitente": "Paulo",
+    "ancora": "a glória que será revelada em nós",
+    "resumo": "Será revelada em nós uma glória maior que os sofrimentos presentes."
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-ROM-004",
+  "livro": "ROM",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "ROM 8:19",
+  "fim": "ROM 8:21",
+  "texto": {
+   "ROM 8:19": "Pois a criação aguarda com intensa expectativa a revelação dos filhos de Deus.",
+   "ROM 8:20": "A criação foi submetida à inutilidade, não por sua própria vontade, mas por causa daquele que a submeteu, em esperança",
+   "ROM 8:21": "de que a própria criação também será libertada da escravidão da corrupção para a liberdade da glória dos filhos de Deus."
+  },
+  "p1": [
+   {
+    "uid": "U1-ROM-008:021-1",
+    "ref": "ROM 8:21",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "criacao",
+    "condicao": null,
+    "promitente": "Paulo",
+    "ancora": "a própria criação também será libertada da escravidão da corrupção",
+    "resumo": "A criação será libertada da corrupção para a liberdade dos filhos de Deus."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ROM-008:019-1",
+    "ref": "ROM 8:19-8:21",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": null,
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "a própria criação também será libertada da escravidão da corrupção",
+    "resumo": "A criação espera ser libertada da corrupção."
+   }
+  ]
+ },
+ {
+  "id": "F3-ROM-005",
+  "livro": "ROM",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "ROM 8:30",
+  "fim": "ROM 8:30",
+  "texto": {
+   "ROM 8:30": "E aqueles que predestinou, a esses também chamou; aqueles que chamou, a esses também justificou; e aqueles que justificou, a esses também glorificou."
+  },
+  "p1": [
+   {
+    "uid": "U1-ROM-008:030-1",
+    "ref": "ROM 8:30",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "crente_individual",
+    "condicao": null,
+    "promitente": "Paulo",
+    "ancora": "aqueles que justificou, a esses também glorificou",
+    "resumo": "Os que Deus chamou e justificou, também glorificou."
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-ROM-006",
+  "livro": "ROM",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "ROM 8:31",
+  "fim": "ROM 8:32",
+  "texto": {
+   "ROM 8:31": "Que diremos, então, diante dessas coisas? Se Deus é por nós, quem será contra nós?",
+   "ROM 8:32": "Aquele que não poupou seu próprio Filho, mas o entregou por todos nós, como não nos concederá também, juntamente com ele, todas as coisas?"
+  },
+  "p1": [
+   {
+    "uid": "U1-ROM-008:032-1",
+    "ref": "ROM 8:32",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "crente_individual",
+    "condicao": null,
+    "promitente": "Paulo",
+    "ancora": "como não nos concederá também, juntamente com ele, todas as coisas",
+    "resumo": "Deus concederá com seu Filho todas as coisas a nós."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ROM-008:031-1",
+    "ref": "ROM 8:31-8:32",
+    "tipo": "indeterminada",
+    "origem": "indeterminada",
+    "natureza": null,
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "como não nos concederá também, juntamente com ele, todas as coisas?",
+    "resumo": "A entrega do Filho fundamenta a expectativa de receber todas as coisas com ele."
+   }
+  ]
+ },
+ {
+  "id": "F3-ROM-007",
+  "livro": "ROM",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "ROM 9:9",
+  "fim": "ROM 9:9",
+  "texto": {
+   "ROM 9:9": "Pois esta é a palavra da promessa: Voltarei por este tempo, e Sara terá um filho."
+  },
+  "p1": [
+   {
+    "uid": "U1-ROM-009:009-1",
+    "ref": "ROM 9:9",
+    "tipo": "indeterminada",
+    "origem": "indeterminada",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Voltarei por este tempo, e Sara terá um filho",
+    "resumo": "Palavra de promessa: Sara terá um filho."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ROM-009:009-1",
+    "ref": "ROM 9:9",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "familia_ou_linhagem",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Voltarei por este tempo, e Sara terá um filho",
+    "resumo": "Deus anuncia sua volta no tempo indicado e o nascimento de um filho de Sara."
+   }
+  ]
+ },
+ {
+  "id": "F3-ROM-008",
+  "livro": "ROM",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "ROM 9:15",
+  "fim": "ROM 9:15",
+  "texto": {
+   "ROM 9:15": "Pois ele diz a Moisés: Terei misericórdia de quem eu tiver misericórdia e me compadecerei de quem eu me compadecer."
+  },
+  "p1": [
+   {
+    "uid": "U1-ROM-009:015-1",
+    "ref": "ROM 9:15",
+    "tipo": "declaracao_sem_compromisso",
+    "origem": "divina_relatada_por_humano",
+    "natureza": null,
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "Paulo",
+    "ancora": "Terei misericórdia de quem eu tiver misericórdia",
+    "resumo": "Deus declara a Moisés que terá misericórdia de quem quiser."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ROM-009:015-1",
+    "ref": "ROM 9:15",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "contextual",
+    "promitente": "pai",
+    "ancora": "Terei misericórdia de quem eu tiver misericórdia e me compadecerei de quem eu me compadecer",
+    "resumo": "Deus garante misericórdia àqueles de quem decidir compadecer-se."
+   }
+  ]
+ },
+ {
+  "id": "F3-ROM-009",
+  "livro": "ROM",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "ROM 9:25",
+  "fim": "ROM 9:26",
+  "texto": {
+   "ROM 9:25": "Como também diz em Oseias: Chamarei meu povo ao que não era meu povo, e amada à que não era amada.",
+   "ROM 9:26": "E acontecerá que, no lugar onde lhes foi dito: Vós não sois meu povo, ali serão chamados filhos do Deus vivo."
+  },
+  "p1": [
+   {
+    "uid": "U1-ROM-009:025-1",
+    "ref": "ROM 9:25-9:26",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "Paulo",
+    "ancora": "Chamarei meu povo ao que não era meu povo",
+    "resumo": "Deus chamará de seu povo o que não era seu povo."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ROM-009:025-1",
+    "ref": "ROM 9:25-9:26",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Chamarei meu povo ao que não era meu povo",
+    "resumo": "Deus acolherá como povo amado aqueles que antes não eram seu povo, e eles serão chamados filhos do Deus vivo."
+   }
+  ]
+ },
+ {
+  "id": "F3-ROM-010",
+  "livro": "ROM",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "ROM 9:27",
+  "fim": "ROM 9:28",
+  "texto": {
+   "ROM 9:27": "Isaías também clama a respeito de Israel: Ainda que o número dos filhos de Israel seja como a areia do mar, somente o remanescente será salvo.",
+   "ROM 9:28": "Pois o Senhor completará e abreviará sua obra em justiça, porque executará uma obra abreviada sobre a terra."
+  },
+  "p1": [
+   {
+    "uid": "U1-ROM-009:027-1",
+    "ref": "ROM 9:27-9:28",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "Isaías",
+    "ancora": "somente o remanescente será salvo",
+    "resumo": "Somente o remanescente de Israel será salvo; o Senhor executará sua obra."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ROM-009:027-1",
+    "ref": "ROM 9:27-9:28",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "somente o remanescente será salvo",
+    "resumo": "Isaías anuncia a salvação do remanescente de Israel e a fundamenta na obra que o Senhor executará."
+   }
+  ]
+ },
+ {
+  "id": "F3-ROM-011",
+  "livro": "ROM",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "ROM 9:33",
+  "fim": "ROM 9:33",
+  "texto": {
+   "ROM 9:33": "como está escrito: Eis que ponho em Sião uma pedra de tropeço e uma rocha de escândalo; e todo aquele que nela crê não será envergonhado."
+  },
+  "p1": [
+   {
+    "uid": "U1-ROM-009:033-1",
+    "ref": "ROM 9:33",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "crente_individual",
+    "condicao": null,
+    "promitente": "Paulo",
+    "ancora": "todo aquele que nela crê não será envergonhado",
+    "resumo": "Quem crê na pedra posta em Sião não será envergonhado."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ROM-009:033-1",
+    "ref": "ROM 9:33",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "explicita",
+    "promitente": "pai",
+    "ancora": "todo aquele que nela crê não será envergonhado",
+    "resumo": "A palavra citada garante que quem crê na pedra posta em Sião ficará livre da vergonha."
+   }
+  ]
+ },
+ {
+  "id": "F3-ROM-012",
+  "livro": "ROM",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "ROM 10:19",
+  "fim": "ROM 10:19",
+  "texto": {
+   "ROM 10:19": "Pergunto ainda: Acaso Israel não compreendeu? Primeiro Moisés diz: Eu vos provocarei ciúmes por meio de quem não é povo; por meio de uma nação sem entendimento vos provocarei à ira."
+  },
+  "p1": [
+   {
+    "uid": "U1-ROM-010:019-1",
+    "ref": "ROM 10:19",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "Paulo",
+    "ancora": "Eu vos provocarei ciúmes por meio de quem não é povo",
+    "resumo": "Deus provocará ciúmes e ira em Israel por meio de uma nação sem entendimento."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ROM-010:019-1",
+    "ref": "ROM 10:19",
+    "tipo": "declaracao_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": null,
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Eu vos provocarei ciúmes por meio de quem não é povo",
+    "resumo": "Paulo cita o anúncio transmitido por Moisés sobre provocar ciúmes e ira em Israel."
+   }
+  ]
+ },
+ {
+  "id": "F3-ROM-013",
+  "livro": "ROM",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "ROM 12:19",
+  "fim": "ROM 12:19",
+  "texto": {
+   "ROM 12:19": "Amados, não vos vingueis, mas dai lugar à ira de Deus, pois está escrito: A vingança pertence a mim; eu retribuirei, diz o Senhor."
+  },
+  "p1": [
+   {
+    "uid": "U1-ROM-012:019-1",
+    "ref": "ROM 12:19",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "humanidade",
+    "condicao": null,
+    "promitente": "Paulo",
+    "ancora": "A vingança pertence a mim; eu retribuirei, diz o Senhor",
+    "resumo": "O Senhor retribuirá a vingança."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ROM-012:019-1",
+    "ref": "ROM 12:19",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "A vingança pertence a mim; eu retribuirei, diz o Senhor.",
+    "resumo": "O Senhor assume a vingança e garante que retribuirá."
+   }
+  ]
+ },
+ {
+  "id": "F3-ROM-014",
+  "livro": "ROM",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "ROM 14:11",
+  "fim": "ROM 14:11",
+  "texto": {
+   "ROM 14:11": "Pois está escrito: Tão certo como eu vivo, diz o Senhor, todo joelho se dobrará diante de mim, e toda língua confessará a Deus."
+  },
+  "p1": [
+   {
+    "uid": "U1-ROM-014:011-1",
+    "ref": "ROM 14:11",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "humanidade",
+    "condicao": null,
+    "promitente": "Paulo",
+    "ancora": "todo joelho se dobrará diante de mim",
+    "resumo": "O Senhor jura que todo joelho se dobrará e toda língua o confessará."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-ROM-014:011-1",
+    "ref": "ROM 14:11",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "humanidade",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Tão certo como eu vivo, diz o Senhor, todo joelho se dobrará diante de mim, e toda língua confessará a Deus.",
+    "resumo": "O Senhor jura que todos se curvarão diante dele e confessarão a Deus."
+   }
+  ]
+ },
+ {
+  "id": "F3-ROM-015",
+  "livro": "ROM",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "ROM 14:12",
+  "fim": "ROM 14:12",
+  "texto": {
+   "ROM 14:12": "Assim, cada um de nós prestará contas de si mesmo a Deus."
+  },
+  "p1": [
+   {
+    "uid": "U1-ROM-014:012-1",
+    "ref": "ROM 14:12",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "juizo",
+    "destinatario": "humanidade",
+    "condicao": null,
+    "promitente": "Paulo",
+    "ancora": "cada um de nós prestará contas de si mesmo a Deus",
+    "resumo": "Cada um prestará contas de si a Deus."
+   }
+  ],
+  "p2": []
+ }
+]

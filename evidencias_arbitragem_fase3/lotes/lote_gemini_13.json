@@ -1,0 +1,2052 @@
+[
+ {
+  "id": "F3-DAN-019",
+  "livro": "DAN",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "DAN 3:29",
+  "fim": "DAN 3:29",
+  "texto": {
+   "DAN 3:29": "Por isso, decreto que qualquer pessoa, de qualquer povo, nação ou língua, que disser blasfêmia contra o Deus de Sadraque, Mesaque e Abede-Nego seja despedaçada, e sua casa seja transformada em monturo, pois não há outro deus que possa livrar dessa maneira."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-DAN-003:029-1",
+    "ref": "DAN 3:29",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "juizo",
+    "destinatario": "humanidade",
+    "condicao": "explicita",
+    "promitente": "Nabucodonosor",
+    "ancora": "seja despedaçada, e sua casa seja transformada em monturo",
+    "resumo": "Decreto do rei contra quem blasfemar contra o Deus dos três judeus"
+   }
+  ]
+ },
+ {
+  "id": "F3-DAN-020",
+  "livro": "DAN",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "DAN 4:31",
+  "fim": "DAN 4:32",
+  "texto": {
+   "DAN 4:31": "A palavra ainda estava na boca do rei quando uma voz caiu do céu: A você se declara, ó rei Nabucodonosor: O reino foi tirado de você.",
+   "DAN 4:32": "Você será expulso do meio dos homens e viverá com os animais do campo. Será alimentado com erva como os bois, e sete tempos passarão sobre você, até que reconheça que o Altíssimo domina sobre os reinos humanos e os dá a quem quer."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-DAN-004:031-1",
+    "ref": "DAN 4:31-4:32",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "O reino foi tirado de você",
+    "resumo": "Voz do céu declara o juízo já decidido sobre o rei: perda do reino, expulsão e vida como animal até reconhecer o domínio do Altíssimo"
+   }
+  ]
+ },
+ {
+  "id": "F3-DAN-021",
+  "livro": "DAN",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "DAN 5:17",
+  "fim": "DAN 5:17",
+  "texto": {
+   "DAN 5:17": "Então Daniel respondeu diante do rei: Guarde seus presentes ou dê suas recompensas a outro. Contudo, lerei a inscrição para o rei e lhe darei a interpretação."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-DAN-005:017-1",
+    "ref": "DAN 5:17",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "Daniel",
+    "ancora": "lerei a inscrição para o rei e lhe darei a interpretação.",
+    "resumo": "Daniel se compromete a ler a inscrição e dar a interpretação ao rei."
+   }
+  ]
+ },
+ {
+  "id": "F3-DAN-022",
+  "livro": "DAN",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "DAN 5:27",
+  "fim": "DAN 5:27",
+  "texto": {
+   "DAN 5:27": "TEQUEL significa que você foi pesado na balança e achado em falta."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-DAN-005:027-1",
+    "ref": "DAN 5:27",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "Daniel",
+    "ancora": "TEQUEL significa que você foi pesado na balança e achado em falta.",
+    "resumo": "Belsazar é declarado pesado e achado em falta."
+   }
+  ]
+ },
+ {
+  "id": "F3-DAN-023",
+  "livro": "DAN",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "DAN 5:28",
+  "fim": "DAN 5:28",
+  "texto": {
+   "DAN 5:28": "PERES significa que seu reino foi dividido e entregue aos medos e aos persas."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-DAN-005:028-1",
+    "ref": "DAN 5:28",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "Daniel",
+    "ancora": "PERES significa que seu reino foi dividido e entregue aos medos e aos persas.",
+    "resumo": "O reino de Belsazar será dividido e entregue aos medos e persas."
+   }
+  ]
+ },
+ {
+  "id": "F3-HOS-001",
+  "livro": "HOS",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "HOS 1:10",
+  "fim": "HOS 1:11",
+  "texto": {
+   "HOS 1:10": "Contudo, o número dos filhos de Israel será como a areia do mar, que não pode ser medida nem contada. No lugar em que se dizia a eles: Vocês não são meu povo, será dito: Vocês são filhos do Deus vivo.",
+   "HOS 1:11": "Os filhos de Judá e os filhos de Israel serão reunidos, constituirão sobre si um só chefe e subirão da terra, porque grande será o dia de Jezreel."
+  },
+  "p1": [
+   {
+    "uid": "U1-HOS-001:010-1",
+    "ref": "HOS 1:10-1:11",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "o número dos filhos de Israel será como a areia do mar",
+    "resumo": "multiplicação, filhos do Deus vivo, reunião de Judá e Israel"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-HOS-001:010-1",
+    "ref": "HOS 1:10",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "o número dos filhos de Israel será como a areia do mar, que não pode ser medida nem contada",
+    "resumo": "Anúncio de multiplicação futura dos filhos de Israel"
+   }
+  ]
+ },
+ {
+  "id": "F3-HOS-002",
+  "livro": "HOS",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "HOS 2:3",
+  "fim": "HOS 2:4",
+  "texto": {
+   "HOS 2:3": "para que eu não a deixe nua e a exponha como no dia em que nasceu, faça dela um deserto, torne-a como terra seca e a mate de sede.",
+   "HOS 2:4": "Não terei misericórdia de seus filhos, porque são filhos de prostituições."
+  },
+  "p1": [
+   {
+    "uid": "U1-HOS-002:003-1",
+    "ref": "HOS 2:3-2:4",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": "explicita",
+    "promitente": "pai",
+    "ancora": "faça dela um deserto, torne-a como terra seca",
+    "resumo": "ameaça condicional contra a mãe (Israel)"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-HOS-003",
+  "livro": "HOS",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "HOS 4:3",
+  "fim": "HOS 4:3",
+  "texto": {
+   "HOS 4:3": "Por isso, a terra lamentará, e todo aquele que nela habita desfalecerá, juntamente com os animais do campo e as aves do céu. Até os peixes do mar serão recolhidos."
+  },
+  "p1": [
+   {
+    "uid": "U1-HOS-004:003-1",
+    "ref": "HOS 4:3",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "a terra lamentará, e todo aquele que nela habita desfalecerá",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-HOS-004:003-1",
+    "ref": "HOS 4:3",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "humanidade",
+    "condicao": null,
+    "promitente": "Oseias",
+    "ancora": "a terra lamentará, e todo aquele que nela habita desfalecerá, juntamente com os animais do campo e as aves do céu. Até os peixes do mar serão recolhidos.",
+    "resumo": "lamento da terra e definhamento de todos os seres por causa da acusação"
+   }
+  ]
+ },
+ {
+  "id": "F3-HOS-004",
+  "livro": "HOS",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "HOS 4:14",
+  "fim": "HOS 4:14",
+  "texto": {
+   "HOS 4:14": "Não castigarei suas filhas quando se prostituírem, nem suas noras quando cometerem adultério, porque os próprios homens se retiram com prostitutas e oferecem sacrifícios com prostitutas cultuais. Assim, um povo sem entendimento chegará à ruína."
+  },
+  "p1": [
+   {
+    "uid": "U1-HOS-004:014-1",
+    "ref": "HOS 4:14",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Não castigarei suas filhas quando se prostituírem",
+    "resumo": "Deus não castigará as filhas; o povo sem entendimento chega à ruína"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-HOS-004:014-1",
+    "ref": "HOS 4:14",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "familia_ou_linhagem",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Não castigarei suas filhas quando se prostituírem, nem suas noras quando cometerem adultério",
+    "resumo": "Deus declara que não castigará filhas e noras"
+   }
+  ]
+ },
+ {
+  "id": "F3-HOS-005",
+  "livro": "HOS",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "HOS 4:16",
+  "fim": "HOS 4:16",
+  "texto": {
+   "HOS 4:16": "Israel é obstinado como uma novilha rebelde. Agora o SENHOR os apascentará como um cordeiro em campo aberto."
+  },
+  "p1": [
+   {
+    "uid": "U1-HOS-004:016-1",
+    "ref": "HOS 4:16",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "o SENHOR os apascentará como um cordeiro em campo aberto",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-HOS-004:016-1",
+    "ref": "HOS 4:16",
+    "tipo": "indeterminada",
+    "origem": "indeterminada",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Agora o SENHOR os apascentará como um cordeiro em campo aberto.",
+    "resumo": "o SENHOR apascentará Israel como cordeiro em campo aberto"
+   }
+  ]
+ },
+ {
+  "id": "F3-HOS-006",
+  "livro": "HOS",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "HOS 5:5",
+  "fim": "HOS 5:7",
+  "texto": {
+   "HOS 5:5": "A arrogância de Israel testemunha contra ele. Israel e Efraim tropeçarão por causa de sua iniquidade, e Judá tropeçará com eles.",
+   "HOS 5:6": "Irão com suas ovelhas e seus bois buscar o SENHOR, mas não o encontrarão. Ele se retirou deles.",
+   "HOS 5:7": "Agiram traiçoeiramente contra o SENHOR, pois geraram filhos estranhos. Agora a lua nova os consumirá juntamente com suas propriedades."
+  },
+  "p1": [
+   {
+    "uid": "U1-HOS-005:005-1",
+    "ref": "HOS 5:5-5:7",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Israel e Efraim tropeçarão por causa de sua iniquidade",
+    "resumo": "buscarão o SENHOR e não o encontrarão"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-HOS-005:005-1",
+    "ref": "HOS 5:5",
+    "tipo": "indeterminada",
+    "origem": "indeterminada",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": null,
+    "ancora": "Israel e Efraim tropeçarão por causa de sua iniquidade, e Judá tropeçará com eles",
+    "resumo": "Israel, Efraim e Judá tropeçarão por causa da iniquidade."
+   }
+  ]
+ },
+ {
+  "id": "F3-HOS-007",
+  "livro": "HOS",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "HOS 5:9",
+  "fim": "HOS 5:10",
+  "texto": {
+   "HOS 5:9": "Efraim se tornará uma desolação no dia do castigo. Entre as tribos de Israel, anuncio o que certamente acontecerá.",
+   "HOS 5:10": "Os príncipes de Judá se tornaram como os que removem os limites. Derramarei sobre eles meu furor como água."
+  },
+  "p1": [
+   {
+    "uid": "U1-HOS-005:009-1",
+    "ref": "HOS 5:9-5:10",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Efraim se tornará uma desolação no dia do castigo",
+    "resumo": "anuncia o que certamente acontecerá; furor sobre os príncipes de Judá"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-HOS-005:009-1",
+    "ref": "HOS 5:9",
+    "tipo": "indeterminada",
+    "origem": "indeterminada",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": null,
+    "ancora": "Efraim se tornará uma desolação no dia do castigo",
+    "resumo": "Efraim será desolado no dia do castigo."
+   }
+  ]
+ },
+ {
+  "id": "F3-HOS-008",
+  "livro": "HOS",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "HOS 6:11",
+  "fim": "HOS 6:11",
+  "texto": {
+   "HOS 6:11": "Também para você, ó Judá, está determinada uma colheita, quando eu restaurar a sorte de meu povo."
+  },
+  "p1": [
+   {
+    "uid": "U1-HOS-006:011-1",
+    "ref": "HOS 6:11",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "está determinada uma colheita, quando eu restaurar a sorte de meu povo",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-HOS-006:011-1",
+    "ref": "HOS 6:11",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Também para você, ó Judá, está determinada uma colheita",
+    "resumo": "Juízo determinado contra Judá."
+   },
+   {
+    "uid": "U2-HOS-006:011-2",
+    "ref": "HOS 6:11",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "quando eu restaurar a sorte de meu povo",
+    "resumo": "Deus promete restaurar a sorte do seu povo."
+   }
+  ]
+ },
+ {
+  "id": "F3-HOS-009",
+  "livro": "HOS",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "HOS 7:16",
+  "fim": "HOS 7:16",
+  "texto": {
+   "HOS 7:16": "Voltam-se, mas não para o Altíssimo. São como arco enganoso. Seus príncipes cairão pela espada por causa da insolência de sua língua. Isso será motivo de zombaria na terra do Egito."
+  },
+  "p1": [
+   {
+    "uid": "U1-HOS-007:016-1",
+    "ref": "HOS 7:16",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Seus príncipes cairão pela espada",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-HOS-007:016-1",
+    "ref": "HOS 7:16",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": null,
+    "ancora": "Seus príncipes cairão pela espada por causa da insolência de sua língua",
+    "resumo": "Anúncio de que os príncipes cairão pela espada e isso será motivo de zombaria na terra do Egito."
+   }
+  ]
+ },
+ {
+  "id": "F3-HOS-010",
+  "livro": "HOS",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "HOS 8:5",
+  "fim": "HOS 8:6",
+  "texto": {
+   "HOS 8:5": "Seu bezerro, ó Samaria, foi rejeitado. Minha ira se acendeu contra eles. Até quando serão incapazes de alcançar a pureza?",
+   "HOS 8:6": "Pois esse bezerro vem de Israel. Um artesão o fez, e ele não é Deus. O bezerro de Samaria será despedaçado."
+  },
+  "p1": [
+   {
+    "uid": "U1-HOS-008:005-1",
+    "ref": "HOS 8:5-8:6",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "O bezerro de Samaria será despedaçado",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-HOS-008:006-1",
+    "ref": "HOS 8:6",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "divina_direta",
+    "natureza": null,
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "O bezerro de Samaria será despedaçado",
+    "resumo": "O bezerro de Samaria será destruído."
+   }
+  ]
+ },
+ {
+  "id": "F3-HOS-011",
+  "livro": "HOS",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "HOS 9:2",
+  "fim": "HOS 9:4",
+  "texto": {
+   "HOS 9:2": "A eira e o lagar não os alimentarão, e o vinho novo lhes faltará.",
+   "HOS 9:3": "Não permanecerão na terra do SENHOR. Efraim voltará ao Egito, e na Assíria comerão alimento impuro.",
+   "HOS 9:4": "Não derramarão ofertas de vinho ao SENHOR, e seus sacrifícios não lhe serão agradáveis. Serão para eles como pão de luto: todos os que deles comerem ficarão impuros. Esse pão servirá apenas para matar sua fome e não entrará na casa do SENHOR."
+  },
+  "p1": [
+   {
+    "uid": "U1-HOS-009:002-1",
+    "ref": "HOS 9:2-9:4",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "A eira e o lagar não os alimentarão",
+    "resumo": "Efraim voltará ao Egito, sem culto aceito"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-HOS-009:002-1",
+    "ref": "HOS 9:2-9:3",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "A eira e o lagar não os alimentarão",
+    "resumo": "Anúncio de fome e exílio para Israel."
+   },
+   {
+    "uid": "U2-HOS-009:004-1",
+    "ref": "HOS 9:4",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Não derramarão ofertas de vinho ao SENHOR",
+    "resumo": "Anúncio de exclusão cultual e impureza."
+   }
+  ]
+ },
+ {
+  "id": "F3-HOS-012",
+  "livro": "HOS",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "HOS 9:6",
+  "fim": "HOS 9:6",
+  "texto": {
+   "HOS 9:6": "Pois eles partiram por causa da destruição. O Egito os reunirá, e Mênfis os sepultará. Urtigas tomarão posse de seus objetos preciosos de prata, e espinhos crescerão em suas tendas."
+  },
+  "p1": [
+   {
+    "uid": "U1-HOS-009:006-1",
+    "ref": "HOS 9:6",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "O Egito os reunirá, e Mênfis os sepultará",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-HOS-009:006-1",
+    "ref": "HOS 9:6",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "O Egito os reunirá",
+    "resumo": "Anúncio de morte e desolação no exílio."
+   }
+  ]
+ },
+ {
+  "id": "F3-HOS-013",
+  "livro": "HOS",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "HOS 9:7",
+  "fim": "HOS 9:9",
+  "texto": {
+   "HOS 9:7": "Chegaram os dias do castigo, chegaram os dias da retribuição. Israel o saberá. O profeta é chamado de louco, e o homem do espírito, de insensato, por causa da grandeza de sua iniquidade e de sua grande hostilidade.",
+   "HOS 9:8": "O profeta é o vigia de Efraim junto a meu Deus, mas há uma armadilha de caçador em todos seus caminhos e hostilidade na casa de seu Deus.",
+   "HOS 9:9": "Eles se corromperam profundamente, como nos dias de Gibeá. Deus se lembrará de sua iniquidade e castigará seus pecados."
+  },
+  "p1": [
+   {
+    "uid": "U1-HOS-009:007-1",
+    "ref": "HOS 9:7-9:9",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Chegaram os dias do castigo",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-HOS-009:007-1",
+    "ref": "HOS 9:7",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Chegaram os dias do castigo",
+    "resumo": "Anúncio do dia de castigo e retribuição sobre Israel."
+   }
+  ]
+ },
+ {
+  "id": "F3-HOS-014",
+  "livro": "HOS",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "HOS 10:2",
+  "fim": "HOS 10:2",
+  "texto": {
+   "HOS 10:2": "Seu coração está dividido, e agora serão considerados culpados. O SENHOR derrubará seus altares e destruirá suas colunas."
+  },
+  "p1": [
+   {
+    "uid": "U1-HOS-010:002-1",
+    "ref": "HOS 10:2",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "O SENHOR derrubará seus altares e destruirá suas colunas",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-HOS-010:002-1",
+    "ref": "HOS 10:2",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "O SENHOR derrubará seus altares e destruirá suas colunas.",
+    "resumo": "Anúncio de que os altares e colunas de Israel serão derrubados pelo SENHOR."
+   }
+  ]
+ },
+ {
+  "id": "F3-HOS-015",
+  "livro": "HOS",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "HOS 10:5",
+  "fim": "HOS 10:8",
+  "texto": {
+   "HOS 10:5": "Os habitantes de Samaria tremerão por causa do bezerro de Bete-Áven. Seu povo lamentará por ele, e seus sacerdotes idólatras chorarão por sua glória, porque ela se afastou dele.",
+   "HOS 10:6": "Ele também será levado à Assíria como presente ao rei Jarebe. Efraim ficará envergonhado, e Israel se envergonhará de seu próprio conselho.",
+   "HOS 10:7": "O rei de Samaria será eliminado como espuma sobre a superfície das águas.",
+   "HOS 10:8": "Os altos de Áven, pecado de Israel, serão destruídos. Espinhos e cardos crescerão sobre seus altares. Eles dirão aos montes: Cubram-nos, e às colinas: Caiam sobre nós."
+  },
+  "p1": [
+   {
+    "uid": "U1-HOS-010:005-1",
+    "ref": "HOS 10:5-10:8",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Os altos de Áven, pecado de Israel, serão destruídos",
+    "resumo": "destruição de altares, rei de Samaria eliminado"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-HOS-010:008-1",
+    "ref": "HOS 10:8",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Os altos de Áven, pecado de Israel, serão destruídos.",
+    "resumo": "Os altos e altares de Israel serão destruídos, e o povo clamará aos montes e colinas."
+   }
+  ]
+ },
+ {
+  "id": "F3-HOS-016",
+  "livro": "HOS",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "HOS 10:14",
+  "fim": "HOS 10:15",
+  "texto": {
+   "HOS 10:14": "Por isso, um tumulto se levantará entre seus povos, e todas suas fortalezas serão destruídas, como Salmã destruiu Bete-Arbel no dia da batalha, quando mães foram despedaçadas com seus filhos.",
+   "HOS 10:15": "Assim Bete-El fará com vocês por causa da extrema maldade de vocês. Ao amanhecer, o rei de Israel será completamente eliminado."
+  },
+  "p1": [
+   {
+    "uid": "U1-HOS-010:014-1",
+    "ref": "HOS 10:14-10:15",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "um tumulto se levantará entre seus povos",
+    "resumo": "fortalezas destruídas; rei de Israel eliminado"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-HOS-010:014-1",
+    "ref": "HOS 10:14",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Por isso, um tumulto se levantará entre seus povos",
+    "resumo": "Anúncio de que tumulto e destruição virão sobre os povos e fortalezas de Israel."
+   }
+  ]
+ },
+ {
+  "id": "F3-HOS-017",
+  "livro": "HOS",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "HOS 12:2",
+  "fim": "HOS 12:2",
+  "texto": {
+   "HOS 12:2": "O SENHOR também tem uma acusação contra Judá e castigará Jacó segundo seus caminhos. Retribuirá a ele segundo seus atos."
+  },
+  "p1": [
+   {
+    "uid": "U1-HOS-012:002-1",
+    "ref": "HOS 12:2",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "castigará Jacó segundo seus caminhos",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-HOS-012:002-1",
+    "ref": "HOS 12:2",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": "Oseias",
+    "ancora": "O SENHOR também tem uma acusação contra Judá e castigará Jacó segundo seus caminhos. Retribuirá a ele segundo seus atos.",
+    "resumo": "O SENHOR castigará Jacó segundo seus caminhos e lhe retribuirá segundo seus atos."
+   }
+  ]
+ },
+ {
+  "id": "F3-HOS-018",
+  "livro": "HOS",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "HOS 12:14",
+  "fim": "HOS 12:14",
+  "texto": {
+   "HOS 12:14": "Efraim provocou o SENHOR amargamente. Por isso, seu Senhor deixará sobre ele a culpa do sangue que derramou e lhe retribuirá sua afronta."
+  },
+  "p1": [
+   {
+    "uid": "U1-HOS-012:014-1",
+    "ref": "HOS 12:14",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "seu Senhor deixará sobre ele a culpa do sangue que derramou",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-HOS-012:014-1",
+    "ref": "HOS 12:14",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": "Oseias",
+    "ancora": "Efraim provocou o SENHOR amargamente. Por isso, seu Senhor deixará sobre ele a culpa do sangue que derramou e lhe retribuirá sua afronta.",
+    "resumo": "O Senhor deixará sobre Efraim a culpa do sangue derramado e retribuirá sua afronta."
+   }
+  ]
+ },
+ {
+  "id": "F3-HOS-019",
+  "livro": "HOS",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "HOS 13:3",
+  "fim": "HOS 13:3",
+  "texto": {
+   "HOS 13:3": "Por isso, serão como a nuvem da manhã, como o orvalho que cedo desaparece, como a palha levada da eira pelo vento e como a fumaça que sai pela janela."
+  },
+  "p1": [
+   {
+    "uid": "U1-HOS-013:003-1",
+    "ref": "HOS 13:3",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "serão como a nuvem da manhã",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-HOS-013:003-1",
+    "ref": "HOS 13:3",
+    "tipo": "indeterminada",
+    "origem": "indeterminada",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": null,
+    "ancora": "serão como a nuvem da manhã",
+    "resumo": "Anúncio de que Efraim desaparecerá como a nuvem da manhã, o orvalho, a palha e a fumaça"
+   }
+  ]
+ },
+ {
+  "id": "F3-HOS-020",
+  "livro": "HOS",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "HOS 13:15",
+  "fim": "HOS 13:16",
+  "texto": {
+   "HOS 13:15": "Ainda que Efraim frutifique entre seus irmãos, virá o vento oriental, vento do SENHOR, subindo do deserto. Sua nascente secará, e sua fonte ficará sem água. Ele saqueará o tesouro de todos os objetos preciosos.",
+   "HOS 13:16": "Samaria levará sua culpa, porque se rebelou contra seu Deus. Cairão à espada, seus filhinhos serão despedaçados e o ventre de suas grávidas será aberto."
+  },
+  "p1": [
+   {
+    "uid": "U1-HOS-013:015-1",
+    "ref": "HOS 13:15-13:16",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "virá o vento oriental, vento do SENHOR",
+    "resumo": "Efraim secará; Samaria cairá à espada"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-HOS-013:015-1",
+    "ref": "HOS 13:15",
+    "tipo": "indeterminada",
+    "origem": "indeterminada",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": null,
+    "ancora": "virá o vento oriental, vento do SENHOR, subindo do deserto",
+    "resumo": "Ainda que Efraim frutifique, o vento do SENHOR secará sua nascente e fonte, e seus tesouros serão saqueados"
+   }
+  ]
+ },
+ {
+  "id": "F3-HOS-021",
+  "livro": "HOS",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "HOS 1:10",
+  "fim": "HOS 1:10",
+  "texto": {
+   "HOS 1:10": "Contudo, o número dos filhos de Israel será como a areia do mar, que não pode ser medida nem contada. No lugar em que se dizia a eles: Vocês não são meu povo, será dito: Vocês são filhos do Deus vivo."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-HOS-001:010-2",
+    "ref": "HOS 1:10",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "No lugar em que se dizia a eles: Vocês não são meu povo, será dito: Vocês são filhos do Deus vivo",
+    "resumo": "Reversão futura da sentença: os antes chamados 'não meu povo' serão chamados filhos do Deus vivo"
+   }
+  ]
+ },
+ {
+  "id": "F3-HOS-022",
+  "livro": "HOS",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "HOS 1:11",
+  "fim": "HOS 1:11",
+  "texto": {
+   "HOS 1:11": "Os filhos de Judá e os filhos de Israel serão reunidos, constituirão sobre si um só chefe e subirão da terra, porque grande será o dia de Jezreel."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-HOS-001:011-1",
+    "ref": "HOS 1:11",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Os filhos de Judá e os filhos de Israel serão reunidos, constituirão sobre si um só chefe e subirão da terra, porque grande será o dia de Jezreel",
+    "resumo": "Reunificação futura de Judá e Israel sob um só chefe e subida da terra"
+   }
+  ]
+ },
+ {
+  "id": "F3-HOS-023",
+  "livro": "HOS",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "HOS 2:4",
+  "fim": "HOS 2:4",
+  "texto": {
+   "HOS 2:4": "Não terei misericórdia de seus filhos, porque são filhos de prostituições."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-HOS-002:004-1",
+    "ref": "HOS 2:4",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Não terei misericórdia de seus filhos",
+    "resumo": "Deus declara que não terá misericórdia dos filhos da mãe infiel."
+   }
+  ]
+ },
+ {
+  "id": "F3-HOS-024",
+  "livro": "HOS",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "HOS 2:9",
+  "fim": "HOS 2:13",
+  "texto": {
+   "HOS 2:9": "Por isso, voltarei e tomarei meu cereal a seu tempo e meu vinho novo em sua estação. Retirarei minha lã e meu linho, que deveriam cobrir sua nudez.",
+   "HOS 2:10": "Agora descobrirei sua vergonha diante dos olhos de seus amantes, e ninguém a livrará de minhas mãos.",
+   "HOS 2:11": "Farei cessar toda sua alegria, suas festas, suas luas novas, seus sábados e todas suas solenidades.",
+   "HOS 2:12": "Devastarei suas videiras e figueiras, das quais ela dizia: Este é o pagamento que meus amantes me deram. Eu as transformarei em matagal, e os animais do campo as devorarão.",
+   "HOS 2:13": "Eu a castigarei pelos dias dos baalins, quando lhes queimava incenso, adornava-se com seus brincos e joias e seguia seus amantes, mas se esquecia de mim, diz o SENHOR."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-HOS-002:009-1",
+    "ref": "HOS 2:9-2:13",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "voltarei e tomarei meu cereal",
+    "resumo": "Deus anuncia uma série de juízos: retirar os bens, expor a vergonha, cessar a alegria, devastar as videiras e castigar os dias dos baalins."
+   }
+  ]
+ },
+ {
+  "id": "F3-HOS-025",
+  "livro": "HOS",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "HOS 4:6",
+  "fim": "HOS 4:6",
+  "texto": {
+   "HOS 4:6": "Meu povo é destruído por falta de conhecimento. Porque você rejeitou o conhecimento, também eu o rejeitarei, para que não exerça o sacerdócio diante de mim. Visto que se esqueceu da lei de seu Deus, também eu me esquecerei de seus filhos."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-HOS-004:006-1",
+    "ref": "HOS 4:6",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Porque você rejeitou o conhecimento, também eu o rejeitarei, para que não exerça o sacerdócio diante de mim.",
+    "resumo": "rejeição do sacerdote diante de Deus"
+   }
+  ]
+ },
+ {
+  "id": "F3-HOS-026",
+  "livro": "HOS",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "HOS 4:6",
+  "fim": "HOS 4:6",
+  "texto": {
+   "HOS 4:6": "Meu povo é destruído por falta de conhecimento. Porque você rejeitou o conhecimento, também eu o rejeitarei, para que não exerça o sacerdócio diante de mim. Visto que se esqueceu da lei de seu Deus, também eu me esquecerei de seus filhos."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-HOS-004:006-2",
+    "ref": "HOS 4:6",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "familia_ou_linhagem",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "também eu me esquecerei de seus filhos",
+    "resumo": "Deus esquece os filhos do sacerdote"
+   }
+  ]
+ },
+ {
+  "id": "F3-HOS-027",
+  "livro": "HOS",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "HOS 4:7",
+  "fim": "HOS 4:7",
+  "texto": {
+   "HOS 4:7": "Quanto mais eles se multiplicaram, mais pecaram contra mim. Transformarei sua glória em vergonha."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-HOS-004:007-1",
+    "ref": "HOS 4:7",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Transformarei sua glória em vergonha.",
+    "resumo": "glória trocada em vergonha"
+   }
+  ]
+ },
+ {
+  "id": "F3-HOS-028",
+  "livro": "HOS",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "HOS 4:10",
+  "fim": "HOS 4:10",
+  "texto": {
+   "HOS 4:10": "Comerão, mas não se fartarão. Entregar-se-ão à prostituição, mas não se multiplicarão, porque deixaram de dar atenção ao SENHOR."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-HOS-004:010-1",
+    "ref": "HOS 4:10",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "Oseias",
+    "ancora": "Comerão, mas não se fartarão. Entregar-se-ão à prostituição, mas não se multiplicarão",
+    "resumo": "fome sem fartura e prostituição sem multiplicação"
+   }
+  ]
+ },
+ {
+  "id": "F3-HOS-029",
+  "livro": "HOS",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "HOS 4:14",
+  "fim": "HOS 4:14",
+  "texto": {
+   "HOS 4:14": "Não castigarei suas filhas quando se prostituírem, nem suas noras quando cometerem adultério, porque os próprios homens se retiram com prostitutas e oferecem sacrifícios com prostitutas cultuais. Assim, um povo sem entendimento chegará à ruína."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-HOS-004:014-2",
+    "ref": "HOS 4:14",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "Oseias",
+    "ancora": "Assim, um povo sem entendimento chegará à ruína.",
+    "resumo": "ruína do povo sem entendimento"
+   }
+  ]
+ },
+ {
+  "id": "F3-HOS-030",
+  "livro": "HOS",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "HOS 5:10",
+  "fim": "HOS 5:10",
+  "texto": {
+   "HOS 5:10": "Os príncipes de Judá se tornaram como os que removem os limites. Derramarei sobre eles meu furor como água."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-HOS-005:010-1",
+    "ref": "HOS 5:10",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "Derramarei sobre eles meu furor como água",
+    "resumo": "Deus derramará seu furor sobre os príncipes de Judá."
+   }
+  ]
+ },
+ {
+  "id": "F3-HOS-031",
+  "livro": "HOS",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "HOS 5:14",
+  "fim": "HOS 5:14",
+  "texto": {
+   "HOS 5:14": "Pois serei como leão para Efraim e como leão novo para a casa de Judá. Eu mesmo despedaçarei e irei embora. Levarei a presa, e ninguém a livrará."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-HOS-005:014-1",
+    "ref": "HOS 5:14",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "Eu mesmo despedaçarei e irei embora",
+    "resumo": "Deus despedaçará Efraim e Judá como leão e ninguém livrará."
+   }
+  ]
+ },
+ {
+  "id": "F3-HOS-032",
+  "livro": "HOS",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "HOS 7:13",
+  "fim": "HOS 7:13",
+  "texto": {
+   "HOS 7:13": "Ai deles, porque se afastaram de mim. Destruição sobre eles, porque se rebelaram contra mim. Eu os redimiria, mas falam mentiras contra mim."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-HOS-007:013-1",
+    "ref": "HOS 7:13",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "Ai deles, porque se afastaram de mim",
+    "resumo": "Sentença de ai e destruição sobre os que se afastaram e rebelaram, com a declaração de que ele os redimiria, mas eles falam mentiras."
+   }
+  ]
+ },
+ {
+  "id": "F3-HOS-033",
+  "livro": "HOS",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "HOS 8:1",
+  "fim": "HOS 8:1",
+  "texto": {
+   "HOS 8:1": "Leve a trombeta à boca. Como águia, o inimigo vem contra a casa do SENHOR, porque transgrediram minha aliança e se rebelaram contra minha lei."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-HOS-008:001-1",
+    "ref": "HOS 8:1",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": null,
+    "ancora": "Como águia, o inimigo vem contra a casa do SENHOR",
+    "resumo": "O SENHOR anuncia a vinda do inimigo contra a casa do SENHOR por causa da transgressão."
+   }
+  ]
+ },
+ {
+  "id": "F3-HOS-034",
+  "livro": "HOS",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "HOS 9:16",
+  "fim": "HOS 9:16",
+  "texto": {
+   "HOS 9:16": "Efraim está ferido, sua raiz secou, e não produzirá fruto. Ainda que gerem filhos, matarei os filhos queridos de seu ventre."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-HOS-009:016-1",
+    "ref": "HOS 9:16",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "matarei os filhos queridos de seu ventre",
+    "resumo": "Deus afirma que matará os filhos de Efraim."
+   }
+  ]
+ },
+ {
+  "id": "F3-HOS-035",
+  "livro": "HOS",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "HOS 10:11",
+  "fim": "HOS 10:11",
+  "texto": {
+   "HOS 10:11": "Efraim é uma novilha treinada que gosta de trilhar. Mas eu colocarei jugo sobre seu belo pescoço. Atrelarei Efraim, Judá lavrará e Jacó gradará a terra."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-HOS-010:011-1",
+    "ref": "HOS 10:11",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "eu colocarei jugo sobre seu belo pescoço",
+    "resumo": "O SENHOR colocará jugo sobre Efraim; Judá e Jacó serão submetidos a trabalhos."
+   }
+  ]
+ },
+ {
+  "id": "F3-HOS-036",
+  "livro": "HOS",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "HOS 11:6",
+  "fim": "HOS 11:6",
+  "texto": {
+   "HOS 11:6": "A espada cairá sobre suas cidades, destruirá suas barras e as devorará por causa de seus conselhos."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-HOS-011:006-1",
+    "ref": "HOS 11:6",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "A espada cairá sobre suas cidades",
+    "resumo": "Deus anuncia que a espada destruirá as cidades e as fortificações de Israel"
+   }
+  ]
+ },
+ {
+  "id": "F3-JOL-001",
+  "livro": "JOL",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JOL 1:15",
+  "fim": "JOL 1:15",
+  "texto": {
+   "JOL 1:15": "Ah, aquele dia! O dia do SENHOR está perto e virá como destruição da parte do Todo-Poderoso."
+  },
+  "p1": [
+   {
+    "uid": "U1-JOL-001:015-1",
+    "ref": "JOL 1:15",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "O dia do SENHOR está perto e virá como destruição da parte do Todo-Poderoso",
+    "resumo": "anúncio do dia do SENHOR"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JOL-001:015-1",
+    "ref": "JOL 1:15",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "Joel",
+    "ancora": "O dia do SENHOR está perto e virá como destruição da parte do Todo-Poderoso.",
+    "resumo": "Anúncio de que o dia do SENHOR está próximo e será destruição da parte de Deus."
+   }
+  ]
+ },
+ {
+  "id": "F3-JOL-002",
+  "livro": "JOL",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JOL 2:1",
+  "fim": "JOL 2:11",
+  "texto": {
+   "JOL 2:1": "Toquem a trombeta em Sião e levantem a voz em meu santo monte. Tremam todos os moradores da terra, porque o dia do SENHOR vem e está perto.",
+   "JOL 2:2": "Dia de trevas e escuridão, dia de nuvens e densas trevas. Como a luz da alvorada se espalha sobre os montes, assim vem um povo grande e poderoso, como nunca houve desde a antiguidade, nem haverá depois dele por muitas gerações.",
+   "JOL 2:3": "Diante dele, o fogo consome, e atrás dele, a chama queima. Diante dele, a terra é como o jardim do Éden, mas atrás dele, um deserto assolado. Nada lhe escapa.",
+   "JOL 2:4": "Sua aparência é como a de cavalos, e correm como cavaleiros.",
+   "JOL 2:5": "Saltam sobre os cumes dos montes com estrondo semelhante ao de carros, ao ruído da chama de fogo que consome a palha, como um povo poderoso disposto para a batalha.",
+   "JOL 2:6": "Diante deles, os povos se contorcem de angústia, e todos os rostos perdem a cor.",
+   "JOL 2:7": "Correm como guerreiros e sobem os muros como homens de guerra. Cada um segue seu caminho, sem desviar de sua vereda.",
+   "JOL 2:8": "Nenhum empurra o outro. Cada um avança por sua trilha. Investem por entre as armas sem romper suas fileiras.",
+   "JOL 2:9": "Correm pela cidade, avançam sobre os muros e sobem às casas. Entram pelas janelas como ladrão.",
+   "JOL 2:10": "Diante deles, a terra treme, e os céus se abalam. O sol e a lua escurecem, e as estrelas retiram seu brilho.",
+   "JOL 2:11": "O SENHOR levanta sua voz diante de seu exército, porque seu acampamento é muito grande. Poderoso é aquele que executa sua palavra. O dia do SENHOR é grande e muito terrível. Quem poderá suportá-lo?"
+  },
+  "p1": [
+   {
+    "uid": "U1-JOL-002:001-1",
+    "ref": "JOL 2:1-2:11",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "humanidade",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "o dia do SENHOR vem e está perto",
+    "resumo": "dia do SENHOR com exército devastador"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JOL-002:001-1",
+    "ref": "JOL 2:1-2:11",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "o dia do SENHOR vem e está perto",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-JOL-003",
+  "livro": "JOL",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JOL 2:21",
+  "fim": "JOL 2:22",
+  "texto": {
+   "JOL 2:21": "Não tema, ó terra. Exulte e alegre-se, porque o SENHOR fez grandes coisas.",
+   "JOL 2:22": "Não temam, animais do campo, porque os pastos do deserto reverdecerão. As árvores darão seu fruto, e a figueira e a videira produzirão com vigor."
+  },
+  "p1": [
+   {
+    "uid": "U1-JOL-002:021-1",
+    "ref": "JOL 2:21-2:22",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "criacao",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "os pastos do deserto reverdecerão",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JOL-002:022-1",
+    "ref": "JOL 2:22",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "porque os pastos do deserto reverdecerão",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-JOL-004",
+  "livro": "JOL",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JOL 3:4",
+  "fim": "JOL 3:8",
+  "texto": {
+   "JOL 3:4": "Que têm vocês contra mim, Tiro, Sidom e todas as regiões da Filístia? Querem me retribuir alguma coisa? Se querem me retribuir, farei sua retribuição voltar depressa sobre sua própria cabeça.",
+   "JOL 3:5": "Porque levaram minha prata e meu ouro e puseram meus tesouros preciosos em seus templos.",
+   "JOL 3:6": "Venderam os filhos de Judá e os filhos de Jerusalém aos filhos dos gregos, para afastá-los de seu território.",
+   "JOL 3:7": "Eis que os despertarei do lugar para onde vocês os venderam e farei sua retribuição voltar sobre sua própria cabeça.",
+   "JOL 3:8": "Venderei seus filhos e suas filhas nas mãos dos filhos de Judá, e estes os venderão aos sabeus, uma nação distante, porque o SENHOR falou."
+  },
+  "p1": [
+   {
+    "uid": "U1-JOL-003:004-1",
+    "ref": "JOL 3:4-3:8",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "farei sua retribuição voltar depressa sobre sua própria cabeça",
+    "resumo": "Tiro, Sidom e Filístia retribuídos"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JOL-003:004-1",
+    "ref": "JOL 3:4",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": "contextual",
+    "promitente": "pai",
+    "ancora": "farei sua retribuição voltar depressa sobre sua própria cabeça",
+    "resumo": "Deus fará voltar sobre Tiro, Sidom e Filístia a retribuição deles, se tentarem retribuir."
+   },
+   {
+    "uid": "U2-JOL-003:007-2",
+    "ref": "JOL 3:7",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "farei sua retribuição voltar sobre sua própria cabeça",
+    "resumo": "Deus fará a retribuição dos vendedores voltar sobre eles."
+   }
+  ]
+ },
+ {
+  "id": "F3-JOL-005",
+  "livro": "JOL",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JOL 3:16",
+  "fim": "JOL 3:17",
+  "texto": {
+   "JOL 3:16": "O SENHOR rugirá de Sião e levantará sua voz de Jerusalém. Os céus e a terra tremerão, mas o SENHOR será refúgio para seu povo e fortaleza para os filhos de Israel.",
+   "JOL 3:17": "Então vocês saberão que eu sou o SENHOR, seu Deus, que habito em Sião, meu santo monte. Jerusalém será santa, e estrangeiros não passarão mais por ela."
+  },
+  "p1": [
+   {
+    "uid": "U1-JOL-003:016-1",
+    "ref": "JOL 3:16-3:17",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "o SENHOR será refúgio para seu povo e fortaleza para os filhos de Israel",
+    "resumo": "Deus habita em Sião, Jerusalém santa"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JOL-003:016-2",
+    "ref": "JOL 3:16",
+    "tipo": "indeterminada",
+    "origem": "indeterminada",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": null,
+    "ancora": "o SENHOR será refúgio para seu povo e fortaleza para os filhos de Israel",
+    "resumo": "O SENHOR será refúgio e fortaleza para seu povo."
+   }
+  ]
+ },
+ {
+  "id": "F3-JOL-006",
+  "livro": "JOL",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JOL 3:18",
+  "fim": "JOL 3:18",
+  "texto": {
+   "JOL 3:18": "Naquele dia, os montes destilarão vinho novo, as colinas manarão leite, e todos os ribeiros de Judá estarão cheios de água. Uma fonte sairá da casa do SENHOR e regará o vale de Sitim."
+  },
+  "p1": [
+   {
+    "uid": "U1-JOL-003:018-1",
+    "ref": "JOL 3:18",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "os montes destilarão vinho novo",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JOL-003:018-1",
+    "ref": "JOL 3:18",
+    "tipo": "indeterminada",
+    "origem": "indeterminada",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": null,
+    "ancora": "os montes destilarão vinho novo",
+    "resumo": "Naquele dia haverá abundância de vinho, leite e água em Judá, e uma fonte sairá da casa do SENHOR."
+   }
+  ]
+ },
+ {
+  "id": "F3-JOL-007",
+  "livro": "JOL",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JOL 3:19",
+  "fim": "JOL 3:19",
+  "texto": {
+   "JOL 3:19": "O Egito se tornará uma desolação, e Edom, um deserto assolado, por causa da violência cometida contra os filhos de Judá, em cuja terra derramaram sangue inocente."
+  },
+  "p1": [
+   {
+    "uid": "U1-JOL-003:019-1",
+    "ref": "JOL 3:19",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "O Egito se tornará uma desolação, e Edom, um deserto assolado",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JOL-003:019-1",
+    "ref": "JOL 3:19",
+    "tipo": "indeterminada",
+    "origem": "indeterminada",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": "nenhuma",
+    "promitente": null,
+    "ancora": "O Egito se tornará uma desolação",
+    "resumo": "Egito e Edom serão desolados por causa da violência contra Judá."
+   }
+  ]
+ },
+ {
+  "id": "F3-JOL-008",
+  "livro": "JOL",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JOL 3:20",
+  "fim": "JOL 3:21",
+  "texto": {
+   "JOL 3:20": "Mas Judá será habitada para sempre, e Jerusalém, de geração em geração.",
+   "JOL 3:21": "Eu os absolverei da culpa de sangue da qual ainda não os havia absolvido, e o SENHOR habitará em Sião."
+  },
+  "p1": [
+   {
+    "uid": "U1-JOL-003:020-1",
+    "ref": "JOL 3:20-3:21",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Judá será habitada para sempre",
+    "resumo": "Judá habitada para sempre e culpa absolvida; Deus habita em Sião"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JOL-003:020-1",
+    "ref": "JOL 3:20",
+    "tipo": "indeterminada",
+    "origem": "indeterminada",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": null,
+    "ancora": "Judá será habitada para sempre",
+    "resumo": "Judá e Jerusalém permanecerão habitadas para sempre."
+   }
+  ]
+ },
+ {
+  "id": "F3-JOL-009",
+  "livro": "JOL",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JOL 2:19",
+  "fim": "JOL 2:19",
+  "texto": {
+   "JOL 2:19": "O SENHOR respondeu e disse a seu povo: Eis que envio a vocês o cereal, o vinho novo e o azeite, e vocês se fartarão deles. Nunca mais farei de vocês motivo de vergonha entre as nações."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JOL-002:019-2",
+    "ref": "JOL 2:19",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Nunca mais farei de vocês motivo de vergonha entre as nações",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-JOL-010",
+  "livro": "JOL",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JOL 2:20",
+  "fim": "JOL 2:20",
+  "texto": {
+   "JOL 2:20": "Afastarei de vocês o exército do norte e o lançarei em terra seca e deserta. Sua vanguarda irá para o mar oriental, e sua retaguarda, para o mar ocidental. Seu mau cheiro subirá, e sua podridão se levantará, porque fez grandes coisas."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JOL-002:020-1",
+    "ref": "JOL 2:20",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Afastarei de vocês o exército do norte",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-JOL-011",
+  "livro": "JOL",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JOL 2:25",
+  "fim": "JOL 2:27",
+  "texto": {
+   "JOL 2:25": "Eu lhes restituirei os anos consumidos pelo gafanhoto migrador, pelo devorador, pelo destruidor e pelo cortador, meu grande exército que enviei contra vocês.",
+   "JOL 2:26": "Vocês comerão abundantemente e ficarão satisfeitos. Louvarão o nome do SENHOR, seu Deus, que agiu maravilhosamente com vocês. Meu povo nunca mais será envergonhado.",
+   "JOL 2:27": "Vocês saberão que estou no meio de Israel, que eu sou o SENHOR, seu Deus, e não há outro. Meu povo nunca mais será envergonhado."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JOL-002:025-1",
+    "ref": "JOL 2:25-2:27",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Eu lhes restituirei os anos consumidos pelo gafanhoto migrador",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-JOL-012",
+  "livro": "JOL",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JOL 3:1",
+  "fim": "JOL 3:1",
+  "texto": {
+   "JOL 3:1": "Pois eis que, naqueles dias e naquele tempo, quando eu restaurar Judá e Jerusalém,"
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JOL-003:001-1",
+    "ref": "JOL 3:1",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "eu restaurar Judá e Jerusalém",
+    "resumo": "Deus restaurará Judá e Jerusalém."
+   }
+  ]
+ },
+ {
+  "id": "F3-JOL-013",
+  "livro": "JOL",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JOL 3:7",
+  "fim": "JOL 3:7",
+  "texto": {
+   "JOL 3:7": "Eis que os despertarei do lugar para onde vocês os venderam e farei sua retribuição voltar sobre sua própria cabeça."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JOL-003:007-1",
+    "ref": "JOL 3:7",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "os despertarei do lugar para onde vocês os venderam",
+    "resumo": "Deus despertará os vendidos do lugar para onde foram vendidos."
+   }
+  ]
+ },
+ {
+  "id": "F3-JOL-014",
+  "livro": "JOL",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JOL 3:8",
+  "fim": "JOL 3:8",
+  "texto": {
+   "JOL 3:8": "Venderei seus filhos e suas filhas nas mãos dos filhos de Judá, e estes os venderão aos sabeus, uma nação distante, porque o SENHOR falou."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JOL-003:008-1",
+    "ref": "JOL 3:8",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "Venderei seus filhos e suas filhas nas mãos dos filhos de Judá",
+    "resumo": "Deus venderá os filhos e filhas dos adversários aos filhos de Judá."
+   }
+  ]
+ },
+ {
+  "id": "F3-JOL-015",
+  "livro": "JOL",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JOL 3:17",
+  "fim": "JOL 3:17",
+  "texto": {
+   "JOL 3:17": "Então vocês saberão que eu sou o SENHOR, seu Deus, que habito em Sião, meu santo monte. Jerusalém será santa, e estrangeiros não passarão mais por ela."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JOL-003:017-1",
+    "ref": "JOL 3:17",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "Jerusalém será santa, e estrangeiros não passarão mais por ela",
+    "resumo": "Deus será reconhecido, e Jerusalém será santa, sem estrangeiros passando por ela."
+   }
+  ]
+ },
+ {
+  "id": "F3-JOL-016",
+  "livro": "JOL",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JOL 3:21",
+  "fim": "JOL 3:21",
+  "texto": {
+   "JOL 3:21": "Eu os absolverei da culpa de sangue da qual ainda não os havia absolvido, e o SENHOR habitará em Sião."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JOL-003:021-1",
+    "ref": "JOL 3:21",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "Eu os absolverei da culpa de sangue",
+    "resumo": "Deus absolverá seu povo da culpa de sangue."
+   }
+  ]
+ },
+ {
+  "id": "F3-JOL-017",
+  "livro": "JOL",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JOL 3:21",
+  "fim": "JOL 3:21",
+  "texto": {
+   "JOL 3:21": "Eu os absolverei da culpa de sangue da qual ainda não os havia absolvido, e o SENHOR habitará em Sião."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JOL-003:021-2",
+    "ref": "JOL 3:21",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "o SENHOR habitará em Sião",
+    "resumo": "O SENHOR habitará em Sião."
+   }
+  ]
+ },
+ {
+  "id": "F3-AMO-001",
+  "livro": "AMO",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "AMO 1:3",
+  "fim": "AMO 1:5",
+  "texto": {
+   "AMO 1:3": "Assim diz o SENHOR: Por três transgressões de Damasco, e por quatro, não retirarei seu castigo, porque trilharam Gileade com trilhos de ferro.",
+   "AMO 1:4": "Por isso, enviarei fogo à casa de Hazael, e ele consumirá os palácios de Ben-Hadade.",
+   "AMO 1:5": "Quebrarei o ferrolho de Damasco, eliminarei o morador de Biqueate-Áven e aquele que segura o cetro de Bete-Éden. O povo da Síria será levado cativo para Quir, diz o SENHOR."
+  },
+  "p1": [
+   {
+    "uid": "U1-AMO-001:003-1",
+    "ref": "AMO 1:3-1:5",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "enviarei fogo à casa de Hazael",
+    "resumo": "juízo sobre Damasco"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-AMO-002",
+  "livro": "AMO",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "AMO 1:6",
+  "fim": "AMO 1:8",
+  "texto": {
+   "AMO 1:6": "Assim diz o SENHOR: Por três transgressões de Gaza, e por quatro, não retirarei seu castigo, porque levaram cativo um povo inteiro para entregá-lo a Edom.",
+   "AMO 1:7": "Por isso, enviarei fogo ao muro de Gaza, e ele consumirá seus palácios.",
+   "AMO 1:8": "Eliminarei o morador de Asdode e aquele que segura o cetro de Ascalom. Voltarei minha mão contra Ecrom, e o restante dos filisteus perecerá, diz o Senhor SENHOR."
+  },
+  "p1": [
+   {
+    "uid": "U1-AMO-001:006-1",
+    "ref": "AMO 1:6-1:8",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "enviarei fogo ao muro de Gaza",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": []
+ }
+]

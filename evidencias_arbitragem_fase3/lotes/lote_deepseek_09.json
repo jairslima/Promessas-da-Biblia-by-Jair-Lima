@@ -1,0 +1,1099 @@
+[
+ {
+  "id": "F3-EZR-007",
+  "livro": "EZR",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "EZR 7:21",
+  "fim": "EZR 7:22",
+  "texto": {
+   "EZR 7:21": "Eu mesmo, o rei Artaxerxes, dou ordem a todos os tesoureiros que estais na região dalém do rio: Tudo quanto vos pedir o sacerdote Esdras, escriba da Lei do Deus dos céus, seja feito prontamente,",
+   "EZR 7:22": "até cem talentos de prata, cem coros de trigo, cem batos de vinho, cem batos de azeite e sal sem limite."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EZR-007:021-1",
+    "ref": "EZR 7:21-7:22",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "Artaxerxes",
+    "ancora": "Tudo quanto vos pedir o sacerdote Esdras, escriba da Lei do Deus dos céus, seja feito prontamente,",
+    "resumo": "Artaxerxes ordena aos tesoureiros dalém do rio que atendam prontamente tudo o que Esdras pedir, até os limites fixados de prata, trigo, vinho, azeite e sal sem limite."
+   }
+  ]
+ },
+ {
+  "id": "F3-EZR-008",
+  "livro": "EZR",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "EZR 7:24",
+  "fim": "EZR 7:24",
+  "texto": {
+   "EZR 7:24": "Também vos fazemos saber que não é permitido impor tributo, imposto ou renda a nenhum dos sacerdotes, levitas, cantores, porteiros, servidores do templo e ministros desta casa de Deus."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EZR-007:024-1",
+    "ref": "EZR 7:24",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "Artaxerxes",
+    "ancora": "não é permitido impor tributo, imposto ou renda a nenhum dos sacerdotes, levitas, cantores, porteiros, servidores do templo e ministros desta casa de Deus.",
+    "resumo": "Artaxerxes decreta isenção de tributo, imposto e renda aos sacerdotes, levitas e demais ministros da casa de Deus."
+   }
+  ]
+ },
+ {
+  "id": "F3-EZR-009",
+  "livro": "EZR",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "EZR 10:4",
+  "fim": "EZR 10:4",
+  "texto": {
+   "EZR 10:4": "Levanta-te, pois este assunto te pertence, e nós estaremos contigo. Sê forte e age."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EZR-010:004-1",
+    "ref": "EZR 10:4",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "Secanias, filho de Jeiel",
+    "ancora": "e nós estaremos contigo.",
+    "resumo": "Secanias promete a Esdras o apoio do grupo para conduzir a questão."
+   }
+  ]
+ },
+ {
+  "id": "F3-EZR-010",
+  "livro": "EZR",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "EZR 10:12",
+  "fim": "EZR 10:12",
+  "texto": {
+   "EZR 10:12": "Toda a congregação respondeu em alta voz: Assim seja! Convém-nos fazer conforme tuas palavras."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EZR-010:012-1",
+    "ref": "EZR 10:12",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "Toda a congregação",
+    "ancora": "Assim seja! Convém-nos fazer conforme tuas palavras.",
+    "resumo": "Toda a congregação assume o compromisso de agir conforme as palavras de Esdras."
+   }
+  ]
+ },
+ {
+  "id": "F3-NEH-001",
+  "livro": "NEH",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "NEH 9:29",
+  "fim": "NEH 9:29",
+  "texto": {
+   "NEH 9:29": "Testemunhaste contra eles para fazê-los voltar à tua Lei, porém agiram soberbamente, não deram ouvidos a teus mandamentos e pecaram contra teus juízos, pelos quais o homem que os cumprir viverá. Recuaram o ombro, endureceram o pescoço e não ouviram."
+  },
+  "p1": [
+   {
+    "uid": "U1-NEH-009:029-1",
+    "ref": "NEH 9:29",
+    "tipo": "declaracao_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": null,
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "pelos quais o homem que os cumprir viverá",
+    "resumo": "Menção de que quem cumprir os juízos viverá"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-NEH-009:029-1",
+    "ref": "NEH 9:29",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "humanidade",
+    "condicao": "explicita",
+    "promitente": "os levitas",
+    "ancora": "pelos quais o homem que os cumprir viverá.",
+    "resumo": "Promessa condicional associada aos juízos de Deus de que o homem que os cumprir viverá."
+   }
+  ]
+ },
+ {
+  "id": "F3-NEH-002",
+  "livro": "NEH",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "NEH 10:30",
+  "fim": "NEH 10:30",
+  "texto": {
+   "NEH 10:30": "Comprometemo-nos a não dar nossas filhas aos povos da terra nem tomar as filhas deles para nossos filhos."
+  },
+  "p1": [
+   {
+    "uid": "U1-NEH-010:030-1",
+    "ref": "NEH 10:30",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": null,
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "o povo",
+    "ancora": "Comprometemo-nos a não dar nossas filhas aos povos da terra",
+    "resumo": "Compromisso de não casar com povos da terra"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-NEH-010:030-1",
+    "ref": "NEH 10:30",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "indeterminado",
+    "condicao": "nenhuma",
+    "promitente": "o povo",
+    "ancora": "Comprometemo-nos a não dar nossas filhas aos povos da terra nem tomar as filhas deles para nossos filhos.",
+    "resumo": "O povo compromete-se a não realizar casamentos mistos com os povos da terra."
+   }
+  ]
+ },
+ {
+  "id": "F3-NEH-003",
+  "livro": "NEH",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "NEH 10:31",
+  "fim": "NEH 10:31",
+  "texto": {
+   "NEH 10:31": "Quando os povos da terra trouxessem mercadorias ou qualquer cereal para vender no dia de sábado, não compraríamos deles no sábado nem em dia santo. No sétimo ano, deixaríamos a terra descansar e perdoaríamos toda dívida."
+  },
+  "p1": [
+   {
+    "uid": "U1-NEH-010:031-1",
+    "ref": "NEH 10:31",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": null,
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "o povo",
+    "ancora": "não compraríamos deles no sábado nem em dia santo",
+    "resumo": "Compromisso quanto ao sábado, ao sétimo ano e às dívidas"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-NEH-010:031-1",
+    "ref": "NEH 10:31",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "indeterminado",
+    "condicao": "nenhuma",
+    "promitente": "o povo",
+    "ancora": "não compraríamos deles no sábado nem em dia santo",
+    "resumo": "O povo compromete-se a não comprar mercadorias nem cereais dos povos da terra no sábado nem em dia santo."
+   }
+  ]
+ },
+ {
+  "id": "F3-NEH-004",
+  "livro": "NEH",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "NEH 10:32",
+  "fim": "NEH 10:33",
+  "texto": {
+   "NEH 10:32": "Também nos impusemos a obrigação de dar, a cada ano, a terça parte de um siclo para o serviço da casa de nosso Deus:",
+   "NEH 10:33": "para os pães da proposição, a oferta contínua de cereais, o holocausto contínuo, os sábados, as luas novas, as festas solenes, as coisas santas, as ofertas pelo pecado para fazer expiação por Israel e toda a obra da casa de nosso Deus."
+  },
+  "p1": [
+   {
+    "uid": "U1-NEH-010:032-1",
+    "ref": "NEH 10:32-10:33",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": null,
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "o povo",
+    "ancora": "nos impusemos a obrigação de dar, a cada ano, a terça parte de um siclo",
+    "resumo": "Compromisso de contribuir anualmente para a casa de Deus"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-NEH-010:032-1",
+    "ref": "NEH 10:32-10:33",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": "o povo",
+    "ancora": "Também nos impusemos a obrigação de dar, a cada ano, a terça parte de um siclo para o serviço da casa de nosso Deus:",
+    "resumo": "O povo impõe a si mesmo a obrigação anual de contribuir com a terça parte de um siclo para o custeio das ofertas e de toda a obra da casa de Deus."
+   }
+  ]
+ },
+ {
+  "id": "F3-NEH-005",
+  "livro": "NEH",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "NEH 10:34",
+  "fim": "NEH 10:34",
+  "texto": {
+   "NEH 10:34": "Lançamos sortes entre os sacerdotes, os levitas e o povo a respeito da oferta de lenha, para trazê-la à casa de nosso Deus, segundo nossas famílias, em tempos determinados, ano após ano, a fim de queimá-la sobre o altar do SENHOR, nosso Deus, conforme está escrito na Lei."
+  },
+  "p1": [
+   {
+    "uid": "U1-NEH-010:034-1",
+    "ref": "NEH 10:34",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": null,
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "o povo",
+    "ancora": "Lançamos sortes entre os sacerdotes, os levitas e o povo a respeito da oferta de lenha",
+    "resumo": "Escala anual da oferta de lenha"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-NEH-010:034-1",
+    "ref": "NEH 10:34",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "indeterminado",
+    "condicao": "nenhuma",
+    "promitente": "os sacerdotes, os levitas e o povo",
+    "ancora": "Lançamos sortes entre os sacerdotes, os levitas e o povo a respeito da oferta de lenha, para trazê-la à casa de nosso Deus, segundo nossas famílias, em tempos determinados, ano após ano",
+    "resumo": "Os sacerdotes, os levitas e o povo estabelecem por sorteio o compromisso anual de trazer a oferta de lenha à casa de Deus para o altar."
+   }
+  ]
+ },
+ {
+  "id": "F3-NEH-006",
+  "livro": "NEH",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "NEH 10:35",
+  "fim": "NEH 10:39",
+  "texto": {
+   "NEH 10:35": "Comprometemo-nos a trazer à casa do SENHOR, ano após ano, as primícias de nossa terra e os primeiros frutos de toda árvore,",
+   "NEH 10:36": "bem como os primogênitos de nossos filhos e de nossos animais, conforme está escrito na Lei. Traremos os primogênitos de nosso gado e de nossos rebanhos à casa de nosso Deus, aos sacerdotes que ministram nela.",
+   "NEH 10:37": "Traremos aos sacerdotes, às câmaras da casa de nosso Deus, as primícias de nossa massa, nossas contribuições, o fruto de toda árvore, o vinho novo e o azeite. Traremos aos levitas os dízimos de nossa terra, pois são os levitas que recebem os dízimos em todas as cidades onde cultivamos.",
+   "NEH 10:38": "Um sacerdote, descendente de Arão, estará com os levitas quando eles receberem os dízimos. Os levitas levarão o dízimo dos dízimos à casa de nosso Deus, às câmaras da casa do tesouro.",
+   "NEH 10:39": "Pois os filhos de Israel e os filhos de Levi devem trazer às câmaras as contribuições de cereal, vinho novo e azeite. Ali estão os utensílios do santuário, os sacerdotes que ministram, os porteiros e os cantores. Assim não abandonaremos a casa de nosso Deus."
+  },
+  "p1": [
+   {
+    "uid": "U1-NEH-010:035-1",
+    "ref": "NEH 10:35-10:39",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": null,
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "o povo",
+    "ancora": "Comprometemo-nos a trazer à casa do SENHOR, ano após ano, as primícias de nossa terra",
+    "resumo": "Compromisso de trazer primícias, primogênitos e dízimos, para não abandonar a casa de Deus"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-NEH-010:035-1",
+    "ref": "NEH 10:35-10:36",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "o povo",
+    "ancora": "Comprometemo-nos a trazer à casa do SENHOR, ano após ano, as primícias de nossa terra e os primeiros frutos de toda árvore,",
+    "resumo": "O povo compromete-se a trazer anualmente à casa do SENHOR e aos sacerdotes as primícias da terra, os primeiros frutos de toda árvore e os primogênitos dos filhos, do gado e dos rebanhos."
+   },
+   {
+    "uid": "U2-NEH-010:037-1",
+    "ref": "NEH 10:37",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "o povo",
+    "ancora": "Traremos aos sacerdotes, às câmaras da casa de nosso Deus, as primícias de nossa massa, nossas contribuições, o fruto de toda árvore, o vinho novo e o azeite.",
+    "resumo": "O povo promete trazer aos sacerdotes, nas câmaras da casa de Deus, as primícias da massa, contribuições, frutos, vinho novo e azeite."
+   },
+   {
+    "uid": "U2-NEH-010:037-2",
+    "ref": "NEH 10:37",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "o povo",
+    "ancora": "Traremos aos levitas os dízimos de nossa terra",
+    "resumo": "O povo promete trazer aos levitas os dízimos da terra em todas as cidades onde cultivam."
+   }
+  ]
+ },
+ {
+  "id": "F3-NEH-007",
+  "livro": "NEH",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "NEH 9:38",
+  "fim": "NEH 9:38",
+  "texto": {
+   "NEH 9:38": "Por causa de tudo isso, fazemos uma firme aliança e a escrevemos. Nossos príncipes, nossos levitas e nossos sacerdotes colocam seus selos nela."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-NEH-009:038-1",
+    "ref": "NEH 9:38",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "indeterminado",
+    "condicao": null,
+    "promitente": "os filhos de Israel (príncipes, levitas e sacerdotes)",
+    "ancora": "fazemos uma firme aliança e a escrevemos. Nossos príncipes, nossos levitas e nossos sacerdotes colocam seus selos nela.",
+    "resumo": "Compromisso solene dos filhos de Israel de firmar, escrever e selar uma aliança diante de Deus."
+   }
+  ]
+ },
+ {
+  "id": "F3-NEH-008",
+  "livro": "NEH",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "NEH 10:31",
+  "fim": "NEH 10:31",
+  "texto": {
+   "NEH 10:31": "Quando os povos da terra trouxessem mercadorias ou qualquer cereal para vender no dia de sábado, não compraríamos deles no sábado nem em dia santo. No sétimo ano, deixaríamos a terra descansar e perdoaríamos toda dívida."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-NEH-010:031-2",
+    "ref": "NEH 10:31",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": "o povo",
+    "ancora": "No sétimo ano, deixaríamos a terra descansar e perdoaríamos toda dívida.",
+    "resumo": "O povo compromete-se a observar o sétimo ano, deixando a terra descansar e perdoando toda dívida."
+   }
+  ]
+ },
+ {
+  "id": "F3-NEH-009",
+  "livro": "NEH",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "NEH 10:38",
+  "fim": "NEH 10:38",
+  "texto": {
+   "NEH 10:38": "Um sacerdote, descendente de Arão, estará com os levitas quando eles receberem os dízimos. Os levitas levarão o dízimo dos dízimos à casa de nosso Deus, às câmaras da casa do tesouro."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-NEH-010:038-1",
+    "ref": "NEH 10:38",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "os sacerdotes e o povo",
+    "ancora": "Um sacerdote, descendente de Arão, estará com os levitas quando eles receberem os dízimos.",
+    "resumo": "Fica firmado no pacto que um sacerdote descendente de Arão acompanhará os levitas quando receberem os dízimos."
+   }
+  ]
+ },
+ {
+  "id": "F3-NEH-010",
+  "livro": "NEH",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "NEH 10:38",
+  "fim": "NEH 10:38",
+  "texto": {
+   "NEH 10:38": "Um sacerdote, descendente de Arão, estará com os levitas quando eles receberem os dízimos. Os levitas levarão o dízimo dos dízimos à casa de nosso Deus, às câmaras da casa do tesouro."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-NEH-010:038-2",
+    "ref": "NEH 10:38",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "indeterminado",
+    "condicao": "nenhuma",
+    "promitente": "os levitas",
+    "ancora": "Os levitas levarão o dízimo dos dízimos à casa de nosso Deus, às câmaras da casa do tesouro.",
+    "resumo": "Os levitas comprometem-se a levar o dízimo dos dízimos às câmaras da casa do tesouro na casa de Deus."
+   }
+  ]
+ },
+ {
+  "id": "F3-NEH-011",
+  "livro": "NEH",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "NEH 10:39",
+  "fim": "NEH 10:39",
+  "texto": {
+   "NEH 10:39": "Pois os filhos de Israel e os filhos de Levi devem trazer às câmaras as contribuições de cereal, vinho novo e azeite. Ali estão os utensílios do santuário, os sacerdotes que ministram, os porteiros e os cantores. Assim não abandonaremos a casa de nosso Deus."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-NEH-010:039-1",
+    "ref": "NEH 10:39",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "indeterminado",
+    "condicao": "nenhuma",
+    "promitente": "o povo",
+    "ancora": "Assim não abandonaremos a casa de nosso Deus.",
+    "resumo": "O povo promete que não abandonará a casa de Deus."
+   }
+  ]
+ },
+ {
+  "id": "F3-EST-001",
+  "livro": "EST",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "EST 4:16",
+  "fim": "EST 4:16",
+  "texto": {
+   "EST 4:16": "Vai, reúne todos os judeus que se encontram em Susã e jejuai por mim. Não comais nem bebais durante três dias, nem de dia nem de noite. Eu e minhas moças também jejuaremos. Depois irei ao rei, ainda que não seja segundo a lei. Se perecer, pereci."
+  },
+  "p1": [
+   {
+    "uid": "U1-EST-004:016-1",
+    "ref": "EST 4:16",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": null,
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "Ester",
+    "ancora": "Depois irei ao rei, ainda que não seja segundo a lei",
+    "resumo": "Ester promete ir ao rei"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-EST-004:016-2",
+    "ref": "EST 4:16",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "Ester",
+    "ancora": "Depois irei ao rei, ainda que não seja segundo a lei.",
+    "resumo": "Ester se compromete com Mordecai a comparecer diante do rei após o jejum, mesmo não sendo segundo a lei."
+   }
+  ]
+ },
+ {
+  "id": "F3-EST-002",
+  "livro": "EST",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "EST 5:6",
+  "fim": "EST 5:6",
+  "texto": {
+   "EST 5:6": "Durante o banquete do vinho, o rei perguntou a Ester: Qual é tua petição? Ela te será concedida. Qual é teu pedido? Ainda que seja até a metade do reino, será atendido."
+  },
+  "p1": [
+   {
+    "uid": "U1-EST-005:006-1",
+    "ref": "EST 5:6",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "Assuero",
+    "ancora": "Ela te será concedida",
+    "resumo": "O rei promete conceder a petição de Ester"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-EST-003",
+  "livro": "EST",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "EST 5:8",
+  "fim": "EST 5:8",
+  "texto": {
+   "EST 5:8": "Se achei favor diante do rei e se parecer bem ao rei conceder minha petição e atender meu pedido, venha o rei com Hamã ao banquete que lhes prepararei. Amanhã farei conforme a palavra do rei."
+  },
+  "p1": [
+   {
+    "uid": "U1-EST-005:008-1",
+    "ref": "EST 5:8",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": null,
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "Ester",
+    "ancora": "Amanhã farei conforme a palavra do rei",
+    "resumo": "Ester promete responder no dia seguinte"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-EST-005:008-1",
+    "ref": "EST 5:8",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "Ester",
+    "ancora": "Amanhã farei conforme a palavra do rei.",
+    "resumo": "Ester promete ao rei que no dia seguinte fará conforme a palavra dele."
+   }
+  ]
+ },
+ {
+  "id": "F3-EST-004",
+  "livro": "EST",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "EST 7:2",
+  "fim": "EST 7:2",
+  "texto": {
+   "EST 7:2": "No segundo dia, durante o banquete do vinho, o rei perguntou novamente a Ester: Qual é a tua petição, rainha Ester? Ela te será concedida. Qual é o teu pedido? Ainda que seja até metade do reino, será feito."
+  },
+  "p1": [
+   {
+    "uid": "U1-EST-007:002-1",
+    "ref": "EST 7:2",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "Assuero",
+    "ancora": "Ela te será concedida",
+    "resumo": "O rei promete conceder a petição de Ester"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-EST-005",
+  "livro": "EST",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "EST 8:11",
+  "fim": "EST 8:11",
+  "texto": {
+   "EST 8:11": "Por essas cartas, o rei concedia aos judeus de cada cidade que se reunissem e defendessem a própria vida, destruindo, matando e exterminando toda força de povo ou província que os atacasse, inclusive crianças e mulheres, e que despojassem os seus bens."
+  },
+  "p1": [
+   {
+    "uid": "U1-EST-008:011-1",
+    "ref": "EST 8:11",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "Assuero",
+    "ancora": "o rei concedia aos judeus de cada cidade que se reunissem e defendessem a própria vida",
+    "resumo": "O decreto concede aos judeus defender-se no dia determinado"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-EST-006",
+  "livro": "EST",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "EST 9:27",
+  "fim": "EST 9:28",
+  "texto": {
+   "EST 9:27": "os judeus estabeleceram e tomaram sobre si, sobre sua descendência e sobre todos os que se unissem a eles a obrigação de não deixar de celebrar esses dois dias conforme o que estava escrito e no tempo determinado, todos os anos.",
+   "EST 9:28": "Esses dias seriam lembrados e celebrados em cada geração, família, província e cidade. Esses dias de Purim não deixariam de ser celebrados entre os judeus, nem sua memória teria fim entre seus descendentes."
+  },
+  "p1": [
+   {
+    "uid": "U1-EST-009:027-1",
+    "ref": "EST 9:27-9:28",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": null,
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "os judeus",
+    "ancora": "a obrigação de não deixar de celebrar esses dois dias",
+    "resumo": "Os judeus se obrigam a celebrar Purim todos os anos"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-EST-009:027-1",
+    "ref": "EST 9:27-9:28",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": "os judeus",
+    "ancora": "os judeus estabeleceram e tomaram sobre si, sobre sua descendência e sobre todos os que se unissem a eles a obrigação de não deixar de celebrar esses dois dias",
+    "resumo": "Os judeus assumem para si, para sua descendência e para os que se unirem a eles a obrigação perpétua de celebrar os dias de Purim."
+   }
+  ]
+ },
+ {
+  "id": "F3-EST-007",
+  "livro": "EST",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "EST 1:19",
+  "fim": "EST 1:19",
+  "texto": {
+   "EST 1:19": "Se parecer bem ao rei, saia de sua parte um decreto real e seja escrito nas leis dos persas e dos medos, para que não seja revogado: Vasti não comparecerá mais diante do rei Assuero, e o rei dará a posição real dela a outra que seja melhor do que ela."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EST-001:019-1",
+    "ref": "EST 1:19",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": "explicita",
+    "promitente": "Assuero",
+    "ancora": "Vasti não comparecerá mais diante do rei Assuero",
+    "resumo": "Proposta de decreto real irrevogável de exclusão definitiva da rainha Vasti da presença do rei Assuero, acolhida pelo rei em seguida."
+   }
+  ]
+ },
+ {
+  "id": "F3-EST-008",
+  "livro": "EST",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "EST 1:19",
+  "fim": "EST 1:19",
+  "texto": {
+   "EST 1:19": "Se parecer bem ao rei, saia de sua parte um decreto real e seja escrito nas leis dos persas e dos medos, para que não seja revogado: Vasti não comparecerá mais diante do rei Assuero, e o rei dará a posição real dela a outra que seja melhor do que ela."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EST-001:019-2",
+    "ref": "EST 1:19",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "indeterminado",
+    "condicao": "explicita",
+    "promitente": "Assuero",
+    "ancora": "o rei dará a posição real dela a outra que seja melhor do que ela",
+    "resumo": "Proposta de decreto real estabelecendo que o rei dará a posição real de Vasti a outra mulher melhor do que ela."
+   }
+  ]
+ },
+ {
+  "id": "F3-EST-009",
+  "livro": "EST",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "EST 3:11",
+  "fim": "EST 3:11",
+  "texto": {
+   "EST 3:11": "O rei disse a Hamã: A prata é dada a ti, bem como o povo, para fazeres com ele o que parecer bem a teus olhos."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EST-003:011-1",
+    "ref": "EST 3:11",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "rei Assuero",
+    "ancora": "A prata é dada a ti",
+    "resumo": "O rei concede a Hamã a prata que este havia oferecido."
+   }
+  ]
+ },
+ {
+  "id": "F3-EST-010",
+  "livro": "EST",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "EST 3:11",
+  "fim": "EST 3:11",
+  "texto": {
+   "EST 3:11": "O rei disse a Hamã: A prata é dada a ti, bem como o povo, para fazeres com ele o que parecer bem a teus olhos."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EST-003:011-2",
+    "ref": "EST 3:11",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "rei Assuero",
+    "ancora": "bem como o povo, para fazeres com ele o que parecer bem a teus olhos.",
+    "resumo": "O rei entrega o povo a Hamã para que disponha dele conforme lhe parecer bem."
+   }
+  ]
+ },
+ {
+  "id": "F3-EST-011",
+  "livro": "EST",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "EST 3:13",
+  "fim": "EST 3:13",
+  "texto": {
+   "EST 3:13": "As cartas foram enviadas por meio dos correios a todas as províncias do rei, ordenando que destruíssem, matassem e exterminassem todos os judeus, jovens e velhos, crianças e mulheres, em um só dia, no décimo terceiro dia do décimo segundo mês, que é o mês de adar, e que saqueassem seus bens."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EST-003:013-2",
+    "ref": "EST 3:13",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": "Hamã em nome do rei Assuero",
+    "ancora": "e que saqueassem seus bens.",
+    "resumo": "Decreto real determina o saque dos bens de todos os judeus no dia do extermínio."
+   }
+  ]
+ },
+ {
+  "id": "F3-EST-012",
+  "livro": "EST",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "EST 4:16",
+  "fim": "EST 4:16",
+  "texto": {
+   "EST 4:16": "Vai, reúne todos os judeus que se encontram em Susã e jejuai por mim. Não comais nem bebais durante três dias, nem de dia nem de noite. Eu e minhas moças também jejuaremos. Depois irei ao rei, ainda que não seja segundo a lei. Se perecer, pereci."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EST-004:016-1",
+    "ref": "EST 4:16",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "Ester",
+    "ancora": "Eu e minhas moças também jejuaremos.",
+    "resumo": "Ester se compromete com Mordecai a jejuar junto com suas moças durante três dias."
+   }
+  ]
+ },
+ {
+  "id": "F3-EST-013",
+  "livro": "EST",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "EST 5:6",
+  "fim": "EST 5:6",
+  "texto": {
+   "EST 5:6": "Durante o banquete do vinho, o rei perguntou a Ester: Qual é tua petição? Ela te será concedida. Qual é teu pedido? Ainda que seja até a metade do reino, será atendido."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EST-005:006-1",
+    "ref": "EST 5:6",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "o rei",
+    "ancora": "Ela te será concedida. Qual é teu pedido? Ainda que seja até a metade do reino, será atendido.",
+    "resumo": "O rei reitera a Ester a promessa de conceder sua petição e atender seu pedido, até a metade do reino."
+   }
+  ]
+ },
+ {
+  "id": "F3-EST-014",
+  "livro": "EST",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "EST 7:2",
+  "fim": "EST 7:2",
+  "texto": {
+   "EST 7:2": "No segundo dia, durante o banquete do vinho, o rei perguntou novamente a Ester: Qual é a tua petição, rainha Ester? Ela te será concedida. Qual é o teu pedido? Ainda que seja até metade do reino, será feito."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EST-007:002-1",
+    "ref": "EST 7:2",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "rei Assuero",
+    "ancora": "Ela te será concedida. Qual é o teu pedido? Ainda que seja até metade do reino, será feito.",
+    "resumo": "O rei promete conceder à rainha Ester a sua petição e o seu pedido, ainda que seja até metade do reino."
+   }
+  ]
+ },
+ {
+  "id": "F3-JOB-001",
+  "livro": "JOB",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "JOB 6:24",
+  "fim": "JOB 6:24",
+  "texto": {
+   "JOB 6:24": "Ensinai-me, e eu me calarei. Fazei-me entender em que errei."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JOB-006:024-1",
+    "ref": "JOB 6:24",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "explicita",
+    "promitente": "Jó",
+    "ancora": "Ensinai-me, e eu me calarei.",
+    "resumo": "Jó compromete-se a calar-se caso seus interlocutores o ensinem."
+   }
+  ]
+ },
+ {
+  "id": "F3-JOB-002",
+  "livro": "JOB",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "JOB 6:28",
+  "fim": "JOB 6:28",
+  "texto": {
+   "JOB 6:28": "Agora, pois, dignai-vos olhar para mim, porque certamente não mentirei diante de vós."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JOB-006:028-1",
+    "ref": "JOB 6:28",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "Jó",
+    "ancora": "porque certamente não mentirei diante de vós.",
+    "resumo": "Jó garante aos seus interlocutores que não mentirá diante deles."
+   }
+  ]
+ },
+ {
+  "id": "F3-JOB-003",
+  "livro": "JOB",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "JOB 13:20",
+  "fim": "JOB 13:22",
+  "texto": {
+   "JOB 13:20": "Somente duas coisas não faças comigo, e então não me esconderei de tua face:",
+   "JOB 13:21": "afasta de mim tua mão e não me aterrorizes com teu medo.",
+   "JOB 13:22": "Então chama, e eu responderei; ou eu falarei, e tu me responderás."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JOB-013:020-1",
+    "ref": "JOB 13:20-13:22",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "indeterminado",
+    "condicao": "explicita",
+    "promitente": "Jó",
+    "ancora": "Somente duas coisas não faças comigo, e então não me esconderei de tua face:",
+    "resumo": "Compromisso condicional do falante de não se esconder e responder a Deus caso ele afaste a mão e não o aterrorize."
+   }
+  ]
+ },
+ {
+  "id": "F3-JOB-004",
+  "livro": "JOB",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "JOB 27:2",
+  "fim": "JOB 27:4",
+  "texto": {
+   "JOB 27:2": "Vive Deus, que me negou justiça, e o Todo-Poderoso, que amargurou minha alma.",
+   "JOB 27:3": "Enquanto houver em mim alento, e o sopro de Deus estiver em minhas narinas,",
+   "JOB 27:4": "meus lábios não falarão iniquidade, e minha língua não pronunciará engano."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JOB-027:002-1",
+    "ref": "JOB 27:2-27:4",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "indeterminado",
+    "condicao": "nenhuma",
+    "promitente": "Jó",
+    "ancora": "meus lábios não falarão iniquidade, e minha língua não pronunciará engano.",
+    "resumo": "Jó jura por Deus que, enquanto viver, seus lábios não falarão iniquidade nem engano."
+   }
+  ]
+ },
+ {
+  "id": "F3-JOB-005",
+  "livro": "JOB",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "JOB 27:11",
+  "fim": "JOB 27:11",
+  "texto": {
+   "JOB 27:11": "Eu vos ensinarei acerca da mão de Deus e não vos ocultarei o que está com o Todo-Poderoso."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JOB-027:011-1",
+    "ref": "JOB 27:11",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "Jó",
+    "ancora": "Eu vos ensinarei acerca da mão de Deus e não vos ocultarei o que está com o Todo-Poderoso.",
+    "resumo": "Jó promete ensinar seus interlocutores acerca da mão de Deus sem lhes ocultar o que está com o Todo-Poderoso."
+   }
+  ]
+ },
+ {
+  "id": "F3-JOB-006",
+  "livro": "JOB",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "JOB 32:21",
+  "fim": "JOB 32:21",
+  "texto": {
+   "JOB 32:21": "Não farei acepção de pessoas, nem lisonjearei homem algum."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JOB-032:021-1",
+    "ref": "JOB 32:21",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "humanidade",
+    "condicao": "nenhuma",
+    "promitente": "Eliú",
+    "ancora": "Não farei acepção de pessoas, nem lisonjearei homem algum.",
+    "resumo": "Eliú se compromete a falar com imparcialidade, sem favoritismo nem lisonja a ninguém."
+   }
+  ]
+ }
+]

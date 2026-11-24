@@ -1,0 +1,212 @@
+[
+ {
+  "id": "F3-1CH-021",
+  "veredito": "confirmar_p2",
+  "origem_override": null,
+  "natureza_override": null
+ },
+ {
+  "id": "F3-2CH-001",
+  "veredito": "confirmar_p1",
+  "origem_override": null,
+  "natureza_override": null
+ },
+ {
+  "id": "F3-2CH-002",
+  "veredito": "confirmar_p2",
+  "origem_override": null,
+  "natureza_override": null
+ },
+ {
+  "id": "F3-2CH-003",
+  "veredito": "confirmar_p2",
+  "origem_override": null,
+  "natureza_override": null
+ },
+ {
+  "id": "F3-2CH-004",
+  "veredito": "confirmar_p2",
+  "origem_override": null,
+  "natureza_override": null
+ },
+ {
+  "id": "F3-2CH-005",
+  "veredito": "confirmar_p1",
+  "origem_override": null,
+  "natureza_override": null
+ },
+ {
+  "id": "F3-2CH-006",
+  "veredito": "confirmar_p2",
+  "origem_override": "divina_relatada_por_humano",
+  "natureza_override": null
+ },
+ {
+  "id": "F3-2CH-007",
+  "veredito": "confirmar_p1",
+  "origem_override": null,
+  "natureza_override": null
+ },
+ {
+  "id": "F3-2CH-008",
+  "veredito": "confirmar_p2",
+  "origem_override": null,
+  "natureza_override": null
+ },
+ {
+  "id": "F3-2CH-009",
+  "veredito": "confirmar_p2",
+  "origem_override": null,
+  "natureza_override": null
+ },
+ {
+  "id": "F3-2CH-010",
+  "veredito": "confirmar_p1",
+  "origem_override": null,
+  "natureza_override": null
+ },
+ {
+  "id": "F3-2CH-011",
+  "veredito": "confirmar_p1",
+  "origem_override": null,
+  "natureza_override": null
+ },
+ {
+  "id": "F3-2CH-012",
+  "veredito": "confirmar_p2",
+  "origem_override": null,
+  "natureza_override": null
+ },
+ {
+  "id": "F3-2CH-013",
+  "veredito": "confirmar_p2",
+  "origem_override": null,
+  "natureza_override": null
+ },
+ {
+  "id": "F3-2CH-014",
+  "veredito": "rejeitar",
+  "origem_override": null,
+  "natureza_override": null
+ },
+ {
+  "id": "F3-2CH-015",
+  "veredito": "rejeitar",
+  "origem_override": null,
+  "natureza_override": null
+ },
+ {
+  "id": "F3-2CH-016",
+  "veredito": "rejeitar",
+  "origem_override": null,
+  "natureza_override": null
+ },
+ {
+  "id": "F3-2CH-017",
+  "veredito": "rejeitar",
+  "origem_override": null,
+  "natureza_override": null
+ },
+ {
+  "id": "F3-2CH-018",
+  "veredito": "confirmar_p1",
+  "origem_override": null,
+  "natureza_override": null
+ },
+ {
+  "id": "F3-2CH-019",
+  "veredito": "confirmar_p1",
+  "origem_override": null,
+  "natureza_override": null
+ },
+ {
+  "id": "F3-2CH-020",
+  "veredito": "confirmar_p1",
+  "origem_override": null,
+  "natureza_override": null
+ },
+ {
+  "id": "F3-2CH-021",
+  "veredito": "confirmar_p2",
+  "origem_override": null,
+  "natureza_override": null
+ },
+ {
+  "id": "F3-2CH-022",
+  "veredito": "confirmar_p2",
+  "origem_override": null,
+  "natureza_override": null
+ },
+ {
+  "id": "F3-2CH-023",
+  "veredito": "confirmar_p2",
+  "origem_override": null,
+  "natureza_override": null
+ },
+ {
+  "id": "F3-2CH-024",
+  "veredito": "confirmar_p2",
+  "origem_override": null,
+  "natureza_override": null
+ },
+ {
+  "id": "F3-2CH-025",
+  "veredito": "confirmar_p2",
+  "origem_override": null,
+  "natureza_override": null
+ },
+ {
+  "id": "F3-2CH-026",
+  "veredito": "confirmar_p2",
+  "origem_override": null,
+  "natureza_override": null
+ },
+ {
+  "id": "F3-2CH-027",
+  "veredito": "confirmar_p2",
+  "origem_override": null,
+  "natureza_override": null
+ },
+ {
+  "id": "F3-2CH-028",
+  "veredito": "confirmar_p2",
+  "origem_override": null,
+  "natureza_override": null
+ },
+ {
+  "id": "F3-EZR-001",
+  "veredito": "rejeitar",
+  "origem_override": null,
+  "natureza_override": null
+ },
+ {
+  "id": "F3-EZR-002",
+  "veredito": "rejeitar",
+  "origem_override": null,
+  "natureza_override": null
+ },
+ {
+  "id": "F3-EZR-003",
+  "veredito": "confirmar_p2",
+  "origem_override": null,
+  "natureza_override": null
+ },
+ {
+  "id": "F3-EZR-004",
+  "veredito": "confirmar_p2",
+  "origem_override": null,
+  "natureza_override": null
+ },
+ {
+  "id": "F3-EZR-005",
+  "veredito": "confirmar_p2",
+  "origem_override": null,
+  "natureza_override": null
+ },
+ {
+  "id": "F3-EZR-006",
+  "veredito": "confirmar_p2",
+  "origem_override": null,
+  "natureza_override": null
+ }
+]

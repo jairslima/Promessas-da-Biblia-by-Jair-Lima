@@ -1,0 +1,1178 @@
+[
+ {
+  "id": "F3-2KI-030",
+  "livro": "2KI",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2KI 21:8",
+  "fim": "2KI 21:8",
+  "texto": {
+   "2KI 21:8": "Não tornarei a fazer os pés de Israel vagar para fora da terra que dei aos seus antepassados, desde que tenham o cuidado de cumprir tudo o que lhes ordenei e toda a Lei que meu servo Moisés lhes ordenou."
+  },
+  "p1": [
+   {
+    "uid": "U1-2KI-021:008-1",
+    "ref": "2KI 21:8",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "explicita",
+    "promitente": "o narrador",
+    "ancora": "Não tornarei a fazer os pés de Israel vagar para fora da terra que dei aos seus antepassados",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-2KI-021:008-1",
+    "ref": "2KI 21:8",
+    "tipo": "declaracao_sem_compromisso",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "narrador",
+    "ancora": "Não tornarei a fazer os pés de Israel vagar para fora da terra que dei aos seus antepassados, desde que tenham o cuidado de cumprir tudo o que lhes ordenei e toda a Lei que meu servo Moisés lhes ordenou.",
+    "resumo": "Menção narrativa à promessa condicional anterior do SENHOR de manter Israel na terra se obedecesse à Lei."
+   }
+  ]
+ },
+ {
+  "id": "F3-2KI-031",
+  "livro": "2KI",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2KI 21:11",
+  "fim": "2KI 21:15",
+  "texto": {
+   "2KI 21:11": "Visto que Manassés, rei de Judá, praticou essas abominações e fez coisas piores do que tudo o que os amorreus que o precederam haviam feito, fazendo também Judá pecar com seus ídolos,",
+   "2KI 21:12": "assim diz o SENHOR, Deus de Israel: Trarei sobre Jerusalém e Judá uma calamidade tal que fará tinir os dois ouvidos de todo aquele que ouvir falar dela.",
+   "2KI 21:13": "Estenderei sobre Jerusalém o cordel de Samaria e o prumo da casa de Acabe. Limparei Jerusalém como quem limpa uma tigela, limpa-a e a vira de boca para baixo.",
+   "2KI 21:14": "Abandonarei o remanescente da minha herança e o entregarei nas mãos de seus inimigos. Eles se tornarão presa e despojo para todos os seus inimigos,",
+   "2KI 21:15": "porque fizeram o que era mau aos meus olhos e me provocaram à ira desde o dia em que seus antepassados saíram do Egito até hoje."
+  },
+  "p1": [
+   {
+    "uid": "U1-2KI-021:012-1",
+    "ref": "2KI 21:12-21:14",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "os profetas",
+    "ancora": "Trarei sobre Jerusalém e Judá uma calamidade",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-2KI-021:011-1",
+    "ref": "2KI 21:11-21:15",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "Trarei sobre Jerusalém e Judá uma calamidade tal que fará tinir os dois ouvidos de todo aquele que ouvir falar dela.",
+    "resumo": "O SENHOR decreta trazer calamidade sobre Jerusalém e Judá, destruir a cidade como Samaria e entregar o remanescente de sua herança nas mãos dos inimigos por causa dos pecados de Manassés e do povo."
+   }
+  ]
+ },
+ {
+  "id": "F3-2KI-032",
+  "livro": "2KI",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2KI 25:24",
+  "fim": "2KI 25:24",
+  "texto": {
+   "2KI 25:24": "Gedalias jurou a eles e a seus homens: Não tenham medo dos servos dos caldeus. Permaneçam na terra, sirvam ao rei da Babilônia, e tudo irá bem com vocês."
+  },
+  "p1": [
+   {
+    "uid": "U1-2KI-025:024-1",
+    "ref": "2KI 25:24",
+    "tipo": "mandamento",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "Gedalias",
+    "ancora": "tudo irá bem com vocês",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-2KI-025:024-1",
+    "ref": "2KI 25:24",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "explicita",
+    "promitente": "Gedalias",
+    "ancora": "Gedalias jurou a eles e a seus homens: Não tenham medo dos servos dos caldeus. Permaneçam na terra, sirvam ao rei da Babilônia, e tudo irá bem com vocês.",
+    "resumo": "Gedalias jura aos comandantes dos exércitos e seus homens que tudo irá bem com eles se permanecerem na terra e servirem ao rei da Babilônia."
+   }
+  ]
+ },
+ {
+  "id": "F3-2KI-033",
+  "livro": "2KI",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2KI 1:16",
+  "fim": "2KI 1:16",
+  "texto": {
+   "2KI 1:16": "E lhe disse: Assim diz o SENHOR: Porquanto enviou mensageiros para consultar Baal-Zebube, deus de Ecrom, como se não houvesse Deus em Israel para consultar sua palavra, da cama para a qual subiu não descerá, mas certamente morrerá."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-2KI-001:016-1",
+    "ref": "2KI 1:16",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "Assim diz o SENHOR: Porquanto enviou mensageiros para consultar Baal-Zebube, deus de Ecrom, como se não houvesse Deus em Israel para consultar sua palavra, da cama para a qual subiu não descerá, mas certamente morrerá.",
+    "resumo": "Elias entrega diretamente a Acazias a sentença do SENHOR de que ele não descerá da cama e certamente morrerá."
+   }
+  ]
+ },
+ {
+  "id": "F3-2KI-034",
+  "livro": "2KI",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2KI 3:17",
+  "fim": "2KI 3:17",
+  "texto": {
+   "2KI 3:17": "Pois assim diz o SENHOR: Vocês não verão vento nem chuva, contudo este vale se encherá de água, e beberão vocês, seu gado e seus animais."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-2KI-003:017-1",
+    "ref": "2KI 3:17",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "deus_indistinto",
+    "ancora": "Vocês não verão vento nem chuva, contudo este vale se encherá de água, e beberão vocês, seu gado e seus animais.",
+    "resumo": "O SENHOR promete encher o vale de água sem vento nem chuva para que os reis, o gado e os animais bebam."
+   }
+  ]
+ },
+ {
+  "id": "F3-2KI-035",
+  "livro": "2KI",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2KI 5:15",
+  "fim": "2KI 5:15",
+  "texto": {
+   "2KI 5:15": "Depois voltou ao homem de Deus com toda a sua comitiva. Apresentou-se diante dele e disse: Agora sei que não há Deus em toda a terra, senão em Israel. Portanto, peço que aceite um presente de seu servo."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-2KI-005:015-1",
+    "ref": "2KI 5:15",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "Naamã",
+    "ancora": "peço que aceite um presente de seu servo.",
+    "resumo": "Naamã oferece um presente a Eliseu em gratidão pela cura."
+   }
+  ]
+ },
+ {
+  "id": "F3-2KI-036",
+  "livro": "2KI",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2KI 6:28",
+  "fim": "2KI 6:28",
+  "texto": {
+   "2KI 6:28": "O rei perguntou: O que aconteceu com você? Ela respondeu: Esta mulher me disse: Entregue seu filho para que o comamos hoje, e amanhã comeremos o meu filho."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-2KI-006:028-1",
+    "ref": "2KI 6:28",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "explicita",
+    "promitente": "outra mulher",
+    "ancora": "Entregue seu filho para que o comamos hoje, e amanhã comeremos o meu filho.",
+    "resumo": "Uma mulher promete à outra entregar o próprio filho no dia seguinte se ela entregar o dela naquele dia."
+   }
+  ]
+ },
+ {
+  "id": "F3-2KI-037",
+  "livro": "2KI",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2KI 9:3",
+  "fim": "2KI 9:3",
+  "texto": {
+   "2KI 9:3": "Tome o frasco de azeite, derrame-o sobre a cabeça dele e diga: Assim diz o SENHOR: Eu o ungi rei sobre Israel. Depois abra a porta, fuja e não se demore."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-2KI-009:003-1",
+    "ref": "2KI 9:3",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "Eliseu",
+    "ancora": "Assim diz o SENHOR: Eu o ungi rei sobre Israel.",
+    "resumo": "O SENHOR, por instrução de Eliseu ao jovem profeta, declara ter ungido Jeú rei sobre Israel."
+   }
+  ]
+ },
+ {
+  "id": "F3-2KI-038",
+  "livro": "2KI",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2KI 10:5",
+  "fim": "2KI 10:5",
+  "texto": {
+   "2KI 10:5": "Então o administrador do palácio, o governador da cidade, os anciãos e os tutores enviaram esta mensagem a Jeú: Somos seus servos e faremos tudo o que nos ordenar. Não proclamaremos ninguém rei. Faça o que parecer bom aos seus olhos."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-2KI-010:005-2",
+    "ref": "2KI 10:5",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "administrador do palácio, governador da cidade, anciãos e tutores",
+    "ancora": "Não proclamaremos ninguém rei.",
+    "resumo": "As autoridades de Samaria prometem a Jeú não proclamar nenhum rei."
+   }
+  ]
+ },
+ {
+  "id": "F3-2KI-039",
+  "livro": "2KI",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2KI 10:18",
+  "fim": "2KI 10:18",
+  "texto": {
+   "2KI 10:18": "Jeú reuniu todo o povo e disse: Acabe serviu pouco a Baal, mas Jeú o servirá muito."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-2KI-010:018-1",
+    "ref": "2KI 10:18",
+    "tipo": "promessa",
+    "origem": "adversaria_ou_falsa",
+    "natureza": null,
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "Jeú",
+    "ancora": "Acabe serviu pouco a Baal, mas Jeú o servirá muito.",
+    "resumo": "Jeú promete falsamente diante do povo que servirá muito a Baal."
+   }
+  ]
+ },
+ {
+  "id": "F3-2KI-040",
+  "livro": "2KI",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2KI 10:19",
+  "fim": "2KI 10:19",
+  "texto": {
+   "2KI 10:19": "Agora chamem todos os profetas de Baal, todos os seus adoradores e todos os seus sacerdotes. Que ninguém falte, pois oferecerei um grande sacrifício a Baal. Quem faltar não viverá. Jeú, porém, agia com astúcia para destruir os adoradores de Baal."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-2KI-010:019-1",
+    "ref": "2KI 10:19",
+    "tipo": "promessa",
+    "origem": "adversaria_ou_falsa",
+    "natureza": null,
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "Jeú",
+    "ancora": "pois oferecerei um grande sacrifício a Baal.",
+    "resumo": "Jeú promete falsamente oferecer um grande sacrifício a Baal."
+   }
+  ]
+ },
+ {
+  "id": "F3-2KI-041",
+  "livro": "2KI",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2KI 19:7",
+  "fim": "2KI 19:7",
+  "texto": {
+   "2KI 19:7": "Porei nele um espírito. Ele ouvirá um rumor e voltará para sua terra, e eu o farei cair à espada em sua própria terra."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-2KI-019:007-1",
+    "ref": "2KI 19:7",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "Isaías",
+    "ancora": "Porei nele um espírito. Ele ouvirá um rumor e voltará para sua terra",
+    "resumo": "O SENHOR promete pôr um espírito no rei da Assíria para que ouça um rumor e retorne à sua terra."
+   }
+  ]
+ },
+ {
+  "id": "F3-2KI-042",
+  "livro": "2KI",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2KI 19:30",
+  "fim": "2KI 19:31",
+  "texto": {
+   "2KI 19:30": "O remanescente da casa de Judá que escapar tornará a lançar raízes para baixo e dará fruto para cima.",
+   "2KI 19:31": "Pois de Jerusalém sairá um remanescente, e do monte Sião, os sobreviventes. O zelo do SENHOR dos Exércitos fará isso."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-2KI-019:030-1",
+    "ref": "2KI 19:30-19:31",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": "Isaías",
+    "ancora": "O remanescente da casa de Judá que escapar tornará a lançar raízes para baixo e dará fruto para cima.",
+    "resumo": "O SENHOR garante que o remanescente de Judá que escapar de Jerusalém voltará a enraizar-se e dar fruto, realizado pelo zelo do SENHOR dos Exércitos."
+   }
+  ]
+ },
+ {
+  "id": "F3-2KI-043",
+  "livro": "2KI",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2KI 20:9",
+  "fim": "2KI 20:9",
+  "texto": {
+   "2KI 20:9": "Isaías respondeu: Este será o sinal dado pelo SENHOR de que cumprirá o que prometeu: a sombra avançará dez degraus ou retrocederá dez degraus?"
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-2KI-020:009-1",
+    "ref": "2KI 20:9",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "deus_indistinto",
+    "ancora": "Este será o sinal dado pelo SENHOR de que cumprirá o que prometeu: a sombra avançará dez degraus ou retrocederá dez degraus?",
+    "resumo": "Isaías garante que o SENHOR dará um sinal na sombra confirmando que cumprirá o que prometeu."
+   }
+  ]
+ },
+ {
+  "id": "F3-2KI-044",
+  "livro": "2KI",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2KI 23:27",
+  "fim": "2KI 23:27",
+  "texto": {
+   "2KI 23:27": "O SENHOR disse: Também removerei Judá de minha presença, como removi Israel. Rejeitarei Jerusalém, a cidade que escolhi, e a Casa da qual disse: Meu nome estará ali."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-2KI-023:027-2",
+    "ref": "2KI 23:27",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": "deus_indistinto",
+    "ancora": "Rejeitarei Jerusalém, a cidade que escolhi, e a Casa da qual disse: Meu nome estará ali.",
+    "resumo": "O SENHOR decreta que rejeitará Jerusalém e o templo que havia escolhido."
+   }
+  ]
+ },
+ {
+  "id": "F3-1CH-001",
+  "livro": "1CH",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1CH 12:18",
+  "fim": "1CH 12:18",
+  "texto": {
+   "1CH 12:18": "Então o Espírito revestiu Amasai, chefe dos Trinta, e ele disse: Somos seus, ó Davi, e estamos com você, ó filho de Jessé! Paz, paz com você, e paz com os que o ajudam, pois seu Deus o ajuda. Davi os recebeu e os constituiu chefes das tropas."
+  },
+  "p1": [
+   {
+    "uid": "U1-1CH-012:018-1",
+    "ref": "1CH 12:18",
+    "tipo": "desejo_ou_bencao_votiva",
+    "origem": "humana_votiva",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Paz, paz com você, e paz com os que o ajudam",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-1CH-012:018-1",
+    "ref": "1CH 12:18",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "Amasai",
+    "ancora": "Somos seus, ó Davi, e estamos com você, ó filho de Jessé!",
+    "resumo": "Amasai declara a adesão e lealdade dele e de seus companheiros a Davi."
+   },
+   {
+    "uid": "U2-1CH-012:018-2",
+    "ref": "1CH 12:18",
+    "tipo": "desejo_ou_bencao_votiva",
+    "origem": "humana_votiva",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "Amasai",
+    "ancora": "Paz, paz com você, e paz com os que o ajudam",
+    "resumo": "Amasai pronuncia bênção votiva de paz sobre Davi e sobre os que o auxiliam."
+   }
+  ]
+ },
+ {
+  "id": "F3-1CH-002",
+  "livro": "1CH",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1CH 16:17",
+  "fim": "1CH 16:18",
+  "texto": {
+   "1CH 16:17": "Ele o confirmou a Jacó como estatuto e a Israel como aliança eterna,",
+   "1CH 16:18": "dizendo: A vocês darei a terra de Canaã, a porção de sua herança."
+  },
+  "p1": [
+   {
+    "uid": "U1-1CH-016:017-1",
+    "ref": "1CH 16:17-16:18",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": "deus_indistinto",
+    "ancora": "a Israel como aliança eterna",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-1CH-003",
+  "livro": "1CH",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1CH 17:8",
+  "fim": "1CH 17:8",
+  "texto": {
+   "1CH 17:8": "Estive com você por toda parte por onde andou e eliminei todos os seus inimigos diante de você. Farei seu nome como o nome dos grandes que há na terra."
+  },
+  "p1": [
+   {
+    "uid": "U1-1CH-017:008-1",
+    "ref": "1CH 17:8",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "deus_indistinto",
+    "ancora": "Farei seu nome como o nome dos grandes que há na terra",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-1CH-017:008-1",
+    "ref": "1CH 17:8",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "deus_indistinto",
+    "ancora": "Farei seu nome como o nome dos grandes que há na terra.",
+    "resumo": "O SENHOR promete tornar o nome de Davi grande como o dos grandes da terra."
+   }
+  ]
+ },
+ {
+  "id": "F3-1CH-004",
+  "livro": "1CH",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1CH 17:9",
+  "fim": "1CH 17:10",
+  "texto": {
+   "1CH 17:9": "Designarei um lugar para meu povo Israel e o plantarei, para que habite em seu próprio lugar e não seja mais perturbado. Os filhos da perversidade não voltarão a oprimi-lo como no princípio,",
+   "1CH 17:10": "desde os dias em que ordenei juízes sobre meu povo Israel. Subjugarei todos os seus inimigos. Além disso, anuncio a você que o SENHOR lhe edificará uma casa."
+  },
+  "p1": [
+   {
+    "uid": "U1-1CH-017:009-1",
+    "ref": "1CH 17:9-17:10",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": "deus_indistinto",
+    "ancora": "Designarei um lugar para meu povo Israel e o plantarei",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-1CH-017:009-1",
+    "ref": "1CH 17:9-17:10",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": "deus_indistinto",
+    "ancora": "Designarei um lugar para meu povo Israel e o plantarei, para que habite em seu próprio lugar e não seja mais perturbado.",
+    "resumo": "O SENHOR promete designar e plantar Israel em seu próprio lugar, sem ser mais perturbado nem oprimido por perversos."
+   }
+  ]
+ },
+ {
+  "id": "F3-1CH-005",
+  "livro": "1CH",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1CH 17:10",
+  "fim": "1CH 17:11",
+  "texto": {
+   "1CH 17:10": "desde os dias em que ordenei juízes sobre meu povo Israel. Subjugarei todos os seus inimigos. Além disso, anuncio a você que o SENHOR lhe edificará uma casa.",
+   "1CH 17:11": "Quando seus dias se cumprirem e você for para junto de seus pais, levantarei depois de você um de seus descendentes, que será um de seus filhos, e estabelecerei seu reino."
+  },
+  "p1": [
+   {
+    "uid": "U1-1CH-017:010-1",
+    "ref": "1CH 17:10-17:11",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "familia_ou_linhagem",
+    "condicao": "nenhuma",
+    "promitente": "deus_indistinto",
+    "ancora": "o SENHOR lhe edificará uma casa",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-1CH-017:010-2",
+    "ref": "1CH 17:10",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "deus_indistinto",
+    "ancora": "Além disso, anuncio a você que o SENHOR lhe edificará uma casa.",
+    "resumo": "O SENHOR anuncia e promete a Davi que lhe edificará uma casa."
+   }
+  ]
+ },
+ {
+  "id": "F3-1CH-006",
+  "livro": "1CH",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1CH 17:12",
+  "fim": "1CH 17:12",
+  "texto": {
+   "1CH 17:12": "Ele me edificará uma casa, e eu estabelecerei seu trono para sempre."
+  },
+  "p1": [
+   {
+    "uid": "U1-1CH-017:012-1",
+    "ref": "1CH 17:12",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "familia_ou_linhagem",
+    "condicao": "nenhuma",
+    "promitente": "deus_indistinto",
+    "ancora": "eu estabelecerei seu trono para sempre",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-1CH-017:012-2",
+    "ref": "1CH 17:12",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "deus_indistinto",
+    "ancora": "e eu estabelecerei seu trono para sempre.",
+    "resumo": "O SENHOR promete estabelecer para sempre o trono do descendente de Davi."
+   }
+  ]
+ },
+ {
+  "id": "F3-1CH-007",
+  "livro": "1CH",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1CH 17:13",
+  "fim": "1CH 17:13",
+  "texto": {
+   "1CH 17:13": "Eu serei seu pai, e ele será meu filho. Não retirarei dele minha misericórdia, como a retirei daquele que veio antes de você."
+  },
+  "p1": [
+   {
+    "uid": "U1-1CH-017:013-1",
+    "ref": "1CH 17:13",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "familia_ou_linhagem",
+    "condicao": "nenhuma",
+    "promitente": "deus_indistinto",
+    "ancora": "Eu serei seu pai, e ele será meu filho",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-1CH-017:013-1",
+    "ref": "1CH 17:13",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "deus_indistinto",
+    "ancora": "Eu serei seu pai, e ele será meu filho.",
+    "resumo": "O SENHOR promete ser pai para o descendente de Davi, que será seu filho."
+   }
+  ]
+ },
+ {
+  "id": "F3-1CH-008",
+  "livro": "1CH",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1CH 17:13",
+  "fim": "1CH 17:13",
+  "texto": {
+   "1CH 17:13": "Eu serei seu pai, e ele será meu filho. Não retirarei dele minha misericórdia, como a retirei daquele que veio antes de você."
+  },
+  "p1": [
+   {
+    "uid": "U1-1CH-017:013-2",
+    "ref": "1CH 17:13",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "familia_ou_linhagem",
+    "condicao": "nenhuma",
+    "promitente": "deus_indistinto",
+    "ancora": "Não retirarei dele minha misericórdia",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-1CH-017:013-2",
+    "ref": "1CH 17:13",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "deus_indistinto",
+    "ancora": "Não retirarei dele minha misericórdia, como a retirei daquele que veio antes de você.",
+    "resumo": "O SENHOR promete não retirar sua misericórdia do descendente de Davi."
+   }
+  ]
+ },
+ {
+  "id": "F3-1CH-009",
+  "livro": "1CH",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1CH 17:14",
+  "fim": "1CH 17:14",
+  "texto": {
+   "1CH 17:14": "Eu o estabelecerei em minha casa e em meu reino para sempre, e seu trono será estabelecido para sempre."
+  },
+  "p1": [
+   {
+    "uid": "U1-1CH-017:014-1",
+    "ref": "1CH 17:14",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "familia_ou_linhagem",
+    "condicao": "nenhuma",
+    "promitente": "deus_indistinto",
+    "ancora": "Eu o estabelecerei em minha casa e em meu reino para sempre",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-1CH-017:014-1",
+    "ref": "1CH 17:14",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "deus_indistinto",
+    "ancora": "Eu o estabelecerei em minha casa e em meu reino para sempre, e seu trono será estabelecido para sempre.",
+    "resumo": "O SENHOR promete estabelecer o descendente de Davi em sua casa e em seu reino para sempre, com trono perpétuo."
+   }
+  ]
+ },
+ {
+  "id": "F3-1CH-010",
+  "livro": "1CH",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1CH 19:2",
+  "fim": "1CH 19:2",
+  "texto": {
+   "1CH 19:2": "Davi disse: Demonstrarei bondade a Hanum, filho de Naás, porque seu pai demonstrou bondade para comigo. Davi enviou mensageiros para consolá-lo pela morte de seu pai. Quando os servos de Davi chegaram à terra dos filhos de Amom para consolar Hanum,"
+  },
+  "p1": [
+   {
+    "uid": "U1-1CH-019:002-1",
+    "ref": "1CH 19:2",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "Davi",
+    "ancora": "Demonstrarei bondade a Hanum",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-1CH-019:002-1",
+    "ref": "1CH 19:2",
+    "tipo": "declaracao_sem_compromisso",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "Davi",
+    "ancora": "Demonstrarei bondade a Hanum, filho de Naás, porque seu pai demonstrou bondade para comigo.",
+    "resumo": "Davi declara a intenção de demonstrar bondade a Hanum em retribuição à bondade de Naás."
+   }
+  ]
+ },
+ {
+  "id": "F3-1CH-011",
+  "livro": "1CH",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1CH 21:10",
+  "fim": "1CH 21:12",
+  "texto": {
+   "1CH 21:10": "Vá e diga a Davi: Assim diz o SENHOR: Eu lhe proponho três coisas. Escolha uma delas, para que eu a execute contra você.",
+   "1CH 21:11": "Gade foi a Davi e lhe disse: Assim diz o SENHOR: Escolha:",
+   "1CH 21:12": "três anos de fome; três meses sendo consumido diante de seus adversários, enquanto a espada de seus inimigos o alcança; ou três dias da espada do SENHOR, isto é, peste na terra, com o anjo do SENHOR causando destruição em todo o território de Israel. Agora decida que resposta levarei àquele que me enviou."
+  },
+  "p1": [
+   {
+    "uid": "U1-1CH-021:010-1",
+    "ref": "1CH 21:10-21:12",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "deus_indistinto",
+    "ancora": "Escolha uma delas, para que eu a execute contra você",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-1CH-021:010-1",
+    "ref": "1CH 21:10",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "deus_indistinto",
+    "ancora": "Assim diz o SENHOR: Eu lhe proponho três coisas. Escolha uma delas, para que eu a execute contra você.",
+    "resumo": "O SENHOR determina que executará contra Davi uma das três punições que ele escolher."
+   }
+  ]
+ },
+ {
+  "id": "F3-1CH-012",
+  "livro": "1CH",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1CH 22:5",
+  "fim": "1CH 22:5",
+  "texto": {
+   "1CH 22:5": "Davi dizia: Meu filho Salomão ainda é jovem e inexperiente, e a casa que será edificada para o SENHOR deve ser extraordinariamente magnífica, famosa e gloriosa em todas as terras. Por isso, farei os preparativos para ela. Assim, antes de sua morte, Davi preparou materiais em abundância."
+  },
+  "p1": [
+   {
+    "uid": "U1-1CH-022:005-1",
+    "ref": "1CH 22:5",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "Davi",
+    "ancora": "farei os preparativos para ela",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-1CH-013",
+  "livro": "1CH",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1CH 22:13",
+  "fim": "1CH 22:13",
+  "texto": {
+   "1CH 22:13": "Então você prosperará, se tiver o cuidado de cumprir os estatutos e as ordenanças que o SENHOR deu a Moisés a respeito de Israel. Seja forte e corajoso. Não tenha medo nem fique apavorado."
+  },
+  "p1": [
+   {
+    "uid": "U1-1CH-022:013-1",
+    "ref": "1CH 22:13",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "explicita",
+    "promitente": "Davi",
+    "ancora": "Então você prosperará, se tiver o cuidado de cumprir os estatutos e as ordenanças",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-1CH-022:013-1",
+    "ref": "1CH 22:13",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "explicita",
+    "promitente": "Davi",
+    "ancora": "Então você prosperará, se tiver o cuidado de cumprir os estatutos e as ordenanças que o SENHOR deu a Moisés a respeito de Israel.",
+    "resumo": "Davi assegura prosperidade a Salomão sob a condição de cumprir os estatutos e ordenanças dados pelo SENHOR a Moisés."
+   }
+  ]
+ },
+ {
+  "id": "F3-1CH-014",
+  "livro": "1CH",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1CH 28:9",
+  "fim": "1CH 28:9",
+  "texto": {
+   "1CH 28:9": "E você, meu filho Salomão, conheça o Deus de seu pai e sirva-o com coração íntegro e alma disposta, pois o SENHOR examina todos os corações e entende toda inclinação dos pensamentos. Se você o buscar, ele se deixará encontrar; mas, se o abandonar, ele o rejeitará para sempre."
+  },
+  "p1": [
+   {
+    "uid": "U1-1CH-028:009-1",
+    "ref": "1CH 28:9",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "explicita",
+    "promitente": "Davi",
+    "ancora": "Se você o buscar, ele se deixará encontrar",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-1CH-028:009-1",
+    "ref": "1CH 28:9",
+    "tipo": "mandamento",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "Davi",
+    "ancora": "Se você o buscar, ele se deixará encontrar",
+    "resumo": "Davi exorta Salomão a conhecer e servir a Deus, assegurando que, se ele buscar o SENHOR, este se deixará encontrar."
+   }
+  ]
+ },
+ {
+  "id": "F3-1CH-015",
+  "livro": "1CH",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1CH 28:20",
+  "fim": "1CH 28:20",
+  "texto": {
+   "1CH 28:20": "Davi disse a seu filho Salomão: Seja forte e corajoso e faça a obra. Não tenha medo nem fique apavorado, pois o SENHOR Deus, meu Deus, está com você. Ele não o deixará nem o abandonará até que você termine toda a obra do serviço da casa do SENHOR."
+  },
+  "p1": [
+   {
+    "uid": "U1-1CH-028:020-1",
+    "ref": "1CH 28:20",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "Davi",
+    "ancora": "Ele não o deixará nem o abandonará até que você termine toda a obra",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-1CH-028:020-1",
+    "ref": "1CH 28:20",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "Davi",
+    "ancora": "pois o SENHOR Deus, meu Deus, está com você. Ele não o deixará nem o abandonará até que você termine toda a obra do serviço da casa do SENHOR",
+    "resumo": "Davi assegura a Salomão que o SENHOR Deus está com ele e não o deixará nem o abandonará até concluir toda a obra da casa do SENHOR."
+   }
+  ]
+ },
+ {
+  "id": "F3-1CH-016",
+  "livro": "1CH",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1CH 17:10",
+  "fim": "1CH 17:10",
+  "texto": {
+   "1CH 17:10": "desde os dias em que ordenei juízes sobre meu povo Israel. Subjugarei todos os seus inimigos. Além disso, anuncio a você que o SENHOR lhe edificará uma casa."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-1CH-017:010-1",
+    "ref": "1CH 17:10",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "deus_indistinto",
+    "ancora": "Subjugarei todos os seus inimigos.",
+    "resumo": "O SENHOR promete subjugar todos os inimigos de Davi."
+   }
+  ]
+ },
+ {
+  "id": "F3-1CH-017",
+  "livro": "1CH",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1CH 17:11",
+  "fim": "1CH 17:11",
+  "texto": {
+   "1CH 17:11": "Quando seus dias se cumprirem e você for para junto de seus pais, levantarei depois de você um de seus descendentes, que será um de seus filhos, e estabelecerei seu reino."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-1CH-017:011-1",
+    "ref": "1CH 17:11",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "familia_ou_linhagem",
+    "condicao": "nenhuma",
+    "promitente": "deus_indistinto",
+    "ancora": "levantarei depois de você um de seus descendentes, que será um de seus filhos, e estabelecerei seu reino.",
+    "resumo": "O SENHOR promete levantar um dos filhos de Davi após sua morte e estabelecer o seu reino."
+   }
+  ]
+ },
+ {
+  "id": "F3-1CH-018",
+  "livro": "1CH",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1CH 21:11",
+  "fim": "1CH 21:12",
+  "texto": {
+   "1CH 21:11": "Gade foi a Davi e lhe disse: Assim diz o SENHOR: Escolha:",
+   "1CH 21:12": "três anos de fome; três meses sendo consumido diante de seus adversários, enquanto a espada de seus inimigos o alcança; ou três dias da espada do SENHOR, isto é, peste na terra, com o anjo do SENHOR causando destruição em todo o território de Israel. Agora decida que resposta levarei àquele que me enviou."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-1CH-021:011-1",
+    "ref": "1CH 21:11-21:12",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": "deus_indistinto",
+    "ancora": "três anos de fome; três meses sendo consumido diante de seus adversários, enquanto a espada de seus inimigos o alcança; ou três dias da espada do SENHOR, isto é, peste na terra, com o anjo do SENHOR causando destruição em todo o território de Israel.",
+    "resumo": "Gade transmite a Davi a sentença do SENHOR com as três opções de juízo sobre Davi e Israel."
+   }
+  ]
+ },
+ {
+  "id": "F3-1CH-019",
+  "livro": "1CH",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1CH 22:9",
+  "fim": "1CH 22:9",
+  "texto": {
+   "1CH 22:9": "Eis que lhe nascerá um filho que será homem de descanso. Eu lhe darei descanso de todos os seus inimigos ao redor. Seu nome será Salomão, e darei paz e tranquilidade a Israel em seus dias."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-1CH-022:009-1",
+    "ref": "1CH 22:9",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "Eis que lhe nascerá um filho que será homem de descanso.",
+    "resumo": "O SENHOR promete a Davi o nascimento de um filho, Salomão, que será homem de descanso."
+   }
+  ]
+ },
+ {
+  "id": "F3-1CH-020",
+  "livro": "1CH",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1CH 22:10",
+  "fim": "1CH 22:10",
+  "texto": {
+   "1CH 22:10": "Ele edificará uma casa a meu nome. Ele será meu filho, e eu serei seu pai. Estabelecerei para sempre o trono de seu reino sobre Israel."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-1CH-022:010-1",
+    "ref": "1CH 22:10",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "Ele edificará uma casa a meu nome.",
+    "resumo": "O SENHOR declara que Salomão edificará uma casa ao seu nome."
+   }
+  ]
+ }
+]

@@ -1,0 +1,1199 @@
+[
+ {
+  "id": "F3-1JN-013",
+  "livro": "1JN",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "1JN 4:16",
+  "fim": "1JN 4:16",
+  "texto": {
+   "1JN 4:16": "E conhecemos e cremos no amor que Deus tem para conosco. Deus é amor; e quem permanece no amor permanece em Deus, e Deus, nele."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-1JN-004:016-1",
+    "ref": "1JN 4:16",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "explicita",
+    "promitente": "João",
+    "ancora": "quem permanece no amor permanece em Deus, e Deus, nele",
+    "resumo": "Garantia de que quem permanece no amor permanece em Deus e Deus nele."
+   }
+  ]
+ },
+ {
+  "id": "F3-1JN-014",
+  "livro": "1JN",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "1JN 4:17",
+  "fim": "1JN 4:17",
+  "texto": {
+   "1JN 4:17": "Nisto o amor está aperfeiçoado para conosco: para que tenhamos confiança no dia do juízo, porque, assim como ele é, também nós somos neste mundo."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-1JN-004:017-1",
+    "ref": "1JN 4:17",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "igreja",
+    "condicao": null,
+    "promitente": "João",
+    "ancora": "Nisto o amor está aperfeiçoado para conosco: para que tenhamos confiança no dia do juízo, porque, assim como ele é, também nós somos neste mundo.",
+    "resumo": "Garantia de confiança no dia do juízo por causa do amor aperfeiçoado."
+   }
+  ]
+ },
+ {
+  "id": "F3-1JN-015",
+  "livro": "1JN",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "1JN 5:4",
+  "fim": "1JN 5:4",
+  "texto": {
+   "1JN 5:4": "Porque tudo o que nasceu de Deus vence o mundo; e esta é a vitória que vence o mundo: nossa fé."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-1JN-005:004-1",
+    "ref": "1JN 5:4",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "crente_individual",
+    "condicao": null,
+    "promitente": "João",
+    "ancora": "tudo o que nasceu de Deus vence o mundo",
+    "resumo": "Garante que o nascido de Deus vence o mundo."
+   }
+  ]
+ },
+ {
+  "id": "F3-1JN-016",
+  "livro": "1JN",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "1JN 5:11",
+  "fim": "1JN 5:11",
+  "texto": {
+   "1JN 5:11": "E este é o testemunho: Deus nos deu a vida eterna, e esta vida está em seu Filho."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-1JN-005:011-1",
+    "ref": "1JN 5:11",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "igreja",
+    "condicao": null,
+    "promitente": "João",
+    "ancora": "Deus nos deu a vida eterna, e esta vida está em seu Filho.",
+    "resumo": "Garante que Deus deu aos crentes a vida eterna em seu Filho."
+   }
+  ]
+ },
+ {
+  "id": "F3-1JN-017",
+  "livro": "1JN",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "1JN 5:12",
+  "fim": "1JN 5:12",
+  "texto": {
+   "1JN 5:12": "Quem tem o Filho tem a vida; quem não tem o Filho de Deus não tem a vida."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-1JN-005:012-1",
+    "ref": "1JN 5:12",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "crente_individual",
+    "condicao": null,
+    "promitente": "João",
+    "ancora": "Quem tem o Filho tem a vida",
+    "resumo": "Garante que quem tem o Filho tem a vida."
+   }
+  ]
+ },
+ {
+  "id": "F3-1JN-018",
+  "livro": "1JN",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "1JN 5:13",
+  "fim": "1JN 5:13",
+  "texto": {
+   "1JN 5:13": "Estas coisas escrevi a vós, os que credes no nome do Filho de Deus, para que saibais que tendes a vida eterna e para que creiais no nome do Filho de Deus."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-1JN-005:013-1",
+    "ref": "1JN 5:13",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "igreja",
+    "condicao": null,
+    "promitente": "João",
+    "ancora": "para que saibais que tendes a vida eterna",
+    "resumo": "Garante aos crentes que têm a vida eterna."
+   }
+  ]
+ },
+ {
+  "id": "F3-2JN-001",
+  "livro": "2JN",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "2JN 1:2",
+  "fim": "2JN 1:3",
+  "texto": {
+   "2JN 1:2": "por causa da verdade que permanece em nós e estará conosco para sempre.",
+   "2JN 1:3": "Graça, misericórdia e paz estarão convosco, da parte de Deus Pai e do Senhor Jesus Cristo, Filho do Pai, em verdade e amor."
+  },
+  "p1": [
+   {
+    "uid": "U1-2JN-001:002-1",
+    "ref": "2JN 1:2-1:3",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "igreja",
+    "condicao": null,
+    "promitente": "João",
+    "ancora": "estará conosco para sempre",
+    "resumo": "A verdade estará para sempre conosco; graça, misericórdia e paz estarão com os destinatários."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-2JN-001:002-1",
+    "ref": "2JN 1:2",
+    "tipo": "declaracao_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "a verdade que permanece em nós e estará conosco para sempre",
+    "resumo": "Declaração de que a verdade permanece e permanecerá com os destinatários"
+   }
+  ]
+ },
+ {
+  "id": "F3-3JN-001",
+  "livro": "3JN",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "3JN 1:10",
+  "fim": "3JN 1:10",
+  "texto": {
+   "3JN 1:10": "Por isso, se eu for, lembrarei as obras que ele pratica, falando contra nós com palavras maliciosas. Não satisfeito com isso, ele próprio não recebe os irmãos, impede os que querem recebê-los e os expulsa da igreja."
+  },
+  "p1": [
+   {
+    "uid": "U1-3JN-001:010-1",
+    "ref": "3JN 1:10",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": "explicita",
+    "promitente": "João",
+    "ancora": "se eu for, lembrarei as obras que ele pratica",
+    "resumo": "O presbítero diz que, se for, lembrará as obras de Diótrefes."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-3JN-001:010-1",
+    "ref": "3JN 1:10",
+    "tipo": "declaracao_sem_compromisso",
+    "origem": "humana_em_nome_proprio",
+    "natureza": null,
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "se eu for, lembrarei as obras que ele pratica",
+    "resumo": "Declara que, se for, trará à memória as obras de Diótrefes."
+   }
+  ]
+ },
+ {
+  "id": "F3-JUD-001",
+  "livro": "JUD",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JUD 1:13",
+  "fim": "JUD 1:13",
+  "texto": {
+   "JUD 1:13": "ondas bravias do mar, espumando suas próprias vergonhas; estrelas errantes, para as quais a escuridão das trevas está reservada para sempre."
+  },
+  "p1": [
+   {
+    "uid": "U1-JUD-001:013-1",
+    "ref": "JUD 1:13",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "Judas",
+    "ancora": "para as quais a escuridão das trevas está reservada para sempre",
+    "resumo": "Para os falsos mestres a escuridão das trevas está reservada para sempre."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JUD-001:013-1",
+    "ref": "JUD 1:13",
+    "tipo": "indeterminada",
+    "origem": "indeterminada",
+    "natureza": "juizo",
+    "destinatario": "indeterminado",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "para as quais a escuridão das trevas está reservada para sempre.",
+    "resumo": "Declara pena eterna reservada aos falsos mestres."
+   }
+  ]
+ },
+ {
+  "id": "F3-JUD-002",
+  "livro": "JUD",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JUD 1:14",
+  "fim": "JUD 1:15",
+  "texto": {
+   "JUD 1:14": "E também destes profetizou Enoque, o sétimo depois de Adão, dizendo: Eis que o Senhor veio com seus santos milhares,",
+   "JUD 1:15": "para executar juízo contra todos e convencer todos os ímpios dentre eles acerca de todas as obras de impiedade que impiamente cometeram e acerca de todas as palavras duras que contra ele falaram os pecadores ímpios."
+  },
+  "p1": [
+   {
+    "uid": "U1-JUD-001:014-1",
+    "ref": "JUD 1:14-1:15",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Eis que o Senhor veio com seus santos milhares",
+    "resumo": "Enoque profetizou que o Senhor virá com santos milhares para executar juízo contra os ímpios."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JUD-001:014-1",
+    "ref": "JUD 1:14-1:15",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "indeterminado",
+    "condicao": null,
+    "promitente": "Enoque",
+    "ancora": "Eis que o Senhor veio com seus santos milhares",
+    "resumo": "Profecia de Enoque anuncia a vinda do Senhor para executar juízo contra os ímpios."
+   }
+  ]
+ },
+ {
+  "id": "F3-REV-001",
+  "livro": "REV",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "REV 1:3",
+  "fim": "REV 1:3",
+  "texto": {
+   "REV 1:3": "Bem-aventurado aquele que lê, e os que ouvem as palavras desta profecia e guardam as coisas nela escritas, porque o tempo está próximo."
+  },
+  "p1": [
+   {
+    "uid": "U1-REV-001:003-1",
+    "ref": "REV 1:3",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "crente_individual",
+    "condicao": "explicita",
+    "promitente": "João",
+    "ancora": "Bem-aventurado aquele que lê, e os que ouvem as palavras desta profecia e guardam as coisas nela escritas",
+    "resumo": "Bem-aventurados os que leem, ouvem e guardam as palavras desta profecia."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-REV-001:003-1",
+    "ref": "REV 1:3",
+    "tipo": "indeterminada",
+    "origem": "indeterminada",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "explicita",
+    "promitente": null,
+    "ancora": "Bem-aventurado aquele que lê, e os que ouvem as palavras desta profecia e guardam as coisas nela escritas",
+    "resumo": "Bênção declarada a quem lê, ouve e guarda as palavras da profecia, porque o tempo está próximo."
+   }
+  ]
+ },
+ {
+  "id": "F3-REV-002",
+  "livro": "REV",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "REV 2:10",
+  "fim": "REV 2:10",
+  "texto": {
+   "REV 2:10": "Nada temas do que hás de sofrer. Eis que o diabo lançará alguns de vós na prisão, para que sejais provados, e tereis tribulação por dez dias. Sê fiel até a morte, e te darei a coroa da vida."
+  },
+  "p1": [
+   {
+    "uid": "U1-REV-002:010-1",
+    "ref": "REV 2:10",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "igreja_local",
+    "condicao": "explicita",
+    "promitente": "filho",
+    "ancora": "te darei a coroa da vida",
+    "resumo": "Ao que for fiel até a morte, Cristo dará a coroa da vida."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-REV-002:010-2",
+    "ref": "REV 2:10",
+    "tipo": "mandamento",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Sê fiel até a morte, e te darei a coroa da vida.",
+    "resumo": "Mandamento de fidelidade até a morte com promessa da coroa da vida."
+   }
+  ]
+ },
+ {
+  "id": "F3-REV-003",
+  "livro": "REV",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "REV 2:22",
+  "fim": "REV 2:22",
+  "texto": {
+   "REV 2:22": "Eis que a lanço em uma cama, e aos que adulteram com ela, em grande tribulação, se não se arrependerem de suas obras."
+  },
+  "p1": [
+   {
+    "uid": "U1-REV-002:022-1",
+    "ref": "REV 2:22",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": "explicita",
+    "promitente": "filho",
+    "ancora": "Eis que a lanço em uma cama, e aos que adulteram com ela, em grande tribulação",
+    "resumo": "Cristo lançará Jezabel e os que adulteram com ela em grande tribulação, se não se arrependerem."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-REV-002:022-1",
+    "ref": "REV 2:22",
+    "tipo": "advertencia",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Eis que a lanço em uma cama, e aos que adulteram com ela, em grande tribulação, se não se arrependerem de suas obras.",
+    "resumo": "Advertência de juízo sobre Jezabel e os que adulteram com ela, caso não se arrependam."
+   }
+  ]
+ },
+ {
+  "id": "F3-REV-004",
+  "livro": "REV",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "REV 3:16",
+  "fim": "REV 3:16",
+  "texto": {
+   "REV 3:16": "Assim, porque és morno e não és frio nem quente, eu te vomitarei de minha boca."
+  },
+  "p1": [
+   {
+    "uid": "U1-REV-003:016-1",
+    "ref": "REV 3:16",
+    "tipo": "advertencia",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "eu te vomitarei de minha boca",
+    "resumo": "Cristo vomitará a igreja morna de sua boca."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-REV-003:016-1",
+    "ref": "REV 3:16",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "igreja_local",
+    "condicao": "explicita",
+    "promitente": "filho",
+    "ancora": "eu te vomitarei de minha boca.",
+    "resumo": "Jesus declara que vomitará a igreja morna de sua boca."
+   }
+  ]
+ },
+ {
+  "id": "F3-REV-005",
+  "livro": "REV",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "REV 7:15",
+  "fim": "REV 7:17",
+  "texto": {
+   "REV 7:15": "Por isso estão diante do trono de Deus e o servem de dia e de noite em seu templo. E aquele que está assentado sobre o trono estenderá seu tabernáculo sobre eles.",
+   "REV 7:16": "Nunca mais terão fome, nunca mais terão sede, nem o sol nem calor algum cairão sobre eles,",
+   "REV 7:17": "porque o Cordeiro que está no meio do trono os apascentará e os guiará às fontes vivas das águas. E Deus enxugará de seus olhos toda lágrima."
+  },
+  "p1": [
+   {
+    "uid": "U1-REV-007:015-1",
+    "ref": "REV 7:15-7:17",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "João",
+    "ancora": "aquele que está assentado sobre o trono estenderá seu tabernáculo sobre eles",
+    "resumo": "Os que vêm da grande tribulação estarão diante do trono; Deus os abrigará, não terão fome nem sede, o Cordeiro os guiará e Deus enxugará toda lágrima."
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-REV-006",
+  "livro": "REV",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "REV 14:13",
+  "fim": "REV 14:13",
+  "texto": {
+   "REV 14:13": "Ouvi uma voz do céu, que me dizia: Escreve: Bem-aventurados os mortos que desde agora morrem no Senhor. Sim, diz o Espírito, para que descansem de seus trabalhos, e suas obras os seguem."
+  },
+  "p1": [
+   {
+    "uid": "U1-REV-014:013-1",
+    "ref": "REV 14:13",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "crente_individual",
+    "condicao": null,
+    "promitente": "espirito",
+    "ancora": "Bem-aventurados os mortos que desde agora morrem no Senhor",
+    "resumo": "Os que morrem no Senhor descansam de seus trabalhos e suas obras os seguem."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-REV-014:013-1",
+    "ref": "REV 14:13",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "igreja",
+    "condicao": "nenhuma",
+    "promitente": "espirito",
+    "ancora": "Bem-aventurados os mortos que desde agora morrem no Senhor",
+    "resumo": "Os que morrem no Senhor são bem-aventurados e descansam de seus trabalhos."
+   }
+  ]
+ },
+ {
+  "id": "F3-REV-007",
+  "livro": "REV",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "REV 20:6",
+  "fim": "REV 20:6",
+  "texto": {
+   "REV 20:6": "Bem-aventurado e santo aquele que tem parte na primeira ressurreição. Sobre estes a segunda morte não tem autoridade, mas serão sacerdotes de Deus e de Cristo e reinarão com ele por mil anos."
+  },
+  "p1": [
+   {
+    "uid": "U1-REV-020:006-1",
+    "ref": "REV 20:6",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "crente_individual",
+    "condicao": null,
+    "promitente": "João",
+    "ancora": "Sobre estes a segunda morte não tem autoridade, mas serão sacerdotes de Deus e de Cristo e reinarão com ele por mil anos",
+    "resumo": "Os que têm parte na primeira ressurreição não sofrem a segunda morte, serão sacerdotes de Deus e de Cristo e reinarão com ele mil anos."
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-REV-008",
+  "livro": "REV",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "REV 21:3",
+  "fim": "REV 21:4",
+  "texto": {
+   "REV 21:3": "Ouvi uma grande voz do céu, dizendo: Eis o tabernáculo de Deus com os homens. Ele habitará com eles, e eles serão seus povos. O próprio Deus estará com eles e será o Deus deles.",
+   "REV 21:4": "Deus enxugará toda lágrima dos olhos deles. Já não haverá morte, nem pranto, nem clamor, nem dor, porque as primeiras coisas passaram."
+  },
+  "p1": [
+   {
+    "uid": "U1-REV-021:003-1",
+    "ref": "REV 21:3-21:4",
+    "tipo": "indeterminada",
+    "origem": "indeterminada",
+    "natureza": "bencao",
+    "destinatario": "humanidade",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Ele habitará com eles, e eles serão seus povos",
+    "resumo": "Voz do céu: Deus habitará com os homens, enxugará toda lágrima e não haverá mais morte, pranto, clamor nem dor."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-REV-021:003-1",
+    "ref": "REV 21:3-21:4",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "humanidade",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "Eis o tabernáculo de Deus com os homens. Ele habitará com eles, e eles serão seus povos. O próprio Deus estará com eles e será o Deus deles.",
+    "resumo": "Deus habitará com os homens, será o Deus deles e enxugará toda lágrima; não haverá morte, pranto, clamor nem dor."
+   }
+  ]
+ },
+ {
+  "id": "F3-REV-009",
+  "livro": "REV",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "REV 22:3",
+  "fim": "REV 22:5",
+  "texto": {
+   "REV 22:3": "Já não haverá maldição alguma. Nela estará o trono de Deus e do Cordeiro, e seus servos o servirão.",
+   "REV 22:4": "Eles verão seu rosto, e seu nome estará em suas testas.",
+   "REV 22:5": "Ali não haverá mais noite, e não necessitarão de lâmpada nem de luz do sol, porque o Senhor Deus os ilumina. Eles reinarão pelos séculos dos séculos."
+  },
+  "p1": [
+   {
+    "uid": "U1-REV-022:003-1",
+    "ref": "REV 22:3-22:5",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "crente_individual",
+    "condicao": null,
+    "promitente": "João",
+    "ancora": "Já não haverá maldição alguma",
+    "resumo": "Na nova Jerusalém não haverá maldição, os servos verão o rosto de Deus e reinarão pelos séculos."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-REV-022:003-1",
+    "ref": "REV 22:3",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Já não haverá maldição alguma.",
+    "resumo": "No estado futuro não haverá mais maldição; os servos servirão a Deus."
+   },
+   {
+    "uid": "U2-REV-022:005-1",
+    "ref": "REV 22:5",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Ali não haverá mais noite, e não necessitarão de lâmpada nem de luz do sol",
+    "resumo": "Não haverá mais noite, pois o Senhor Deus os ilumina."
+   }
+  ]
+ },
+ {
+  "id": "F3-REV-010",
+  "livro": "REV",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "REV 22:7",
+  "fim": "REV 22:7",
+  "texto": {
+   "REV 22:7": "Eis que venho depressa. Bem-aventurado aquele que guarda as palavras da profecia deste livro."
+  },
+  "p1": [
+   {
+    "uid": "U1-REV-022:007-1",
+    "ref": "REV 22:7",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "crente_individual",
+    "condicao": "explicita",
+    "promitente": "filho",
+    "ancora": "Eis que venho depressa. Bem-aventurado aquele que guarda as palavras da profecia deste livro",
+    "resumo": "Cristo vem depressa; bem-aventurado quem guarda as palavras da profecia."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-REV-022:007-1",
+    "ref": "REV 22:7",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "igreja",
+    "condicao": null,
+    "promitente": "filho",
+    "ancora": "Eis que venho depressa.",
+    "resumo": "Jesus promete vir depressa."
+   },
+   {
+    "uid": "U2-REV-022:007-2",
+    "ref": "REV 22:7",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "explicita",
+    "promitente": "filho",
+    "ancora": "Bem-aventurado aquele que guarda as palavras da profecia deste livro.",
+    "resumo": "Bênção prometida a quem guarda as palavras da profecia deste livro."
+   }
+  ]
+ },
+ {
+  "id": "F3-REV-011",
+  "livro": "REV",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "REV 22:14",
+  "fim": "REV 22:14",
+  "texto": {
+   "REV 22:14": "Bem-aventurados aqueles que cumprem seus mandamentos, para que tenham direito à árvore da vida e possam entrar na cidade pelas portas."
+  },
+  "p1": [
+   {
+    "uid": "U1-REV-022:014-1",
+    "ref": "REV 22:14",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "crente_individual",
+    "condicao": "explicita",
+    "promitente": "João",
+    "ancora": "Bem-aventurados aqueles que cumprem seus mandamentos, para que tenham direito à árvore da vida",
+    "resumo": "Bem-aventurados os que cumprem os mandamentos: terão direito à árvore da vida e entrarão na cidade."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-REV-022:014-1",
+    "ref": "REV 22:14",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "explicita",
+    "promitente": "filho",
+    "ancora": "Bem-aventurados aqueles que cumprem seus mandamentos",
+    "resumo": "Promessa de bem-aventurança e acesso à árvore da vida e à cidade para os que cumprem os mandamentos."
+   }
+  ]
+ },
+ {
+  "id": "F3-REV-012",
+  "livro": "REV",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "REV 22:15",
+  "fim": "REV 22:15",
+  "texto": {
+   "REV 22:15": "De fora ficarão os cães, os feiticeiros, os fornicadores, os homicidas, os idólatras e todo aquele que ama e pratica a mentira."
+  },
+  "p1": [
+   {
+    "uid": "U1-REV-022:015-1",
+    "ref": "REV 22:15",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "João",
+    "ancora": "De fora ficarão os cães, os feiticeiros, os fornicadores",
+    "resumo": "Ficarão fora da cidade os feiticeiros, fornicadores, homicidas, idólatras e os que amam a mentira."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-REV-022:015-1",
+    "ref": "REV 22:15",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "filho",
+    "ancora": "De fora ficarão os cães",
+    "resumo": "Os praticantes do mal ficarão de fora da cidade."
+   }
+  ]
+ },
+ {
+  "id": "F3-REV-013",
+  "livro": "REV",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "REV 22:18",
+  "fim": "REV 22:19",
+  "texto": {
+   "REV 22:18": "Pois eu testifico a todo aquele que ouve as palavras da profecia deste livro: se alguém acrescentar alguma coisa a elas, Deus lhe acrescentará as pragas escritas neste livro.",
+   "REV 22:19": "E, se alguém retirar alguma coisa das palavras do livro desta profecia, Deus retirará sua parte do livro da vida, da cidade santa e das coisas escritas neste livro."
+  },
+  "p1": [
+   {
+    "uid": "U1-REV-022:018-1",
+    "ref": "REV 22:18-22:19",
+    "tipo": "indeterminada",
+    "origem": "indeterminada",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": "explicita",
+    "promitente": null,
+    "ancora": "se alguém acrescentar alguma coisa a elas, Deus lhe acrescentará as pragas escritas neste livro",
+    "resumo": "Quem acrescentar ou retirar algo da profecia sofrerá as pragas do livro e perderá sua parte no livro da vida e na cidade santa."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-REV-022:018-1",
+    "ref": "REV 22:18",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": "explicita",
+    "promitente": "filho",
+    "ancora": "se alguém acrescentar alguma coisa a elas, Deus lhe acrescentará as pragas escritas neste livro.",
+    "resumo": "Advertência-promessa de juízo contra quem acrescentar algo às palavras da profecia."
+   },
+   {
+    "uid": "U2-REV-022:019-1",
+    "ref": "REV 22:19",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": "explicita",
+    "promitente": "filho",
+    "ancora": "se alguém retirar alguma coisa das palavras do livro desta profecia, Deus retirará sua parte do livro da vida",
+    "resumo": "Advertência-promessa de juízo contra quem retirar algo das palavras do livro da profecia."
+   }
+  ]
+ },
+ {
+  "id": "F3-REV-014",
+  "livro": "REV",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "REV 22:20",
+  "fim": "REV 22:20",
+  "texto": {
+   "REV 22:20": "Aquele que testifica estas coisas diz: Certamente venho depressa. Amém. Sim, vem, Senhor Jesus."
+  },
+  "p1": [
+   {
+    "uid": "U1-REV-022:020-1",
+    "ref": "REV 22:20",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "igreja_local",
+    "condicao": null,
+    "promitente": "filho",
+    "ancora": "Certamente venho depressa",
+    "resumo": "Cristo declara que certamente vem depressa."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-REV-022:020-1",
+    "ref": "REV 22:20",
+    "tipo": "declaracao_sem_compromisso",
+    "origem": "divina_direta",
+    "natureza": null,
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Certamente venho depressa.",
+    "resumo": "Menção da promessa de Jesus de vir depressa, seguida da resposta da igreja."
+   }
+  ]
+ },
+ {
+  "id": "F3-REV-015",
+  "livro": "REV",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "REV 2:17",
+  "fim": "REV 2:17",
+  "texto": {
+   "REV 2:17": "Quem tem ouvidos ouça o que o Espírito diz às igrejas. Ao que vencer darei de comer do maná escondido, e lhe darei uma pedra branca, e na pedra um nome novo escrito, o qual ninguém conhece, senão aquele que o recebe."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-REV-002:017-2",
+    "ref": "REV 2:17",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "igreja_local",
+    "condicao": "explicita",
+    "promitente": "filho",
+    "ancora": "e lhe darei uma pedra branca, e na pedra um nome novo escrito, o qual ninguém conhece, senão aquele que o recebe.",
+    "resumo": "Promessa ao vencedor de uma pedra branca com nome novo que só o recebedor conhece."
+   }
+  ]
+ },
+ {
+  "id": "F3-REV-016",
+  "livro": "REV",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "REV 2:23",
+  "fim": "REV 2:23",
+  "texto": {
+   "REV 2:23": "Matarei de morte seus filhos, e todas as igrejas saberão que eu sou aquele que sonda os rins e os corações. E darei a cada um de vós segundo vossas obras."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-REV-002:023-2",
+    "ref": "REV 2:23",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "igreja_local",
+    "condicao": null,
+    "promitente": "filho",
+    "ancora": "E darei a cada um de vós segundo vossas obras.",
+    "resumo": "Promessa de retribuição a cada um conforme as suas obras."
+   }
+  ]
+ },
+ {
+  "id": "F3-REV-017",
+  "livro": "REV",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "REV 2:24",
+  "fim": "REV 2:24",
+  "texto": {
+   "REV 2:24": "Mas digo a vós e aos demais que estão em Tiatira, a todos quantos não têm esta doutrina e não conheceram as profundezas de Satanás, como dizem: não porei sobre vós outra carga."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-REV-002:024-1",
+    "ref": "REV 2:24",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "filho",
+    "ancora": "não porei sobre vós outra carga.",
+    "resumo": "Promessa aos que não seguem a doutrina de Jezabel de que não receberão outra carga."
+   }
+  ]
+ },
+ {
+  "id": "F3-REV-018",
+  "livro": "REV",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "REV 2:28",
+  "fim": "REV 2:28",
+  "texto": {
+   "REV 2:28": "E lhe darei a estrela da manhã."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-REV-002:028-1",
+    "ref": "REV 2:28",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "igreja_local",
+    "condicao": "explicita",
+    "promitente": "filho",
+    "ancora": "E lhe darei a estrela da manhã.",
+    "resumo": "Promessa ao vencedor de receber a estrela da manhã."
+   }
+  ]
+ },
+ {
+  "id": "F3-REV-019",
+  "livro": "REV",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "REV 3:5",
+  "fim": "REV 3:5",
+  "texto": {
+   "REV 3:5": "O que vencer será vestido de vestes brancas. De modo algum apagarei seu nome do livro da vida, e confessarei seu nome diante de meu Pai e diante de seus anjos."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-REV-003:005-1",
+    "ref": "REV 3:5",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "igreja_local",
+    "condicao": "explicita",
+    "promitente": "filho",
+    "ancora": "O que vencer será vestido de vestes brancas.",
+    "resumo": "O vencedor será vestido de vestes brancas."
+   }
+  ]
+ },
+ {
+  "id": "F3-REV-020",
+  "livro": "REV",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "REV 3:5",
+  "fim": "REV 3:5",
+  "texto": {
+   "REV 3:5": "O que vencer será vestido de vestes brancas. De modo algum apagarei seu nome do livro da vida, e confessarei seu nome diante de meu Pai e diante de seus anjos."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-REV-003:005-3",
+    "ref": "REV 3:5",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "igreja_local",
+    "condicao": "explicita",
+    "promitente": "filho",
+    "ancora": "confessarei seu nome diante de meu Pai e diante de seus anjos.",
+    "resumo": "Jesus confessará o nome do vencedor diante do Pai e dos anjos."
+   }
+  ]
+ },
+ {
+  "id": "F3-REV-021",
+  "livro": "REV",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "REV 3:8",
+  "fim": "REV 3:8",
+  "texto": {
+   "REV 3:8": "Conheço tuas obras. Eis que pus diante de ti uma porta aberta, a qual ninguém pode fechar, porque tens pouca força, guardaste minha palavra e não negaste meu nome."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-REV-003:008-1",
+    "ref": "REV 3:8",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "igreja_local",
+    "condicao": null,
+    "promitente": "filho",
+    "ancora": "Eis que pus diante de ti uma porta aberta, a qual ninguém pode fechar",
+    "resumo": "Jesus colocou diante da igreja uma porta aberta que ninguém pode fechar."
+   }
+  ]
+ },
+ {
+  "id": "F3-REV-022",
+  "livro": "REV",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "REV 3:9",
+  "fim": "REV 3:9",
+  "texto": {
+   "REV 3:9": "Eis que te dou alguns da sinagoga de Satanás, dos que dizem ser judeus e não são, mas mentem. Eis que farei que venham e adorem diante de teus pés, e saibam que eu te amo."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-REV-003:009-1",
+    "ref": "REV 3:9",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "igreja_local",
+    "condicao": null,
+    "promitente": "filho",
+    "ancora": "Eis que te dou alguns da sinagoga de Satanás, dos que dizem ser judeus e não são, mas mentem.",
+    "resumo": "Jesus entrega à igreja alguns da sinagoga de Satanás, que mentem sobre ser judeus."
+   }
+  ]
+ },
+ {
+  "id": "F3-REV-023",
+  "livro": "REV",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "REV 3:11",
+  "fim": "REV 3:11",
+  "texto": {
+   "REV 3:11": "Eis que venho depressa. Guarda o que tens, para que ninguém tome tua coroa."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-REV-003:011-1",
+    "ref": "REV 3:11",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "igreja_local",
+    "condicao": null,
+    "promitente": "filho",
+    "ancora": "Eis que venho depressa.",
+    "resumo": "Jesus assegura que vem depressa."
+   }
+  ]
+ },
+ {
+  "id": "F3-REV-024",
+  "livro": "REV",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "REV 3:12",
+  "fim": "REV 3:12",
+  "texto": {
+   "REV 3:12": "Ao que vencer, eu o farei coluna no templo de meu Deus, e dele nunca mais sairá. Sobre ele escreverei o nome de meu Deus e o nome da cidade de meu Deus, a nova Jerusalém, que desce do céu da parte de meu Deus, e também meu novo nome."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-REV-003:012-2",
+    "ref": "REV 3:12",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "igreja_local",
+    "condicao": "explicita",
+    "promitente": "filho",
+    "ancora": "Sobre ele escreverei o nome de meu Deus e o nome da cidade de meu Deus, a nova Jerusalém, que desce do céu da parte de meu Deus, e também meu novo nome.",
+    "resumo": "Jesus escreverá sobre o vencedor o nome de Deus, o nome da nova Jerusalém e seu novo nome."
+   }
+  ]
+ },
+ {
+  "id": "F3-REV-025",
+  "livro": "REV",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "REV 16:15",
+  "fim": "REV 16:15",
+  "texto": {
+   "REV 16:15": "Eis que venho como ladrão. Bem-aventurado aquele que vigia e guarda suas vestes, para que não ande nu e não vejam sua vergonha."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-REV-016:015-1",
+    "ref": "REV 16:15",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "indeterminado",
+    "condicao": null,
+    "promitente": "filho",
+    "ancora": "Eis que venho como ladrão",
+    "resumo": "Jesus promete vir de modo inesperado."
+   }
+  ]
+ }
+]

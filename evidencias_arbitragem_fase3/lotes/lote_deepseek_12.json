@@ -1,0 +1,218 @@
+[
+ {
+  "id": "F3-PSA-066",
+  "livro": "PSA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "PSA 108:9",
+  "fim": "PSA 108:9",
+  "texto": {
+   "PSA 108:9": "Moabe minha bacia de lavar; sobre Edom lançarei meu sapato; sobre Filístia exultarei."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-PSA-108:009-1",
+    "ref": "PSA 108:9",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": "nenhuma",
+    "promitente": "deus_indistinto",
+    "ancora": "Moabe minha bacia de lavar; sobre Edom lançarei meu sapato; sobre Filístia exultarei.",
+    "resumo": "Oráculo de juízo e sujeição de Deus contra Moabe, Edom e Filístia."
+   }
+  ]
+ },
+ {
+  "id": "F3-PSA-067",
+  "livro": "PSA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "PSA 110:1",
+  "fim": "PSA 110:1",
+  "texto": {
+   "PSA 110:1": "O SENHOR disse a meu Senhor: Assenta-te à minha direita, até que ponha teus inimigos por estrado de teus pés."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-PSA-110:001-1",
+    "ref": "PSA 110:1",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": null,
+    "ancora": "Assenta-te à minha direita, até que ponha teus inimigos por estrado de teus pés.",
+    "resumo": "O SENHOR manda o destinatário assentar-se à sua direita e se compromete a pôr seus inimigos por estrado de seus pés."
+   }
+  ]
+ },
+ {
+  "id": "F3-PSA-068",
+  "livro": "PSA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "PSA 110:2",
+  "fim": "PSA 110:2",
+  "texto": {
+   "PSA 110:2": "O SENHOR te enviará o cetro de tua fortaleza desde Sião: Domina em meio de teus inimigos."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-PSA-110:002-1",
+    "ref": "PSA 110:2",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "narrador",
+    "ancora": "O SENHOR te enviará o cetro de tua fortaleza desde Sião: Domina em meio de teus inimigos.",
+    "resumo": "O SENHOR enviará ao destinatário o cetro de sua fortaleza desde Sião para dominar em meio aos inimigos."
+   }
+  ]
+ },
+ {
+  "id": "F3-PSA-069",
+  "livro": "PSA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "PSA 132:11",
+  "fim": "PSA 132:11",
+  "texto": {
+   "PSA 132:11": "O SENHOR jurou a Davi a verdade, não se apartará dela, quando disse: Do fruto de teu ventre porei sobre teu trono."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-PSA-132:011-1",
+    "ref": "PSA 132:11",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "Do fruto de teu ventre porei sobre teu trono.",
+    "resumo": "O SENHOR jura a Davi, sem voltar atrás, que colocará sobre o trono dele um descendente gerado de seu próprio ventre."
+   }
+  ]
+ },
+ {
+  "id": "F3-PSA-070",
+  "livro": "PSA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "PSA 132:16",
+  "fim": "PSA 132:16",
+  "texto": {
+   "PSA 132:16": "E a seus sacerdotes vestirei de salvação, e seus fiéis exultarão grandemente."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-PSA-132:016-1",
+    "ref": "PSA 132:16",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "E a seus sacerdotes vestirei de salvação, e seus fiéis exultarão grandemente.",
+    "resumo": "O SENHOR promete vestir de salvação os sacerdotes de Sião e fazer com que os seus fiéis exultem grandemente."
+   }
+  ]
+ },
+ {
+  "id": "F3-PSA-071",
+  "livro": "PSA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "PSA 132:17",
+  "fim": "PSA 132:17",
+  "texto": {
+   "PSA 132:17": "Ali farei brotar o chifre a Davi, e já preparei uma lanterna para meu ungido."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-PSA-132:017-1",
+    "ref": "PSA 132:17",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "Ali farei brotar o chifre a Davi, e já preparei uma lanterna para meu ungido.",
+    "resumo": "O SENHOR promete fazer brotar em Sião o poder (chifre) de Davi e declara ter preparado uma lâmpada para o seu ungido."
+   }
+  ]
+ },
+ {
+  "id": "F3-PSA-072",
+  "livro": "PSA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "PSA 132:18",
+  "fim": "PSA 132:18",
+  "texto": {
+   "PSA 132:18": "A seus inimigos vestirei de confusão, mas sobre ele florescerá sua coroa."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-PSA-132:018-1",
+    "ref": "PSA 132:18",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "A seus inimigos vestirei de confusão",
+    "resumo": "O SENHOR promete vestir de confusão os inimigos do rei ungido."
+   }
+  ]
+ },
+ {
+  "id": "F3-PSA-073",
+  "livro": "PSA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "PSA 132:18",
+  "fim": "PSA 132:18",
+  "texto": {
+   "PSA 132:18": "A seus inimigos vestirei de confusão, mas sobre ele florescerá sua coroa."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-PSA-132:018-2",
+    "ref": "PSA 132:18",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "mas sobre ele florescerá sua coroa.",
+    "resumo": "O SENHOR garante que sobre o seu ungido florescerá a sua coroa."
+   }
+  ]
+ }
+]

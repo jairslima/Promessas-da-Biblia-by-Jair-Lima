@@ -1,0 +1,1338 @@
+[
+ {
+  "id": "F3-1KI-021",
+  "livro": "1KI",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1KI 15:19",
+  "fim": "1KI 15:19",
+  "texto": {
+   "1KI 15:19": "Haja aliança entre mim e ti, como houve entre meu pai e teu pai. Eis que te envio um presente de prata e ouro. Vai e rompe tua aliança com Baasa, rei de Israel, para que ele se retire de sobre mim."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-1KI-015:019-1",
+    "ref": "1KI 15:19",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "contextual",
+    "promitente": "Asa",
+    "ancora": "Haja aliança entre mim e ti, como houve entre meu pai e teu pai. Eis que te envio um presente de prata e ouro.",
+    "resumo": "Proposta e oferta de aliança humana de Asa a Ben-Hadade, acompanhada de presente de prata e ouro, para que ele rompa sua aliança com Baasa."
+   }
+  ]
+ },
+ {
+  "id": "F3-1KI-022",
+  "livro": "1KI",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1KI 19:20",
+  "fim": "1KI 19:20",
+  "texto": {
+   "1KI 19:20": "Então Eliseu deixou os bois, correu após Elias e disse: Deixa-me beijar meu pai e minha mãe, e então te seguirei. Elias lhe respondeu: Vai e volta, pois que te fiz eu?"
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-1KI-019:020-1",
+    "ref": "1KI 19:20",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "explicita",
+    "promitente": "Eliseu",
+    "ancora": "Deixa-me beijar meu pai e minha mãe, e então te seguirei.",
+    "resumo": "Eliseu promete a Elias que o seguirá após despedir-se de seu pai e de sua mãe."
+   }
+  ]
+ },
+ {
+  "id": "F3-1KI-023",
+  "livro": "1KI",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1KI 20:4",
+  "fim": "1KI 20:4",
+  "texto": {
+   "1KI 20:4": "O rei de Israel respondeu: Conforme tua palavra, ó rei, meu senhor, sou teu, eu e tudo quanto tenho."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-1KI-020:004-1",
+    "ref": "1KI 20:4",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "Acabe",
+    "ancora": "sou teu, eu e tudo quanto tenho",
+    "resumo": "Acabe submete-se e compromete-se a entregar a si mesmo e tudo o que possui a Ben-Hadade."
+   }
+  ]
+ },
+ {
+  "id": "F3-1KI-024",
+  "livro": "1KI",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1KI 20:9",
+  "fim": "1KI 20:9",
+  "texto": {
+   "1KI 20:9": "Então disse aos mensageiros de Ben-Hadade: Dizei ao rei, meu senhor: Tudo o que primeiro mandaste pedir a teu servo farei, porém isto não posso fazer. Os mensageiros foram e levaram-lhe a resposta."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-1KI-020:009-1",
+    "ref": "1KI 20:9",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "Acabe",
+    "ancora": "Tudo o que primeiro mandaste pedir a teu servo farei",
+    "resumo": "Acabe compromete-se a cumprir tudo o que Ben-Hadade exigiu na primeira mensagem."
+   }
+  ]
+ },
+ {
+  "id": "F3-1KI-025",
+  "livro": "1KI",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1KI 20:40",
+  "fim": "1KI 20:40",
+  "texto": {
+   "1KI 20:40": "Enquanto teu servo estava ocupado aqui e ali, o homem desapareceu. O rei de Israel lhe disse: Essa é tua sentença; tu mesmo a pronunciaste."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-1KI-020:040-1",
+    "ref": "1KI 20:40",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "Acabe",
+    "ancora": "Essa é tua sentença; tu mesmo a pronunciaste",
+    "resumo": "Acabe decreta a sentença condenatória contra o guarda da parábola conforme o acordo relatado."
+   }
+  ]
+ },
+ {
+  "id": "F3-1KI-026",
+  "livro": "1KI",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1KI 22:14",
+  "fim": "1KI 22:14",
+  "texto": {
+   "1KI 22:14": "Micaías respondeu: Tão certo como vive o SENHOR, o que o SENHOR me disser, isso falarei."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-1KI-022:014-1",
+    "ref": "1KI 22:14",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "Micaías",
+    "ancora": "Tão certo como vive o SENHOR, o que o SENHOR me disser, isso falarei.",
+    "resumo": "Micaías jura que falará exatamente aquilo que o SENHOR lhe disser."
+   }
+  ]
+ },
+ {
+  "id": "F3-2KI-001",
+  "livro": "2KI",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2KI 1:4",
+  "fim": "2KI 1:4",
+  "texto": {
+   "2KI 1:4": "Portanto, assim diz o SENHOR: Da cama para a qual você subiu não descerá, mas certamente morrerá.’ Então Elias partiu."
+  },
+  "p1": [
+   {
+    "uid": "U1-2KI-001:004-1",
+    "ref": "2KI 1:4",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "Elias",
+    "ancora": "certamente morrerá",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-2KI-001:004-1",
+    "ref": "2KI 1:4",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "Portanto, assim diz o SENHOR: Da cama para a qual você subiu não descerá, mas certamente morrerá.",
+    "resumo": "O SENHOR sentencia, por meio do anjo do SENHOR a Elias, que Acazias não descerá da cama e certamente morrerá."
+   }
+  ]
+ },
+ {
+  "id": "F3-2KI-002",
+  "livro": "2KI",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2KI 1:16",
+  "fim": "2KI 1:16",
+  "texto": {
+   "2KI 1:16": "E lhe disse: Assim diz o SENHOR: Porquanto enviou mensageiros para consultar Baal-Zebube, deus de Ecrom, como se não houvesse Deus em Israel para consultar sua palavra, da cama para a qual subiu não descerá, mas certamente morrerá."
+  },
+  "p1": [
+   {
+    "uid": "U1-2KI-001:016-1",
+    "ref": "2KI 1:16",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "Elias",
+    "ancora": "certamente morrerá",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-2KI-003",
+  "livro": "2KI",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2KI 2:24",
+  "fim": "2KI 2:24",
+  "texto": {
+   "2KI 2:24": "Ele se virou para trás, viu-os e os amaldiçoou em nome do SENHOR. Então duas ursas saíram do bosque e dilaceraram 42 daqueles jovens."
+  },
+  "p1": [
+   {
+    "uid": "U1-2KI-002:024-1",
+    "ref": "2KI 2:24",
+    "tipo": "desejo_ou_bencao_votiva",
+    "origem": "humana_votiva",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "Eliseu",
+    "ancora": "os amaldiçoou em nome do SENHOR",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-2KI-002:024-1",
+    "ref": "2KI 2:24",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "deus_indistinto",
+    "ancora": "os amaldiçoou em nome do SENHOR.",
+    "resumo": "Eliseu pronuncia maldição em nome do SENHOR contra os jovens que zombavam dele."
+   }
+  ]
+ },
+ {
+  "id": "F3-2KI-004",
+  "livro": "2KI",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2KI 4:13",
+  "fim": "2KI 4:13",
+  "texto": {
+   "2KI 4:13": "Eliseu disse a Geazi: Diga-lhe: Você teve todo este cuidado por nós. Que podemos fazer por você? Quer que falemos em seu favor ao rei ou ao comandante do exército? Ela respondeu: Vivo no meio do meu povo."
+  },
+  "p1": [
+   {
+    "uid": "U1-2KI-004:013-1",
+    "ref": "2KI 4:13",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "Eliseu",
+    "ancora": "Quer que falemos em seu favor ao rei ou ao comandante do exército",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-2KI-005",
+  "livro": "2KI",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2KI 4:16",
+  "fim": "2KI 4:16",
+  "texto": {
+   "2KI 4:16": "Eliseu disse: Daqui a um ano, por esta época, você abraçará um filho. Ela respondeu: Não, meu senhor, homem de Deus, não engane sua serva."
+  },
+  "p1": [
+   {
+    "uid": "U1-2KI-004:016-1",
+    "ref": "2KI 4:16",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "Eliseu",
+    "ancora": "você abraçará um filho",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-2KI-004:016-1",
+    "ref": "2KI 4:16",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "Eliseu",
+    "ancora": "Daqui a um ano, por esta época, você abraçará um filho.",
+    "resumo": "Eliseu garante à mulher sunamita que no prazo de um ano ela abraçará um filho."
+   }
+  ]
+ },
+ {
+  "id": "F3-2KI-006",
+  "livro": "2KI",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2KI 5:8",
+  "fim": "2KI 5:8",
+  "texto": {
+   "2KI 5:8": "Quando Eliseu, homem de Deus, ouviu que o rei de Israel havia rasgado suas roupas, mandou dizer ao rei: Por que você rasgou suas roupas? Deixe-o vir a mim, e ele saberá que há profeta em Israel."
+  },
+  "p1": [
+   {
+    "uid": "U1-2KI-005:008-1",
+    "ref": "2KI 5:8",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "Eliseu",
+    "ancora": "ele saberá que há profeta em Israel",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-2KI-005:008-1",
+    "ref": "2KI 5:8",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "explicita",
+    "promitente": "Eliseu",
+    "ancora": "Deixe-o vir a mim, e ele saberá que há profeta em Israel.",
+    "resumo": "Eliseu assegura que, se Naamã vier a ele, saberá que há profeta em Israel."
+   }
+  ]
+ },
+ {
+  "id": "F3-2KI-007",
+  "livro": "2KI",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2KI 5:10",
+  "fim": "2KI 5:10",
+  "texto": {
+   "2KI 5:10": "Eliseu enviou-lhe um mensageiro para dizer: Vá e lave-se sete vezes no Jordão. Sua carne será restaurada, e você ficará puro."
+  },
+  "p1": [
+   {
+    "uid": "U1-2KI-005:010-1",
+    "ref": "2KI 5:10",
+    "tipo": "mandamento",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "Eliseu",
+    "ancora": "Sua carne será restaurada, e você ficará puro",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-2KI-005:010-1",
+    "ref": "2KI 5:10",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "explicita",
+    "promitente": "Eliseu",
+    "ancora": "Vá e lave-se sete vezes no Jordão. Sua carne será restaurada, e você ficará puro.",
+    "resumo": "Eliseu promete a Naamã restauração da carne e purificação da lepra sob a condição de lavar-se sete vezes no Jordão."
+   }
+  ]
+ },
+ {
+  "id": "F3-2KI-008",
+  "livro": "2KI",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2KI 5:16",
+  "fim": "2KI 5:16",
+  "texto": {
+   "2KI 5:16": "Eliseu respondeu: Tão certo como vive o SENHOR, em cuja presença estou, não aceitarei. Naamã insistiu para que aceitasse, mas ele recusou."
+  },
+  "p1": [
+   {
+    "uid": "U1-2KI-005:016-1",
+    "ref": "2KI 5:16",
+    "tipo": "declaracao_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": null,
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "não aceitarei",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-2KI-005:016-1",
+    "ref": "2KI 5:16",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": null,
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "Eliseu",
+    "ancora": "Tão certo como vive o SENHOR, em cuja presença estou, não aceitarei.",
+    "resumo": "Eliseu jura diante do SENHOR que não aceitará presente de Naamã."
+   }
+  ]
+ },
+ {
+  "id": "F3-2KI-009",
+  "livro": "2KI",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2KI 5:20",
+  "fim": "2KI 5:20",
+  "texto": {
+   "2KI 5:20": "Então Geazi, servo de Eliseu, homem de Deus, pensou: Meu senhor poupou este sírio Naamã, recusando receber de sua mão o que ele trouxe. Tão certo como vive o SENHOR, correrei atrás dele e receberei alguma coisa."
+  },
+  "p1": [
+   {
+    "uid": "U1-2KI-005:020-1",
+    "ref": "2KI 5:20",
+    "tipo": "declaracao_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": null,
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "correrei atrás dele e receberei alguma coisa",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-2KI-005:020-1",
+    "ref": "2KI 5:20",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": null,
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "Geazi",
+    "ancora": "Tão certo como vive o SENHOR, correrei atrás dele e receberei alguma coisa.",
+    "resumo": "Geazi jura consigo mesmo que correrá atrás de Naamã e obterá algo dele."
+   }
+  ]
+ },
+ {
+  "id": "F3-2KI-010",
+  "livro": "2KI",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2KI 5:27",
+  "fim": "2KI 5:27",
+  "texto": {
+   "2KI 5:27": "Portanto, a lepra de Naamã se apegará a você e à sua descendência para sempre. Geazi saiu da presença dele leproso, branco como a neve."
+  },
+  "p1": [
+   {
+    "uid": "U1-2KI-005:027-1",
+    "ref": "2KI 5:27",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "juizo",
+    "destinatario": "familia_ou_linhagem",
+    "condicao": null,
+    "promitente": "Eliseu",
+    "ancora": "a lepra de Naamã se apegará a você e à sua descendência para sempre",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-2KI-005:027-1",
+    "ref": "2KI 5:27",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "familia_ou_linhagem",
+    "condicao": "nenhuma",
+    "promitente": "Eliseu",
+    "ancora": "Portanto, a lepra de Naamã se apegará a você e à sua descendência para sempre.",
+    "resumo": "Eliseu sentencia que a lepra de Naamã se apegará a Geazi e à sua descendência perpetuamente."
+   }
+  ]
+ },
+ {
+  "id": "F3-2KI-011",
+  "livro": "2KI",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2KI 7:2",
+  "fim": "2KI 7:2",
+  "texto": {
+   "2KI 7:2": "O oficial em cujo braço o rei se apoiava respondeu ao homem de Deus: Ainda que o SENHOR fizesse janelas no céu, isso poderia acontecer? Eliseu disse: Você verá com seus próprios olhos, mas não comerá disso."
+  },
+  "p1": [
+   {
+    "uid": "U1-2KI-007:002-1",
+    "ref": "2KI 7:2",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "Eliseu",
+    "ancora": "Você verá com seus próprios olhos, mas não comerá disso",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-2KI-007:002-1",
+    "ref": "2KI 7:2",
+    "tipo": "indeterminada",
+    "origem": "indeterminada",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "Eliseu",
+    "ancora": "Você verá com seus próprios olhos, mas não comerá disso.",
+    "resumo": "Eliseu pronuncia sentença de juízo contra o oficial incrédulo, declarando que ele verá a abundância, mas não comerá dela."
+   }
+  ]
+ },
+ {
+  "id": "F3-2KI-012",
+  "livro": "2KI",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2KI 8:1",
+  "fim": "2KI 8:1",
+  "texto": {
+   "2KI 8:1": "Eliseu havia dito à mulher cujo filho ele restaurara à vida: Levante-se e vá com sua família morar temporariamente onde puder, pois o SENHOR chamou a fome, e ela virá sobre a terra por sete anos."
+  },
+  "p1": [
+   {
+    "uid": "U1-2KI-008:001-1",
+    "ref": "2KI 8:1",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "Eliseu",
+    "ancora": "o SENHOR chamou a fome, e ela virá sobre a terra por sete anos",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-2KI-008:001-1",
+    "ref": "2KI 8:1",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "Eliseu",
+    "ancora": "o SENHOR chamou a fome, e ela virá sobre a terra por sete anos",
+    "resumo": "Eliseu anuncia que o SENHOR chamou a fome e que ela virá sobre a terra por sete anos."
+   }
+  ]
+ },
+ {
+  "id": "F3-2KI-013",
+  "livro": "2KI",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2KI 8:10",
+  "fim": "2KI 8:10",
+  "texto": {
+   "2KI 8:10": "Eliseu lhe respondeu: Vá e diga-lhe: Certamente você sarará. Contudo, o SENHOR me mostrou que ele certamente morrerá."
+  },
+  "p1": [
+   {
+    "uid": "U1-2KI-008:010-1",
+    "ref": "2KI 8:10",
+    "tipo": "indeterminada",
+    "origem": "humana_em_nome_proprio",
+    "natureza": null,
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "Eliseu",
+    "ancora": "Certamente você sarará",
+    "resumo": "(resumo não informado pelo leitor)"
+   },
+   {
+    "uid": "U1-2KI-008:010-2",
+    "ref": "2KI 8:10",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "Eliseu",
+    "ancora": "o SENHOR me mostrou que ele certamente morrerá",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-2KI-008:010-1",
+    "ref": "2KI 8:10",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "Eliseu",
+    "ancora": "o SENHOR me mostrou que ele certamente morrerá",
+    "resumo": "Eliseu declara que o SENHOR lhe mostrou que Ben-Hadade certamente morrerá."
+   }
+  ]
+ },
+ {
+  "id": "F3-2KI-014",
+  "livro": "2KI",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2KI 8:13",
+  "fim": "2KI 8:13",
+  "texto": {
+   "2KI 8:13": "Hazael disse: Quem é seu servo, um simples cão, para realizar coisa tão grande? Eliseu respondeu: O SENHOR me mostrou que você será rei da Síria."
+  },
+  "p1": [
+   {
+    "uid": "U1-2KI-008:013-1",
+    "ref": "2KI 8:13",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "Eliseu",
+    "ancora": "O SENHOR me mostrou que você será rei da Síria",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-2KI-008:013-1",
+    "ref": "2KI 8:13",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "Eliseu",
+    "ancora": "O SENHOR me mostrou que você será rei da Síria",
+    "resumo": "Eliseu revela que o SENHOR lhe mostrou que Hazael será rei da Síria."
+   }
+  ]
+ },
+ {
+  "id": "F3-2KI-015",
+  "livro": "2KI",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2KI 9:6",
+  "fim": "2KI 9:6",
+  "texto": {
+   "2KI 9:6": "Jeú se levantou e entrou na casa. O jovem derramou o azeite sobre sua cabeça e lhe disse: Assim diz o SENHOR, Deus de Israel: Eu o ungi rei sobre o povo do SENHOR, sobre Israel."
+  },
+  "p1": [
+   {
+    "uid": "U1-2KI-009:006-1",
+    "ref": "2KI 9:6",
+    "tipo": "declaracao_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": null,
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Eu o ungi rei sobre o povo do SENHOR, sobre Israel",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-2KI-009:006-1",
+    "ref": "2KI 9:6",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "jovem profeta",
+    "ancora": "Assim diz o SENHOR, Deus de Israel: Eu o ungi rei sobre o povo do SENHOR, sobre Israel.",
+    "resumo": "O SENHOR, por meio do jovem profeta, declara ungir Jeú rei sobre Israel."
+   }
+  ]
+ },
+ {
+  "id": "F3-2KI-016",
+  "livro": "2KI",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2KI 9:7",
+  "fim": "2KI 9:9",
+  "texto": {
+   "2KI 9:7": "Você ferirá a casa de Acabe, seu senhor, e eu vingarei das mãos de Jezabel o sangue de meus servos, os profetas, e o sangue de todos os servos do SENHOR.",
+   "2KI 9:8": "Toda a casa de Acabe perecerá. Eliminarei de Acabe todo homem, tanto o escravo como o livre em Israel.",
+   "2KI 9:9": "Farei a casa de Acabe como a casa de Jeroboão, filho de Nebate, e como a casa de Baasa, filho de Aías."
+  },
+  "p1": [
+   {
+    "uid": "U1-2KI-009:007-1",
+    "ref": "2KI 9:7",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "familia_ou_linhagem",
+    "condicao": null,
+    "promitente": "o jovem profeta",
+    "ancora": "Você ferirá a casa de Acabe, seu senhor",
+    "resumo": "(resumo não informado pelo leitor)"
+   },
+   {
+    "uid": "U1-2KI-009:008-1",
+    "ref": "2KI 9:8-9:9",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "familia_ou_linhagem",
+    "condicao": null,
+    "promitente": "o jovem profeta",
+    "ancora": "Toda a casa de Acabe perecerá",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-2KI-009:007-1",
+    "ref": "2KI 9:7-9:9",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "familia_ou_linhagem",
+    "condicao": "nenhuma",
+    "promitente": "jovem profeta",
+    "ancora": "Você ferirá a casa de Acabe, seu senhor",
+    "resumo": "O SENHOR decreta a destruição total da casa de Acabe, eliminando todo homem dela em Israel."
+   }
+  ]
+ },
+ {
+  "id": "F3-2KI-017",
+  "livro": "2KI",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2KI 9:25",
+  "fim": "2KI 9:26",
+  "texto": {
+   "2KI 9:25": "Jeú disse a Bidcar, seu oficial: Pegue-o e lance-o no campo de Nabote, o jezreelita. Lembre-se de que, quando eu e você cavalgávamos juntos atrás de Acabe, pai dele, o SENHOR pronunciou contra ele esta sentença:",
+   "2KI 9:26": "Tão certo como ontem vi o sangue de Nabote e o sangue de seus filhos, diz o SENHOR, eu lhe retribuirei neste campo, diz o SENHOR. Portanto, pegue-o e lance-o neste campo, conforme a palavra do SENHOR."
+  },
+  "p1": [
+   {
+    "uid": "U1-2KI-009:026-1",
+    "ref": "2KI 9:26",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "Jeú",
+    "ancora": "eu lhe retribuirei neste campo",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-2KI-009:025-1",
+    "ref": "2KI 9:25-9:26",
+    "tipo": "declaracao_sem_compromisso",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "Jeú",
+    "ancora": "Tão certo como ontem vi o sangue de Nabote e o sangue de seus filhos, diz o SENHOR, eu lhe retribuirei neste campo, diz o SENHOR.",
+    "resumo": "Jeú recorda a sentença juramentada pronunciada pelo SENHOR contra Acabe de retribuir o sangue de Nabote e de seus filhos naquele campo."
+   },
+   {
+    "uid": "U2-2KI-009:026-1",
+    "ref": "2KI 9:26",
+    "tipo": "cumprimento_narrado",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "Jeú",
+    "ancora": "Portanto, pegue-o e lance-o neste campo, conforme a palavra do SENHOR.",
+    "resumo": "Jeú ordena lançar o corpo de Jorão no campo de Nabote em cumprimento da palavra do SENHOR contra Acabe."
+   }
+  ]
+ },
+ {
+  "id": "F3-2KI-018",
+  "livro": "2KI",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2KI 9:36",
+  "fim": "2KI 9:37",
+  "texto": {
+   "2KI 9:36": "Voltaram e contaram a Jeú. Ele disse: Esta é a palavra do SENHOR, que falou por meio de seu servo Elias, o tisbita: No campo de Jezreel os cães comerão a carne de Jezabel.",
+   "2KI 9:37": "O cadáver de Jezabel será como esterco sobre o campo de Jezreel, de modo que ninguém poderá dizer: Esta é Jezabel."
+  },
+  "p1": [
+   {
+    "uid": "U1-2KI-009:036-1",
+    "ref": "2KI 9:36",
+    "tipo": "cumprimento_narrado",
+    "origem": "indeterminada",
+    "natureza": null,
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Esta é a palavra do SENHOR, que falou por meio de seu servo Elias",
+    "resumo": "(resumo não informado pelo leitor)"
+   },
+   {
+    "uid": "U1-2KI-009:037-1",
+    "ref": "2KI 9:37",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "Jeú",
+    "ancora": "O cadáver de Jezabel será como esterco sobre o campo de Jezreel",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-2KI-009:036-1",
+    "ref": "2KI 9:36-9:37",
+    "tipo": "cumprimento_narrado",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "Elias, o tisbita",
+    "ancora": "Esta é a palavra do SENHOR, que falou por meio de seu servo Elias, o tisbita: No campo de Jezreel os cães comerão a carne de Jezabel.",
+    "resumo": "Jeú reconhece o cumprimento da palavra do SENHOR falada por Elias de que os cães comeriam a carne de Jezabel no campo de Jezreel."
+   }
+  ]
+ },
+ {
+  "id": "F3-2KI-019",
+  "livro": "2KI",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2KI 10:10",
+  "fim": "2KI 10:10",
+  "texto": {
+   "2KI 10:10": "Saibam, portanto, que nenhuma palavra que o SENHOR falou contra a casa de Acabe cairá por terra. O SENHOR fez o que havia falado por meio de seu servo Elias."
+  },
+  "p1": [
+   {
+    "uid": "U1-2KI-010:010-1",
+    "ref": "2KI 10:10",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "familia_ou_linhagem",
+    "condicao": null,
+    "promitente": "Jeú",
+    "ancora": "nenhuma palavra que o SENHOR falou contra a casa de Acabe cairá por terra",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-2KI-010:010-1",
+    "ref": "2KI 10:10",
+    "tipo": "declaracao_sem_compromisso",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "Jeú",
+    "ancora": "Saibam, portanto, que nenhuma palavra que o SENHOR falou contra a casa de Acabe cairá por terra.",
+    "resumo": "Jeú declara ao povo que nenhuma palavra do SENHOR contra a casa de Acabe falhará."
+   }
+  ]
+ },
+ {
+  "id": "F3-2KI-020",
+  "livro": "2KI",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2KI 11:17",
+  "fim": "2KI 11:17",
+  "texto": {
+   "2KI 11:17": "Joiada fez uma aliança entre o SENHOR, o rei e o povo, para que fossem o povo do SENHOR. Também fez uma aliança entre o rei e o povo."
+  },
+  "p1": [
+   {
+    "uid": "U1-2KI-011:017-1",
+    "ref": "2KI 11:17",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "Joiada",
+    "ancora": "Joiada fez uma aliança entre o SENHOR, o rei e o povo, para que fossem o povo do SENHOR",
+    "resumo": "(resumo não informado pelo leitor)"
+   },
+   {
+    "uid": "U1-2KI-011:017-2",
+    "ref": "2KI 11:17",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "Joiada",
+    "ancora": "Também fez uma aliança entre o rei e o povo",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-2KI-011:017-1",
+    "ref": "2KI 11:17",
+    "tipo": "indeterminada",
+    "origem": "indeterminada",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Joiada fez uma aliança entre o SENHOR, o rei e o povo, para que fossem o povo do SENHOR.",
+    "resumo": "Relato narrativo da aliança celebrada por Joiada entre o SENHOR, o rei e o povo, com a finalidade de serem o povo do SENHOR."
+   }
+  ]
+ },
+ {
+  "id": "F3-2KI-021",
+  "livro": "2KI",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2KI 13:19",
+  "fim": "2KI 13:19",
+  "texto": {
+   "2KI 13:19": "O homem de Deus indignou-se contra ele e disse: Você deveria ter batido cinco ou seis vezes. Então derrotaria a Síria até consumi-la. Agora, porém, você derrotará a Síria apenas três vezes."
+  },
+  "p1": [
+   {
+    "uid": "U1-2KI-013:019-1",
+    "ref": "2KI 13:19",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "Eliseu",
+    "ancora": "você derrotará a Síria apenas três vezes",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-2KI-013:019-1",
+    "ref": "2KI 13:19",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "Agora, porém, você derrotará a Síria apenas três vezes.",
+    "resumo": "Eliseu declara ao rei Joás que, por ter batido no chão apenas três vezes, ele derrotará a Síria somente três vezes."
+   }
+  ]
+ },
+ {
+  "id": "F3-2KI-022",
+  "livro": "2KI",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2KI 18:23",
+  "fim": "2KI 18:23",
+  "texto": {
+   "2KI 18:23": "Agora faça uma aposta com meu senhor, o rei da Assíria: eu lhe darei dois mil cavalos, se você puder fornecer cavaleiros para montá-los."
+  },
+  "p1": [
+   {
+    "uid": "U1-2KI-018:023-1",
+    "ref": "2KI 18:23",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "explicita",
+    "promitente": "Rabsaqué",
+    "ancora": "eu lhe darei dois mil cavalos, se você puder fornecer cavaleiros para montá-los",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-2KI-018:023-1",
+    "ref": "2KI 18:23",
+    "tipo": "promessa",
+    "origem": "adversaria_ou_falsa",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "explicita",
+    "promitente": "Rabsaqué, em nome do rei da Assíria",
+    "ancora": "eu lhe darei dois mil cavalos, se você puder fornecer cavaleiros para montá-los.",
+    "resumo": "Rabsaqué, em tom de desafio e aposta, oferece dois mil cavalos a Ezequias se ele conseguir fornecer cavaleiros para montá-los."
+   }
+  ]
+ },
+ {
+  "id": "F3-2KI-023",
+  "livro": "2KI",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2KI 18:31",
+  "fim": "2KI 18:32",
+  "texto": {
+   "2KI 18:31": "Não deem ouvidos a Ezequias, pois assim diz o rei da Assíria: Façam as pazes comigo e saiam para mim. Então cada um comerá de sua videira e de sua figueira e beberá a água de sua cisterna,",
+   "2KI 18:32": "até que eu venha e os leve para uma terra semelhante à de vocês, terra de cereal e vinho novo, terra de pão e vinhas, terra de oliveiras, azeite e mel. Assim vocês viverão e não morrerão. Não deem ouvidos a Ezequias quando ele os induzir, dizendo: O SENHOR nos livrará."
+  },
+  "p1": [
+   {
+    "uid": "U1-2KI-018:031-1",
+    "ref": "2KI 18:31-18:32",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "explicita",
+    "promitente": "Rabsaqué, em nome do rei da Assíria",
+    "ancora": "cada um comerá de sua videira e de sua figueira",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-2KI-018:031-1",
+    "ref": "2KI 18:31-18:32",
+    "tipo": "promessa",
+    "origem": "adversaria_ou_falsa",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "explicita",
+    "promitente": "rei da Assíria (por meio de Rabsaqué)",
+    "ancora": "Façam as pazes comigo e saiam para mim. Então cada um comerá de sua videira e de sua figueira e beberá a água de sua cisterna,",
+    "resumo": "O rei da Assíria promete ao povo de Jerusalém que, se fizerem as pazes e se renderem, comerão de seus frutos até que ele os leve a uma terra fértil, preservando-lhes a vida."
+   }
+  ]
+ },
+ {
+  "id": "F3-2KI-024",
+  "livro": "2KI",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2KI 19:23",
+  "fim": "2KI 19:23",
+  "texto": {
+   "2KI 19:23": "Por meio de seus mensageiros, você insultou o Senhor e disse: Com a multidão dos meus carros subi ao alto dos montes, às regiões mais remotas do Líbano. Cortarei seus cedros mais altos e seus melhores ciprestes. Entrarei em sua morada mais distante, na floresta de seu campo fértil."
+  },
+  "p1": [
+   {
+    "uid": "U1-2KI-019:023-1",
+    "ref": "2KI 19:23",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "Senaqueribe",
+    "ancora": "Cortarei seus cedros mais altos e seus melhores ciprestes",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-2KI-025",
+  "livro": "2KI",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2KI 19:30",
+  "fim": "2KI 19:31",
+  "texto": {
+   "2KI 19:30": "O remanescente da casa de Judá que escapar tornará a lançar raízes para baixo e dará fruto para cima.",
+   "2KI 19:31": "Pois de Jerusalém sairá um remanescente, e do monte Sião, os sobreviventes. O zelo do SENHOR dos Exércitos fará isso."
+  },
+  "p1": [
+   {
+    "uid": "U1-2KI-019:030-1",
+    "ref": "2KI 19:30-19:31",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "Isaías",
+    "ancora": "de Jerusalém sairá um remanescente",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-2KI-026",
+  "livro": "2KI",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2KI 20:5",
+  "fim": "2KI 20:5",
+  "texto": {
+   "2KI 20:5": "Volte e diga a Ezequias, líder do meu povo: Assim diz o SENHOR, Deus de Davi, seu antepassado: Ouvi sua oração e vi suas lágrimas. Eu o curarei, e no terceiro dia você subirá à Casa do SENHOR."
+  },
+  "p1": [
+   {
+    "uid": "U1-2KI-020:005-1",
+    "ref": "2KI 20:5",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "Isaías",
+    "ancora": "Eu o curarei, e no terceiro dia você subirá à Casa do SENHOR",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-2KI-020:005-1",
+    "ref": "2KI 20:5",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "deus_indistinto",
+    "ancora": "Eu o curarei, e no terceiro dia você subirá à Casa do SENHOR.",
+    "resumo": "O SENHOR promete curar Ezequias e que no terceiro dia ele subirá à Casa do SENHOR."
+   }
+  ]
+ },
+ {
+  "id": "F3-2KI-027",
+  "livro": "2KI",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2KI 20:6",
+  "fim": "2KI 20:6",
+  "texto": {
+   "2KI 20:6": "Acrescentarei quinze anos à sua vida. Livrarei você e esta cidade das mãos do rei da Assíria e protegerei esta cidade por amor de mim e por amor de Davi, meu servo."
+  },
+  "p1": [
+   {
+    "uid": "U1-2KI-020:006-1",
+    "ref": "2KI 20:6",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "Isaías",
+    "ancora": "Acrescentarei quinze anos à sua vida",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-2KI-020:006-1",
+    "ref": "2KI 20:6",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "deus_indistinto",
+    "ancora": "Acrescentarei quinze anos à sua vida.",
+    "resumo": "O SENHOR promete acrescentar quinze anos à vida de Ezequias."
+   }
+  ]
+ },
+ {
+  "id": "F3-2KI-028",
+  "livro": "2KI",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2KI 20:6",
+  "fim": "2KI 20:6",
+  "texto": {
+   "2KI 20:6": "Acrescentarei quinze anos à sua vida. Livrarei você e esta cidade das mãos do rei da Assíria e protegerei esta cidade por amor de mim e por amor de Davi, meu servo."
+  },
+  "p1": [
+   {
+    "uid": "U1-2KI-020:006-2",
+    "ref": "2KI 20:6",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "Isaías",
+    "ancora": "Livrarei você e esta cidade das mãos do rei da Assíria",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-2KI-020:006-2",
+    "ref": "2KI 20:6",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "deus_indistinto",
+    "ancora": "Livrarei você e esta cidade das mãos do rei da Assíria e protegerei esta cidade por amor de mim e por amor de Davi, meu servo.",
+    "resumo": "O SENHOR promete livrar Ezequias e a cidade do rei da Assíria e proteger a cidade."
+   }
+  ]
+ },
+ {
+  "id": "F3-2KI-029",
+  "livro": "2KI",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2KI 21:7",
+  "fim": "2KI 21:7",
+  "texto": {
+   "2KI 21:7": "Colocou na Casa a imagem esculpida de Aserá que havia feito. A respeito daquela Casa, o SENHOR havia dito a Davi e a Salomão, seu filho: Nesta Casa e em Jerusalém, que escolhi dentre todas as tribos de Israel, porei meu nome para sempre."
+  },
+  "p1": [
+   {
+    "uid": "U1-2KI-021:007-1",
+    "ref": "2KI 21:7",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "familia_ou_linhagem",
+    "condicao": null,
+    "promitente": "o narrador",
+    "ancora": "porei meu nome para sempre",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-2KI-021:007-1",
+    "ref": "2KI 21:7",
+    "tipo": "declaracao_sem_compromisso",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "narrador",
+    "ancora": "Nesta Casa e em Jerusalém, que escolhi dentre todas as tribos de Israel, porei meu nome para sempre.",
+    "resumo": "Menção narrativa à promessa anterior feita pelo SENHOR a Davi e a Salomão de pôr seu nome para sempre na Casa e em Jerusalém."
+   }
+  ]
+ }
+]

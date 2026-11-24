@@ -1,0 +1,1362 @@
+[
+ {
+  "id": "F3-JOB-007",
+  "livro": "JOB",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "JOB 33:7",
+  "fim": "JOB 33:7",
+  "texto": {
+   "JOB 33:7": "Eis que meu terror não te perturbará, nem minha mão pesará sobre ti."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JOB-033:007-1",
+    "ref": "JOB 33:7",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "interlocutor de Jó",
+    "ancora": "Eis que meu terror não te perturbará, nem minha mão pesará sobre ti.",
+    "resumo": "O interlocutor de Jó garante a ele que não o intimidará nem o oprimirá durante o diálogo."
+   }
+  ]
+ },
+ {
+  "id": "F3-JOB-008",
+  "livro": "JOB",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "JOB 33:33",
+  "fim": "JOB 33:33",
+  "texto": {
+   "JOB 33:33": "Se não, escuta-me; cala-te, e eu te ensinarei sabedoria."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JOB-033:033-1",
+    "ref": "JOB 33:33",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "explicita",
+    "promitente": "interlocutor de Jó",
+    "ancora": "Se não, escuta-me; cala-te, e eu te ensinarei sabedoria.",
+    "resumo": "O interlocutor de Jó promete ensinar-lhe sabedoria caso ele não tenha resposta e o ouça em silêncio."
+   }
+  ]
+ },
+ {
+  "id": "F3-JOB-009",
+  "livro": "JOB",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "JOB 35:4",
+  "fim": "JOB 35:4",
+  "texto": {
+   "JOB 35:4": "Eu responderei a ti e também a teus amigos contigo."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JOB-035:004-1",
+    "ref": "JOB 35:4",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "Eliú",
+    "ancora": "Eu responderei a ti e também a teus amigos contigo.",
+    "resumo": "Eliú se compromete a responder a Jó e aos amigos que estão com ele."
+   }
+  ]
+ },
+ {
+  "id": "F3-JOB-010",
+  "livro": "JOB",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "JOB 36:2",
+  "fim": "JOB 36:2",
+  "texto": {
+   "JOB 36:2": "Espera-me um pouco, e eu te mostrarei que ainda há razões em favor de Deus."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JOB-036:002-1",
+    "ref": "JOB 36:2",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "explicita",
+    "promitente": "Eliú",
+    "ancora": "Espera-me um pouco, e eu te mostrarei que ainda há razões em favor de Deus.",
+    "resumo": "Eliú se compromete a mostrar ao interlocutor que ainda há razões em favor de Deus, se ele esperar um pouco."
+   }
+  ]
+ },
+ {
+  "id": "F3-JOB-011",
+  "livro": "JOB",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "JOB 40:10",
+  "fim": "JOB 40:14",
+  "texto": {
+   "JOB 40:10": "Orna-te, pois, de excelência e grandeza; veste-te de majestade e glória.",
+   "JOB 40:11": "Derrama os furores de tua ira; olha para todo soberbo e abate-o.",
+   "JOB 40:12": "Olha para todo soberbo e humilha-o; atropela os perversos onde estão.",
+   "JOB 40:13": "Esconde-os juntos no pó; prende seus rostos no lugar oculto.",
+   "JOB 40:14": "Então também eu te confessarei que tua mão direita pode salvar-te."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JOB-040:010-1",
+    "ref": "JOB 40:10-40:14",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "explicita",
+    "promitente": "deus_indistinto",
+    "ancora": "Então também eu te confessarei que tua mão direita pode salvar-te.",
+    "resumo": "O SENHOR promete a Jó que reconhecerá que sua mão direita pode salvá-lo caso ele se revista de majestade e abata os soberbos e perversos."
+   }
+  ]
+ },
+ {
+  "id": "F3-PSA-001",
+  "livro": "PSA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "PSA 2:7",
+  "fim": "PSA 2:9",
+  "texto": {
+   "PSA 2:7": "Eu recitarei o decreto: o SENHOR me disse: Tu és meu filho. Eu hoje te gerei.",
+   "PSA 2:8": "Pede-me, e te darei as gentes por herança, e por tua possessão os fins da terra.",
+   "PSA 2:9": "Com cetro de ferro os esmiuçarás, como vaso de oleiro os despedaçarás."
+  },
+  "p1": [
+   {
+    "uid": "U1-PSA-002:007-1",
+    "ref": "PSA 2:7-2:9",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "te darei as gentes por herança",
+    "resumo": "O SENHOR dará ao Rei as nações por herança e ele as quebrará com cetro de ferro"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-PSA-002:008-1",
+    "ref": "PSA 2:8",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "messias",
+    "condicao": "explicita",
+    "promitente": "pai",
+    "ancora": "Pede-me, e te darei as gentes por herança, e por tua possessão os fins da terra.",
+    "resumo": "O SENHOR promete ao seu filho dar-lhe as nações por herança e os fins da terra por possessão, caso ele lhe peça."
+   }
+  ]
+ },
+ {
+  "id": "F3-PSA-002",
+  "livro": "PSA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "PSA 22:22",
+  "fim": "PSA 22:22",
+  "texto": {
+   "PSA 22:22": "Então contarei teu nome a meus irmãos; em meio da congregação te louvarei."
+  },
+  "p1": [
+   {
+    "uid": "U1-PSA-022:022-1",
+    "ref": "PSA 22:22",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "o salmista",
+    "ancora": "Então contarei teu nome a meus irmãos",
+    "resumo": "O salmista promete anunciar o nome de Deus e louvá-lo na congregação"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-PSA-022:022-1",
+    "ref": "PSA 22:22",
+    "tipo": "desejo_ou_bencao_votiva",
+    "origem": "humana_votiva",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": null,
+    "ancora": "Então contarei teu nome a meus irmãos; em meio da congregação te louvarei.",
+    "resumo": "O salmista se compromete a anunciar o nome de Deus aos irmãos e louvá-lo na congregação."
+   }
+  ]
+ },
+ {
+  "id": "F3-PSA-003",
+  "livro": "PSA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "PSA 22:25",
+  "fim": "PSA 22:25",
+  "texto": {
+   "PSA 22:25": "De ti será meu louvor em grande congregação; pagarei meus votos, perante os que o temem."
+  },
+  "p1": [
+   {
+    "uid": "U1-PSA-022:025-1",
+    "ref": "PSA 22:25",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "o salmista",
+    "ancora": "pagarei meus votos, perante os que o temem",
+    "resumo": "O salmista promete pagar seus votos"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-PSA-022:025-1",
+    "ref": "PSA 22:25",
+    "tipo": "desejo_ou_bencao_votiva",
+    "origem": "humana_votiva",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": null,
+    "ancora": "De ti será meu louvor em grande congregação; pagarei meus votos, perante os que o temem.",
+    "resumo": "O salmista promete louvar a Deus na grande congregação e cumprir seus votos diante dos que temem ao SENHOR."
+   }
+  ]
+ },
+ {
+  "id": "F3-PSA-004",
+  "livro": "PSA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "PSA 46:10",
+  "fim": "PSA 46:10",
+  "texto": {
+   "PSA 46:10": "Deixai, e sabei que eu sou Deus; serei exaltado entre as gentes, exaltar-me-ei sobre a terra."
+  },
+  "p1": [
+   {
+    "uid": "U1-PSA-046:010-1",
+    "ref": "PSA 46:10",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": null,
+    "destinatario": "humanidade",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "serei exaltado entre as gentes, exaltar-me-ei sobre a terra",
+    "resumo": "O SENHOR declara que será exaltado entre as gentes e sobre a terra"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-PSA-046:010-1",
+    "ref": "PSA 46:10",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "indeterminado",
+    "condicao": "nenhuma",
+    "promitente": "deus_indistinto",
+    "ancora": "serei exaltado entre as gentes, exaltar-me-ei sobre a terra.",
+    "resumo": "Deus declara em primeira pessoa que será exaltado entre as nações e se exaltará sobre a terra."
+   }
+  ]
+ },
+ {
+  "id": "F3-PSA-005",
+  "livro": "PSA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "PSA 50:7",
+  "fim": "PSA 50:7",
+  "texto": {
+   "PSA 50:7": "Ouve, povo meu, e falarei; Israel, testificarei contra ti: eu sou Deus, o teu Deus."
+  },
+  "p1": [
+   {
+    "uid": "U1-PSA-050:007-1",
+    "ref": "PSA 50:7",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Israel, testificarei contra ti",
+    "resumo": "Deus falará e testificará contra Israel"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-PSA-050:007-1",
+    "ref": "PSA 50:7",
+    "tipo": "declaracao_sem_compromisso",
+    "origem": "divina_direta",
+    "natureza": null,
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Ouve, povo meu, e falarei; Israel, testificarei contra ti: eu sou Deus, o teu Deus.",
+    "resumo": "Deus anuncia a Israel que falará e testificará contra o povo, identificando-se como o seu Deus."
+   }
+  ]
+ },
+ {
+  "id": "F3-PSA-006",
+  "livro": "PSA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "PSA 50:8",
+  "fim": "PSA 50:9",
+  "texto": {
+   "PSA 50:8": "Não te repreenderei por teus sacrifícios, porque os teus holocaustos estão continuamente diante de mim.",
+   "PSA 50:9": "Da tua casa não tomarei bezerro, nem bodes dos teus currais."
+  },
+  "p1": [
+   {
+    "uid": "U1-PSA-050:008-1",
+    "ref": "PSA 50:8-50:9",
+    "tipo": "declaracao_sem_compromisso",
+    "origem": "divina_direta",
+    "natureza": null,
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Não te repreenderei por teus sacrifícios",
+    "resumo": "Deus não repreenderá nem tomará animais de Israel porque tudo é dele"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-PSA-050:008-1",
+    "ref": "PSA 50:8",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": "deus_indistinto",
+    "ancora": "Não te repreenderei por teus sacrifícios, porque os teus holocaustos estão continuamente diante de mim.",
+    "resumo": "Deus declara que não repreenderá Israel por causa de seus sacrifícios e holocaustos contínuos."
+   },
+   {
+    "uid": "U2-PSA-050:009-1",
+    "ref": "PSA 50:9",
+    "tipo": "declaracao_sem_compromisso",
+    "origem": "divina_direta",
+    "natureza": null,
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Da tua casa não tomarei bezerro, nem bodes dos teus currais.",
+    "resumo": "Deus declara que não tomará bezerros nem bodes dos rebanhos de Israel, pois tudo já lhe pertence."
+   }
+  ]
+ },
+ {
+  "id": "F3-PSA-007",
+  "livro": "PSA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "PSA 50:15",
+  "fim": "PSA 50:15",
+  "texto": {
+   "PSA 50:15": "E invoca-me no dia da angústia; eu te farei escapar, e tu me glorificarás."
+  },
+  "p1": [
+   {
+    "uid": "U1-PSA-050:015-1",
+    "ref": "PSA 50:15",
+    "tipo": "mandamento",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "eu te farei escapar, e tu me glorificarás",
+    "resumo": "Quem invoca a Deus no dia da angústia será livrado e o glorificará"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-PSA-050:015-1",
+    "ref": "PSA 50:15",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "explicita",
+    "promitente": "deus_indistinto",
+    "ancora": "E invoca-me no dia da angústia; eu te farei escapar, e tu me glorificarás.",
+    "resumo": "Deus promete livrar o seu povo no dia da angústia se este o invocar, resultando em glorificação a Deus."
+   }
+  ]
+ },
+ {
+  "id": "F3-PSA-008",
+  "livro": "PSA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "PSA 60:6",
+  "fim": "PSA 60:8",
+  "texto": {
+   "PSA 60:6": "Deus falou no seu santuário: por isso saltarei de prazer; repartirei Siquém e medirei o vale de Sucote.",
+   "PSA 60:7": "Meu é Gileade, e meu é Manassés, e Efraim é a fortaleza da minha cabeça; Judá é o meu legislador.",
+   "PSA 60:8": "Moabe é a minha bacia de lavar; sobre Edom lançarei o meu sapato; exulta sobre mim, ó Filístia."
+  },
+  "p1": [
+   {
+    "uid": "U1-PSA-060:006-1",
+    "ref": "PSA 60:6-60:8",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "repartirei Siquém e medirei o vale de Sucote",
+    "resumo": "Oráculo atribuído a Deus: repartirá Siquém e medirá o vale de Sucote"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-PSA-060:006-1",
+    "ref": "PSA 60:6-60:7",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": "deus_indistinto",
+    "ancora": "Deus falou no seu santuário: por isso saltarei de prazer; repartirei Siquém e medirei o vale de Sucote.",
+    "resumo": "Deus declara no seu santuário que repartirá Siquém, medirá o vale de Sucote e afirma sua posse e domínio sobre Gileade, Manassés, Efraim e Judá."
+   }
+  ]
+ },
+ {
+  "id": "F3-PSA-009",
+  "livro": "PSA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "PSA 68:22",
+  "fim": "PSA 68:23",
+  "texto": {
+   "PSA 68:22": "Disse o Senhor: De Basã farei tornar o meu povo; das profundezas do mar o tornarei.",
+   "PSA 68:23": "Para que metas o teu pé, e a língua de teus cães, no sangue dos inimigos, de cada um deles."
+  },
+  "p1": [
+   {
+    "uid": "U1-PSA-068:022-1",
+    "ref": "PSA 68:22",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "De Basã farei tornar o meu povo; das profundezas do mar o tornarei",
+    "resumo": "Oráculo atribuído ao Senhor: fará voltar o seu povo"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-PSA-068:022-1",
+    "ref": "PSA 68:22-68:23",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": "deus_indistinto",
+    "ancora": "Disse o Senhor: De Basã farei tornar o meu povo; das profundezas do mar o tornarei.",
+    "resumo": "O Senhor promete trazer de volta o seu povo de Basã e das profundezas do mar, para que alcance vitória completa sobre os inimigos."
+   }
+  ]
+ },
+ {
+  "id": "F3-PSA-010",
+  "livro": "PSA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "PSA 75:2",
+  "fim": "PSA 75:2",
+  "texto": {
+   "PSA 75:2": "Recebendo eu o ofício determinado, de todo em todo retamente julgarei."
+  },
+  "p1": [
+   {
+    "uid": "U1-PSA-075:002-1",
+    "ref": "PSA 75:2",
+    "tipo": "indeterminada",
+    "origem": "indeterminada",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "de todo em todo retamente julgarei",
+    "resumo": "Locutor em primeira pessoa que julgará retamente; o texto não identifica quem fala"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-PSA-075:002-1",
+    "ref": "PSA 75:2",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "indeterminado",
+    "condicao": "nenhuma",
+    "promitente": "deus_indistinto",
+    "ancora": "Recebendo eu o ofício determinado, de todo em todo retamente julgarei.",
+    "resumo": "Compromisso em primeira pessoa de julgar com inteira retidão no tempo determinado."
+   }
+  ]
+ },
+ {
+  "id": "F3-PSA-011",
+  "livro": "PSA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "PSA 81:10",
+  "fim": "PSA 81:10",
+  "texto": {
+   "PSA 81:10": "Eu sou o SENHOR, teu Deus, que te fiz subir da terra do Egito: abre a tua boca de par em par, e eu a encherei."
+  },
+  "p1": [
+   {
+    "uid": "U1-PSA-081:010-1",
+    "ref": "PSA 81:10",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "contextual",
+    "promitente": "pai",
+    "ancora": "abre a tua boca de par em par, e eu a encherei",
+    "resumo": "Oráculo atribuído a Deus: se Israel abrir a boca, o SENHOR a encherá"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-PSA-081:010-1",
+    "ref": "PSA 81:10",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "explicita",
+    "promitente": "deus_indistinto",
+    "ancora": "abre a tua boca de par em par, e eu a encherei.",
+    "resumo": "O SENHOR promete encher a boca de Israel se o povo a abrir de par em par."
+   }
+  ]
+ },
+ {
+  "id": "F3-PSA-012",
+  "livro": "PSA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "PSA 81:13",
+  "fim": "PSA 81:16",
+  "texto": {
+   "PSA 81:13": "Ah, se o meu povo me ouvisse! Se Israel andasse nos meus caminhos.",
+   "PSA 81:14": "Em breve abateria os seus inimigos, e viraria a minha mão contra os seus adversários.",
+   "PSA 81:15": "Os que odeiam o SENHOR fingidamente se lhe teriam sujeitado, e o seu tempo seria eterno.",
+   "PSA 81:16": "E o sustentaria com a gordura do trigo, e te fartaria com o mel da penha."
+  },
+  "p1": [
+   {
+    "uid": "U1-PSA-081:013-1",
+    "ref": "PSA 81:13-81:16",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "explicita",
+    "promitente": "pai",
+    "ancora": "Em breve abateria os seus inimigos, e viraria a minha mão contra os seus adversários",
+    "resumo": "Oráculo atribuído a Deus: se Israel o ouvisse, abateria os inimigos e o sustentaria"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-PSA-081:013-1",
+    "ref": "PSA 81:13-81:15",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "explicita",
+    "promitente": "deus_indistinto",
+    "ancora": "Em breve abateria os seus inimigos, e viraria a minha mão contra os seus adversários.",
+    "resumo": "Deus declara que abateria os inimigos de Israel e os sujeitaria, se o seu povo o ouvisse e andasse nos seus caminhos."
+   }
+  ]
+ },
+ {
+  "id": "F3-PSA-013",
+  "livro": "PSA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "PSA 82:7",
+  "fim": "PSA 82:7",
+  "texto": {
+   "PSA 82:7": "Todavia, morrereis como homens; e caireis como qualquer dos príncipes."
+  },
+  "p1": [
+   {
+    "uid": "U1-PSA-082:007-1",
+    "ref": "PSA 82:7",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "morrereis como homens; e caireis como qualquer dos príncipes",
+    "resumo": "Sentença atribuída a Deus: os que julgam injustamente morrerão como homens"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-PSA-082:007-1",
+    "ref": "PSA 82:7",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "deus_indistinto",
+    "ancora": "Todavia, morrereis como homens; e caireis como qualquer dos príncipes.",
+    "resumo": "Deus sentencia os deuses a morrerem como homens e caírem como qualquer dos príncipes."
+   }
+  ]
+ },
+ {
+  "id": "F3-PSA-014",
+  "livro": "PSA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "PSA 87:4",
+  "fim": "PSA 87:6",
+  "texto": {
+   "PSA 87:4": "Farei menção de Raabe e da Babilônia entre os que me conhecem: eis que do filisteu e do tírio, com o etíope, se dirá: Este nasceu ali.",
+   "PSA 87:5": "E de Sião se dirá: Este e aquele nasceu ali; e o mesmo Altíssimo a fortificará.",
+   "PSA 87:6": "O SENHOR os contará na descrição dos povos, dizendo: Este nasceu ali. Selá."
+  },
+  "p1": [
+   {
+    "uid": "U1-PSA-087:004-1",
+    "ref": "PSA 87:4-87:6",
+    "tipo": "indeterminada",
+    "origem": "indeterminada",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Farei menção de Raabe e da Babilônia entre os que me conhecem",
+    "resumo": "Alguém em primeira pessoa fará menção das nações como nascidas em Sião; o texto não identifica o locutor"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-PSA-087:004-1",
+    "ref": "PSA 87:4",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "nacoes_especificas",
+    "condicao": "nenhuma",
+    "promitente": "deus_indistinto",
+    "ancora": "Farei menção de Raabe e da Babilônia entre os que me conhecem: eis que do filisteu e do tírio, com o etíope, se dirá: Este nasceu ali.",
+    "resumo": "Deus declara que fará menção de Raabe e da Babilônia entre os que o conhecem e que de outros povos se dirá que nasceram em Sião."
+   }
+  ]
+ },
+ {
+  "id": "F3-PSA-015",
+  "livro": "PSA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "PSA 89:3",
+  "fim": "PSA 89:4",
+  "texto": {
+   "PSA 89:3": "Fiz aliança com o meu eleito; jurei ao meu servo Davi, dizendo:",
+   "PSA 89:4": "Para sempre confirmarei a tua semente, e edificarei o teu trono de geração em geração. Selá."
+  },
+  "p1": [
+   {
+    "uid": "U1-PSA-089:003-1",
+    "ref": "PSA 89:3-89:4",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "familia_ou_linhagem",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Para sempre confirmarei a tua semente, e edificarei o teu trono de geração em geração",
+    "resumo": "Aliança e juramento a Davi: confirmará sua semente e seu trono"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-PSA-089:003-1",
+    "ref": "PSA 89:3-89:4",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "familia_ou_linhagem",
+    "condicao": "nenhuma",
+    "promitente": "deus_indistinto",
+    "ancora": "Para sempre confirmarei a tua semente, e edificarei o teu trono de geração em geração.",
+    "resumo": "O SENHOR jura e faz aliança com Davi de confirmar para sempre a sua semente e edificar o seu trono de geração em geração."
+   }
+  ]
+ },
+ {
+  "id": "F3-PSA-016",
+  "livro": "PSA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "PSA 89:21",
+  "fim": "PSA 89:25",
+  "texto": {
+   "PSA 89:21": "Com o qual a minha mão ficará firme; também o meu braço o fortalecerá.",
+   "PSA 89:22": "O inimigo não apertará com ele, nem o filho da perversidade o afligirá.",
+   "PSA 89:23": "Mas eu quebrantarei os seus adversários perante a sua face, e ferirei os que o odeiam.",
+   "PSA 89:24": "E a minha fidelidade e a minha benignidade serão com ele; e em meu nome se exaltará o seu chifre.",
+   "PSA 89:25": "E porei a sua mão no mar, e a sua direita nos rios."
+  },
+  "p1": [
+   {
+    "uid": "U1-PSA-089:021-1",
+    "ref": "PSA 89:21-89:25",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "a minha mão ficará firme; também o meu braço o fortalecerá",
+    "resumo": "Deus fortalecerá Davi e quebrantará os seus adversários"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-PSA-089:021-1",
+    "ref": "PSA 89:21",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "deus_indistinto",
+    "ancora": "Com o qual a minha mão ficará firme; também o meu braço o fortalecerá.",
+    "resumo": "Deus promete que sua mão permanecerá firme com Davi e que seu braço o fortalecerá."
+   }
+  ]
+ },
+ {
+  "id": "F3-PSA-017",
+  "livro": "PSA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "PSA 89:26",
+  "fim": "PSA 89:27",
+  "texto": {
+   "PSA 89:26": "Ele me chamará, dizendo: Meu pai és tu, meu Deus, e a rocha da minha salvação.",
+   "PSA 89:27": "Também eu o porei por primogênito, o mais alto sobre os reis da terra."
+  },
+  "p1": [
+   {
+    "uid": "U1-PSA-089:026-1",
+    "ref": "PSA 89:26-89:27",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Também eu o porei por primogênito, o mais alto sobre os reis da terra",
+    "resumo": "Deus fará de Davi o primogênito, o mais alto sobre os reis da terra"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-PSA-089:027-1",
+    "ref": "PSA 89:27",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "deus_indistinto",
+    "ancora": "Também eu o porei por primogênito, o mais alto sobre os reis da terra.",
+    "resumo": "Deus promete constituir Davi como primogênito e o mais elevado entre os reis da terra."
+   }
+  ]
+ },
+ {
+  "id": "F3-PSA-018",
+  "livro": "PSA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "PSA 89:28",
+  "fim": "PSA 89:29",
+  "texto": {
+   "PSA 89:28": "Para sempre lhe guardarei a minha benignidade, e a minha aliança lhe será firme.",
+   "PSA 89:29": "E conservarei a sua semente para sempre, e o seu trono, como os dias dos céus."
+  },
+  "p1": [
+   {
+    "uid": "U1-PSA-089:028-1",
+    "ref": "PSA 89:28-89:29",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "familia_ou_linhagem",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Para sempre lhe guardarei a minha benignidade, e a minha aliança lhe será firme",
+    "resumo": "Deus guardará a benignidade e a aliança com Davi e conservará sua semente e seu trono"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-PSA-089:028-1",
+    "ref": "PSA 89:28",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "deus_indistinto",
+    "ancora": "Para sempre lhe guardarei a minha benignidade, e a minha aliança lhe será firme.",
+    "resumo": "Deus promete guardar para sempre sua benignidade para com Davi e manter firme a sua aliança."
+   }
+  ]
+ },
+ {
+  "id": "F3-PSA-019",
+  "livro": "PSA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "PSA 89:30",
+  "fim": "PSA 89:32",
+  "texto": {
+   "PSA 89:30": "Se os seus filhos deixarem a minha lei, e não andarem nos meus juízos:",
+   "PSA 89:31": "Se profanarem os meus estatutos, e não guardarem os meus mandamentos:",
+   "PSA 89:32": "Então visitarei com vara a sua transgressão, e com açoites a sua iniquidade."
+  },
+  "p1": [
+   {
+    "uid": "U1-PSA-089:030-1",
+    "ref": "PSA 89:30-89:32",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "familia_ou_linhagem",
+    "condicao": "explicita",
+    "promitente": "pai",
+    "ancora": "Então visitarei com vara a sua transgressão, e com açoites a sua iniquidade",
+    "resumo": "Se os filhos de Davi abandonarem a lei, Deus os castigará"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-PSA-089:030-1",
+    "ref": "PSA 89:30-89:32",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "familia_ou_linhagem",
+    "condicao": "explicita",
+    "promitente": "deus_indistinto",
+    "ancora": "Então visitarei com vara a sua transgressão, e com açoites a sua iniquidade.",
+    "resumo": "Se os filhos de Davi deixarem a lei, os juízos, os estatutos e os mandamentos de Deus, ele castigará com vara e açoites a sua transgressão e iniquidade."
+   }
+  ]
+ },
+ {
+  "id": "F3-PSA-020",
+  "livro": "PSA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "PSA 89:33",
+  "fim": "PSA 89:37",
+  "texto": {
+   "PSA 89:33": "Porém a minha benignidade nunca tirarei dele, nem faltarei em minha fidelidade.",
+   "PSA 89:34": "Não profanarei a minha aliança, e o que saiu dos meus lábios não o mudarei.",
+   "PSA 89:35": "Uma vez jurei por minha santidade, que nunca mentirei a Davi.",
+   "PSA 89:36": "A sua semente durará para sempre, e o seu trono será como o sol perante mim.",
+   "PSA 89:37": "Como a lua será confirmado para sempre, e a testemunha no céu é fiel. Selá."
+  },
+  "p1": [
+   {
+    "uid": "U1-PSA-089:033-1",
+    "ref": "PSA 89:33-89:37",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "familia_ou_linhagem",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "a minha benignidade nunca tirarei dele, nem faltarei em minha fidelidade",
+    "resumo": "Deus jura nunca retirar a benignidade nem mudar a aliança; a semente e o trono de Davi durarão"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-PSA-089:033-1",
+    "ref": "PSA 89:33-89:34",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "deus_indistinto",
+    "ancora": "Porém a minha benignidade nunca tirarei dele, nem faltarei em minha fidelidade.",
+    "resumo": "Deus garante que nunca retirará sua benignidade de Davi, não faltará em sua fidelidade, não profanará sua aliança nem mudará o que saiu de seus lábios."
+   },
+   {
+    "uid": "U2-PSA-089:035-1",
+    "ref": "PSA 89:35-89:37",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "familia_ou_linhagem",
+    "condicao": "nenhuma",
+    "promitente": "deus_indistinto",
+    "ancora": "Uma vez jurei por minha santidade, que nunca mentirei a Davi.",
+    "resumo": "Deus jura por sua santidade que nunca mentirá a Davi e que sua semente e seu trono permanecerão firmes para sempre, como o sol e a lua."
+   }
+  ]
+ },
+ {
+  "id": "F3-PSA-021",
+  "livro": "PSA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "PSA 91:14",
+  "fim": "PSA 91:16",
+  "texto": {
+   "PSA 91:14": "Porquanto tão afetuosamente me amou, diz o SENHOR, também eu o livrarei; pô-lo-ei em retiro alto, porque conhece meu nome.",
+   "PSA 91:15": "Ele me invocará, e eu o escutarei; estarei com ele na angústia; dela o retirarei e o glorificarei.",
+   "PSA 91:16": "Com longos dias o fartarei, e lhe farei ver a minha salvação."
+  },
+  "p1": [
+   {
+    "uid": "U1-PSA-091:014-1",
+    "ref": "PSA 91:14-91:16",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "crente_individual",
+    "condicao": "explicita",
+    "promitente": "pai",
+    "ancora": "também eu o livrarei; pô-lo-ei em retiro alto",
+    "resumo": "Oráculo do SENHOR: livrará, protegerá, escutará, estará com ele na angústia, fartará de dias e mostrará sua salvação"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-PSA-091:014-1",
+    "ref": "PSA 91:14",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "crente_individual",
+    "condicao": "explicita",
+    "promitente": "deus_indistinto",
+    "ancora": "Porquanto tão afetuosamente me amou, diz o SENHOR, também eu o livrarei; pô-lo-ei em retiro alto, porque conhece meu nome.",
+    "resumo": "O SENHOR promete livrar e colocar em retiro alto aquele que o ama afetuosamente e conhece o seu nome."
+   }
+  ]
+ },
+ {
+  "id": "F3-PSA-022",
+  "livro": "PSA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "PSA 95:11",
+  "fim": "PSA 95:11",
+  "texto": {
+   "PSA 95:11": "Portanto, jurei na minha ira que não entrariam no meu descanso."
+  },
+  "p1": [
+   {
+    "uid": "U1-PSA-095:011-1",
+    "ref": "PSA 95:11",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "jurei na minha ira que não entrariam no meu descanso",
+    "resumo": "Juramento de Deus: aquela geração não entraria no seu descanso"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-PSA-095:011-1",
+    "ref": "PSA 95:11",
+    "tipo": "declaracao_sem_compromisso",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Portanto, jurei na minha ira que não entrariam no meu descanso.",
+    "resumo": "Relato em primeira pessoa do juramento de juízo proferido por Deus contra a geração do deserto, vedando a entrada no seu descanso."
+   }
+  ]
+ },
+ {
+  "id": "F3-PSA-023",
+  "livro": "PSA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "PSA 105:8",
+  "fim": "PSA 105:11",
+  "texto": {
+   "PSA 105:8": "Lembra-se perpetuamente de sua aliança; da palavra que mandou até mil gerações.",
+   "PSA 105:9": "Do que contratou com Abraão; e de seu juramento a Isaque.",
+   "PSA 105:10": "O qual também a Jacó ratificou por estatuto, e a Israel por aliança eterna.",
+   "PSA 105:11": "Dizendo: A ti te darei a terra de Canaã, o cordel de vossa herança."
+  },
+  "p1": [
+   {
+    "uid": "U1-PSA-105:008-1",
+    "ref": "PSA 105:8-105:11",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Lembra-se perpetuamente de sua aliança",
+    "resumo": "Aliança: dar a terra de Canaã como herança"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-PSA-024",
+  "livro": "PSA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "PSA 106:23",
+  "fim": "PSA 106:23",
+  "texto": {
+   "PSA 106:23": "Pelo que disse que os destruiria, se Moisés, seu eleito, não se pusera na abertura perante sua face, para desviar sua indignação, a fim de não os assolar."
+  },
+  "p1": [
+   {
+    "uid": "U1-PSA-106:023-1",
+    "ref": "PSA 106:23",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": "explicita",
+    "promitente": "pai",
+    "ancora": "disse que os destruiria",
+    "resumo": "Deus disse que os destruiria, evitado pela intercessão de Moisés"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-PSA-106:023-1",
+    "ref": "PSA 106:23",
+    "tipo": "declaracao_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Pelo que disse que os destruiria, se Moisés, seu eleito, não se pusera na abertura perante sua face, para desviar sua indignação, a fim de não os assolar.",
+    "resumo": "Relato histórico de que Deus disse que destruiria o povo, mas a destruição foi desviada pela intercessão de Moisés."
+   }
+  ]
+ },
+ {
+  "id": "F3-PSA-025",
+  "livro": "PSA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "PSA 106:26",
+  "fim": "PSA 106:27",
+  "texto": {
+   "PSA 106:26": "Pelo que levantou sua mão contra eles, jurando que os derribaria no deserto,",
+   "PSA 106:27": "e que derribaria sua semente entre as gentes e os espalharia pelas terras."
+  },
+  "p1": [
+   {
+    "uid": "U1-PSA-106:026-1",
+    "ref": "PSA 106:26-106:27",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "jurando que os derribaria no deserto",
+    "resumo": "Juramento de derribar a geração no deserto e espalhar sua semente"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-PSA-106:026-1",
+    "ref": "PSA 106:26-106:27",
+    "tipo": "declaracao_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Pelo que levantou sua mão contra eles, jurando que os derribaria no deserto,",
+    "resumo": "Relato do juramento divino de derribar o povo no deserto e espalhar sua descendência entre as nações."
+   }
+  ]
+ },
+ {
+  "id": "F3-PSA-026",
+  "livro": "PSA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "PSA 108:7",
+  "fim": "PSA 108:9",
+  "texto": {
+   "PSA 108:7": "Deus falou em seu santuário; pelo que saltarei de prazer: repartirei a Siquém e medirei o vale de Sucote.",
+   "PSA 108:8": "Meu é Gileade, meu é Manassés, e Efraim a fortaleza de minha cabeça; Judá meu legislador.",
+   "PSA 108:9": "Moabe minha bacia de lavar; sobre Edom lançarei meu sapato; sobre Filístia exultarei."
+  },
+  "p1": [
+   {
+    "uid": "U1-PSA-108:007-1",
+    "ref": "PSA 108:7-108:9",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "indeterminado",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "repartirei a Siquém e medirei o vale de Sucote",
+    "resumo": "Palavra de Deus no santuário: partilha de territórios"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-PSA-108:007-1",
+    "ref": "PSA 108:7-108:8",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": "deus_indistinto",
+    "ancora": "Deus falou em seu santuário; pelo que saltarei de prazer: repartirei a Siquém e medirei o vale de Sucote.",
+    "resumo": "Oráculo de Deus em seu santuário declarando que repartirá Siquém, medirá o vale de Sucote e reafirma domínio sobre Gileade, Manassés, Efraim e Judá."
+   }
+  ]
+ },
+ {
+  "id": "F3-PSA-027",
+  "livro": "PSA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "PSA 110:1",
+  "fim": "PSA 110:3",
+  "texto": {
+   "PSA 110:1": "O SENHOR disse a meu Senhor: Assenta-te à minha direita, até que ponha teus inimigos por estrado de teus pés.",
+   "PSA 110:2": "O SENHOR te enviará o cetro de tua fortaleza desde Sião: Domina em meio de teus inimigos.",
+   "PSA 110:3": "Teu povo será muito voluntário no dia de teu exército, em santos ornamentos; do ventre da alva se te produzirá o orvalho de tua mocidade."
+  },
+  "p1": [
+   {
+    "uid": "U1-PSA-110:001-1",
+    "ref": "PSA 110:1-110:3",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "indeterminado",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "O SENHOR disse a meu Senhor",
+    "resumo": "Oráculo: entronização à direita até pôr os inimigos por estrado"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-PSA-028",
+  "livro": "PSA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "PSA 116:13",
+  "fim": "PSA 116:14",
+  "texto": {
+   "PSA 116:13": "Tomarei o copo de redenções e invocarei o nome do SENHOR.",
+   "PSA 116:14": "Meus votos pagarei ao SENHOR, agora, em presença de todo seu povo."
+  },
+  "p1": [
+   {
+    "uid": "U1-PSA-116:013-1",
+    "ref": "PSA 116:13-116:14",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "indeterminado",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Tomarei o copo de redenções",
+    "resumo": "Voto de invocar e pagar os votos"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-PSA-116:013-1",
+    "ref": "PSA 116:13",
+    "tipo": "desejo_ou_bencao_votiva",
+    "origem": "humana_votiva",
+    "natureza": "bencao",
+    "destinatario": "indeterminado",
+    "condicao": "nenhuma",
+    "promitente": null,
+    "ancora": "Tomarei o copo de redenções e invocarei o nome do SENHOR.",
+    "resumo": "O salmista promete tomar o cálice de salvação e invocar o nome do SENHOR em ação de graças."
+   }
+  ]
+ },
+ {
+  "id": "F3-PSA-029",
+  "livro": "PSA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "PSA 116:17",
+  "fim": "PSA 116:18",
+  "texto": {
+   "PSA 116:17": "Sacrificar-te-ei sacrifício de louvores e invocarei o nome do SENHOR.",
+   "PSA 116:18": "Meus votos pagarei ao SENHOR, agora, em presença de todo seu povo."
+  },
+  "p1": [
+   {
+    "uid": "U1-PSA-116:017-1",
+    "ref": "PSA 116:17-116:18",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "indeterminado",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Sacrificar-te-ei sacrifício de louvores",
+    "resumo": "Voto de sacrifício de louvores"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-PSA-116:017-1",
+    "ref": "PSA 116:17",
+    "tipo": "desejo_ou_bencao_votiva",
+    "origem": "humana_votiva",
+    "natureza": "bencao",
+    "destinatario": "indeterminado",
+    "condicao": "nenhuma",
+    "promitente": null,
+    "ancora": "Sacrificar-te-ei sacrifício de louvores e invocarei o nome do SENHOR.",
+    "resumo": "O salmista promete oferecer sacrifício de louvores e invocar o nome do SENHOR."
+   }
+  ]
+ },
+ {
+  "id": "F3-PSA-030",
+  "livro": "PSA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "PSA 118:19",
+  "fim": "PSA 118:19",
+  "texto": {
+   "PSA 118:19": "Vós, abri-me as portas de justiça: entrarei por elas e louvarei ao SENHOR."
+  },
+  "p1": [
+   {
+    "uid": "U1-PSA-118:019-1",
+    "ref": "PSA 118:19",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "indeterminado",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "entrarei por elas e louvarei ao SENHOR",
+    "resumo": "Compromisso de entrar pelas portas e louvar"
+   }
+  ],
+  "p2": []
+ }
+]

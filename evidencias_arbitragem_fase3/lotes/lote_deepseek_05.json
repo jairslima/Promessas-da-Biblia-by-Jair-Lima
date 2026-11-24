@@ -1,0 +1,1258 @@
+[
+ {
+  "id": "F3-2SA-026",
+  "livro": "2SA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2SA 7:13",
+  "fim": "2SA 7:13",
+  "texto": {
+   "2SA 7:13": "Ele edificará uma casa para meu nome, e estabelecerei para sempre o trono de seu reino."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-2SA-007:013-1",
+    "ref": "2SA 7:13",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "familia_ou_linhagem",
+    "condicao": "nenhuma",
+    "promitente": "deus_indistinto",
+    "ancora": "Ele edificará uma casa para meu nome",
+    "resumo": "O SENHOR anuncia que o descendente de Davi edificará uma casa para o seu nome."
+   }
+  ]
+ },
+ {
+  "id": "F3-2SA-027",
+  "livro": "2SA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2SA 9:7",
+  "fim": "2SA 9:7",
+  "texto": {
+   "2SA 9:7": "Davi lhe disse: Não temas, pois certamente demonstrarei bondade para contigo por amor de Jônatas, teu pai. Restituirei a ti todas as terras de Saul, teu pai, e tu comerás pão continuamente à minha mesa."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-2SA-009:007-2",
+    "ref": "2SA 9:7",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "Davi",
+    "ancora": "Restituirei a ti todas as terras de Saul, teu pai",
+    "resumo": "Davi promete restituir a Mefibosete todas as terras de Saul."
+   }
+  ]
+ },
+ {
+  "id": "F3-2SA-028",
+  "livro": "2SA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2SA 9:7",
+  "fim": "2SA 9:7",
+  "texto": {
+   "2SA 9:7": "Davi lhe disse: Não temas, pois certamente demonstrarei bondade para contigo por amor de Jônatas, teu pai. Restituirei a ti todas as terras de Saul, teu pai, e tu comerás pão continuamente à minha mesa."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-2SA-009:007-3",
+    "ref": "2SA 9:7",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "Davi",
+    "ancora": "tu comerás pão continuamente à minha mesa.",
+    "resumo": "Davi garante a Mefibosete que ele comerá pão continuamente à mesa real."
+   }
+  ]
+ },
+ {
+  "id": "F3-2SA-029",
+  "livro": "2SA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2SA 9:10",
+  "fim": "2SA 9:10",
+  "texto": {
+   "2SA 9:10": "Tu, teus filhos e teus servos cultivarão a terra para ele e recolherão os frutos, para que o filho de teu senhor tenha pão para comer. Mefibosete, filho de teu senhor, porém, comerá pão continuamente à minha mesa. Ziba tinha quinze filhos e vinte servos."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-2SA-009:010-1",
+    "ref": "2SA 9:10",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "Davi",
+    "ancora": "Mefibosete, filho de teu senhor, porém, comerá pão continuamente à minha mesa.",
+    "resumo": "Davi reafirma a Ziba o compromisso de que Mefibosete comerá pão continuamente à sua mesa."
+   }
+  ]
+ },
+ {
+  "id": "F3-2SA-030",
+  "livro": "2SA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2SA 11:12",
+  "fim": "2SA 11:12",
+  "texto": {
+   "2SA 11:12": "Davi disse a Urias: Fica aqui também hoje, e amanhã te despedirei. Urias permaneceu em Jerusalém naquele dia e no dia seguinte."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-2SA-011:012-1",
+    "ref": "2SA 11:12",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "Davi",
+    "ancora": "Fica aqui também hoje, e amanhã te despedirei.",
+    "resumo": "Davi promete a Urias que o despedirá no dia seguinte."
+   }
+  ]
+ },
+ {
+  "id": "F3-2SA-031",
+  "livro": "2SA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2SA 12:6",
+  "fim": "2SA 12:6",
+  "texto": {
+   "2SA 12:6": "Ele restituirá quatro vezes o valor da cordeira, porque fez tal coisa e não teve compaixão."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-2SA-012:006-1",
+    "ref": "2SA 12:6",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "Davi",
+    "ancora": "Ele restituirá quatro vezes o valor da cordeira, porque fez tal coisa e não teve compaixão.",
+    "resumo": "Sentença de Davi determinando a restituição quádrupla da cordeira pelo homem rico."
+   }
+  ]
+ },
+ {
+  "id": "F3-2SA-032",
+  "livro": "2SA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2SA 12:11",
+  "fim": "2SA 12:12",
+  "texto": {
+   "2SA 12:11": "Assim diz o SENHOR: Eis que levantarei contra ti o mal da tua própria casa. Tomarei tuas mulheres diante dos teus olhos e as darei ao teu próximo, que se deitará com elas à plena luz deste sol.",
+   "2SA 12:12": "Tu o fizeste em oculto, mas eu farei isto diante de todo Israel e perante o sol."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-2SA-012:011-2",
+    "ref": "2SA 12:11-12:12",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": null,
+    "ancora": "Tomarei tuas mulheres diante dos teus olhos e as darei ao teu próximo, que se deitará com elas à plena luz deste sol.",
+    "resumo": "Juízo divino declarando que o SENHOR tomará as mulheres de Davi e as dará ao seu próximo publicamente, diante de todo Israel."
+   }
+  ]
+ },
+ {
+  "id": "F3-2SA-033",
+  "livro": "2SA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2SA 15:4",
+  "fim": "2SA 15:4",
+  "texto": {
+   "2SA 15:4": "Absalão dizia ainda: Quem me dera ser constituído juiz na terra! Todo homem que tivesse uma demanda ou causa viria a mim, e eu lhe faria justiça."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-2SA-015:004-1",
+    "ref": "2SA 15:4",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "explicita",
+    "promitente": "Absalão",
+    "ancora": "Todo homem que tivesse uma demanda ou causa viria a mim, e eu lhe faria justiça.",
+    "resumo": "Absalão afirma que faria justiça a qualquer pessoa com causa, caso fosse constituído juiz na terra."
+   }
+  ]
+ },
+ {
+  "id": "F3-2SA-034",
+  "livro": "2SA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2SA 15:15",
+  "fim": "2SA 15:15",
+  "texto": {
+   "2SA 15:15": "Os servos do rei lhe disseram: Eis que teus servos estão prontos para tudo quanto meu senhor, o rei, escolher."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-2SA-015:015-1",
+    "ref": "2SA 15:15",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "servos do rei",
+    "ancora": "Eis que teus servos estão prontos para tudo quanto meu senhor, o rei, escolher.",
+    "resumo": "Os servos do rei se comprometem a cumprir tudo o que Davi decidir."
+   }
+  ]
+ },
+ {
+  "id": "F3-2SA-035",
+  "livro": "2SA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2SA 16:18",
+  "fim": "2SA 16:19",
+  "texto": {
+   "2SA 16:18": "Husai respondeu a Absalão: Não. Serei daquele que o SENHOR, este povo e todos os homens de Israel escolheram. Com ele ficarei.",
+   "2SA 16:19": "Além disso, a quem eu serviria? Não seria ao filho dele? Como servi diante de teu pai, assim servirei diante de ti."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-2SA-016:018-1",
+    "ref": "2SA 16:18-16:19",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "Husai",
+    "ancora": "Serei daquele que o SENHOR, este povo e todos os homens de Israel escolheram. Com ele ficarei.",
+    "resumo": "Husai compromete-se a permanecer com o escolhido e a servir diante de Absalão como serviu diante de Davi."
+   }
+  ]
+ },
+ {
+  "id": "F3-2SA-036",
+  "livro": "2SA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2SA 17:11",
+  "fim": "2SA 17:13",
+  "texto": {
+   "2SA 17:11": "Aconselho que todo Israel se ajunte a ti, desde Dã até Berseba, em multidão como a areia junto ao mar, e que tu mesmo vás à batalha.",
+   "2SA 17:12": "Então iremos contra ele em qualquer lugar onde for encontrado e cairemos sobre ele como o orvalho cai sobre a terra. Não restará nem um só homem, nem dele nem de todos os que estão com ele.",
+   "2SA 17:13": "Se ele se retirar para alguma cidade, todo Israel levará cordas àquela cidade, e nós a arrastaremos até o ribeiro, até que não se ache ali nem uma pedrinha."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-2SA-017:011-1",
+    "ref": "2SA 17:11-17:13",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "explicita",
+    "promitente": "Husai",
+    "ancora": "Então iremos contra ele em qualquer lugar onde for encontrado e cairemos sobre ele como o orvalho cai sobre a terra.",
+    "resumo": "Husai promete vitória total sobre Davi e seus homens, inclusive arrastando qualquer cidade em que se refugie, caso todo Israel se reúna a Absalão sob seu comando."
+   }
+  ]
+ },
+ {
+  "id": "F3-2SA-037",
+  "livro": "2SA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2SA 17:14",
+  "fim": "2SA 17:14",
+  "texto": {
+   "2SA 17:14": "Absalão e todos os homens de Israel disseram: O conselho de Husai, o arquita, é melhor do que o conselho de Aitofel. Pois o SENHOR havia ordenado que se frustrasse o bom conselho de Aitofel, para que o SENHOR trouxesse o mal sobre Absalão."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-2SA-017:014-1",
+    "ref": "2SA 17:14",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "Pois o SENHOR havia ordenado que se frustrasse o bom conselho de Aitofel, para que o SENHOR trouxesse o mal sobre Absalão.",
+    "resumo": "O narrador declara que o SENHOR determinou frustrar o conselho de Aitofel com o propósito decidido de trazer o mal sobre Absalão."
+   }
+  ]
+ },
+ {
+  "id": "F3-2SA-038",
+  "livro": "2SA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2SA 18:20",
+  "fim": "2SA 18:20",
+  "texto": {
+   "2SA 18:20": "Joabe lhe respondeu: Hoje não serás portador de boas notícias. Poderás levá-las em outro dia, mas hoje não, porque o filho do rei morreu."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-2SA-018:020-1",
+    "ref": "2SA 18:20",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "Joabe",
+    "ancora": "Poderás levá-las em outro dia, mas hoje não, porque o filho do rei morreu.",
+    "resumo": "Joabe concede a Aimaás que poderá levar boas notícias em outro dia, mas não naquele."
+   }
+  ]
+ },
+ {
+  "id": "F3-2SA-039",
+  "livro": "2SA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2SA 19:29",
+  "fim": "2SA 19:29",
+  "texto": {
+   "2SA 19:29": "O rei lhe respondeu: Por que ainda falas de teus assuntos? Eu decidi: Tu e Ziba dividirão as terras."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-2SA-019:029-1",
+    "ref": "2SA 19:29",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "Davi",
+    "ancora": "Eu decidi: Tu e Ziba dividirão as terras.",
+    "resumo": "O rei Davi decide e determina que Mefibosete e Ziba dividirão as terras."
+   }
+  ]
+ },
+ {
+  "id": "F3-2SA-040",
+  "livro": "2SA",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2SA 24:22",
+  "fim": "2SA 24:23",
+  "texto": {
+   "2SA 24:22": "Então Araúna disse a Davi: Tome o rei, meu senhor, e ofereça o que lhe parecer bem. Aqui estão os bois para o holocausto, e os trilhos e os aparelhos dos bois para lenha.",
+   "2SA 24:23": "Tudo isso, ó rei, Araúna dá ao rei. E Araúna disse ao rei: Que o SENHOR, teu Deus, se agrade de ti."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-2SA-024:022-1",
+    "ref": "2SA 24:22-24:23",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "Araúna",
+    "ancora": "Tome o rei, meu senhor, e ofereça o que lhe parecer bem. Aqui estão os bois para o holocausto, e os trilhos e os aparelhos dos bois para lenha.",
+    "resumo": "Araúna oferece gratuitamente a Davi os bois, os trilhos e os aparelhos dos bois para o holocausto ao SENHOR."
+   }
+  ]
+ },
+ {
+  "id": "F3-1KI-001",
+  "livro": "1KI",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1KI 1:52",
+  "fim": "1KI 1:52",
+  "texto": {
+   "1KI 1:52": "Salomão disse: Se ele for homem digno, nem um só de seus cabelos cairá em terra; porém, se nele se achar maldade, morrerá."
+  },
+  "p1": [
+   {
+    "uid": "U1-1KI-001:052-2",
+    "ref": "1KI 1:52",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": "explicita",
+    "promitente": "Salomão",
+    "ancora": "porém, se nele se achar maldade, morrerá",
+    "resumo": "Salomão sentencia Adonias à morte se nele se achar maldade"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-1KI-001:052-2",
+    "ref": "1KI 1:52",
+    "tipo": "advertencia",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "Salomão",
+    "ancora": "porém, se nele se achar maldade, morrerá.",
+    "resumo": "Salomão adverte que Adonias morrerá caso se ache maldade nele."
+   }
+  ]
+ },
+ {
+  "id": "F3-1KI-002",
+  "livro": "1KI",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1KI 5:5",
+  "fim": "1KI 5:5",
+  "texto": {
+   "1KI 5:5": "Eis que pretendo edificar uma casa ao nome do SENHOR, meu Deus, como o SENHOR falou a Davi, meu pai: Teu filho, que porei em teu lugar no teu trono, edificará uma casa ao meu nome."
+  },
+  "p1": [
+   {
+    "uid": "U1-1KI-005:005-1",
+    "ref": "1KI 5:5",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Teu filho, que porei em teu lugar no teu trono, edificará uma casa ao meu nome",
+    "resumo": "Salomão cita a palavra de Deus a Davi de que seu filho edificaria a casa"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-1KI-005:005-1",
+    "ref": "1KI 5:5",
+    "tipo": "declaracao_sem_compromisso",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "Salomão",
+    "ancora": "como o SENHOR falou a Davi, meu pai: Teu filho, que porei em teu lugar no teu trono, edificará uma casa ao meu nome.",
+    "resumo": "Salomão relata a promessa anterior do SENHOR a Davi de que o filho posto no trono edificaria uma casa ao nome do SENHOR."
+   }
+  ]
+ },
+ {
+  "id": "F3-1KI-003",
+  "livro": "1KI",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1KI 5:6",
+  "fim": "1KI 5:6",
+  "texto": {
+   "1KI 5:6": "Ordena, pois, agora que cortem para mim cedros do Líbano. Meus servos estarão com teus servos, e te darei o salário de teus servos conforme tudo o que disseres, porque bem sabes que entre nós ninguém sabe cortar madeira como os sidônios."
+  },
+  "p1": [
+   {
+    "uid": "U1-1KI-005:006-1",
+    "ref": "1KI 5:6",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "Salomão",
+    "ancora": "te darei o salário de teus servos conforme tudo o que disseres",
+    "resumo": "Salomão promete pagar a Hirão o salário de seus servos"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-1KI-005:006-1",
+    "ref": "1KI 5:6",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "contextual",
+    "promitente": "Salomão",
+    "ancora": "Meus servos estarão com teus servos",
+    "resumo": "Salomão promete a Hirão que seus servos trabalharão junto aos servos de Hirão no corte de cedros do Líbano."
+   },
+   {
+    "uid": "U2-1KI-005:006-2",
+    "ref": "1KI 5:6",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "contextual",
+    "promitente": "Salomão",
+    "ancora": "te darei o salário de teus servos conforme tudo o que disseres",
+    "resumo": "Salomão promete pagar a Hirão o salário dos servos dele conforme o valor estipulado por Hirão."
+   }
+  ]
+ },
+ {
+  "id": "F3-1KI-004",
+  "livro": "1KI",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1KI 8:19",
+  "fim": "1KI 8:19",
+  "texto": {
+   "1KI 8:19": "Contudo, tu não edificarás a casa. Teu filho, que sairá de teus lombos, edificará a casa ao meu nome."
+  },
+  "p1": [
+   {
+    "uid": "U1-1KI-008:019-1",
+    "ref": "1KI 8:19",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Teu filho, que sairá de teus lombos, edificará a casa ao meu nome",
+    "resumo": "Salomão relata a palavra de Deus a Davi: o filho edificaria a casa"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-1KI-008:019-1",
+    "ref": "1KI 8:19",
+    "tipo": "declaracao_sem_compromisso",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "Salomão",
+    "ancora": "Contudo, tu não edificarás a casa. Teu filho, que sairá de teus lombos, edificará a casa ao meu nome.",
+    "resumo": "Salomão cita a promessa anterior do SENHOR a Davi de que seu filho edificaria a casa ao nome do SENHOR."
+   }
+  ]
+ },
+ {
+  "id": "F3-1KI-005",
+  "livro": "1KI",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1KI 11:35",
+  "fim": "1KI 11:35",
+  "texto": {
+   "1KI 11:35": "Mas tomarei o reino da mão de seu filho e te darei dez tribos."
+  },
+  "p1": [
+   {
+    "uid": "U1-1KI-011:035-1",
+    "ref": "1KI 11:35",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "familia_ou_linhagem",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Mas tomarei o reino da mão de seu filho e te darei dez tribos",
+    "resumo": "Deus tomará o reino da mão do filho de Salomão"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-1KI-011:035-1",
+    "ref": "1KI 11:35",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "Mas tomarei o reino da mão de seu filho",
+    "resumo": "O SENHOR declara que tomará o reino da mão do filho de Salomão."
+   },
+   {
+    "uid": "U2-1KI-011:035-2",
+    "ref": "1KI 11:35",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "e te darei dez tribos.",
+    "resumo": "O SENHOR reafirma a Jeroboão que lhe dará dez tribos ao tomar o reino do filho de Salomão."
+   }
+  ]
+ },
+ {
+  "id": "F3-1KI-006",
+  "livro": "1KI",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1KI 11:38",
+  "fim": "1KI 11:38",
+  "texto": {
+   "1KI 11:38": "Se ouvires tudo o que eu te ordenar, andares em meus caminhos, fizeres o que é reto aos meus olhos e guardares meus estatutos e mandamentos, como fez Davi, meu servo, serei contigo, te edificarei uma casa firme, como edifiquei para Davi, e te darei Israel."
+  },
+  "p1": [
+   {
+    "uid": "U1-1KI-011:038-1",
+    "ref": "1KI 11:38",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "explicita",
+    "promitente": "pai",
+    "ancora": "serei contigo, te edificarei uma casa firme, como edifiquei para Davi, e te darei Israel",
+    "resumo": "Deus promete a Jeroboão uma casa firme se obedecer"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-1KI-011:038-1",
+    "ref": "1KI 11:38",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "explicita",
+    "promitente": "pai",
+    "ancora": "serei contigo",
+    "resumo": "Sob condição de obediência aos mandamentos do SENHOR, Deus promete estar com Jeroboão."
+   },
+   {
+    "uid": "U2-1KI-011:038-2",
+    "ref": "1KI 11:38",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "familia_ou_linhagem",
+    "condicao": "explicita",
+    "promitente": "pai",
+    "ancora": "te edificarei uma casa firme, como edifiquei para Davi",
+    "resumo": "Sob condição de obediência, o SENHOR promete edificar para Jeroboão uma casa firme, como edificou para Davi."
+   },
+   {
+    "uid": "U2-1KI-011:038-3",
+    "ref": "1KI 11:38",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "explicita",
+    "promitente": "pai",
+    "ancora": "e te darei Israel.",
+    "resumo": "Sob condição de obediência, o SENHOR promete dar Israel a Jeroboão."
+   }
+  ]
+ },
+ {
+  "id": "F3-1KI-007",
+  "livro": "1KI",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1KI 11:39",
+  "fim": "1KI 11:39",
+  "texto": {
+   "1KI 11:39": "Por isso afligirei a descendência de Davi, porém não para sempre."
+  },
+  "p1": [
+   {
+    "uid": "U1-1KI-011:039-1",
+    "ref": "1KI 11:39",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "familia_ou_linhagem",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "afligirei a descendência de Davi, porém não para sempre",
+    "resumo": "Deus afligirá a descendência de Davi, mas não para sempre"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-1KI-011:039-1",
+    "ref": "1KI 11:39",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "familia_ou_linhagem",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "Por isso afligirei a descendência de Davi",
+    "resumo": "O SENHOR decreta que afligirá a descendência de Davi por causa da infidelidade."
+   },
+   {
+    "uid": "U2-1KI-011:039-2",
+    "ref": "1KI 11:39",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "familia_ou_linhagem",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "porém não para sempre.",
+    "resumo": "O SENHOR garante que a aflição sobre a descendência de Davi não durará para sempre."
+   }
+  ]
+ },
+ {
+  "id": "F3-1KI-008",
+  "livro": "1KI",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1KI 16:3",
+  "fim": "1KI 16:4",
+  "texto": {
+   "1KI 16:3": "eis que eliminarei Baasa e sua casa, e farei tua casa como a casa de Jeroboão, filho de Nebate.",
+   "1KI 16:4": "Quem de Baasa morrer na cidade, os cães comerão; e quem dele morrer no campo, as aves do céu comerão."
+  },
+  "p1": [
+   {
+    "uid": "U1-1KI-016:003-1",
+    "ref": "1KI 16:3-16:4",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "eis que eliminarei Baasa e sua casa",
+    "resumo": "Deus eliminará Baasa e sua casa, que ficará como a de Jeroboão"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-1KI-016:003-1",
+    "ref": "1KI 16:3-16:4",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "familia_ou_linhagem",
+    "condicao": "nenhuma",
+    "promitente": "deus_indistinto",
+    "ancora": "eis que eliminarei Baasa e sua casa, e farei tua casa como a casa de Jeroboão, filho de Nebate.",
+    "resumo": "O SENHOR decreta que eliminará Baasa e sua casa, deixando seus mortos sem sepultamento para serem devorados por cães e aves do céu."
+   }
+  ]
+ },
+ {
+  "id": "F3-1KI-009",
+  "livro": "1KI",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1KI 17:1",
+  "fim": "1KI 17:1",
+  "texto": {
+   "1KI 17:1": "Elias, o tisbita, dos habitantes de Gileade, disse a Acabe: Tão certo como vive o SENHOR, Deus de Israel, em cuja presença estou, nestes anos não haverá orvalho nem chuva, senão segundo minha palavra."
+  },
+  "p1": [
+   {
+    "uid": "U1-1KI-017:001-1",
+    "ref": "1KI 17:1",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "Elias",
+    "ancora": "nestes anos não haverá orvalho nem chuva, senão segundo minha palavra",
+    "resumo": "Elias anuncia a Acabe seca sem orvalho nem chuva"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-1KI-017:001-1",
+    "ref": "1KI 17:1",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "Elias",
+    "ancora": "Tão certo como vive o SENHOR, Deus de Israel, em cuja presença estou, nestes anos não haverá orvalho nem chuva, senão segundo minha palavra.",
+    "resumo": "Elias decreta com juramento diante do SENHOR que não haverá orvalho nem chuva naqueles anos, senão segundo a sua palavra."
+   }
+  ]
+ },
+ {
+  "id": "F3-1KI-010",
+  "livro": "1KI",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1KI 17:4",
+  "fim": "1KI 17:4",
+  "texto": {
+   "1KI 17:4": "Beberás do ribeiro, e ordenei aos corvos que ali te sustentem."
+  },
+  "p1": [
+   {
+    "uid": "U1-1KI-017:004-1",
+    "ref": "1KI 17:4",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Beberás do ribeiro, e ordenei aos corvos que ali te sustentem",
+    "resumo": "Deus garante a Elias água do ribeiro e sustento pelos corvos"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-1KI-017:004-1",
+    "ref": "1KI 17:4",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "contextual",
+    "promitente": "deus_indistinto",
+    "ancora": "Beberás do ribeiro",
+    "resumo": "O SENHOR garante a Elias que ele beberá água do ribeiro de Querite."
+   },
+   {
+    "uid": "U2-1KI-017:004-2",
+    "ref": "1KI 17:4",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "contextual",
+    "promitente": "deus_indistinto",
+    "ancora": "ordenei aos corvos que ali te sustentem.",
+    "resumo": "O SENHOR garante a Elias que ordenou aos corvos que o sustentem junto ao ribeiro de Querite."
+   }
+  ]
+ },
+ {
+  "id": "F3-1KI-011",
+  "livro": "1KI",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1KI 20:13",
+  "fim": "1KI 20:13",
+  "texto": {
+   "1KI 20:13": "Eis que um profeta se aproximou de Acabe, rei de Israel, e disse: Assim diz o SENHOR: Viste toda esta grande multidão? Eis que hoje a entregarei em tuas mãos, para que saibas que eu sou o SENHOR."
+  },
+  "p1": [
+   {
+    "uid": "U1-1KI-020:013-1",
+    "ref": "1KI 20:13",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Eis que hoje a entregarei em tuas mãos, para que saibas que eu sou o SENHOR",
+    "resumo": "Deus entregará a multidão de Ben-Hadade nas mãos de Acabe"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-1KI-020:013-1",
+    "ref": "1KI 20:13",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "deus_indistinto",
+    "ancora": "Eis que hoje a entregarei em tuas mãos, para que saibas que eu sou o SENHOR",
+    "resumo": "O SENHOR promete entregar o exército sírio nas mãos de Acabe naquele mesmo dia."
+   }
+  ]
+ },
+ {
+  "id": "F3-1KI-012",
+  "livro": "1KI",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1KI 20:28",
+  "fim": "1KI 20:28",
+  "texto": {
+   "1KI 20:28": "O homem de Deus se aproximou e falou ao rei de Israel: Assim diz o SENHOR: Porquanto os sírios disseram: O SENHOR é Deus dos montes, mas não é Deus dos vales, entregarei toda esta grande multidão em tuas mãos, e sabereis que eu sou o SENHOR."
+  },
+  "p1": [
+   {
+    "uid": "U1-1KI-020:028-1",
+    "ref": "1KI 20:28",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "entregarei toda esta grande multidão em tuas mãos, e sabereis que eu sou o SENHOR",
+    "resumo": "Deus entregará a multidão síria nas mãos de Acabe"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-1KI-020:028-1",
+    "ref": "1KI 20:28",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "deus_indistinto",
+    "ancora": "entregarei toda esta grande multidão em tuas mãos, e sabereis que eu sou o SENHOR",
+    "resumo": "O SENHOR promete entregar toda a multidão dos sírios nas mãos de Acabe para demonstrar sua soberania."
+   }
+  ]
+ },
+ {
+  "id": "F3-1KI-013",
+  "livro": "1KI",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1KI 20:34",
+  "fim": "1KI 20:34",
+  "texto": {
+   "1KI 20:34": "Ben-Hadade lhe disse: Restituirei as cidades que meu pai tomou de teu pai, e poderás estabelecer mercados em Damasco, como meu pai fez em Samaria. Acabe respondeu: Com esta aliança, eu te deixarei ir. Fez aliança com ele e o deixou ir."
+  },
+  "p1": [
+   {
+    "uid": "U1-1KI-020:034-1",
+    "ref": "1KI 20:34",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "Ben-Hadade",
+    "ancora": "Restituirei as cidades que meu pai tomou de teu pai",
+    "resumo": "Ben-Hadade promete restituir cidades e conceder mercados em Damasco"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-1KI-020:034-1",
+    "ref": "1KI 20:34",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "Ben-Hadade",
+    "ancora": "Restituirei as cidades que meu pai tomou de teu pai",
+    "resumo": "Ben-Hadade promete restituir a Acabe as cidades tomadas por seu pai."
+   },
+   {
+    "uid": "U2-1KI-020:034-2",
+    "ref": "1KI 20:34",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "Ben-Hadade",
+    "ancora": "poderás estabelecer mercados em Damasco, como meu pai fez em Samaria",
+    "resumo": "Ben-Hadade concede e garante a Acabe o direito de estabelecer mercados em Damasco."
+   }
+  ]
+ },
+ {
+  "id": "F3-1KI-014",
+  "livro": "1KI",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1KI 20:42",
+  "fim": "1KI 20:42",
+  "texto": {
+   "1KI 20:42": "Ele disse ao rei: Assim diz o SENHOR: Porquanto deixaste escapar de tua mão o homem que eu havia destinado à destruição, tua vida responderá pela vida dele, e teu povo pelo povo dele."
+  },
+  "p1": [
+   {
+    "uid": "U1-1KI-020:042-1",
+    "ref": "1KI 20:42",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "tua vida responderá pela vida dele, e teu povo pelo povo dele",
+    "resumo": "A vida de Acabe responderá pela de Ben-Hadade, e seu povo pelo dele"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-1KI-020:042-1",
+    "ref": "1KI 20:42",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "deus_indistinto",
+    "ancora": "tua vida responderá pela vida dele",
+    "resumo": "O SENHOR sentencia que a vida de Acabe responderá pela vida de Ben-Hadade, a quem deixou escapar."
+   },
+   {
+    "uid": "U2-1KI-020:042-2",
+    "ref": "1KI 20:42",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": "deus_indistinto",
+    "ancora": "e teu povo pelo povo dele",
+    "resumo": "O SENHOR sentencia que o povo de Acabe responderá pelo povo de Ben-Hadade."
+   }
+  ]
+ },
+ {
+  "id": "F3-1KI-015",
+  "livro": "1KI",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1KI 21:19",
+  "fim": "1KI 21:19",
+  "texto": {
+   "1KI 21:19": "Tu lhe dirás: Assim diz o SENHOR: Mataste e ainda tomaste posse? Depois lhe dirás: Assim diz o SENHOR: No lugar em que os cães lamberam o sangue de Nabote, os cães lamberão também teu próprio sangue."
+  },
+  "p1": [
+   {
+    "uid": "U1-1KI-021:019-1",
+    "ref": "1KI 21:19",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "No lugar em que os cães lamberam o sangue de Nabote, os cães lamberão também teu próprio sangue",
+    "resumo": "Os cães lamberão o sangue de Acabe onde lamberam o de Nabote"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-1KI-021:019-1",
+    "ref": "1KI 21:19",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": null,
+    "ancora": "Assim diz o SENHOR: No lugar em que os cães lamberam o sangue de Nabote, os cães lamberão também teu próprio sangue.",
+    "resumo": "O SENHOR sentencia que os cães lamberão o sangue de Acabe no mesmo lugar em que lamberam o de Nabote."
+   }
+  ]
+ },
+ {
+  "id": "F3-1KI-016",
+  "livro": "1KI",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1KI 21:21",
+  "fim": "1KI 21:22",
+  "texto": {
+   "1KI 21:21": "Eis que trarei o mal sobre ti, eliminarei tua posteridade e exterminarei de Acabe todo homem, tanto o escravo como o livre em Israel.",
+   "1KI 21:22": "Farei tua casa como a casa de Jeroboão, filho de Nebate, e como a casa de Baasa, filho de Aías, por causa da provocação com que me provocaste à ira e fizeste Israel pecar."
+  },
+  "p1": [
+   {
+    "uid": "U1-1KI-021:021-1",
+    "ref": "1KI 21:21-21:22",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Eis que trarei o mal sobre ti, eliminarei tua posteridade e exterminarei de Acabe todo homem",
+    "resumo": "Deus trará o mal sobre Acabe e exterminará sua casa como a de Jeroboão"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-1KI-021:021-1",
+    "ref": "1KI 21:21-21:22",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "familia_ou_linhagem",
+    "condicao": "nenhuma",
+    "promitente": null,
+    "ancora": "Eis que trarei o mal sobre ti, eliminarei tua posteridade e exterminarei de Acabe todo homem, tanto o escravo como o livre em Israel.",
+    "resumo": "O SENHOR sentencia trazer o mal sobre Acabe, exterminar toda a sua descendência masculina e tornar sua casa como as de Jeroboão e de Baasa."
+   }
+  ]
+ },
+ {
+  "id": "F3-1KI-017",
+  "livro": "1KI",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1KI 1:14",
+  "fim": "1KI 1:14",
+  "texto": {
+   "1KI 1:14": "Enquanto ainda estiveres ali falando com o rei, eu entrarei depois de ti e confirmarei tuas palavras."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-1KI-001:014-1",
+    "ref": "1KI 1:14",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "Natã",
+    "ancora": "Enquanto ainda estiveres ali falando com o rei, eu entrarei depois de ti e confirmarei tuas palavras.",
+    "resumo": "Natã promete a Bate-Seba entrar diante do rei após ela e confirmar suas palavras."
+   }
+  ]
+ },
+ {
+  "id": "F3-1KI-018",
+  "livro": "1KI",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1KI 3:13",
+  "fim": "1KI 3:13",
+  "texto": {
+   "1KI 3:13": "Também te dei o que não pediste, tanto riquezas como glória, de modo que não haverá entre os reis ninguém igual a ti durante todos os teus dias."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-1KI-003:013-1",
+    "ref": "1KI 3:13",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "deus_indistinto",
+    "ancora": "Também te dei o que não pediste, tanto riquezas como glória, de modo que não haverá entre os reis ninguém igual a ti durante todos os teus dias.",
+    "resumo": "Deus concede a Salomão riquezas e glória incomparáveis entre os reis durante todos os seus dias."
+   }
+  ]
+ },
+ {
+  "id": "F3-1KI-019",
+  "livro": "1KI",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1KI 11:12",
+  "fim": "1KI 11:12",
+  "texto": {
+   "1KI 11:12": "Contudo, não o farei em teus dias, por amor de Davi, teu pai. Da mão de teu filho o rasgarei."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-1KI-011:012-1",
+    "ref": "1KI 11:12",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "Contudo, não o farei em teus dias, por amor de Davi, teu pai.",
+    "resumo": "O SENHOR garante a Salomão que não executará a divisão do reino durante a vida dele, por amor de Davi."
+   }
+  ]
+ },
+ {
+  "id": "F3-1KI-020",
+  "livro": "1KI",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1KI 14:13",
+  "fim": "1KI 14:13",
+  "texto": {
+   "1KI 14:13": "Todo Israel o pranteará e o sepultará. Somente ele, dentre os de Jeroboão, entrará em sepultura, porque nele se achou alguma coisa boa para com o SENHOR, Deus de Israel, na casa de Jeroboão."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-1KI-014:013-1",
+    "ref": "1KI 14:13",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "Aías",
+    "ancora": "Todo Israel o pranteará e o sepultará. Somente ele, dentre os de Jeroboão, entrará em sepultura, porque nele se achou alguma coisa boa para com o SENHOR, Deus de Israel, na casa de Jeroboão.",
+    "resumo": "Somente Abias, dentre toda a casa de Jeroboão, receberá pranto de todo Israel e sepultamento honroso por haver algo bom nele para com o SENHOR."
+   }
+  ]
+ }
+]

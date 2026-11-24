@@ -1,0 +1,1308 @@
+[
+ {
+  "id": "F3-1CH-021",
+  "livro": "1CH",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "1CH 28:6",
+  "fim": "1CH 28:6",
+  "texto": {
+   "1CH 28:6": "Ele me disse: Seu filho Salomão edificará minha casa e meus pátios, pois eu o escolhi para ser meu filho, e eu serei seu pai."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-1CH-028:006-1",
+    "ref": "1CH 28:6",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "deus_indistinto",
+    "ancora": "Seu filho Salomão edificará minha casa e meus pátios",
+    "resumo": "Deus declara a Davi que seu filho Salomão edificará a casa e os pátios do SENHOR."
+   }
+  ]
+ },
+ {
+  "id": "F3-2CH-001",
+  "livro": "2CH",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2CH 6:9",
+  "fim": "2CH 6:9",
+  "texto": {
+   "2CH 6:9": "Contudo, tu não edificarás a casa; mas teu filho, que procederá de ti, ele edificará a casa ao meu nome."
+  },
+  "p1": [
+   {
+    "uid": "U1-2CH-006:009-1",
+    "ref": "2CH 6:9",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "teu filho, que procederá de ti, ele edificará a casa ao meu nome",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-2CH-006:009-1",
+    "ref": "2CH 6:9",
+    "tipo": "declaracao_sem_compromisso",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "Salomão",
+    "ancora": "Contudo, tu não edificarás a casa; mas teu filho, que procederá de ti, ele edificará a casa ao meu nome.",
+    "resumo": "Menção da palavra do SENHOR a Davi de que seu filho edificaria a casa."
+   }
+  ]
+ },
+ {
+  "id": "F3-2CH-002",
+  "livro": "2CH",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2CH 7:13",
+  "fim": "2CH 7:14",
+  "texto": {
+   "2CH 7:13": "Se eu fechar os céus e não houver chuva, se ordenar aos gafanhotos que devorem a terra ou se enviar peste entre meu povo,",
+   "2CH 7:14": "se meu povo, que é chamado pelo meu nome, humilhar-se, orar, buscar minha face e se converter de seus maus caminhos, então ouvirei dos céus, perdoarei seus pecados e curarei sua terra."
+  },
+  "p1": [
+   {
+    "uid": "U1-2CH-007:013-1",
+    "ref": "2CH 7:13-7:14",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "explicita",
+    "promitente": "pai",
+    "ancora": "então ouvirei dos céus, perdoarei seus pecados e curarei sua terra",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-2CH-007:013-1",
+    "ref": "2CH 7:13-7:14",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "explicita",
+    "promitente": null,
+    "ancora": "então ouvirei dos céus",
+    "resumo": "O SENHOR promete ouvir dos céus em tempos de juízo se seu povo se humilhar, orar, buscar sua face e se converter de seus maus caminhos."
+   },
+   {
+    "uid": "U2-2CH-007:013-2",
+    "ref": "2CH 7:13-7:14",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "explicita",
+    "promitente": null,
+    "ancora": "perdoarei seus pecados",
+    "resumo": "O SENHOR promete perdoar os pecados de seu povo se este se humilhar, orar, buscar sua face e se converter de seus maus caminhos."
+   },
+   {
+    "uid": "U2-2CH-007:013-3",
+    "ref": "2CH 7:13-7:14",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "explicita",
+    "promitente": null,
+    "ancora": "curarei sua terra.",
+    "resumo": "O SENHOR promete curar a terra de seu povo após seca, gafanhotos ou peste, se o povo se humilhar, orar, buscar sua face e se converter."
+   }
+  ]
+ },
+ {
+  "id": "F3-2CH-003",
+  "livro": "2CH",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2CH 7:15",
+  "fim": "2CH 7:16",
+  "texto": {
+   "2CH 7:15": "Agora meus olhos estarão abertos e meus ouvidos atentos à oração feita neste lugar.",
+   "2CH 7:16": "Pois agora escolhi e santifiquei esta casa, para que meu nome esteja nela perpetuamente. Meus olhos e meu coração estarão nela todos os dias."
+  },
+  "p1": [
+   {
+    "uid": "U1-2CH-007:015-1",
+    "ref": "2CH 7:15-7:16",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Agora meus olhos estarão abertos e meus ouvidos atentos à oração feita neste lugar",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-2CH-007:015-1",
+    "ref": "2CH 7:15",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": null,
+    "ancora": "Agora meus olhos estarão abertos e meus ouvidos atentos à oração feita neste lugar.",
+    "resumo": "O SENHOR promete manter seus olhos abertos e ouvidos atentos à oração feita no templo."
+   },
+   {
+    "uid": "U2-2CH-007:016-1",
+    "ref": "2CH 7:16",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": null,
+    "ancora": "para que meu nome esteja nela perpetuamente. Meus olhos e meu coração estarão nela todos os dias.",
+    "resumo": "O SENHOR garante que seu nome estará perpetuamente na casa escolhida e santificada e que seus olhos e coração estarão nela todos os dias."
+   }
+  ]
+ },
+ {
+  "id": "F3-2CH-004",
+  "livro": "2CH",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2CH 7:19",
+  "fim": "2CH 7:22",
+  "texto": {
+   "2CH 7:19": "Porém, se vós vos desviardes, abandonardes meus estatutos e meus mandamentos que vos propus, e fordes servir a outros deuses e vos prostrardes diante deles,",
+   "2CH 7:20": "então os arrancarei de minha terra que lhes dei. Esta casa, que consagrei ao meu nome, lançarei para longe de minha presença e farei dela provérbio e objeto de zombaria entre todos os povos.",
+   "2CH 7:21": "Quanto a esta casa, que era tão exaltada, todo aquele que passar por ela ficará espantado e perguntará: Por que o SENHOR fez assim com esta terra e com esta casa?",
+   "2CH 7:22": "E responderão: Porque abandonaram o SENHOR, Deus de seus pais, que os tirou da terra do Egito, apegaram-se a outros deuses, prostraram-se diante deles e os serviram. Por isso ele trouxe sobre eles todo este mal."
+  },
+  "p1": [
+   {
+    "uid": "U1-2CH-007:019-1",
+    "ref": "2CH 7:19-7:22",
+    "tipo": "advertencia",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "então os arrancarei de minha terra que lhes dei",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-2CH-007:019-1",
+    "ref": "2CH 7:19-7:20",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": "explicita",
+    "promitente": null,
+    "ancora": "então os arrancarei de minha terra que lhes dei.",
+    "resumo": "O SENHOR promete de juízo arrancar o povo de sua terra se eles se desviarem, abandonarem seus mandamentos e servirem a outros deuses."
+   }
+  ]
+ },
+ {
+  "id": "F3-2CH-005",
+  "livro": "2CH",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2CH 10:4",
+  "fim": "2CH 10:4",
+  "texto": {
+   "2CH 10:4": "Teu pai tornou pesado nosso jugo. Agora, pois, alivia a dura servidão de teu pai e o pesado jugo que pôs sobre nós, e te serviremos."
+  },
+  "p1": [
+   {
+    "uid": "U1-2CH-010:004-1",
+    "ref": "2CH 10:4",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "explicita",
+    "promitente": "Jeroboão e todo Israel",
+    "ancora": "te serviremos",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-2CH-006",
+  "livro": "2CH",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2CH 12:7",
+  "fim": "2CH 12:7",
+  "texto": {
+   "2CH 12:7": "Quando o SENHOR viu que se haviam humilhado, a palavra do SENHOR veio a Semaías: Eles se humilharam; não os destruirei. Em breve lhes darei livramento, e meu furor não será derramado sobre Jerusalém por meio de Sisaque."
+  },
+  "p1": [
+   {
+    "uid": "U1-2CH-012:007-1",
+    "ref": "2CH 12:7",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "contextual",
+    "promitente": "pai",
+    "ancora": "Em breve lhes darei livramento",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-2CH-012:007-1",
+    "ref": "2CH 12:7",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "deus_indistinto",
+    "ancora": "Eles se humilharam; não os destruirei. Em breve lhes darei livramento, e meu furor não será derramado sobre Jerusalém por meio de Sisaque.",
+    "resumo": "O SENHOR promete não destruir o rei e os líderes, conceder livramento em breve e não derramar seu furor sobre Jerusalém por meio de Sisaque."
+   }
+  ]
+ },
+ {
+  "id": "F3-2CH-007",
+  "livro": "2CH",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2CH 12:8",
+  "fim": "2CH 12:8",
+  "texto": {
+   "2CH 12:8": "Contudo, serão servos dele, para que conheçam a diferença entre servir a mim e servir aos reinos das outras terras."
+  },
+  "p1": [
+   {
+    "uid": "U1-2CH-012:008-1",
+    "ref": "2CH 12:8",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "serão servos dele",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-2CH-012:008-1",
+    "ref": "2CH 12:8",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "deus_indistinto",
+    "ancora": "Contudo, serão servos dele, para que conheçam a diferença entre servir a mim e servir aos reinos das outras terras.",
+    "resumo": "O SENHOR decreta que ficarão sujeitos como servos de Sisaque para aprenderem a diferença entre servir a Deus e servir a outros reinos."
+   }
+  ]
+ },
+ {
+  "id": "F3-2CH-008",
+  "livro": "2CH",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2CH 13:5",
+  "fim": "2CH 13:5",
+  "texto": {
+   "2CH 13:5": "Não vos convém saber que o SENHOR, Deus de Israel, deu para sempre a Davi o reino sobre Israel, a ele e a seus filhos, por uma aliança de sal?"
+  },
+  "p1": [
+   {
+    "uid": "U1-2CH-013:005-1",
+    "ref": "2CH 13:5",
+    "tipo": "declaracao_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": null,
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "o SENHOR, Deus de Israel, deu para sempre a Davi o reino sobre Israel",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-2CH-013:005-1",
+    "ref": "2CH 13:5",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "familia_ou_linhagem",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "o SENHOR, Deus de Israel, deu para sempre a Davi o reino sobre Israel, a ele e a seus filhos, por uma aliança de sal",
+    "resumo": "O SENHOR deu para sempre o reino sobre Israel a Davi e a seus filhos por uma aliança de sal."
+   }
+  ]
+ },
+ {
+  "id": "F3-2CH-009",
+  "livro": "2CH",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2CH 15:7",
+  "fim": "2CH 15:7",
+  "texto": {
+   "2CH 15:7": "Porém, esforçai-vos, e não desfaleçam vossas mãos, pois vossa obra será recompensada."
+  },
+  "p1": [
+   {
+    "uid": "U1-2CH-015:007-1",
+    "ref": "2CH 15:7",
+    "tipo": "mandamento",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "Azarias",
+    "ancora": "pois vossa obra será recompensada",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-2CH-015:007-1",
+    "ref": "2CH 15:7",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "contextual",
+    "promitente": "pai",
+    "ancora": "pois vossa obra será recompensada.",
+    "resumo": "A obra de Asa, Judá e Benjamim será recompensada."
+   }
+  ]
+ },
+ {
+  "id": "F3-2CH-010",
+  "livro": "2CH",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2CH 15:12",
+  "fim": "2CH 15:14",
+  "texto": {
+   "2CH 15:12": "Entraram em aliança para buscarem o SENHOR, Deus de seus pais, de todo o coração e de toda a alma,",
+   "2CH 15:13": "e para que todo aquele que não buscasse o SENHOR, Deus de Israel, morresse, desde o menor até o maior, tanto homem como mulher.",
+   "2CH 15:14": "Juraram ao SENHOR em alta voz, com gritos de alegria, trombetas e buzinas."
+  },
+  "p1": [
+   {
+    "uid": "U1-2CH-015:012-1",
+    "ref": "2CH 15:12-15:14",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "indeterminado",
+    "condicao": null,
+    "promitente": "Judá sob Asa",
+    "ancora": "Entraram em aliança para buscarem o SENHOR, Deus de seus pais",
+    "resumo": "(resumo não informado pelo leitor)"
+   },
+   {
+    "uid": "U1-2CH-015:013-1",
+    "ref": "2CH 15:13",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "Judá sob Asa",
+    "ancora": "todo aquele que não buscasse o SENHOR, Deus de Israel, morresse",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-2CH-015:012-1",
+    "ref": "2CH 15:12-15:14",
+    "tipo": "desejo_ou_bencao_votiva",
+    "origem": "humana_votiva",
+    "natureza": "bencao",
+    "destinatario": "indeterminado",
+    "condicao": "nenhuma",
+    "promitente": "Todo Judá, Benjamim e os estrangeiros de Efraim, Manassés e Simeão reunidos com Asa",
+    "ancora": "Entraram em aliança para buscarem o SENHOR, Deus de seus pais, de todo o coração e de toda a alma",
+    "resumo": "O povo reunido em Jerusalém firmou aliança com juramento ao SENHOR para buscá-lo de todo o coração e de toda a alma."
+   },
+   {
+    "uid": "U2-2CH-015:013-1",
+    "ref": "2CH 15:13-15:14",
+    "tipo": "desejo_ou_bencao_votiva",
+    "origem": "humana_votiva",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": "explicita",
+    "promitente": "Todo Judá, Benjamim e os estrangeiros de Efraim, Manassés e Simeão reunidos com Asa",
+    "ancora": "e para que todo aquele que não buscasse o SENHOR, Deus de Israel, morresse, desde o menor até o maior, tanto homem como mulher.",
+    "resumo": "Cláusula penal da aliança jurada determinando a morte de qualquer pessoa que não buscasse o SENHOR."
+   }
+  ]
+ },
+ {
+  "id": "F3-2CH-011",
+  "livro": "2CH",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2CH 16:3",
+  "fim": "2CH 16:3",
+  "texto": {
+   "2CH 16:3": "Haja aliança entre mim e ti, como houve entre meu pai e teu pai. Eis que te envio prata e ouro. Vai e rompe tua aliança com Baasa, rei de Israel, para que ele se retire de sobre mim."
+  },
+  "p1": [
+   {
+    "uid": "U1-2CH-016:003-1",
+    "ref": "2CH 16:3",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "Asa",
+    "ancora": "Eis que te envio prata e ouro",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-2CH-012",
+  "livro": "2CH",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2CH 16:9",
+  "fim": "2CH 16:9",
+  "texto": {
+   "2CH 16:9": "Pois os olhos do SENHOR percorrem toda a terra para mostrar-se forte em favor daqueles cujo coração é inteiramente dedicado a ele. Nisto procedeste loucamente; por isso, desde agora haverá guerras contra ti."
+  },
+  "p1": [
+   {
+    "uid": "U1-2CH-016:009-2",
+    "ref": "2CH 16:9",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "desde agora haverá guerras contra ti",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-2CH-016:009-2",
+    "ref": "2CH 16:9",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "Hanani",
+    "ancora": "por isso, desde agora haverá guerras contra ti.",
+    "resumo": "O vidente Hanani pronuncia sentença de juízo contra o rei Asa, anunciando que desde aquele momento haverá guerras contra ele."
+   }
+  ]
+ },
+ {
+  "id": "F3-2CH-013",
+  "livro": "2CH",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2CH 23:3",
+  "fim": "2CH 23:3",
+  "texto": {
+   "2CH 23:3": "Toda a congregação fez aliança com o rei na casa de Deus. Joiada lhes disse: Eis que o filho do rei reinará, conforme o SENHOR falou a respeito dos filhos de Davi."
+  },
+  "p1": [
+   {
+    "uid": "U1-2CH-023:003-1",
+    "ref": "2CH 23:3",
+    "tipo": "declaracao_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": null,
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "o filho do rei reinará, conforme o SENHOR falou a respeito dos filhos de Davi",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-2CH-023:003-1",
+    "ref": "2CH 23:3",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "familia_ou_linhagem",
+    "condicao": "nenhuma",
+    "promitente": "deus_indistinto",
+    "ancora": "Eis que o filho do rei reinará, conforme o SENHOR falou a respeito dos filhos de Davi.",
+    "resumo": "Joiada invoca a palavra do SENHOR acerca dos filhos de Davi para garantir que o filho do rei reinará."
+   }
+  ]
+ },
+ {
+  "id": "F3-2CH-014",
+  "livro": "2CH",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2CH 23:7",
+  "fim": "2CH 23:7",
+  "texto": {
+   "2CH 23:7": "Os levitas cercarão o rei por todos os lados, cada um com suas armas na mão. Qualquer que entrar na casa será morto. Permanecei com o rei quando ele entrar e quando sair."
+  },
+  "p1": [
+   {
+    "uid": "U1-2CH-023:007-1",
+    "ref": "2CH 23:7",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "Joiada",
+    "ancora": "Qualquer que entrar na casa será morto",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-2CH-023:007-1",
+    "ref": "2CH 23:7",
+    "tipo": "advertencia",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "Joiada",
+    "ancora": "Qualquer que entrar na casa será morto.",
+    "resumo": "Joiada adverte que qualquer pessoa que entrar na casa do SENHOR será morta."
+   }
+  ]
+ },
+ {
+  "id": "F3-2CH-015",
+  "livro": "2CH",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2CH 23:14",
+  "fim": "2CH 23:14",
+  "texto": {
+   "2CH 23:14": "Porém o sacerdote Joiada trouxe para fora os comandantes de centenas que estavam encarregados do exército e lhes disse: Tirai-a para fora, por entre as fileiras, e aquele que a seguir será morto à espada. Pois o sacerdote havia dito: Não a mateis na casa do SENHOR."
+  },
+  "p1": [
+   {
+    "uid": "U1-2CH-023:014-1",
+    "ref": "2CH 23:14",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "Joiada",
+    "ancora": "aquele que a seguir será morto à espada",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-2CH-023:014-1",
+    "ref": "2CH 23:14",
+    "tipo": "advertencia",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "Joiada",
+    "ancora": "e aquele que a seguir será morto à espada.",
+    "resumo": "Joiada determina que quem seguir Atalia será morto à espada."
+   }
+  ]
+ },
+ {
+  "id": "F3-2CH-016",
+  "livro": "2CH",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2CH 28:23",
+  "fim": "2CH 28:23",
+  "texto": {
+   "2CH 28:23": "Sacrificou aos deuses de Damasco que o haviam derrotado e disse: Visto que os deuses dos reis da Síria os ajudam, sacrificarei a eles para que me ajudem. Porém eles foram a causa de sua queda e da queda de todo Israel."
+  },
+  "p1": [
+   {
+    "uid": "U1-2CH-028:023-1",
+    "ref": "2CH 28:23",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "indeterminado",
+    "condicao": null,
+    "promitente": "Acaz",
+    "ancora": "sacrificarei a eles para que me ajudem",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-2CH-028:023-1",
+    "ref": "2CH 28:23",
+    "tipo": "declaracao_sem_compromisso",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "Acaz",
+    "ancora": "Visto que os deuses dos reis da Síria os ajudam, sacrificarei a eles para que me ajudem.",
+    "resumo": "Acaz declara a intenção de sacrificar aos deuses dos reis da Síria na expectativa de receber ajuda deles."
+   }
+  ]
+ },
+ {
+  "id": "F3-2CH-017",
+  "livro": "2CH",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2CH 29:10",
+  "fim": "2CH 29:10",
+  "texto": {
+   "2CH 29:10": "Agora proponho em meu coração fazer aliança com o SENHOR, Deus de Israel, para que o ardor de sua ira se desvie de nós."
+  },
+  "p1": [
+   {
+    "uid": "U1-2CH-029:010-1",
+    "ref": "2CH 29:10",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "indeterminado",
+    "condicao": null,
+    "promitente": "Ezequias",
+    "ancora": "Agora proponho em meu coração fazer aliança com o SENHOR, Deus de Israel",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-2CH-029:010-1",
+    "ref": "2CH 29:10",
+    "tipo": "declaracao_sem_compromisso",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "Ezequias",
+    "ancora": "Agora proponho em meu coração fazer aliança com o SENHOR, Deus de Israel, para que o ardor de sua ira se desvie de nós.",
+    "resumo": "Ezequias declara o propósito de fazer aliança com o SENHOR para que o ardor da ira divina se desvie de Judá e Jerusalém."
+   }
+  ]
+ },
+ {
+  "id": "F3-2CH-018",
+  "livro": "2CH",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2CH 33:7",
+  "fim": "2CH 33:7",
+  "texto": {
+   "2CH 33:7": "Colocou a imagem esculpida do ídolo que havia feito na casa de Deus, da qual Deus dissera a Davi e a Salomão, seu filho: Nesta casa e em Jerusalém, que escolhi dentre todas as tribos de Israel, porei meu nome para sempre."
+  },
+  "p1": [
+   {
+    "uid": "U1-2CH-033:007-1",
+    "ref": "2CH 33:7",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "porei meu nome para sempre",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-2CH-033:007-1",
+    "ref": "2CH 33:7",
+    "tipo": "declaracao_sem_compromisso",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "narrador",
+    "ancora": "da qual Deus dissera a Davi e a Salomão, seu filho: Nesta casa e em Jerusalém, que escolhi dentre todas as tribos de Israel, porei meu nome para sempre.",
+    "resumo": "Menção do narrador à palavra anterior de Deus a Davi e Salomão de pôr seu nome para sempre na casa e em Jerusalém."
+   }
+  ]
+ },
+ {
+  "id": "F3-2CH-019",
+  "livro": "2CH",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2CH 33:8",
+  "fim": "2CH 33:8",
+  "texto": {
+   "2CH 33:8": "Nunca mais farei o pé de Israel se afastar da terra que destinei a vossos pais, desde que tenham o cuidado de fazer tudo o que lhes ordenei, conforme toda a Lei, os estatutos e os decretos dados por meio de Moisés."
+  },
+  "p1": [
+   {
+    "uid": "U1-2CH-033:008-1",
+    "ref": "2CH 33:8",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "explicita",
+    "promitente": "pai",
+    "ancora": "Nunca mais farei o pé de Israel se afastar da terra que destinei a vossos pais",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-2CH-033:008-1",
+    "ref": "2CH 33:8",
+    "tipo": "declaracao_sem_compromisso",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "narrador",
+    "ancora": "Nunca mais farei o pé de Israel se afastar da terra que destinei a vossos pais, desde que tenham o cuidado de fazer tudo o que lhes ordenei, conforme toda a Lei, os estatutos e os decretos dados por meio de Moisés.",
+    "resumo": "Menção do narrador à palavra condicional anterior de Deus de nunca mais afastar Israel da terra destinada a seus pais se obedecerem a toda a Lei dada por Moisés."
+   }
+  ]
+ },
+ {
+  "id": "F3-2CH-020",
+  "livro": "2CH",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2CH 34:31",
+  "fim": "2CH 34:32",
+  "texto": {
+   "2CH 34:31": "O rei se pôs em pé em seu lugar e fez aliança diante do SENHOR, para seguir o SENHOR e guardar seus mandamentos, seus testemunhos e seus estatutos de todo o coração e de toda a alma, cumprindo as palavras da aliança escritas naquele livro.",
+   "2CH 34:32": "Fez participar da aliança todos os que se encontravam em Jerusalém e Benjamim. Os habitantes de Jerusalém procederam conforme a aliança de Deus, o Deus de seus pais."
+  },
+  "p1": [
+   {
+    "uid": "U1-2CH-034:031-1",
+    "ref": "2CH 34:31",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "indeterminado",
+    "condicao": null,
+    "promitente": "Josias",
+    "ancora": "fez aliança diante do SENHOR, para seguir o SENHOR e guardar seus mandamentos",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-2CH-034:031-1",
+    "ref": "2CH 34:31-34:32",
+    "tipo": "desejo_ou_bencao_votiva",
+    "origem": "humana_votiva",
+    "natureza": "bencao",
+    "destinatario": "indeterminado",
+    "condicao": "nenhuma",
+    "promitente": "Josias",
+    "ancora": "fez aliança diante do SENHOR, para seguir o SENHOR e guardar seus mandamentos, seus testemunhos e seus estatutos de todo o coração e de toda a alma, cumprindo as palavras da aliança escritas naquele livro.",
+    "resumo": "O rei Josias firma aliança diante do SENHOR para segui-lo e guardar seus mandamentos, testemunhos e estatutos, fazendo participar dessa aliança todos os que estavam em Jerusalém e Benjamim."
+   }
+  ]
+ },
+ {
+  "id": "F3-2CH-021",
+  "livro": "2CH",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2CH 1:11",
+  "fim": "2CH 1:12",
+  "texto": {
+   "2CH 1:11": "Deus disse a Salomão: Porquanto isso estava em teu coração, e não pediste riquezas, bens ou honra, nem a morte dos que te odeiam, nem pediste muitos dias de vida, mas pediste sabedoria e conhecimento para julgar meu povo, sobre o qual te constituí rei,",
+   "2CH 1:12": "sabedoria e conhecimento te são dados. Também te darei riquezas, bens e honra como nenhum rei antes de ti teve e nenhum depois de ti terá."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-2CH-001:011-1",
+    "ref": "2CH 1:11-1:12",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "deus_indistinto",
+    "ancora": "sabedoria e conhecimento te são dados.",
+    "resumo": "Deus concede sabedoria e conhecimento a Salomão para julgar o povo."
+   }
+  ]
+ },
+ {
+  "id": "F3-2CH-022",
+  "livro": "2CH",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2CH 2:8",
+  "fim": "2CH 2:9",
+  "texto": {
+   "2CH 2:8": "Envia-me também madeira de cedro, cipreste e algumim do Líbano, pois sei que teus servos sabem cortar madeira no Líbano. Eis que meus servos estarão com teus servos,",
+   "2CH 2:9": "para me prepararem madeira em abundância, pois a casa que edificarei será grande e maravilhosa."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-2CH-002:008-1",
+    "ref": "2CH 2:8-2:9",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "Salomão",
+    "ancora": "Eis que meus servos estarão com teus servos,",
+    "resumo": "Salomão compromete-se a colocar seus servos trabalhando junto aos servos de Hurão no Líbano para preparar madeira em abundância."
+   }
+  ]
+ },
+ {
+  "id": "F3-2CH-023",
+  "livro": "2CH",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2CH 7:19",
+  "fim": "2CH 7:22",
+  "texto": {
+   "2CH 7:19": "Porém, se vós vos desviardes, abandonardes meus estatutos e meus mandamentos que vos propus, e fordes servir a outros deuses e vos prostrardes diante deles,",
+   "2CH 7:20": "então os arrancarei de minha terra que lhes dei. Esta casa, que consagrei ao meu nome, lançarei para longe de minha presença e farei dela provérbio e objeto de zombaria entre todos os povos.",
+   "2CH 7:21": "Quanto a esta casa, que era tão exaltada, todo aquele que passar por ela ficará espantado e perguntará: Por que o SENHOR fez assim com esta terra e com esta casa?",
+   "2CH 7:22": "E responderão: Porque abandonaram o SENHOR, Deus de seus pais, que os tirou da terra do Egito, apegaram-se a outros deuses, prostraram-se diante deles e os serviram. Por isso ele trouxe sobre eles todo este mal."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-2CH-007:019-2",
+    "ref": "2CH 7:19-7:22",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": "explicita",
+    "promitente": null,
+    "ancora": "Esta casa, que consagrei ao meu nome, lançarei para longe de minha presença e farei dela provérbio e objeto de zombaria entre todos os povos.",
+    "resumo": "O SENHOR promete de juízo rejeitar o templo e torná-lo provérbio, zombaria e motivo de espanto entre todos os povos se o povo se desviar e servir a outros deuses."
+   }
+  ]
+ },
+ {
+  "id": "F3-2CH-024",
+  "livro": "2CH",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2CH 10:4",
+  "fim": "2CH 10:4",
+  "texto": {
+   "2CH 10:4": "Teu pai tornou pesado nosso jugo. Agora, pois, alivia a dura servidão de teu pai e o pesado jugo que pôs sobre nós, e te serviremos."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-2CH-010:004-1",
+    "ref": "2CH 10:4",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "explicita",
+    "promitente": "Jeroboão e todo Israel",
+    "ancora": "alivia a dura servidão de teu pai e o pesado jugo que pôs sobre nós, e te serviremos.",
+    "resumo": "Jeroboão e todo Israel prometem servir a Roboão caso ele alivie a dura servidão e o jugo pesado impostos por Salomão."
+   }
+  ]
+ },
+ {
+  "id": "F3-2CH-025",
+  "livro": "2CH",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2CH 15:2",
+  "fim": "2CH 15:2",
+  "texto": {
+   "2CH 15:2": "Ele saiu ao encontro de Asa e lhe disse: Ouvi-me, Asa, todo Judá e Benjamim. O SENHOR está convosco enquanto estais com ele. Se o buscardes, o achareis; porém, se o abandonardes, ele vos abandonará."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-2CH-015:002-1",
+    "ref": "2CH 15:2",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "explicita",
+    "promitente": "pai",
+    "ancora": "O SENHOR está convosco enquanto estais com ele.",
+    "resumo": "O SENHOR permanece com Asa, Judá e Benjamim enquanto eles permanecerem com ele."
+   }
+  ]
+ },
+ {
+  "id": "F3-2CH-026",
+  "livro": "2CH",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2CH 18:11",
+  "fim": "2CH 18:11",
+  "texto": {
+   "2CH 18:11": "Todos os profetas profetizavam da mesma maneira: Sobe a Ramote-Gileade e prosperarás, pois o SENHOR a entregará nas mãos do rei."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-2CH-018:011-1",
+    "ref": "2CH 18:11",
+    "tipo": "promessa",
+    "origem": "adversaria_ou_falsa",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "todos os profetas",
+    "ancora": "Sobe a Ramote-Gileade e prosperarás, pois o SENHOR a entregará nas mãos do rei.",
+    "resumo": "Todos os profetas asseguram falsamente a Acabe que prosperará e que o SENHOR entregará Ramote-Gileade em suas mãos."
+   }
+  ]
+ },
+ {
+  "id": "F3-2CH-027",
+  "livro": "2CH",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2CH 18:13",
+  "fim": "2CH 18:13",
+  "texto": {
+   "2CH 18:13": "Micaías respondeu: Tão certo como vive o SENHOR, o que meu Deus me disser, isso falarei."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-2CH-018:013-1",
+    "ref": "2CH 18:13",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "Micaías",
+    "ancora": "Tão certo como vive o SENHOR, o que meu Deus me disser, isso falarei.",
+    "resumo": "Micaías jura pelo SENHOR que falará exatamente aquilo que seu Deus lhe disser."
+   }
+  ]
+ },
+ {
+  "id": "F3-2CH-028",
+  "livro": "2CH",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "2CH 20:15",
+  "fim": "2CH 20:17",
+  "texto": {
+   "2CH 20:15": "Ele disse: Escutai, todo Judá, moradores de Jerusalém e tu, rei Josafá. Assim vos diz o SENHOR: Não temais nem vos assusteis por causa desta grande multidão, pois a batalha não é vossa, mas de Deus.",
+   "2CH 20:16": "Amanhã descereis contra eles. Eis que sobem pela ladeira de Ziz, e os encontrareis no fim do vale, diante do deserto de Jeruel.",
+   "2CH 20:17": "Nesta batalha não tereis de lutar. Tomai posição, permanecei em pé e vede a salvação do SENHOR em vosso favor, ó Judá e Jerusalém. Não temais nem vos assusteis. Amanhã saí ao encontro deles, pois o SENHOR estará convosco."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-2CH-020:015-1",
+    "ref": "2CH 20:15-20:17",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "pois a batalha não é vossa, mas de Deus.",
+    "resumo": "O SENHOR garante por meio de Jaaziel que a batalha é de Deus, que Judá não terá de lutar e que verá a salvação do SENHOR em seu favor."
+   }
+  ]
+ },
+ {
+  "id": "F3-EZR-001",
+  "livro": "EZR",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "EZR 7:26",
+  "fim": "EZR 7:26",
+  "texto": {
+   "EZR 7:26": "Todo aquele que não cumprir a Lei de teu Deus e a lei do rei seja prontamente julgado, seja para morte, banimento, confisco de bens ou prisão."
+  },
+  "p1": [
+   {
+    "uid": "U1-EZR-007:026-1",
+    "ref": "EZR 7:26",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": "explicita",
+    "promitente": "Artaxerxes",
+    "ancora": "Todo aquele que não cumprir a Lei de teu Deus e a lei do rei seja prontamente julgado",
+    "resumo": "Artaxerxes decreta julgamento a quem descumprir a Lei"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-EZR-007:026-1",
+    "ref": "EZR 7:26",
+    "tipo": "advertencia",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "Artaxerxes",
+    "ancora": "Todo aquele que não cumprir a Lei de teu Deus e a lei do rei seja prontamente julgado, seja para morte, banimento, confisco de bens ou prisão.",
+    "resumo": "Artaxerxes adverte com pena de morte, banimento, confisco de bens ou prisão a quem não cumprir a Lei de Deus e a lei do rei."
+   }
+  ]
+ },
+ {
+  "id": "F3-EZR-002",
+  "livro": "EZR",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "EZR 10:8",
+  "fim": "EZR 10:8",
+  "texto": {
+   "EZR 10:8": "Todo aquele que não viesse dentro de três dias, conforme o conselho dos príncipes e dos anciãos, teria todos os seus bens confiscados e seria separado da congregação dos exilados."
+  },
+  "p1": [
+   {
+    "uid": "U1-EZR-010:008-1",
+    "ref": "EZR 10:8",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": "explicita",
+    "promitente": "príncipes e anciãos",
+    "ancora": "teria todos os seus bens confiscados e seria separado da congregação dos exilados",
+    "resumo": "Pena para quem não comparecer em três dias"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-EZR-010:008-1",
+    "ref": "EZR 10:8",
+    "tipo": "advertencia",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "os príncipes e os anciãos",
+    "ancora": "teria todos os seus bens confiscados",
+    "resumo": "Advertência de confisco de bens para quem não comparecesse a Jerusalém em três dias."
+   },
+   {
+    "uid": "U2-EZR-010:008-2",
+    "ref": "EZR 10:8",
+    "tipo": "advertencia",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "os príncipes e os anciãos",
+    "ancora": "seria separado da congregação dos exilados.",
+    "resumo": "Advertência de exclusão da congregação dos exilados para quem não comparecesse em três dias."
+   }
+  ]
+ },
+ {
+  "id": "F3-EZR-003",
+  "livro": "EZR",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "EZR 10:19",
+  "fim": "EZR 10:19",
+  "texto": {
+   "EZR 10:19": "Deram sua palavra de que despediriam suas mulheres e, reconhecendo-se culpados, ofereceram um carneiro do rebanho como oferta pela culpa."
+  },
+  "p1": [
+   {
+    "uid": "U1-EZR-010:019-1",
+    "ref": "EZR 10:19",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": null,
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "sacerdotes",
+    "ancora": "Deram sua palavra de que despediriam suas mulheres",
+    "resumo": "Sacerdotes dão palavra de despedir as mulheres"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-EZR-010:019-1",
+    "ref": "EZR 10:19",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": "nenhuma",
+    "promitente": "Maaseias, Eliézer, Jaribe e Gedalias",
+    "ancora": "Deram sua palavra de que despediriam suas mulheres",
+    "resumo": "Filhos dos sacerdotes da família de Jesua dão sua palavra de que despediriam suas mulheres estrangeiras."
+   }
+  ]
+ },
+ {
+  "id": "F3-EZR-004",
+  "livro": "EZR",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "EZR 6:8",
+  "fim": "EZR 6:8",
+  "texto": {
+   "EZR 6:8": "Também dou ordem quanto ao que deveis fazer por esses anciãos dos judeus para a edificação desta casa de Deus: dos bens do rei, provenientes dos tributos da região dalém do rio, sejam prontamente pagos os gastos a esses homens, para que não sejam impedidos."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EZR-006:008-1",
+    "ref": "EZR 6:8",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "rei Dario",
+    "ancora": "dos bens do rei, provenientes dos tributos da região dalém do rio, sejam prontamente pagos os gastos a esses homens, para que não sejam impedidos.",
+    "resumo": "Dario garante o pagamento pronto dos gastos da edificação da casa de Deus aos anciãos dos judeus com recursos dos bens do rei."
+   }
+  ]
+ },
+ {
+  "id": "F3-EZR-005",
+  "livro": "EZR",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "EZR 6:9",
+  "fim": "EZR 6:10",
+  "texto": {
+   "EZR 6:9": "Tudo o que for necessário, novilhos, carneiros e cordeiros para holocaustos ao Deus dos céus, trigo, sal, vinho e azeite, conforme a determinação dos sacerdotes que estão em Jerusalém, seja-lhes dado dia após dia, sem falta,",
+   "EZR 6:10": "para que ofereçam sacrifícios de aroma agradável ao Deus dos céus e orem pela vida do rei e de seus filhos."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EZR-006:009-1",
+    "ref": "EZR 6:9-6:10",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "rei Dario",
+    "ancora": "Tudo o que for necessário, novilhos, carneiros e cordeiros para holocaustos ao Deus dos céus, trigo, sal, vinho e azeite, conforme a determinação dos sacerdotes que estão em Jerusalém, seja-lhes dado dia após dia, sem falta,",
+    "resumo": "Dario garante o fornecimento diário e contínuo de animais e mantimentos aos sacerdotes em Jerusalém para os sacrifícios."
+   }
+  ]
+ },
+ {
+  "id": "F3-EZR-006",
+  "livro": "EZR",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Gemini",
+  "arbitro_designado": "deepseek",
+  "ini": "EZR 7:20",
+  "fim": "EZR 7:20",
+  "texto": {
+   "EZR 7:20": "O restante que for necessário para a casa de teu Deus e que te couber fornecer, tu o fornecerás da casa dos tesouros do rei."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-EZR-007:020-1",
+    "ref": "EZR 7:20",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": "Artaxerxes",
+    "ancora": "O restante que for necessário para a casa de teu Deus e que te couber fornecer, tu o fornecerás da casa dos tesouros do rei.",
+    "resumo": "Artaxerxes garante a Esdras que o restante necessário para a casa de Deus será suprido da casa dos tesouros do rei."
+   }
+  ]
+ }
+]

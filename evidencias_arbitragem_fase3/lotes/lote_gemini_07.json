@@ -1,0 +1,1994 @@
+[
+ {
+  "id": "F3-JER-079",
+  "livro": "JER",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JER 37:7",
+  "fim": "JER 37:8",
+  "texto": {
+   "JER 37:7": "Assim diz o SENHOR, Deus de Israel: Digam ao rei de Judá, que enviou vocês para me consultar: Eis que o exército do faraó, que saiu para socorrê-los, voltará à sua terra, ao Egito.",
+   "JER 37:8": "Os caldeus voltarão, lutarão contra esta cidade, a tomarão e a queimarão."
+  },
+  "p1": [
+   {
+    "uid": "U1-JER-037:007-1",
+    "ref": "JER 37:7-37:8",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "o exército do faraó, que saiu para socorrê-los, voltará",
+    "resumo": "O exército do faraó volta ao Egito; os caldeus voltam, tomam e queimam Jerusalém"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JER-037:007-1",
+    "ref": "JER 37:7-37:8",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "Jeremias",
+    "ancora": "Eis que o exército do faraó, que saiu para socorrê-los, voltará à sua terra, ao Egito.",
+    "resumo": "O socorro egípcio falhará e os caldeus voltarão para tomar e queimar a cidade"
+   }
+  ]
+ },
+ {
+  "id": "F3-JER-080",
+  "livro": "JER",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JER 37:9",
+  "fim": "JER 37:10",
+  "texto": {
+   "JER 37:9": "Assim diz o SENHOR: Não enganem a si mesmos, dizendo: Os caldeus certamente se retirarão de nós. Pois eles não se retirarão.",
+   "JER 37:10": "Ainda que vocês derrotassem todo o exército dos caldeus que luta contra vocês e restassem apenas homens gravemente feridos, cada um se levantaria em sua tenda e queimaria esta cidade."
+  },
+  "p1": [
+   {
+    "uid": "U1-JER-037:009-1",
+    "ref": "JER 37:9-37:10",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Pois eles não se retirarão",
+    "resumo": "Os caldeus não se retirarão e queimarão a cidade"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JER-037:009-1",
+    "ref": "JER 37:9-37:10",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "Jeremias",
+    "ancora": "Pois eles não se retirarão.",
+    "resumo": "Os caldeus não se retirarão; mesmo reduzidos, queimariam a cidade"
+   }
+  ]
+ },
+ {
+  "id": "F3-JER-081",
+  "livro": "JER",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JER 38:2",
+  "fim": "JER 38:3",
+  "texto": {
+   "JER 38:2": "Assim diz o SENHOR: Quem permanecer nesta cidade morrerá pela espada, pela fome ou pela peste, mas quem sair para os caldeus viverá. Terá sua vida como despojo e viverá.",
+   "JER 38:3": "Assim diz o SENHOR: Esta cidade certamente será entregue nas mãos do exército do rei da Babilônia, e ele a tomará."
+  },
+  "p1": [
+   {
+    "uid": "U1-JER-038:002-1",
+    "ref": "JER 38:2-38:3",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": "explicita",
+    "promitente": "pai",
+    "ancora": "Quem permanecer nesta cidade morrerá pela espada",
+    "resumo": "Quem ficar na cidade morre; quem sair aos caldeus vive; a cidade é entregue ao rei da Babilônia"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JER-038:002-1",
+    "ref": "JER 38:2",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": "explicita",
+    "promitente": "pai",
+    "ancora": "Quem permanecer nesta cidade morrerá pela espada, pela fome ou pela peste",
+    "resumo": "Oráculo divino: permanecer na cidade resulta em morte por espada, fome ou peste."
+   }
+  ]
+ },
+ {
+  "id": "F3-JER-082",
+  "livro": "JER",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JER 38:17",
+  "fim": "JER 38:17",
+  "texto": {
+   "JER 38:17": "Jeremias disse a Zedequias: Assim diz o SENHOR, Deus dos Exércitos, Deus de Israel: Se você sair voluntariamente aos líderes do rei da Babilônia, sua vida será preservada, esta cidade não será queimada, e você e sua casa viverão."
+  },
+  "p1": [
+   {
+    "uid": "U1-JER-038:017-1",
+    "ref": "JER 38:17",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "explicita",
+    "promitente": "pai",
+    "ancora": "sua vida será preservada, esta cidade não será queimada",
+    "resumo": "Se Zedequias sair aos líderes da Babilônia, vive com sua casa e a cidade não é queimada"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JER-038:017-1",
+    "ref": "JER 38:17",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "explicita",
+    "promitente": "pai",
+    "ancora": "Se você sair voluntariamente aos líderes do rei da Babilônia, sua vida será preservada",
+    "resumo": "Palavra do SENHOR: saindo aos líderes babilônios, vida, cidade e casa do rei serão preservadas."
+   }
+  ]
+ },
+ {
+  "id": "F3-JER-083",
+  "livro": "JER",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JER 38:18",
+  "fim": "JER 38:18",
+  "texto": {
+   "JER 38:18": "Mas, se você não sair aos líderes do rei da Babilônia, esta cidade será entregue nas mãos dos caldeus, que a queimarão, e você não escapará das mãos deles."
+  },
+  "p1": [
+   {
+    "uid": "U1-JER-038:018-1",
+    "ref": "JER 38:18",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": "explicita",
+    "promitente": "pai",
+    "ancora": "esta cidade será entregue nas mãos dos caldeus",
+    "resumo": "Se não sair, a cidade é queimada e Zedequias não escapa"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JER-038:018-1",
+    "ref": "JER 38:18",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": "explicita",
+    "promitente": "pai",
+    "ancora": "esta cidade será entregue nas mãos dos caldeus, que a queimarão",
+    "resumo": "Palavra do SENHOR: não saindo, a cidade será entregue e queimada e o rei não escapará."
+   }
+  ]
+ },
+ {
+  "id": "F3-JER-084",
+  "livro": "JER",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JER 38:20",
+  "fim": "JER 38:20",
+  "texto": {
+   "JER 38:20": "Jeremias respondeu: Eles não o entregarão. Obedeça, por favor, à voz do SENHOR naquilo que lhe digo. Assim tudo lhe irá bem, e sua vida será preservada."
+  },
+  "p1": [
+   {
+    "uid": "U1-JER-038:020-1",
+    "ref": "JER 38:20",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "explicita",
+    "promitente": "Jeremias",
+    "ancora": "Assim tudo lhe irá bem, e sua vida será preservada",
+    "resumo": "Se Zedequias obedecer, tudo vai bem e sua vida é preservada"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JER-038:020-1",
+    "ref": "JER 38:20",
+    "tipo": "mandamento",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "Jeremias",
+    "ancora": "Obedeça, por favor, à voz do SENHOR naquilo que lhe digo. Assim tudo lhe irá bem, e sua vida será preservada",
+    "resumo": "Exortação de Jeremias a obedecer à voz do SENHOR, com a promessa anexa de bem-estar e vida preservada."
+   }
+  ]
+ },
+ {
+  "id": "F3-JER-085",
+  "livro": "JER",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JER 39:16",
+  "fim": "JER 39:18",
+  "texto": {
+   "JER 39:16": "Vá e diga a Ebede-Meleque, o etíope: Assim diz o SENHOR dos Exércitos, Deus de Israel: Eis que cumprirei minhas palavras contra esta cidade para calamidade, e não para o bem. Elas se cumprirão diante de você naquele dia.",
+   "JER 39:17": "Mas eu o livrarei naquele dia, declara o SENHOR, e você não será entregue nas mãos dos homens que teme.",
+   "JER 39:18": "Certamente o farei escapar, e você não cairá pela espada. Terá sua vida como despojo, porque confiou em mim, declara o SENHOR."
+  },
+  "p1": [
+   {
+    "uid": "U1-JER-039:016-1",
+    "ref": "JER 39:16-39:18",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Eis que cumprirei minhas palavras contra esta cidade",
+    "resumo": "O SENHOR cumpre as palavras contra a cidade e livra Ebede-Meleque, que não cai pela espada porque confiou nele"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JER-039:016-1",
+    "ref": "JER 39:16",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": null,
+    "ancora": "Eis que cumprirei minhas palavras contra esta cidade para calamidade, e não para o bem.",
+    "resumo": "Deus garantirá o cumprimento do juízo anunciado contra Jerusalém, diante de Ebede-Meleque."
+   }
+  ]
+ },
+ {
+  "id": "F3-JER-086",
+  "livro": "JER",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JER 42:10",
+  "fim": "JER 42:12",
+  "texto": {
+   "JER 42:10": "Se vocês permanecerem nesta terra, eu os edificarei e não os derrubarei, os plantarei e não os arrancarei, pois lamento a calamidade que trouxe sobre vocês.",
+   "JER 42:11": "Não tenham medo do rei da Babilônia, a quem vocês temem. Não tenham medo dele, declara o SENHOR, pois estou com vocês para salvá-los e livrá-los das mãos dele.",
+   "JER 42:12": "Terei misericórdia de vocês, farei com que ele tenha misericórdia de vocês e os faça voltar à sua terra."
+  },
+  "p1": [
+   {
+    "uid": "U1-JER-042:010-1",
+    "ref": "JER 42:10-42:12",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "explicita",
+    "promitente": "pai",
+    "ancora": "Se vocês permanecerem nesta terra, eu os edificarei",
+    "resumo": "Se permanecerem na terra, o SENHOR os edifica e planta, está com eles para salvar, tem misericórdia e os faz voltar à sua terra"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JER-042:010-1",
+    "ref": "JER 42:10",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "explicita",
+    "promitente": "Jeremias",
+    "ancora": "Se vocês permanecerem nesta terra, eu os edificarei e não os derrubarei, os plantarei e não os arrancarei",
+    "resumo": "Condicional: se permanecerem na terra, o SENHOR os edificará e plantará, sem derrubar nem arrancar"
+   },
+   {
+    "uid": "U2-JER-042:012-1",
+    "ref": "JER 42:12",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "Jeremias",
+    "ancora": "Terei misericórdia de vocês, farei com que ele tenha misericórdia de vocês e os faça voltar à sua terra",
+    "resumo": "O SENHOR promete misericórdia e retorno à terra"
+   }
+  ]
+ },
+ {
+  "id": "F3-JER-087",
+  "livro": "JER",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JER 42:15",
+  "fim": "JER 42:18",
+  "texto": {
+   "JER 42:15": "então ouçam a palavra do SENHOR, remanescente de Judá. Assim diz o SENHOR dos Exércitos, Deus de Israel: Se vocês realmente estiverem decididos a ir ao Egito e entrarem ali para peregrinar,",
+   "JER 42:16": "a espada que vocês temem os alcançará na terra do Egito, e a fome que os inquieta os seguirá de perto até o Egito. Ali vocês morrerão.",
+   "JER 42:17": "Todos os homens que estiverem decididos a ir ao Egito para peregrinar ali morrerão pela espada, pela fome e pela peste. Nenhum deles restará nem escapará da calamidade que trarei sobre eles.",
+   "JER 42:18": "Pois assim diz o SENHOR dos Exércitos, Deus de Israel: Assim como minha ira e meu furor foram derramados sobre os habitantes de Jerusalém, também meu furor será derramado sobre vocês quando entrarem no Egito. Vocês serão objeto de maldição, horror, desprezo e afronta e nunca mais verão este lugar."
+  },
+  "p1": [
+   {
+    "uid": "U1-JER-042:015-1",
+    "ref": "JER 42:15-42:18",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": "explicita",
+    "promitente": "pai",
+    "ancora": "Se vocês realmente estiverem decididos a ir ao Egito",
+    "resumo": "Se forem ao Egito, a espada e a fome os alcançam e morrem; o furor do SENHOR se derrama e nunca mais veem este lugar"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JER-042:015-1",
+    "ref": "JER 42:15-42:17",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": "explicita",
+    "promitente": "Jeremias",
+    "ancora": "a espada que vocês temem os alcançará na terra do Egito, e a fome que os inquieta os seguirá de perto até o Egito. Ali vocês morrerão",
+    "resumo": "Condicional: se forem ao Egito, espada, fome e peste os alcançarão e morrerão, sem restar nenhum"
+   },
+   {
+    "uid": "U2-JER-042:018-1",
+    "ref": "JER 42:18",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "Jeremias",
+    "ancora": "também meu furor será derramado sobre vocês quando entrarem no Egito",
+    "resumo": "O furor do SENHOR será derramado sobre eles no Egito; serão maldição, horror, desprezo e afronta e não verão mais este lugar"
+   }
+  ]
+ },
+ {
+  "id": "F3-JER-088",
+  "livro": "JER",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JER 42:22",
+  "fim": "JER 42:22",
+  "texto": {
+   "JER 42:22": "Agora, portanto, saibam com certeza que morrerão pela espada, pela fome e pela peste no lugar onde desejam entrar para peregrinar."
+  },
+  "p1": [
+   {
+    "uid": "U1-JER-042:022-1",
+    "ref": "JER 42:22",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "saibam com certeza que morrerão pela espada",
+    "resumo": "O remanescente morre pela espada, fome e peste no Egito"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JER-042:022-1",
+    "ref": "JER 42:22",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "Jeremias",
+    "ancora": "saibam com certeza que morrerão pela espada, pela fome e pela peste no lugar onde desejam entrar para peregrinar",
+    "resumo": "Sentença decidida: morrerão pela espada, pela fome e pela peste no lugar para onde querem ir"
+   }
+  ]
+ },
+ {
+  "id": "F3-JER-089",
+  "livro": "JER",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JER 43:10",
+  "fim": "JER 43:13",
+  "texto": {
+   "JER 43:10": "Diga-lhes: Assim diz o SENHOR dos Exércitos, Deus de Israel: Eis que mandarei buscar Nabucodonosor, rei da Babilônia, meu servo. Colocarei seu trono sobre estas pedras que escondi, e ele estenderá seu pavilhão real sobre elas.",
+   "JER 43:11": "Ele virá e ferirá a terra do Egito. Quem estiver destinado à morte irá para a morte, quem estiver destinado ao cativeiro irá para o cativeiro, e quem estiver destinado à espada irá para a espada.",
+   "JER 43:12": "Ele incendiará os templos dos deuses do Egito, queimará seus deuses e os levará cativos. Envolverá a terra do Egito como o pastor envolve seu manto e sairá dali em paz.",
+   "JER 43:13": "Quebrará as colunas de Bete-Semes, que está na terra do Egito, e queimará os templos dos deuses do Egito."
+  },
+  "p1": [
+   {
+    "uid": "U1-JER-043:010-1",
+    "ref": "JER 43:10-43:13",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "mandarei buscar Nabucodonosor, rei da Babilônia, meu servo",
+    "resumo": "O SENHOR traz Nabucodonosor, que fere o Egito, incendeia os templos e leva cativos os deuses"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JER-043:010-1",
+    "ref": "JER 43:10-43:11",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "Eis que mandarei buscar Nabucodonosor, rei da Babilônia, meu servo. Colocarei seu trono sobre estas pedras que escondi",
+    "resumo": "O SENHOR garante que trará Nabucodonosor e firmará seu domínio sobre o Egito, ferindo a terra e destinando seus habitantes à morte, ao cativeiro ou à espada."
+   }
+  ]
+ },
+ {
+  "id": "F3-JER-090",
+  "livro": "JER",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JER 45:4",
+  "fim": "JER 45:5",
+  "texto": {
+   "JER 45:4": "Diga-lhe: Assim diz o SENHOR: Estou derrubando o que edifiquei e arrancando o que plantei, e isso em toda esta terra.",
+   "JER 45:5": "E você procura grandezas para si? Não as procure. Pois trarei calamidade sobre toda a humanidade, diz o SENHOR, mas darei a você sua vida como despojo em todos os lugares para onde for."
+  },
+  "p1": [
+   {
+    "uid": "U1-JER-045:004-1",
+    "ref": "JER 45:4-45:5",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Estou derrubando o que edifiquei",
+    "resumo": "O SENHOR traz calamidade sobre toda a humanidade, mas dá a Baruque sua vida como despojo onde for"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JER-045:004-1",
+    "ref": "JER 45:4",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Estou derrubando o que edifiquei e arrancando o que plantei, e isso em toda esta terra.",
+    "resumo": "Deus anuncia que está derrubando e arrancando o que edificou e plantou em toda a terra."
+   }
+  ]
+ },
+ {
+  "id": "F3-JER-091",
+  "livro": "JER",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JER 46:10",
+  "fim": "JER 46:12",
+  "texto": {
+   "JER 46:10": "Aquele dia pertence ao Senhor, o SENHOR dos Exércitos, dia de vingança para se vingar de seus adversários. A espada devorará até se fartar e se embriagará com o sangue deles, pois o Senhor, o SENHOR dos Exércitos, tem um sacrifício na terra do Norte, junto ao rio Eufrates.",
+   "JER 46:11": "Suba a Gileade e busque bálsamo, virgem, filha do Egito. Em vão você multiplica remédios, pois não há cura para você.",
+   "JER 46:12": "As nações ouviram falar de sua vergonha, e seu clamor encheu a terra. Guerreiro tropeçou contra guerreiro, e os dois caíram juntos."
+  },
+  "p1": [
+   {
+    "uid": "U1-JER-046:010-1",
+    "ref": "JER 46:10-46:12",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Aquele dia pertence ao Senhor",
+    "resumo": "O dia de vingança do SENHOR sobre o Egito: a espada devora e não há cura"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-JER-092",
+  "livro": "JER",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JER 46:14",
+  "fim": "JER 46:24",
+  "texto": {
+   "JER 46:14": "Anunciem no Egito, proclamem em Migdol e façam ouvir em Nof e Tafnes. Digam: Tome posição e prepare-se, pois a espada devorou tudo ao seu redor.",
+   "JER 46:15": "Por que seus valentes foram arrastados? Não conseguiram permanecer de pé porque o SENHOR os derrubou.",
+   "JER 46:16": "Ele fez muitos tropeçarem, e caíram uns sobre os outros. Então disseram: Levantem-se! Voltemos ao nosso povo e à terra onde nascemos, para longe da espada opressora.",
+   "JER 46:17": "Ali clamaram: O faraó, rei do Egito, é apenas barulho. Ele deixou passar o tempo determinado.",
+   "JER 46:18": "Tão certo como eu vivo, declara o Rei, cujo nome é SENHOR dos Exércitos, ele virá como o Tabor entre os montes e como o Carmelo junto ao mar.",
+   "JER 46:19": "Prepare sua bagagem para o exílio, moradora, filha do Egito, pois Nof se tornará uma desolação, será incendiada e ficará sem moradores.",
+   "JER 46:20": "O Egito é uma novilha muito formosa, mas do Norte vem um moscardo, ele já vem.",
+   "JER 46:21": "Até seus mercenários, que viviam no meio dele como bezerros cevados, viraram as costas e fugiram juntos. Não permaneceram de pé, pois chegou o dia de sua ruína, o tempo de seu castigo.",
+   "JER 46:22": "A voz do Egito é como a de uma serpente que se afasta, pois os inimigos avançam com um exército e vêm contra ele com machados, como lenhadores.",
+   "JER 46:23": "Cortarão sua floresta, diz o SENHOR, embora pareça impenetrável, porque são mais numerosos que gafanhotos e não podem ser contados.",
+   "JER 46:24": "A filha do Egito ficou envergonhada e foi entregue nas mãos do povo do Norte."
+  },
+  "p1": [
+   {
+    "uid": "U1-JER-046:018-1",
+    "ref": "JER 46:18-46:19",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "ele virá como o Tabor entre os montes",
+    "resumo": "O SENHOR jura que o rei da Babilônia vem e Nof se torna desolação"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JER-046:014-1",
+    "ref": "JER 46:14-46:24",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Tão certo como eu vivo, declara o Rei, cujo nome é SENHOR dos Exércitos, ele virá como o Tabor entre os montes e como o Carmelo junto ao mar.",
+    "resumo": "Julgamento contra o Egito pela vinda de Nabucodonosor."
+   }
+  ]
+ },
+ {
+  "id": "F3-JER-093",
+  "livro": "JER",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JER 46:23",
+  "fim": "JER 46:24",
+  "texto": {
+   "JER 46:23": "Cortarão sua floresta, diz o SENHOR, embora pareça impenetrável, porque são mais numerosos que gafanhotos e não podem ser contados.",
+   "JER 46:24": "A filha do Egito ficou envergonhada e foi entregue nas mãos do povo do Norte."
+  },
+  "p1": [
+   {
+    "uid": "U1-JER-046:023-1",
+    "ref": "JER 46:23-46:24",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Cortarão sua floresta",
+    "resumo": "O Egito é entregue ao povo do Norte"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-JER-094",
+  "livro": "JER",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JER 46:27",
+  "fim": "JER 46:28",
+  "texto": {
+   "JER 46:27": "Quanto a você, meu servo Jacó, não tema; não fique apavorado, Israel. Eu o salvarei de uma terra distante e trarei sua descendência da terra do cativeiro. Jacó voltará, terá descanso e tranquilidade, e ninguém o amedrontará.",
+   "JER 46:28": "Não tema, meu servo Jacó, diz o SENHOR, pois estou com você. Exterminarei todas as nações entre as quais o dispersei, mas não exterminarei você. Eu o corrigirei com justiça, mas de modo algum o deixarei sem castigo."
+  },
+  "p1": [
+   {
+    "uid": "U1-JER-046:027-1",
+    "ref": "JER 46:27-46:28",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "não tema; não fique apavorado, Israel",
+    "resumo": "O SENHOR salva Jacó do cativeiro, que volta e descansa; exterminará as nações mas não Israel; corrige com justiça"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-JER-095",
+  "livro": "JER",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JER 47:2",
+  "fim": "JER 47:7",
+  "texto": {
+   "JER 47:2": "Assim diz o SENHOR: Águas sobem do Norte e se tornarão uma torrente transbordante. Inundarão a terra e tudo o que nela há, a cidade e seus moradores. Os homens clamarão, e todos os habitantes da terra lamentarão.",
+   "JER 47:3": "Ao som do galope dos cascos de seus fortes cavalos, ao estrondo de seus carros e ao ruído de suas rodas, os pais não se voltarão para os filhos, porque suas mãos perderão as forças.",
+   "JER 47:4": "Pois chegou o dia de destruir todos os filisteus e eliminar de Tiro e Sidom todo aliado que ainda lhes reste. O SENHOR destruirá os filisteus, o remanescente da ilha de Caftor.",
+   "JER 47:5": "A calvície chegou sobre Gaza; Ascalom foi silenciada. Remanescente do vale deles, até quando você fará cortes em si mesmo?",
+   "JER 47:6": "Ah, espada do SENHOR! Até quando não descansará? Volte para sua bainha, repouse e fique quieta.",
+   "JER 47:7": "Como poderá descansar, se o SENHOR lhe deu uma ordem? Ele a destinou contra Ascalom e contra a costa do mar."
+  },
+  "p1": [
+   {
+    "uid": "U1-JER-047:002-1",
+    "ref": "JER 47:2-47:4",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Águas sobem do Norte",
+    "resumo": "Águas do Norte inundam; o SENHOR destrói os filisteus"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JER-047:002-1",
+    "ref": "JER 47:2-47:7",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": "nenhuma",
+    "promitente": "Jeremias",
+    "ancora": "Assim diz o SENHOR: Águas sobem do Norte",
+    "resumo": "Oráculo de juízo do SENHOR contra os filisteus: invasão, destruição e lamento."
+   }
+  ]
+ },
+ {
+  "id": "F3-JER-096",
+  "livro": "JER",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JER 48:7",
+  "fim": "JER 48:9",
+  "texto": {
+   "JER 48:7": "Porque você confiou em suas obras e em seus tesouros, também será capturada. Camos irá para o cativeiro, junto com seus sacerdotes e seus príncipes.",
+   "JER 48:8": "O destruidor virá contra todas as cidades, e nenhuma escapará. O vale perecerá, e a planície será devastada, como o SENHOR disse.",
+   "JER 48:9": "Deem asas a Moabe, pois certamente sairá voando. Suas cidades se tornarão uma desolação, sem nenhum morador."
+  },
+  "p1": [
+   {
+    "uid": "U1-JER-048:007-1",
+    "ref": "JER 48:7-48:9",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "também será capturada",
+    "resumo": "Moabe é capturada, seu deus Camos vai ao cativeiro e o destruidor devasta todas as cidades"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-JER-097",
+  "livro": "JER",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JER 48:43",
+  "fim": "JER 48:44",
+  "texto": {
+   "JER 48:43": "Terror, cova e armadilha estão diante de você, morador de Moabe, diz o SENHOR.",
+   "JER 48:44": "Quem fugir do terror cairá na cova, e quem subir da cova será apanhado na armadilha, pois trarei sobre Moabe o ano de seu castigo, diz o SENHOR."
+  },
+  "p1": [
+   {
+    "uid": "U1-JER-048:043-1",
+    "ref": "JER 48:43-48:44",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Terror, cova e armadilha estão diante de você",
+    "resumo": "O SENHOR traz sobre Moabe o ano de seu castigo"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-JER-098",
+  "livro": "JER",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JER 49:16",
+  "fim": "JER 49:18",
+  "texto": {
+   "JER 49:16": "O terror que você inspirava e a arrogância de seu coração o enganaram. Você habita nas fendas das rochas e ocupa o alto das colinas. Ainda que faça seu ninho tão alto como a águia, de lá eu o derrubarei, diz o SENHOR.",
+   "JER 49:17": "Edom se tornará objeto de horror. Todo aquele que passar por ela ficará espantado e assobiará por causa de todas as suas feridas.",
+   "JER 49:18": "Assim como na destruição de Sodoma, Gomorra e suas cidades vizinhas, diz o SENHOR, ninguém habitará ali, nenhum ser humano morará nela."
+  },
+  "p1": [
+   {
+    "uid": "U1-JER-049:016-1",
+    "ref": "JER 49:16-49:18",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "de lá eu o derrubarei",
+    "resumo": "O SENHOR derruba Edom, que se torna objeto de horror e ninguém mais o habita"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-JER-099",
+  "livro": "JER",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JER 50:3",
+  "fim": "JER 50:3",
+  "texto": {
+   "JER 50:3": "Pois uma nação subiu do Norte contra ela. Essa nação transformará sua terra em desolação, sem nenhum morador. Tanto os homens como os animais fugirão e partirão."
+  },
+  "p1": [
+   {
+    "uid": "U1-JER-050:003-1",
+    "ref": "JER 50:3",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "uma nação subiu do Norte contra ela",
+    "resumo": "Uma nação do Norte torna a terra da Babilônia desolada"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-JER-100",
+  "livro": "JER",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JER 50:4",
+  "fim": "JER 50:5",
+  "texto": {
+   "JER 50:4": "Naqueles dias e naquele tempo, diz o SENHOR, os filhos de Israel e os filhos de Judá virão juntos. Caminharão chorando e buscarão o SENHOR, seu Deus.",
+   "JER 50:5": "Perguntarão pelo caminho de Sião, com o rosto voltado para ela. Virão e se unirão ao SENHOR numa aliança eterna que nunca será esquecida."
+  },
+  "p1": [
+   {
+    "uid": "U1-JER-050:004-1",
+    "ref": "JER 50:4-50:5",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "os filhos de Israel e os filhos de Judá virão juntos",
+    "resumo": "Israel e Judá voltam juntos, buscam o SENHOR e se unem a ele numa aliança eterna"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JER-050:004-1",
+    "ref": "JER 50:4-50:5",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "Jeremias",
+    "ancora": "os filhos de Israel e os filhos de Judá virão juntos",
+    "resumo": "Restauração: Israel e Judá voltarão e se unirão ao SENHOR em aliança eterna."
+   }
+  ]
+ },
+ {
+  "id": "F3-JER-101",
+  "livro": "JER",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JER 50:11",
+  "fim": "JER 50:13",
+  "texto": {
+   "JER 50:11": "Vocês se alegraram e exultaram, saqueadores de minha herança. Saltaram como novilha que debulha e relincharam como cavalos vigorosos.",
+   "JER 50:12": "Sua mãe ficará profundamente envergonhada; aquela que lhes deu à luz será humilhada. Ela se tornará a última das nações, um deserto, terra seca e solidão.",
+   "JER 50:13": "Por causa da ira do SENHOR, não será habitada, mas se tornará uma completa desolação. Todo aquele que passar pela Babilônia ficará horrorizado e assobiará por causa de todas as suas feridas."
+  },
+  "p1": [
+   {
+    "uid": "U1-JER-050:012-1",
+    "ref": "JER 50:12-50:13",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Sua mãe ficará profundamente envergonhada",
+    "resumo": "A Babilônia fica desolada e inabitada por causa da ira do SENHOR"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JER-050:011-1",
+    "ref": "JER 50:11-50:13",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "Jeremias",
+    "ancora": "Sua mãe ficará profundamente envergonhada",
+    "resumo": "Babilônia será humilhada e se tornará desolação."
+   }
+  ]
+ },
+ {
+  "id": "F3-JER-102",
+  "livro": "JER",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JER 50:30",
+  "fim": "JER 50:32",
+  "texto": {
+   "JER 50:30": "Por isso, seus jovens cairão nas ruas, e todos os seus homens de guerra serão silenciados naquele dia, diz o SENHOR.",
+   "JER 50:31": "Eis que estou contra você, arrogante, declara o Senhor, o SENHOR dos Exércitos, pois chegou seu dia, o tempo em que a castigarei.",
+   "JER 50:32": "A arrogante tropeçará e cairá, e ninguém a levantará. Porei fogo em suas cidades, e ele consumirá tudo ao seu redor."
+  },
+  "p1": [
+   {
+    "uid": "U1-JER-050:030-1",
+    "ref": "JER 50:30-50:32",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "seus jovens cairão nas ruas",
+    "resumo": "Os jovens e guerreiros da Babilônia caem; o SENHOR é contra ela e a faz tropeçar e a queima"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-JER-103",
+  "livro": "JER",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JER 50:35",
+  "fim": "JER 50:40",
+  "texto": {
+   "JER 50:35": "Espada contra os caldeus, diz o SENHOR, contra os moradores da Babilônia, seus príncipes e seus sábios!",
+   "JER 50:36": "Espada contra os falsos profetas, e eles agirão como insensatos! Espada contra seus guerreiros, e eles ficarão apavorados!",
+   "JER 50:37": "Espada contra seus cavalos, seus carros e toda a mistura de povos que está no meio dela, e eles se tornarão como mulheres! Espada contra seus tesouros, e eles serão saqueados!",
+   "JER 50:38": "Seca contra suas águas, e elas secarão! Pois esta é uma terra de imagens esculpidas, e seus habitantes enlouquecem por causa de ídolos aterrorizantes.",
+   "JER 50:39": "Por isso, animais do deserto habitarão ali junto com chacais, e filhotes de avestruz viverão nela. Nunca mais será habitada, nem povoada de geração em geração.",
+   "JER 50:40": "Assim como Deus destruiu Sodoma, Gomorra e suas cidades vizinhas, diz o SENHOR, ninguém habitará ali, nenhum ser humano morará nela."
+  },
+  "p1": [
+   {
+    "uid": "U1-JER-050:035-1",
+    "ref": "JER 50:35-50:40",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Espada contra os caldeus, diz o SENHOR",
+    "resumo": "A espada e a seca atingem a Babilônia; ela fica desolada para sempre"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JER-050:035-1",
+    "ref": "JER 50:35-50:38",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "Jeremias",
+    "ancora": "Espada contra os caldeus",
+    "resumo": "Juízo por espada e seca contra a Babilônia."
+   }
+  ]
+ },
+ {
+  "id": "F3-JER-104",
+  "livro": "JER",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JER 51:11",
+  "fim": "JER 51:12",
+  "texto": {
+   "JER 51:11": "Afiem as flechas e preparem os escudos. O SENHOR despertou o espírito dos reis da Média, pois seu plano é destruir a Babilônia. Esta é a vingança do SENHOR, a vingança por seu templo.",
+   "JER 51:12": "Levantem uma bandeira contra os muros da Babilônia. Reforcem a guarda, posicionem sentinelas e preparem emboscadas, pois o SENHOR planejou e cumpriu o que falou contra os moradores da Babilônia."
+  },
+  "p1": [
+   {
+    "uid": "U1-JER-051:011-1",
+    "ref": "JER 51:11-51:12",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "O SENHOR despertou o espírito dos reis da Média",
+    "resumo": "O SENHOR desperta os reis da Média para destruir a Babilônia, vingança por seu templo"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JER-051:011-1",
+    "ref": "JER 51:11",
+    "tipo": "declaracao_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": null,
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "O SENHOR despertou o espírito dos reis da Média",
+    "resumo": "Declaração de que o SENHOR incitou os reis da Média contra a Babilônia."
+   }
+  ]
+ },
+ {
+  "id": "F3-JER-105",
+  "livro": "JER",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JER 51:20",
+  "fim": "JER 51:23",
+  "texto": {
+   "JER 51:20": "Você é meu martelo e minha arma de guerra. Com você despedaçarei nações e destruirei reis.",
+   "JER 51:21": "Com você despedaçarei o cavalo e seu cavaleiro; com você despedaçarei o carro e quem nele sobe.",
+   "JER 51:22": "Com você despedaçarei homem e mulher; com você despedaçarei velho e jovem; com você despedaçarei rapaz e moça.",
+   "JER 51:23": "Com você despedaçarei o pastor e seu rebanho; com você despedaçarei o lavrador e sua junta de bois; com você despedaçarei governadores e autoridades."
+  },
+  "p1": [
+   {
+    "uid": "U1-JER-051:020-1",
+    "ref": "JER 51:20-51:23",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Você é meu martelo e minha arma de guerra",
+    "resumo": "O SENHOR usa seu martelo para despedaçar nações, reis, exércitos e povo"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JER-051:020-1",
+    "ref": "JER 51:20-51:23",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "indeterminado",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Você é meu martelo e minha arma de guerra.",
+    "resumo": "Deus fala ao seu instrumento de guerra para despedaçar nações."
+   }
+  ]
+ },
+ {
+  "id": "F3-JER-106",
+  "livro": "JER",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JER 51:29",
+  "fim": "JER 51:29",
+  "texto": {
+   "JER 51:29": "A terra tremerá e se contorcerá, pois os planos do SENHOR contra a Babilônia permanecem firmes, para transformar a terra da Babilônia numa desolação sem moradores."
+  },
+  "p1": [
+   {
+    "uid": "U1-JER-051:029-1",
+    "ref": "JER 51:29",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "os planos do SENHOR contra a Babilônia permanecem firmes",
+    "resumo": "Os planos do SENHOR tornam a Babilônia desolada"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JER-051:029-1",
+    "ref": "JER 51:29",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "os planos do SENHOR contra a Babilônia permanecem firmes",
+    "resumo": "Declaração de que os planos do SENHOR contra a Babilônia se cumprirão."
+   }
+  ]
+ },
+ {
+  "id": "F3-JER-107",
+  "livro": "JER",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JER 51:33",
+  "fim": "JER 51:33",
+  "texto": {
+   "JER 51:33": "Assim diz o SENHOR dos Exércitos, Deus de Israel: A filha da Babilônia é como uma eira no tempo em que é pisada; dentro de pouco tempo, chegará para ela o tempo da colheita."
+  },
+  "p1": [
+   {
+    "uid": "U1-JER-051:033-1",
+    "ref": "JER 51:33",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "dentro de pouco tempo, chegará para ela o tempo da colheita",
+    "resumo": "Em pouco tempo chega a colheita da Babilônia"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-JER-108",
+  "livro": "JER",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JER 51:48",
+  "fim": "JER 51:49",
+  "texto": {
+   "JER 51:48": "Os céus, a terra e tudo o que neles há gritarão de alegria sobre a Babilônia, pois do Norte virão contra ela os destruidores, diz o SENHOR.",
+   "JER 51:49": "Assim como a Babilônia fez cair os mortos de Israel, na Babilônia cairão os mortos de toda a terra."
+  },
+  "p1": [
+   {
+    "uid": "U1-JER-051:048-1",
+    "ref": "JER 51:48-51:49",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "do Norte virão contra ela os destruidores",
+    "resumo": "Destruidores vêm do Norte e na Babilônia caem os mortos de toda a terra"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-JER-109",
+  "livro": "JER",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JER 51:56",
+  "fim": "JER 51:57",
+  "texto": {
+   "JER 51:56": "O destruidor veio contra a Babilônia. Seus guerreiros foram capturados, e seus arcos, quebrados, pois o SENHOR é Deus de retribuições e certamente dará a recompensa.",
+   "JER 51:57": "Embriagarei seus príncipes, sábios, governadores, autoridades e guerreiros. Eles dormirão um sono eterno e não despertarão, declara o Rei, cujo nome é SENHOR dos Exércitos."
+  },
+  "p1": [
+   {
+    "uid": "U1-JER-051:056-1",
+    "ref": "JER 51:56-51:57",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "o SENHOR é Deus de retribuições",
+    "resumo": "O SENHOR dá recompensa à Babilônia e embriaga príncipes e guerreiros para sono eterno"
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-JER-110",
+  "livro": "JER",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JER 51:58",
+  "fim": "JER 51:58",
+  "texto": {
+   "JER 51:58": "Assim diz o SENHOR dos Exércitos: Os largos muros da Babilônia serão completamente arrasados, e suas altas portas serão incendiadas. Os povos trabalham em vão, e as nações se cansam apenas para alimentar o fogo."
+  },
+  "p1": [
+   {
+    "uid": "U1-JER-051:058-1",
+    "ref": "JER 51:58",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Os largos muros da Babilônia serão completamente arrasados",
+    "resumo": "Os muros da Babilônia são arrasados e as portas incendiadas"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JER-051:058-1",
+    "ref": "JER 51:58",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "Jeremias",
+    "ancora": "Os largos muros da Babilônia serão completamente arrasados",
+    "resumo": "O SENHOR anuncia a ruína dos muros e portas da Babilônia."
+   }
+  ]
+ },
+ {
+  "id": "F3-JER-111",
+  "livro": "JER",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JER 51:64",
+  "fim": "JER 51:64",
+  "texto": {
+   "JER 51:64": "Então diga: Assim a Babilônia afundará e não se levantará por causa da calamidade que trarei sobre ela. Seus habitantes ficarão exaustos. Até aqui vão as palavras de Jeremias."
+  },
+  "p1": [
+   {
+    "uid": "U1-JER-051:064-1",
+    "ref": "JER 51:64",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "nacoes_especificas",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Assim a Babilônia afundará",
+    "resumo": "A Babilônia afunda e não se levanta pela calamidade que o SENHOR traz"
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-JER-051:064-1",
+    "ref": "JER 51:64",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Assim a Babilônia afundará e não se levantará",
+    "resumo": "Ação simbólica anuncia que a Babilônia afundará e não se levantará."
+   }
+  ]
+ },
+ {
+  "id": "F3-JER-112",
+  "livro": "JER",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JER 1:9",
+  "fim": "JER 1:9",
+  "texto": {
+   "JER 1:9": "Então o SENHOR estendeu a mão, tocou minha boca e me disse: Eis que ponho minhas palavras em sua boca."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JER-001:009-1",
+    "ref": "JER 1:9",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "ponho minhas palavras em sua boca",
+    "resumo": "Deus promete colocar suas palavras na boca de Jeremias."
+   }
+  ]
+ },
+ {
+  "id": "F3-JER-113",
+  "livro": "JER",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JER 1:10",
+  "fim": "JER 1:10",
+  "texto": {
+   "JER 1:10": "Veja, hoje eu o estabeleço sobre nações e reinos, para arrancar e derrubar, para destruir e arruinar, para construir e plantar."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JER-001:010-1",
+    "ref": "JER 1:10",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "hoje eu o estabeleço sobre nações e reinos",
+    "resumo": "Deus estabelece Jeremias sobre nações e reinos para destruir e construir."
+   }
+  ]
+ },
+ {
+  "id": "F3-JER-114",
+  "livro": "JER",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JER 1:12",
+  "fim": "JER 1:12",
+  "texto": {
+   "JER 1:12": "O SENHOR me disse: Você viu bem, pois estou atento à minha palavra para cumpri-la."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JER-001:012-1",
+    "ref": "JER 1:12",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "estou atento à minha palavra para cumpri-la",
+    "resumo": "Deus garante que vigia sua palavra para cumpri-la."
+   }
+  ]
+ },
+ {
+  "id": "F3-JER-115",
+  "livro": "JER",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JER 4:16",
+  "fim": "JER 4:17",
+  "texto": {
+   "JER 4:16": "Façam menção disso às nações; proclamem contra Jerusalém: Sitiadores vêm de uma terra distante e levantam sua voz contra as cidades de Judá.",
+   "JER 4:17": "Como guardas de um campo, eles a cercam, porque ela se rebelou contra mim, declara o SENHOR."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JER-004:016-1",
+    "ref": "JER 4:16-4:17",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Sitiadores vêm de uma terra distante",
+    "resumo": "Sitiadores de uma terra distante cercarão Jerusalém porque ela se rebelou contra o SENHOR."
+   }
+  ]
+ },
+ {
+  "id": "F3-JER-116",
+  "livro": "JER",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JER 4:28",
+  "fim": "JER 4:28",
+  "texto": {
+   "JER 4:28": "Por isso, a terra lamentará, e os céus acima se escurecerão, pois falei, determinei e não mudarei de propósito nem voltarei atrás."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JER-004:028-1",
+    "ref": "JER 4:28",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "criacao",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "falei, determinei e não mudarei de propósito nem voltarei atrás",
+    "resumo": "O SENHOR determinou que a terra lamentará e os céus se escurecerão; não voltará atrás."
+   }
+  ]
+ },
+ {
+  "id": "F3-JER-117",
+  "livro": "JER",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JER 6:1",
+  "fim": "JER 6:1",
+  "texto": {
+   "JER 6:1": "Fujam para um lugar seguro, filhos de Benjamim, saindo do meio de Jerusalém! Toquem a trombeta em Tecoa e levantem um sinal de fogo sobre Bete-Haquerém, pois do norte se aproxima uma calamidade e uma grande destruição."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JER-006:001-1",
+    "ref": "JER 6:1",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "Jeremias",
+    "ancora": "do norte se aproxima uma calamidade e uma grande destruição",
+    "resumo": "Aproximação de calamidade e grande destruição vindas do norte."
+   }
+  ]
+ },
+ {
+  "id": "F3-JER-118",
+  "livro": "JER",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JER 6:6",
+  "fim": "JER 6:6",
+  "texto": {
+   "JER 6:6": "Pois assim diz o SENHOR dos Exércitos: Cortem árvores e levantem uma rampa de cerco contra Jerusalém. Esta é a cidade que deve ser castigada; só há opressão em seu meio."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JER-006:006-1",
+    "ref": "JER 6:6",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "Jeremias",
+    "ancora": "Pois assim diz o SENHOR dos Exércitos: Cortem árvores e levantem uma rampa de cerco contra Jerusalém",
+    "resumo": "O SENHOR ordena o cerco contra Jerusalém, cidade a ser castigada."
+   }
+  ]
+ },
+ {
+  "id": "F3-JER-119",
+  "livro": "JER",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JER 6:11",
+  "fim": "JER 6:11",
+  "texto": {
+   "JER 6:11": "Estou cheio do furor do SENHOR e cansado de contê-lo. Derrame-o sobre as crianças na rua e também sobre o grupo dos jovens, pois tanto o homem como a mulher serão capturados, o velho e o que está cheio de dias."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JER-006:011-1",
+    "ref": "JER 6:11",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Derrame-o sobre as crianças na rua e também sobre o grupo dos jovens",
+    "resumo": "O furor do SENHOR será derramado sobre todos, sem distinção de idade."
+   }
+  ]
+ },
+ {
+  "id": "F3-JER-120",
+  "livro": "JER",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JER 6:27",
+  "fim": "JER 6:27",
+  "texto": {
+   "JER 6:27": "Eu o coloquei como examinador e fortaleza entre meu povo, para que você conheça e examine o caminho deles."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JER-006:027-1",
+    "ref": "JER 6:27",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Eu o coloquei como examinador e fortaleza entre meu povo",
+    "resumo": "Deus constituiu Jeremias examinador do povo."
+   }
+  ]
+ },
+ {
+  "id": "F3-JER-121",
+  "livro": "JER",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JER 6:28",
+  "fim": "JER 6:30",
+  "texto": {
+   "JER 6:28": "Todos eles são extremamente rebeldes e andam espalhando calúnias. São bronze e ferro; todos agem de maneira corrupta.",
+   "JER 6:29": "O fole sopra ferozmente, e o chumbo é consumido pelo fogo. Em vão o refinador continua refinando, pois os perversos não são removidos.",
+   "JER 6:30": "Serão chamados prata rejeitada, pois o SENHOR os rejeitou."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JER-006:028-1",
+    "ref": "JER 6:28-6:30",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Serão chamados prata rejeitada, pois o SENHOR os rejeitou",
+    "resumo": "O povo é metal corrupto e será chamado prata rejeitada."
+   }
+  ]
+ },
+ {
+  "id": "F3-JER-122",
+  "livro": "JER",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JER 8:10",
+  "fim": "JER 8:10",
+  "texto": {
+   "JER 8:10": "Por isso, darei suas mulheres a outros e seus campos a novos possuidores, pois, desde o menor até o maior, todos são ávidos por lucro injusto; desde o profeta até o sacerdote, todos praticam a falsidade."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JER-008:010-2",
+    "ref": "JER 8:10",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "e seus campos a novos possuidores",
+    "resumo": "Juízo: Deus entregará os campos de Judá a novos possuidores."
+   }
+  ]
+ },
+ {
+  "id": "F3-JER-123",
+  "livro": "JER",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JER 9:10",
+  "fim": "JER 9:10",
+  "texto": {
+   "JER 9:10": "Levantarei choro e lamentação sobre os montes, e pranto sobre as pastagens do deserto, pois foram queimadas, e ninguém passa por elas. Já não se ouve a voz do gado; desde as aves dos céus até os animais, todos fugiram e foram embora."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JER-009:010-1",
+    "ref": "JER 9:10",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "criacao",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Levantarei choro e lamentação sobre os montes",
+    "resumo": "Lamentação e desolação sobre montes e pastagens"
+   }
+  ]
+ },
+ {
+  "id": "F3-JER-124",
+  "livro": "JER",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JER 10:11",
+  "fim": "JER 10:11",
+  "texto": {
+   "JER 10:11": "Assim vocês lhes dirão: Os deuses que não fizeram os céus e a terra desaparecerão da terra e de debaixo destes céus."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JER-010:011-1",
+    "ref": "JER 10:11",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "indeterminado",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "Os deuses que não fizeram os céus e a terra desaparecerão da terra e de debaixo destes céus.",
+    "resumo": "Os deuses que não fizeram os céus e a terra desaparecerão da terra e de debaixo destes céus."
+   }
+  ]
+ },
+ {
+  "id": "F3-JER-125",
+  "livro": "JER",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JER 11:4",
+  "fim": "JER 11:4",
+  "texto": {
+   "JER 11:4": "que ordenei a seus pais no dia em que os tirei da terra do Egito, da fornalha de ferro, dizendo: Ouçam minha voz e cumpram tudo o que lhes ordeno. Então vocês serão meu povo, e eu serei seu Deus,"
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JER-011:004-1",
+    "ref": "JER 11:4",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "explicita",
+    "promitente": null,
+    "ancora": "Então vocês serão meu povo, e eu serei seu Deus",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-JER-126",
+  "livro": "JER",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JER 11:5",
+  "fim": "JER 11:5",
+  "texto": {
+   "JER 11:5": "para que eu confirme o juramento que fiz a seus pais, de lhes dar uma terra que mana leite e mel, como se vê neste dia. Então respondi: Amém, SENHOR."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JER-011:005-1",
+    "ref": "JER 11:5",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "para que eu confirme o juramento que fiz a seus pais, de lhes dar uma terra que mana leite e mel",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-JER-127",
+  "livro": "JER",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JER 11:16",
+  "fim": "JER 11:17",
+  "texto": {
+   "JER 11:16": "O SENHOR chamou você de oliveira verde, bela e de bons frutos. Mas, ao som de um grande tumulto, acendeu fogo ao redor dela, e seus ramos foram quebrados.",
+   "JER 11:17": "O SENHOR dos Exércitos, que plantou você, pronunciou calamidade contra você por causa do mal que a casa de Israel e a casa de Judá fizeram contra si mesmas, provocando-me à ira ao queimar incenso a Baal."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JER-011:016-1",
+    "ref": "JER 11:16-11:17",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "acendeu fogo ao redor dela, e seus ramos foram quebrados",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-JER-128",
+  "livro": "JER",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JER 14:13",
+  "fim": "JER 14:13",
+  "texto": {
+   "JER 14:13": "Então eu disse: Ah, Senhor SENHOR! Eis que os profetas lhes dizem: Vocês não verão espada nem sofrerão fome; antes, eu lhes darei paz verdadeira neste lugar."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JER-014:013-1",
+    "ref": "JER 14:13",
+    "tipo": "promessa",
+    "origem": "adversaria_ou_falsa",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "os profetas",
+    "ancora": "eu lhes darei paz verdadeira neste lugar",
+    "resumo": "Promessa falsa anunciada pelos profetas ao povo, citada por Jeremias."
+   }
+  ]
+ },
+ {
+  "id": "F3-JER-129",
+  "livro": "JER",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JER 15:19",
+  "fim": "JER 15:19",
+  "texto": {
+   "JER 15:19": "Portanto, assim diz o SENHOR: Se você voltar, eu o restaurarei, e você permanecerá diante de mim. Se separar o precioso do que não tem valor, será como minha boca. Eles voltarão para você, mas você não voltará para eles."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JER-015:019-2",
+    "ref": "JER 15:19",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "explicita",
+    "promitente": null,
+    "ancora": "Se separar o precioso do que não tem valor, será como minha boca",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-JER-130",
+  "livro": "JER",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JER 15:19",
+  "fim": "JER 15:19",
+  "texto": {
+   "JER 15:19": "Portanto, assim diz o SENHOR: Se você voltar, eu o restaurarei, e você permanecerá diante de mim. Se separar o precioso do que não tem valor, será como minha boca. Eles voltarão para você, mas você não voltará para eles."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JER-015:019-3",
+    "ref": "JER 15:19",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "nenhuma",
+    "promitente": null,
+    "ancora": "Eles voltarão para você, mas você não voltará para eles",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-JER-131",
+  "livro": "JER",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JER 16:5",
+  "fim": "JER 16:7",
+  "texto": {
+   "JER 16:5": "Pois assim diz o SENHOR: Não entre numa casa de luto, nem vá lamentar ou demonstrar compaixão por eles, porque retirei deste povo minha paz, meu amor leal e minha misericórdia, declara o SENHOR.",
+   "JER 16:6": "Grandes e pequenos morrerão nesta terra e não serão sepultados. Ninguém os lamentará, nem fará cortes no corpo ou raspará a cabeça por causa deles.",
+   "JER 16:7": "Ninguém repartirá pão com os enlutados para consolá-los por causa do morto, nem lhes dará a taça de consolação para beberem pela morte do pai ou da mãe."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JER-016:005-1",
+    "ref": "JER 16:5-16:7",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "pai",
+    "ancora": "retirei deste povo minha paz, meu amor leal e minha misericórdia",
+    "resumo": "Deus retira deste povo paz, amor leal e misericórdia, e grandes e pequenos morrerão sem lamentação ou sepultura."
+   }
+  ]
+ },
+ {
+  "id": "F3-JER-132",
+  "livro": "JER",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JER 17:24",
+  "fim": "JER 17:26",
+  "texto": {
+   "JER 17:24": "Mas, se vocês me ouvirem diligentemente, declara o SENHOR, não trouxerem peso pelas portas desta cidade no dia de sábado e santificarem o dia de sábado, não fazendo nele trabalho algum,",
+   "JER 17:25": "então entrarão pelas portas desta cidade reis e príncipes que se assentam sobre o trono de Davi. Eles virão em carros e sobre cavalos, acompanhados de seus príncipes, dos homens de Judá e dos habitantes de Jerusalém, e esta cidade será habitada para sempre.",
+   "JER 17:26": "Virão das cidades de Judá, dos arredores de Jerusalém, da terra de Benjamim, da planície, da região montanhosa e do sul, trazendo holocaustos, sacrifícios, ofertas de cereal, incenso e sacrifícios de gratidão à casa do SENHOR."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JER-017:024-1",
+    "ref": "JER 17:24-17:26",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": "explicita",
+    "promitente": null,
+    "ancora": "se vocês me ouvirem diligentemente",
+    "resumo": "Se o povo ouvir ao SENHOR e santificar o sábado, reis se assentarão no trono de Davi e a cidade será habitada para sempre, com ofertas trazidas ao templo."
+   }
+  ]
+ },
+ {
+  "id": "F3-JER-133",
+  "livro": "JER",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JER 20:4",
+  "fim": "JER 20:4",
+  "texto": {
+   "JER 20:4": "Pois assim diz o SENHOR: Eis que farei de você motivo de terror para si mesmo e para todos os seus amigos. Eles cairão pela espada de seus inimigos, e seus olhos o verão. Entregarei todo o Judá nas mãos do rei da Babilônia, que os levará cativos para a Babilônia e os ferirá à espada."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JER-020:004-2",
+    "ref": "JER 20:4",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": null,
+    "ancora": "Entregarei todo o Judá nas mãos do rei da Babilônia",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-JER-134",
+  "livro": "JER",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JER 20:5",
+  "fim": "JER 20:5",
+  "texto": {
+   "JER 20:5": "Entregarei nas mãos de seus inimigos todos os bens desta cidade, todo o fruto de seu trabalho, todas as suas coisas preciosas e todos os tesouros dos reis de Judá. Eles os saquearão, tomarão e levarão para a Babilônia."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JER-020:005-1",
+    "ref": "JER 20:5",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": "nenhuma",
+    "promitente": null,
+    "ancora": "Entregarei nas mãos de seus inimigos todos os bens desta cidade",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-JER-135",
+  "livro": "JER",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JER 20:6",
+  "fim": "JER 20:6",
+  "texto": {
+   "JER 20:6": "E você, Pasur, e todos os moradores de sua casa irão para o cativeiro. Você chegará à Babilônia, morrerá e será sepultado ali, você e todos os seus amigos aos quais profetizou falsamente."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JER-020:006-1",
+    "ref": "JER 20:6",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "familia_ou_linhagem",
+    "condicao": "nenhuma",
+    "promitente": null,
+    "ancora": "Você chegará à Babilônia, morrerá e será sepultado ali",
+    "resumo": "(resumo não informado pelo leitor)"
+   }
+  ]
+ },
+ {
+  "id": "F3-JER-136",
+  "livro": "JER",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JER 21:9",
+  "fim": "JER 21:9",
+  "texto": {
+   "JER 21:9": "Quem permanecer nesta cidade morrerá pela espada, pela fome ou pela peste. Mas quem sair e se render aos caldeus que os cercam viverá e terá sua vida como despojo."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JER-021:009-1",
+    "ref": "JER 21:9",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": "explicita",
+    "promitente": null,
+    "ancora": "Quem permanecer nesta cidade morrerá pela espada, pela fome ou pela peste",
+    "resumo": "Quem ficar na cidade morrerá por espada, fome ou peste."
+   }
+  ]
+ },
+ {
+  "id": "F3-JER-137",
+  "livro": "JER",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JER 21:9",
+  "fim": "JER 21:9",
+  "texto": {
+   "JER 21:9": "Quem permanecer nesta cidade morrerá pela espada, pela fome ou pela peste. Mas quem sair e se render aos caldeus que os cercam viverá e terá sua vida como despojo."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JER-021:009-2",
+    "ref": "JER 21:9",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "pessoa",
+    "condicao": "explicita",
+    "promitente": null,
+    "ancora": "Mas quem sair e se render aos caldeus que os cercam viverá e terá sua vida como despojo",
+    "resumo": "Quem se render aos caldeus viverá e preservará a vida."
+   }
+  ]
+ },
+ {
+  "id": "F3-JER-138",
+  "livro": "JER",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Flash",
+  "arbitro_designado": "gemini",
+  "ini": "JER 21:10",
+  "fim": "JER 21:10",
+  "texto": {
+   "JER 21:10": "Pois coloquei meu rosto contra esta cidade para o mal, e não para o bem, declara o SENHOR. Ela será entregue nas mãos do rei da Babilônia, e ele a queimará com fogo."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-JER-021:010-1",
+    "ref": "JER 21:10",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "coloquei meu rosto contra esta cidade para o mal",
+    "resumo": "Deus decidiu entregar a cidade para o mal; ela será queimada pela Babilônia."
+   }
+  ]
+ }
+]

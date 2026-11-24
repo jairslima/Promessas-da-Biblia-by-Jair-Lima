@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Observatório das Promessas Bíblicas | Biblical Promises Observatory — by Jair Lima</title>
+  <style>
+    :root {
+      --primary: #1e3a5f;
+      --gold: #8b6914;
+      --bg: #f5f7fa;
+      --card: #ffffff;
+      --text: #1a202c;
+      --muted: #4a5568;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: 'Segoe UI', system-ui, -apple-system, sans-serif; background: var(--bg); color: var(--text); line-height: 1.55; }
+    header { background: linear-gradient(135deg, #13294b 0%, #1e3a5f 100%); color: #fff; padding: 2.2rem 1.5rem; text-align: center; border-bottom: 4px solid #d4ac0d; }
+    header h1 { font-size: 1.95rem; margin-bottom: 0.4rem; letter-spacing: 0.3px; }
+    header p { color: #e2e8f0; max-width: 880px; margin: 0 auto 1rem; font-size: 1rem; }
+    .topbar { display: flex; justify-content: center; gap: 0.75rem; flex-wrap: wrap; margin-top: 0.8rem; }
+    .btn { display: inline-block; padding: 0.5rem 1rem; border-radius: 6px; font-weight: 600; font-size: 0.88rem; text-decoration: none; cursor: pointer; border: 1px solid transparent; transition: 0.15s; }
+    .btn-gold { background: #d4ac0d; color: #13294b; }
+    .btn-outline { background: rgba(255,255,255,0.12); color: #fff; border-color: rgba(255,255,255,0.35); }
+    .btn:hover { opacity: 0.92; }
+    main { max-width: 1280px; margin: 1.8rem auto; padding: 0 1.2rem; }
+    .kpi-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(195px, 1fr)); gap: 1rem; margin-bottom: 2rem; }
+    .kpi { background: var(--card); border: 1px solid var(--border); border-top: 4px solid var(--primary); border-radius: 8px; padding: 1.1rem; text-align: center; box-shadow: 0 1px 3px rgba(0,0,0,0.04); }
+    .kpi.highlight { border-top-color: #d4ac0d; }
+    .kpi .label { font-size: 0.78rem; text-transform: uppercase; color: var(--muted); font-weight: 700; letter-spacing: 0.5px; }
+    .kpi .value { font-size: 1.85rem; font-weight: 800; color: var(--primary); margin: 0.25rem 0; }
+    .kpi.highlight .value { color: var(--gold); }
+    .kpi .sub { font-size: 0.8rem; color: var(--muted); }
+    section { background: var(--card); border: 1px solid var(--border); border-radius: 10px; padding: 1.5rem; margin-bottom: 1.8rem; box-shadow: 0 1px 3px rgba(0,0,0,0.04); }
+    section h2 { font-size: 1.3rem; color: var(--primary); margin-bottom: 1rem; border-bottom: 2px solid var(--border); padding-bottom: 0.5rem; }
+    .filters { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 0.8rem; margin-bottom: 1rem; }
+    .filters input, .filters select { width: 100%; padding: 0.55rem 0.75rem; border: 1px solid #cbd5e0; border-radius: 6px; font-size: 0.9rem; }
+    .table-wrap { overflow-x: auto; max-height: 620px; overflow-y: auto; border: 1px solid var(--border); border-radius: 6px; }
+    table { width: 100%; border-collapse: collapse; font-size: 0.86rem; }
+    th, td { padding: 0.6rem 0.75rem; border-bottom: 1px solid var(--border); text-align: left; vertical-align: top; }
+    th { background: #f1f5f9; color: var(--primary); position: sticky; top: 0; z-index: 2; font-weight: 700; }
+    tr:hover { background: #f8fafc; }
+    .badge { display: inline-block; padding: 0.15rem 0.5rem; border-radius: 4px; font-size: 0.75rem; font-weight: 600; background: #e2e8f0; color: #1e293b; }
+    .badge.bencao { background: #dbeafe; color: #1e40af; }
+    .badge.juizo { background: #fee2e2; color: #991b1b; }
+    .charts-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(380px, 1fr)); gap: 1.2rem; }
+    .charts-grid img { width: 100%; height: auto; border: 1px solid var(--border); border-radius: 8px; }
+    .citation-box { background: #f8fafc; border-left: 4px solid var(--primary); padding: 1rem; font-family: Consolas, monospace; font-size: 0.85rem; white-space: pre-wrap; margin-top: 0.6rem; }
+    footer { text-align: center; padding: 2rem 1rem; color: var(--muted); font-size: 0.85rem; border-top: 1px solid var(--border); }
+  </style>
+</head>
+<body>
+  <header>
+    <h1 id="t-title">Observatório das Promessas Bíblicas <span style="font-weight:400;font-size:1.1rem;">by Jair Lima</span></h1>
+    <p id="t-sub">Base científica aberta, auditável e reprodutível das 3.224 unidades promissórias confirmadas (2.945 promessas distintas) nos 66 livros, 1.189 capítulos e 31.104 versículos da Bíblia Almeida Livre.</p>
+    <div class="topbar">
+      <button class="btn btn-gold" onclick="setLang('pt')">Português (PT-BR)</button>
+      <button class="btn btn-outline" onclick="setLang('en')">English (EN)</button>
+      <a class="btn btn-outline" href="../catalogo-digital-completo.csv" download>Baixar CSV (3.224 registros)</a>
+      <a class="btn btn-outline" href="../catalogo-digital-completo.xlsx" download>Baixar Excel (.XLSX)</a>
+      <a class="btn btn-outline" href="../ARTIGO_CIENTIFICO_PROMESSAS_DA_BIBLIA.md">Artigo Científico (PT/EN)</a>
+      <a class="btn btn-outline" href="../MEMORIA_DE_CALCULO.md">Memória de Cálculo</a>
+    </div>
+  </header>
+
+  <main>
+    <div class="kpi-grid" id="kpi-container"></div>
+
+    <section>
+      <h2 id="t-search-heading">Consulta Interativa às 3.224 Unidades Promissórias Confirmadas</h2>
+      <div class="filters">
+        <input type="text" id="f-busca" placeholder="Pesquisar referência, objeto prometido, promitente..." oninput="filtrar()" />
+        <select id="f-livro" onchange="filtrar()"><option value="">Todos os 66 livros</option></select>
+        <select id="f-cat" onchange="filtrar()"><option value="">Todas as 10 categorias</option></select>
+        <select id="f-nat" onchange="filtrar()">
+          <option value="">Todas as naturezas</option>
+          <option value="bencao">Bênção / Benefício</option>
+          <option value="juizo">Juízo / Prejuízo</option>
+        </select>
+        <select id="f-prom" onchange="filtrar()"><option value="">Todos os promitentes / comunicadores</option></select>
+        <select id="f-dest" onchange="filtrar()"><option value="">Todos os destinatários</option></select>
+      </div>
+      <p id="contagem-filtro" style="font-size:0.88rem;color:var(--muted);margin-bottom:0.6rem;font-weight:600;"></p>
+      <div class="table-wrap">
+        <table>
+          <thead>
+            <tr>
+              <th>ID</th>
+              <th>Referência</th>
+              <th>Categoria</th>
+              <th>Objeto Prometido (Resumo Exegético)</th>
+              <th>Promitente (e Comunicador)</th>
+              <th>Destinatário</th>
+              <th>Via de Confirmação</th>
+              <th>Cap. no Livro</th>
+            </tr>
+          </thead>
+          <tbody id="tabela-corpo"></tbody>
+        </table>
+      </div>
+    </section>
+
+    <section>
+      <h2 id="t-charts-heading">Painel Visual e Conciliação Metodológica das Três Fases</h2>
+      <div class="charts-grid">
+        <img src="graficos/grafico_01_painel_geral_cor.png" alt="Painel Geral" />
+        <img src="graficos/grafico_02_dez_categorias_cor.png" alt="Dez Categorias" />
+        <img src="graficos/grafico_03_funil_conciliacao_cor.png" alt="Funil das Três Fases" />
+        <img src="graficos/grafico_04_top15_livros_cor.png" alt="Top 15 Livros" />
+        <img src="graficos/grafico_05_divisoes_canon_cor.png" alt="Divisões do Cânon" />
+        <img src="graficos/grafico_06_sensibilidade_e_comparacao_cor.png" alt="Sensibilidade e Comparação com Storms" />
+      </div>
+    </section>
+
+    <section>
+      <h2 id="t-book-heading">Sobre o Livro Comercial e Como Citar a Pesquisa Científica</h2>
+      <p id="t-book-desc" style="margin-bottom:0.8rem;">
+        Esta base científica fundamenta o livro <strong>As 3 Mil Promessas da Bíblia: Da criação à eternidade: a história de um Deus que cumpre sua Palavra</strong>, de <strong>Jair Lima</strong> (Lima Editora do Brasil, 2026, 7 partes, 53 capítulos). O texto narrativo e exegético do livro é uma obra comercial protegida por direitos autorais e não é distribuído gratuitamente neste repositório; aqui estão integralmente abertos (CC BY 4.0) todos os dados científicos, catálogos, scripts de validação e evidências de arbitragem para verificação acadêmica.
+      </p>
+      <div class="citation-box">LIMA, Jair. Quantas promessas existem na Bíblia? Uma análise computacional e exegética dos 66 livros do cânon protestante (Dataset &amp; Catálogo v1.0.0 — 3.224 unidades confirmadas / 2.945 promessas distintas). Três Coroas: Lima Editora do Brasil, 2026. Corpus: Bíblia Almeida Livre (CC BY-ND 4.0).</div>
+    </section>
+  </main>
+
+  <footer>
+    Observatório das Promessas Bíblicas by Jair Lima (2026) • Dados calculados dinamicamente de <code>catalogo/*/*.jsonl</code> • Licença dos metadados: CC BY 4.0 • Código: MIT License.
+  </footer>
+
+  <script src="dados_observatorio.js"></script>
+  <script>
+    const D = window.DADOS_OBSERVATORIO;
+    const M = D.meta;
+    let LANG = 'pt';
+
+    function fmt(n) { return n.toLocaleString(LANG === 'pt' ? 'pt-BR' : 'en-US'); }
+
+    function renderKPIs() {
+      const kpis = LANG === 'pt' ? [
+        { l: 'Corpus Examinado', v: `${M.livros} Livros`, s: `${fmt(M.capitulos)} capítulos • ${fmt(M.versiculos_corpus)} versículos (100%)`, h: false },
+        { l: 'Unidades Confirmadas', v: fmt(M.unidades_confirmadas), s: `De ${fmt(M.candidatas_iniciais)} candidatas iniciais (${M.pendentes} pendentes)`, h: true },
+        { l: 'Promessas Distintas', v: fmt(M.promessas_distintas), s: `Limiar Jaccard 0,45 (até ${fmt(M.promessas_distintas_revocacao)} c/ revocação)`, h: true },
+        { l: 'Bênção Divina', v: fmt(M.bencao_unidades), s: `${fmt(M.bencao_distintas)} promessas distintas de bênção`, h: true },
+        { l: 'Cobertura Bíblica', v: `${fmt(M.versiculos_com_promessa)} vers.`, s: `${M.percentual_corpus}% de toda a Bíblia contém promessas`, h: false },
+        { l: 'Auditoria em 3 Fases', v: `${fmt(M.acordo_direto)} + ${fmt(M.arbitragem_fase3)}`, s: `1.211 acordo direto • 2.013 arbitragem Fase 3`, h: false }
+      ] : [
+        { l: 'Examined Corpus', v: `${M.livros} Books`, s: `${fmt(M.capitulos)} chapters • ${fmt(M.versiculos_corpus)} verses (100%)`, h: false },
+        { l: 'Confirmed Units', v: fmt(M.unidades_confirmadas), s: `From ${fmt(M.candidatas_iniciais)} initial candidates (${M.pendentes} pending)`, h: true },
+        { l: 'Distinct Promises', v: fmt(M.promessas_distintas), s: `Jaccard 0.45 (up to ${fmt(M.promessas_distintas_revocacao)} recall-adjusted)`, h: true },
+        { l: 'Divine Blessing', v: fmt(M.bencao_unidades), s: `${fmt(M.bencao_distintas)} distinct promises of blessing`, h: true },
+        { l: 'Biblical Coverage', v: `${fmt(M.versiculos_com_promessa)} verses`, s: `${M.percentual_corpus}% of the entire Bible contains promises`, h: false },
+        { l: '3-Phase Audit', v: `${fmt(M.acordo_direto)} + ${fmt(M.arbitragem_fase3)}`, s: `1,211 direct agreement • 2,013 Phase-3 arbitrated`, h: false }
+      ];
+      document.getElementById('kpi-container').innerHTML = kpis.map(k => `
+        <div class="kpi ${k.h ? 'highlight' : ''}">
+          <div class="label">${k.l}</div>
+          <div class="value">${k.v}</div>
+          <div class="sub">${k.s}</div>
+        </div>
+      `).join('');
+    }
+
+    function popularSelects() {
+      const livros = [...new Set(D.registros.map(r => r.liv))];
+      const cats = [...new Set(D.registros.map(r => r.cat))].sort();
+      const proms = [...new Set(D.registros.map(r => r.prom))].sort();
+      const dests = [...new Set(D.registros.map(r => r.dest))].sort();
+
+      const selLiv = document.getElementById('f-livro');
+      livros.forEach(l => { const o = document.createElement('option'); o.value = l; o.textContent = l; selLiv.appendChild(o); });
+      const selCat = document.getElementById('f-cat');
+      cats.forEach(c => { const o = document.createElement('option'); o.value = c; o.textContent = c; selCat.appendChild(o); });
+      const selProm = document.getElementById('f-prom');
+      proms.forEach(p => { const o = document.createElement('option'); o.value = p; o.textContent = p; selProm.appendChild(o); });
+      const selDest = document.getElementById('f-dest');
+      dests.forEach(d => { const o = document.createElement('option'); o.value = d; o.textContent = d; selDest.appendChild(o); });
+    }
+
+    function filtrar() {
+      const q = document.getElementById('f-busca').value.trim().toLowerCase();
+      const liv = document.getElementById('f-livro').value;
+      const cat = document.getElementById('f-cat').value;
+      const nat = document.getElementById('f-nat').value;
+      const prom = document.getElementById('f-prom').value;
+      const dest = document.getElementById('f-dest').value;
+
+      const filtrados = D.registros.filter(r => {
+        if (liv && r.liv !== liv) return false;
+        if (cat && r.cat !== cat) return false;
+        if (nat && r.nat !== nat) return false;
+        if (prom && r.prom !== prom) return false;
+        if (dest && r.dest !== dest) return false;
+        if (q && !(r.id.toLowerCase().includes(q) || r.ref.toLowerCase().includes(q) || r.obj.toLowerCase().includes(q) || r.prom.toLowerCase().includes(q) || r.dest.toLowerCase().includes(q))) return false;
+        return true;
+      });
+
+      document.getElementById('contagem-filtro').textContent = LANG === 'pt'
+        ? `Exibindo ${fmt(filtrados.length)} de ${fmt(D.registros.length)} unidades promissórias confirmadas.`
+        : `Showing ${fmt(filtrados.length)} of ${fmt(D.registros.length)} confirmed promissory units.`;
+
+      const maxExibir = 600;
+      const fatia = filtrados.slice(0, maxExibir);
+      document.getElementById('tabela-corpo').innerHTML = fatia.map(r => `
+        <tr>
+          <td><strong>${r.id}</strong></td>
+          <td style="white-space:nowrap;">${r.ref}</td>
+          <td><span class="badge ${r.nat}">${r.cat}</span></td>
+          <td>${r.obj}</td>
+          <td>${r.prom}</td>
+          <td>${r.dest}</td>
+          <td>${r.via}</td>
+          <td>${r.cap}</td>
+        </tr>
+      `).join('');
+    }
+
+    function setLang(l) {
+      LANG = l;
+      document.getElementById('t-title').innerHTML = l === 'pt'
+        ? 'Observatório das Promessas Bíblicas <span style="font-weight:400;font-size:1.1rem;">by Jair Lima</span>'
+        : 'Biblical Promises Observatory <span style="font-weight:400;font-size:1.1rem;">by Jair Lima</span>';
+      document.getElementById('t-sub').textContent = l === 'pt'
+        ? 'Base científica aberta, auditável e reprodutível das 3.224 unidades promissórias confirmadas (2.945 promessas distintas) nos 66 livros, 1.189 capítulos e 31.104 versículos da Bíblia Almeida Livre.'
+        : 'Open, auditable, and reproducible scientific dataset of the 3,224 confirmed promissory units (2,945 distinct promises) across the 66 books, 1,189 chapters, and 31,104 verses of the Bíblia Almeida Livre.';
+      document.getElementById('t-search-heading').textContent = l === 'pt'
+        ? 'Consulta Interativa às 3.224 Unidades Promissórias Confirmadas'
+        : 'Interactive Explorer of the 3,224 Confirmed Promissory Units';
+      document.getElementById('t-charts-heading').textContent = l === 'pt'
+        ? 'Painel Visual e Conciliação Metodológica das Três Fases'
+        : 'Visual Dashboard and Three-Phase Methodological Reconciliation';
+      renderKPIs();
+      filtrar();
+    }
+
+    popularSelects();
+    renderKPIs();
+    filtrar();
+  </script>
+</body>
+</html>

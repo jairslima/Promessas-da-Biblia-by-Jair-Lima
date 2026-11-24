@@ -1,0 +1,1840 @@
+[
+ {
+  "id": "F3-ROM-016",
+  "livro": "ROM",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "ROM 1:18",
+  "fim": "ROM 1:23",
+  "texto": {
+   "ROM 1:18": "A ira de Deus é revelada do céu contra toda impiedade e injustiça dos homens que suprimem a verdade pela injustiça,",
+   "ROM 1:19": "porque aquilo que se pode conhecer de Deus está manifesto entre eles, pois Deus lhes manifestou.",
+   "ROM 1:20": "Desde a criação do mundo, seus atributos invisíveis, seu eterno poder e sua divindade, são claramente percebidos por meio das coisas criadas, de modo que eles são indesculpáveis.",
+   "ROM 1:21": "Embora conhecessem a Deus, não o glorificaram como Deus nem lhe deram graças. Pelo contrário, tornaram-se vazios em seus pensamentos, e seu coração insensato foi obscurecido.",
+   "ROM 1:22": "Afirmando ser sábios, tornaram-se loucos,",
+   "ROM 1:23": "e trocaram a glória do Deus incorruptível por imagens semelhantes ao homem corruptível, às aves, aos quadrúpedes e aos répteis."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ROM-001:018-1",
+    "ref": "ROM 1:18-1:23",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": "contextual",
+    "promitente": "Paulo",
+    "ancora": "A ira de Deus é revelada do céu",
+    "resumo": "A ira de Deus se manifesta contra a impiedade e a injustiça dos que suprimem a verdade."
+   }
+  ]
+ },
+ {
+  "id": "F3-ROM-017",
+  "livro": "ROM",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "ROM 1:32",
+  "fim": "ROM 1:32",
+  "texto": {
+   "ROM 1:32": "Embora conheçam o justo decreto de Deus, de que os que praticam tais coisas são dignos de morte, não apenas as praticam, mas também aprovam os que as praticam."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ROM-001:032-1",
+    "ref": "ROM 1:32",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": "explicita",
+    "promitente": "Paulo",
+    "ancora": "os que praticam tais coisas são dignos de morte",
+    "resumo": "O decreto de Deus estabelece a morte como pena para os que praticam os atos descritos."
+   }
+  ]
+ },
+ {
+  "id": "F3-ROM-018",
+  "livro": "ROM",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "ROM 2:5",
+  "fim": "ROM 2:5",
+  "texto": {
+   "ROM 2:5": "Mas, segundo tua dureza e teu coração impenitente, acumulas ira para ti no dia da ira e da revelação do justo juízo de Deus,"
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ROM-002:005-1",
+    "ref": "ROM 2:5",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": "explicita",
+    "promitente": "Paulo",
+    "ancora": "acumulas ira para ti no dia da ira",
+    "resumo": "O interlocutor acumula ira para si no dia do juízo por sua dureza e impenitência."
+   }
+  ]
+ },
+ {
+  "id": "F3-ROM-019",
+  "livro": "ROM",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "ROM 2:12",
+  "fim": "ROM 2:12",
+  "texto": {
+   "ROM 2:12": "Todos os que pecaram sem lei também perecerão sem lei, e todos os que pecaram sob a lei serão julgados pela lei."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ROM-002:012-1",
+    "ref": "ROM 2:12",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": "explicita",
+    "promitente": "Paulo",
+    "ancora": "Todos os que pecaram sem lei também perecerão sem lei",
+    "resumo": "Os que pecaram sem lei perecerão sem lei."
+   }
+  ]
+ },
+ {
+  "id": "F3-ROM-020",
+  "livro": "ROM",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "ROM 2:12",
+  "fim": "ROM 2:12",
+  "texto": {
+   "ROM 2:12": "Todos os que pecaram sem lei também perecerão sem lei, e todos os que pecaram sob a lei serão julgados pela lei."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ROM-002:012-2",
+    "ref": "ROM 2:12",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": "explicita",
+    "promitente": "Paulo",
+    "ancora": "todos os que pecaram sob a lei serão julgados pela lei",
+    "resumo": "Os que pecaram sob a lei serão julgados pela lei."
+   }
+  ]
+ },
+ {
+  "id": "F3-ROM-021",
+  "livro": "ROM",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "ROM 2:13",
+  "fim": "ROM 2:13",
+  "texto": {
+   "ROM 2:13": "Porque não são justos diante de Deus os que apenas ouvem a lei, mas os que praticam a lei serão justificados."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ROM-002:013-1",
+    "ref": "ROM 2:13",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "explicita",
+    "promitente": "Paulo",
+    "ancora": "os que praticam a lei serão justificados",
+    "resumo": "Serão justificados os que praticam a lei."
+   }
+  ]
+ },
+ {
+  "id": "F3-ROM-022",
+  "livro": "ROM",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "ROM 4:5",
+  "fim": "ROM 4:5",
+  "texto": {
+   "ROM 4:5": "Mas, ao que não trabalha, porém crê naquele que justifica o ímpio, sua fé é atribuída como justiça."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ROM-004:005-1",
+    "ref": "ROM 4:5",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "explicita",
+    "promitente": "Paulo",
+    "ancora": "sua fé é atribuída como justiça",
+    "resumo": "Deus atribui como justiça a fé de quem crê nele sem recorrer às obras."
+   }
+  ]
+ },
+ {
+  "id": "F3-ROM-023",
+  "livro": "ROM",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "ROM 4:11",
+  "fim": "ROM 4:12",
+  "texto": {
+   "ROM 4:11": "Ele recebeu o sinal da circuncisão como selo da justiça da fé que possuía ainda incircunciso, para que fosse pai de todos os que creem sem serem circuncidados, a fim de que a justiça também lhes seja atribuída,",
+   "ROM 4:12": "e pai dos circuncidados que não somente pertencem à circuncisão, mas também seguem os passos da fé que nosso pai Abraão tinha quando ainda era incircunciso."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ROM-004:011-1",
+    "ref": "ROM 4:11-4:12",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "contextual",
+    "promitente": "Paulo",
+    "ancora": "a fim de que a justiça também lhes seja atribuída",
+    "resumo": "A justiça é atribuída aos que participam da fé de Abraão, incluindo os incircuncisos."
+   }
+  ]
+ },
+ {
+  "id": "F3-ROM-024",
+  "livro": "ROM",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "ROM 4:13",
+  "fim": "ROM 4:16",
+  "texto": {
+   "ROM 4:13": "A promessa de que seria herdeiro do mundo não foi feita a Abraão ou à sua descendência por meio da lei, mas pela justiça da fé.",
+   "ROM 4:14": "Pois, se os que pertencem à lei são herdeiros, a fé fica vazia e a promessa é anulada.",
+   "ROM 4:15": "Porque a lei produz ira, mas onde não há lei também não há transgressão.",
+   "ROM 4:16": "Portanto, a promessa procede da fé, para que seja segundo a graça e permaneça firme para toda a descendência, não somente para a que pertence à lei, mas também para a que participa da fé de Abraão, que é pai de todos nós."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ROM-004:013-1",
+    "ref": "ROM 4:13-4:16",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "familia_ou_linhagem",
+    "condicao": "contextual",
+    "promitente": "Paulo",
+    "ancora": "A promessa de que seria herdeiro do mundo",
+    "resumo": "A promessa da herança do mundo permanece firme para toda a descendência de Abraão pela fé."
+   }
+  ]
+ },
+ {
+  "id": "F3-ROM-025",
+  "livro": "ROM",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "ROM 5:1",
+  "fim": "ROM 5:1",
+  "texto": {
+   "ROM 5:1": "Portanto, tendo sido justificados pela fé, temos paz com Deus por meio de nosso Senhor Jesus Cristo."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ROM-005:001-1",
+    "ref": "ROM 5:1",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "explicita",
+    "promitente": "Paulo",
+    "ancora": "temos paz com Deus",
+    "resumo": "Os justificados pela fé desfrutam de paz com Deus por meio de Jesus Cristo."
+   }
+  ]
+ },
+ {
+  "id": "F3-ROM-026",
+  "livro": "ROM",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "ROM 5:2",
+  "fim": "ROM 5:2",
+  "texto": {
+   "ROM 5:2": "Por meio dele também obtivemos, pela fé, acesso a esta graça na qual permanecemos firmes, e nos alegramos na esperança da glória de Deus."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ROM-005:002-1",
+    "ref": "ROM 5:2",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "explicita",
+    "promitente": "Paulo",
+    "ancora": "acesso a esta graça na qual permanecemos firmes",
+    "resumo": "Os que obtiveram acesso à graça pela fé permanecem firmes nela."
+   }
+  ]
+ },
+ {
+  "id": "F3-ROM-027",
+  "livro": "ROM",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "ROM 5:18",
+  "fim": "ROM 5:19",
+  "texto": {
+   "ROM 5:18": "Portanto, assim como por uma só transgressão veio condenação sobre todos os homens, também por um só ato de justiça veio a todos os homens justificação que dá vida.",
+   "ROM 5:19": "Pois, assim como pela desobediência de um só homem muitos foram constituídos pecadores, também pela obediência de um só muitos serão constituídos justos."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ROM-005:018-1",
+    "ref": "ROM 5:18-5:19",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "Paulo",
+    "ancora": "justificação que dá vida",
+    "resumo": "O ato de justiça de um só traz justificação que dá vida, e pela sua obediência muitos serão constituídos justos."
+   }
+  ]
+ },
+ {
+  "id": "F3-ROM-028",
+  "livro": "ROM",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "ROM 5:20",
+  "fim": "ROM 5:21",
+  "texto": {
+   "ROM 5:20": "A lei entrou para que a transgressão aumentasse; mas, onde o pecado aumentou, a graça superabundou,",
+   "ROM 5:21": "para que, assim como o pecado reinou na morte, também a graça reine pela justiça para a vida eterna, por Jesus Cristo, nosso Senhor."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ROM-005:020-1",
+    "ref": "ROM 5:20-5:21",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "Paulo",
+    "ancora": "a graça superabundou",
+    "resumo": "A graça reina pela justiça para a vida eterna por Jesus Cristo."
+   }
+  ]
+ },
+ {
+  "id": "F3-ROM-029",
+  "livro": "ROM",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "ROM 7:6",
+  "fim": "ROM 7:6",
+  "texto": {
+   "ROM 7:6": "Mas agora fomos libertados da lei, tendo morrido para aquilo que nos mantinha presos, de modo que servimos na novidade do Espírito e não na antiguidade da letra."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ROM-007:006-1",
+    "ref": "ROM 7:6",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "nenhuma",
+    "promitente": "Paulo",
+    "ancora": "servimos na novidade do Espírito",
+    "resumo": "A libertação da lei resulta no serviço continuado na novidade do Espírito."
+   }
+  ]
+ },
+ {
+  "id": "F3-ROM-030",
+  "livro": "ROM",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "ROM 8:10",
+  "fim": "ROM 8:10",
+  "texto": {
+   "ROM 8:10": "Mas, se Cristo está em vós, o corpo está morto por causa do pecado, porém o Espírito é vida por causa da justiça."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ROM-008:010-2",
+    "ref": "ROM 8:10",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "igreja_local",
+    "condicao": "explicita",
+    "promitente": "Paulo",
+    "ancora": "o Espírito é vida por causa da justiça",
+    "resumo": "A vida no Espírito é afirmada para aqueles em quem Cristo está."
+   }
+  ]
+ },
+ {
+  "id": "F3-ROM-031",
+  "livro": "ROM",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "ROM 8:14",
+  "fim": "ROM 8:16",
+  "texto": {
+   "ROM 8:14": "Porque todos os que são guiados pelo Espírito de Deus são filhos de Deus.",
+   "ROM 8:15": "Pois não recebestes espírito de escravidão para novamente viverdes com medo, mas recebestes o Espírito de adoção, pelo qual clamamos: Aba, Pai!",
+   "ROM 8:16": "O próprio Espírito testemunha juntamente com nosso espírito que somos filhos de Deus."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ROM-008:014-1",
+    "ref": "ROM 8:14-8:16",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "igreja",
+    "condicao": null,
+    "promitente": "Paulo",
+    "ancora": "todos os que são guiados pelo Espírito de Deus são filhos de Deus",
+    "resumo": "A filiação a Deus é afirmada para os guiados pelo Espírito, que testemunha essa filiação."
+   }
+  ]
+ },
+ {
+  "id": "F3-ROM-032",
+  "livro": "ROM",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "ROM 8:17",
+  "fim": "ROM 8:19",
+  "texto": {
+   "ROM 8:17": "E, se somos filhos, também somos herdeiros, herdeiros de Deus e coerdeiros de Cristo, se realmente sofremos com ele para também sermos glorificados com ele.",
+   "ROM 8:18": "Considero que os sofrimentos do tempo presente não podem ser comparados com a glória que será revelada em nós.",
+   "ROM 8:19": "Pois a criação aguarda com intensa expectativa a revelação dos filhos de Deus."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ROM-008:017-2",
+    "ref": "ROM 8:17-8:19",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "igreja",
+    "condicao": "explicita",
+    "promitente": "Paulo",
+    "ancora": "para também sermos glorificados com ele",
+    "resumo": "Os que sofrem com Cristo serão glorificados com ele, e a glória será revelada."
+   }
+  ]
+ },
+ {
+  "id": "F3-ROM-033",
+  "livro": "ROM",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "ROM 8:29",
+  "fim": "ROM 8:30",
+  "texto": {
+   "ROM 8:29": "Pois aqueles que conheceu de antemão também predestinou para serem conformes à imagem de seu Filho, a fim de que ele seja o primogênito entre muitos irmãos.",
+   "ROM 8:30": "E aqueles que predestinou, a esses também chamou; aqueles que chamou, a esses também justificou; e aqueles que justificou, a esses também glorificou."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ROM-008:029-1",
+    "ref": "ROM 8:29-8:30",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "igreja",
+    "condicao": null,
+    "promitente": "Paulo",
+    "ancora": "predestinou para serem conformes à imagem de seu Filho",
+    "resumo": "Deus destina os que conheceu de antemão à conformidade com a imagem do Filho."
+   }
+  ]
+ },
+ {
+  "id": "F3-ROM-034",
+  "livro": "ROM",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "ROM 8:33",
+  "fim": "ROM 8:33",
+  "texto": {
+   "ROM 8:33": "Quem apresentará acusação contra os escolhidos de Deus? É Deus quem os justifica."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ROM-008:033-1",
+    "ref": "ROM 8:33",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "igreja",
+    "condicao": null,
+    "promitente": "Paulo",
+    "ancora": "É Deus quem os justifica",
+    "resumo": "Deus justifica os seus escolhidos diante de possíveis acusações."
+   }
+  ]
+ },
+ {
+  "id": "F3-ROM-035",
+  "livro": "ROM",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "ROM 8:34",
+  "fim": "ROM 8:34",
+  "texto": {
+   "ROM 8:34": "Quem os condenará? Cristo é quem morreu e, mais ainda, quem ressuscitou, está à direita de Deus e também intercede por nós."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ROM-008:034-1",
+    "ref": "ROM 8:34",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "igreja_local",
+    "condicao": null,
+    "promitente": "Paulo",
+    "ancora": "também intercede por nós",
+    "resumo": "Cristo intercede continuamente pelos crentes à direita de Deus."
+   }
+  ]
+ },
+ {
+  "id": "F3-ROM-036",
+  "livro": "ROM",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "ROM 8:37",
+  "fim": "ROM 8:37",
+  "texto": {
+   "ROM 8:37": "Mas, em todas essas coisas, somos mais que vencedores por meio daquele que nos amou."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ROM-008:037-1",
+    "ref": "ROM 8:37",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "igreja_local",
+    "condicao": null,
+    "promitente": "Paulo",
+    "ancora": "somos mais que vencedores por meio daquele que nos amou",
+    "resumo": "Os crentes têm vitória nas adversidades por meio daquele que os amou."
+   }
+  ]
+ },
+ {
+  "id": "F3-ROM-037",
+  "livro": "ROM",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "ROM 9:7",
+  "fim": "ROM 9:7",
+  "texto": {
+   "ROM 9:7": "Nem por serem descendência de Abraão são todos filhos, mas: Em Isaque será chamada tua descendência."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ROM-009:007-1",
+    "ref": "ROM 9:7",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "familia_ou_linhagem",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "Em Isaque será chamada tua descendência",
+    "resumo": "A descendência de Abraão será reconhecida por meio de Isaque."
+   }
+  ]
+ },
+ {
+  "id": "F3-ROM-038",
+  "livro": "ROM",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "ROM 9:11",
+  "fim": "ROM 9:12",
+  "texto": {
+   "ROM 9:11": "Antes que os filhos nascessem ou praticassem bem ou mal, para que permanecesse o propósito de Deus segundo a eleição,",
+   "ROM 9:12": "não por obras, mas por aquele que chama, foi dito a ela: O mais velho servirá ao mais novo."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ROM-009:011-1",
+    "ref": "ROM 9:11-9:12",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "pessoa",
+    "condicao": null,
+    "promitente": "pai",
+    "ancora": "O mais velho servirá ao mais novo",
+    "resumo": "Antes de os filhos nascerem, foi anunciado a Rebeca que o mais velho ficaria sujeito ao mais novo."
+   }
+  ]
+ },
+ {
+  "id": "F3-ROM-039",
+  "livro": "ROM",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "ROM 10:4",
+  "fim": "ROM 10:4",
+  "texto": {
+   "ROM 10:4": "Pois Cristo é o fim da lei para justiça de todo aquele que crê."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ROM-010:004-1",
+    "ref": "ROM 10:4",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "explicita",
+    "promitente": "Paulo",
+    "ancora": "Cristo é o fim da lei para justiça de todo aquele que crê",
+    "resumo": "Cristo assegura justiça a todo aquele que crê."
+   }
+  ]
+ },
+ {
+  "id": "F3-ROM-040",
+  "livro": "ROM",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "ROM 10:12",
+  "fim": "ROM 10:12",
+  "texto": {
+   "ROM 10:12": "Não há distinção entre judeu e grego, pois o mesmo Senhor é Senhor de todos e generoso para com todos os que o invocam."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ROM-010:012-1",
+    "ref": "ROM 10:12",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "explicita",
+    "promitente": "Paulo",
+    "ancora": "generoso para com todos os que o invocam",
+    "resumo": "O mesmo Senhor é generoso para com todos os que o invocam."
+   }
+  ]
+ },
+ {
+  "id": "F3-ROM-041",
+  "livro": "ROM",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "ROM 11:22",
+  "fim": "ROM 11:22",
+  "texto": {
+   "ROM 11:22": "Considera, portanto, a bondade e a severidade de Deus: severidade para com os que caíram, mas bondade para contigo, se permaneceres em sua bondade; caso contrário, também serás cortado."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ROM-011:022-1",
+    "ref": "ROM 11:22",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "explicita",
+    "promitente": "Paulo",
+    "ancora": "bondade para contigo, se permaneceres em sua bondade",
+    "resumo": "Paulo garante a continuidade da bondade de Deus para com o gentio enxertado que nela permanece."
+   }
+  ]
+ },
+ {
+  "id": "F3-ROM-042",
+  "livro": "ROM",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "ROM 11:26",
+  "fim": "ROM 11:27",
+  "texto": {
+   "ROM 11:26": "E assim todo Israel será salvo, como está escrito: De Sião virá o Libertador e afastará de Jacó as impiedades.",
+   "ROM 11:27": "E esta será minha aliança com eles, quando eu remover seus pecados."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ROM-011:026-1",
+    "ref": "ROM 11:26-11:27",
+    "tipo": "promessa",
+    "origem": "divina_direta",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": null,
+    "ancora": "esta será minha aliança com eles, quando eu remover seus pecados.",
+    "resumo": "Na aliança citada, Deus se compromete a remover os pecados de Jacó, ação associada à vinda do Libertador."
+   }
+  ]
+ },
+ {
+  "id": "F3-ROM-043",
+  "livro": "ROM",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "ROM 11:30",
+  "fim": "ROM 11:32",
+  "texto": {
+   "ROM 11:30": "Assim como vós outrora fostes desobedientes a Deus, mas agora alcançastes misericórdia por causa da desobediência deles,",
+   "ROM 11:31": "assim também eles agora foram desobedientes, para que, por meio da misericórdia concedida a vós, também alcancem misericórdia.",
+   "ROM 11:32": "Pois Deus encerrou todos na desobediência para usar de misericórdia para com todos."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ROM-011:030-1",
+    "ref": "ROM 11:30-11:32",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "Paulo",
+    "ancora": "também alcancem misericórdia.",
+    "resumo": "Paulo projeta misericórdia para Israel e fundamenta essa expectativa no propósito de Deus de usar de misericórdia para com todos."
+   }
+  ]
+ },
+ {
+  "id": "F3-ROM-044",
+  "livro": "ROM",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "ROM 13:11",
+  "fim": "ROM 13:12",
+  "texto": {
+   "ROM 13:11": "Fazei isso conhecendo o tempo: já é hora de despertarmos do sono, pois agora nossa salvação está mais próxima do que quando começamos a crer.",
+   "ROM 13:12": "A noite está avançada, e o dia se aproxima. Abandonemos, portanto, as obras das trevas e vistamos as armas da luz."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ROM-013:011-1",
+    "ref": "ROM 13:11-13:12",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "igreja",
+    "condicao": null,
+    "promitente": "Paulo",
+    "ancora": "agora nossa salvação está mais próxima do que quando começamos a crer",
+    "resumo": "A salvação dos crentes se aproxima."
+   }
+  ]
+ },
+ {
+  "id": "F3-ROM-045",
+  "livro": "ROM",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "ROM 14:7",
+  "fim": "ROM 14:9",
+  "texto": {
+   "ROM 14:7": "Nenhum de nós vive para si mesmo, e nenhum morre para si mesmo.",
+   "ROM 14:8": "Se vivemos, vivemos para o Senhor; se morremos, morremos para o Senhor. Portanto, quer vivamos, quer morramos, pertencemos ao Senhor.",
+   "ROM 14:9": "Pois para isto Cristo morreu, ressuscitou e voltou a viver: para ser Senhor tanto dos mortos como dos vivos."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ROM-014:007-1",
+    "ref": "ROM 14:7-14:9",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "igreja_local",
+    "condicao": null,
+    "promitente": "Paulo",
+    "ancora": "quer vivamos, quer morramos, pertencemos ao Senhor.",
+    "resumo": "Os crentes pertencem ao Senhor tanto na vida como na morte."
+   }
+  ]
+ },
+ {
+  "id": "F3-ROM-046",
+  "livro": "ROM",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "ROM 14:10",
+  "fim": "ROM 14:12",
+  "texto": {
+   "ROM 14:10": "Mas tu, por que julgas teu irmão? E tu, por que desprezas teu irmão? Todos compareceremos diante do tribunal de Cristo.",
+   "ROM 14:11": "Pois está escrito: Tão certo como eu vivo, diz o Senhor, todo joelho se dobrará diante de mim, e toda língua confessará a Deus.",
+   "ROM 14:12": "Assim, cada um de nós prestará contas de si mesmo a Deus."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-ROM-014:010-1",
+    "ref": "ROM 14:10-14:12",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "juizo",
+    "destinatario": "igreja_local",
+    "condicao": null,
+    "promitente": "Paulo",
+    "ancora": "Todos compareceremos diante do tribunal de Cristo.",
+    "resumo": "Cada um comparecerá ao tribunal e prestará contas de si mesmo a Deus."
+   }
+  ]
+ },
+ {
+  "id": "F3-1CO-001",
+  "livro": "1CO",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "1CO 1:19",
+  "fim": "1CO 1:19",
+  "texto": {
+   "1CO 1:19": "Pois está escrito: Destruirei a sabedoria dos sábios e anularei a inteligência dos entendidos."
+  },
+  "p1": [
+   {
+    "uid": "U1-1CO-001:019-1",
+    "ref": "1CO 1:19",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "humanidade",
+    "condicao": null,
+    "promitente": "Paulo",
+    "ancora": "Destruirei a sabedoria dos sábios",
+    "resumo": "Deus destruirá a sabedoria dos sábios e anulará a inteligência dos entendidos."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-1CO-001:019-1",
+    "ref": "1CO 1:19",
+    "tipo": "declaracao_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": null,
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Destruirei a sabedoria dos sábios e anularei a inteligência dos entendidos.",
+    "resumo": "Paulo cita o anúncio da anulação da sabedoria e da inteligência dos sábios."
+   }
+  ]
+ },
+ {
+  "id": "F3-1CO-002",
+  "livro": "1CO",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "1CO 2:9",
+  "fim": "1CO 2:9",
+  "texto": {
+   "1CO 2:9": "Mas, como está escrito: O que olho não viu, ouvido não ouviu e jamais subiu ao coração humano, isso Deus preparou para os que o amam."
+  },
+  "p1": [
+   {
+    "uid": "U1-1CO-002:009-1",
+    "ref": "1CO 2:9",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "crente_individual",
+    "condicao": null,
+    "promitente": "Paulo",
+    "ancora": "isso Deus preparou para os que o amam",
+    "resumo": "Deus preparou o que olho não viu para os que o amam."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-1CO-002:009-1",
+    "ref": "1CO 2:9",
+    "tipo": "declaracao_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": null,
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "isso Deus preparou para os que o amam",
+    "resumo": "A Escritura menciona o que Deus preparou para os que o amam."
+   }
+  ]
+ },
+ {
+  "id": "F3-1CO-003",
+  "livro": "1CO",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "1CO 3:15",
+  "fim": "1CO 3:15",
+  "texto": {
+   "1CO 3:15": "Se a obra de alguém for consumida, ele sofrerá perda, embora seja salvo, mas como quem passa pelo fogo."
+  },
+  "p1": [
+   {
+    "uid": "U1-1CO-003:015-1",
+    "ref": "1CO 3:15",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "juizo",
+    "destinatario": "crente_individual",
+    "condicao": "explicita",
+    "promitente": "Paulo",
+    "ancora": "ele sofrerá perda, embora seja salvo",
+    "resumo": "Quem tiver a obra consumida sofrerá perda, mas será salvo."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-1CO-003:015-1",
+    "ref": "1CO 3:15",
+    "tipo": "advertencia",
+    "origem": "indeterminada",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "ele sofrerá perda",
+    "resumo": "O construtor sofrerá perda se sua obra for consumida."
+   },
+   {
+    "uid": "U2-1CO-003:015-2",
+    "ref": "1CO 3:15",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "explicita",
+    "promitente": "Paulo",
+    "ancora": "embora seja salvo, mas como quem passa pelo fogo",
+    "resumo": "O próprio construtor será salvo mesmo se sua obra for consumida, como quem passa pelo fogo."
+   }
+  ]
+ },
+ {
+  "id": "F3-1CO-004",
+  "livro": "1CO",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "1CO 3:17",
+  "fim": "1CO 3:17",
+  "texto": {
+   "1CO 3:17": "Se alguém destruir o templo de Deus, Deus o destruirá, pois o templo de Deus é santo, e esse templo sois vós."
+  },
+  "p1": [
+   {
+    "uid": "U1-1CO-003:017-1",
+    "ref": "1CO 3:17",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "juizo",
+    "destinatario": "humanidade",
+    "condicao": "explicita",
+    "promitente": "Paulo",
+    "ancora": "Deus o destruirá",
+    "resumo": "Deus destruirá quem destruir o templo de Deus."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-1CO-003:017-1",
+    "ref": "1CO 3:17",
+    "tipo": "advertencia",
+    "origem": "indeterminada",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Se alguém destruir o templo de Deus, Deus o destruirá",
+    "resumo": "Deus destruirá quem destruir seu templo, identificado com a comunidade."
+   }
+  ]
+ },
+ {
+  "id": "F3-1CO-005",
+  "livro": "1CO",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "1CO 11:25",
+  "fim": "1CO 11:25",
+  "texto": {
+   "1CO 11:25": "Do mesmo modo, depois da ceia, tomou também o cálice, dizendo: Este cálice é a nova aliança em meu sangue. Fazei isto, todas as vezes que o beberdes, em memória de mim."
+  },
+  "p1": [
+   {
+    "uid": "U1-1CO-011:025-1",
+    "ref": "1CO 11:25",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "bencao",
+    "destinatario": "crente_individual",
+    "condicao": null,
+    "promitente": "filho",
+    "ancora": "Este cálice é a nova aliança em meu sangue",
+    "resumo": "Jesus declara o cálice como a nova aliança em seu sangue."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-1CO-011:025-1",
+    "ref": "1CO 11:25",
+    "tipo": "declaracao_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": null,
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "Este cálice é a nova aliança em meu sangue.",
+    "resumo": "Jesus identifica o cálice com a nova aliança em seu sangue."
+   }
+  ]
+ },
+ {
+  "id": "F3-1CO-006",
+  "livro": "1CO",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "1CO 11:29",
+  "fim": "1CO 11:29",
+  "texto": {
+   "1CO 11:29": "Pois quem come e bebe indignamente come e bebe juízo para si, por não discernir o corpo do Senhor."
+  },
+  "p1": [
+   {
+    "uid": "U1-1CO-011:029-1",
+    "ref": "1CO 11:29",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "juizo",
+    "destinatario": "crente_individual",
+    "condicao": "explicita",
+    "promitente": "Paulo",
+    "ancora": "come e bebe juízo para si",
+    "resumo": "Quem come e bebe indignamente a Ceia come e bebe juízo para si."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-1CO-011:029-1",
+    "ref": "1CO 11:29",
+    "tipo": "advertencia",
+    "origem": "indeterminada",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "come e bebe juízo para si, por não discernir o corpo do Senhor.",
+    "resumo": "Paulo adverte que a participação indigna traz juízo sobre quem não discerne o corpo do Senhor."
+   }
+  ]
+ },
+ {
+  "id": "F3-1CO-007",
+  "livro": "1CO",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "1CO 13:12",
+  "fim": "1CO 13:12",
+  "texto": {
+   "1CO 13:12": "Agora vemos por meio de espelho, de forma obscura; então veremos face a face. Agora conheço em parte; então conhecerei plenamente, assim como também fui plenamente conhecido."
+  },
+  "p1": [
+   {
+    "uid": "U1-1CO-013:012-1",
+    "ref": "1CO 13:12",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "crente_individual",
+    "condicao": null,
+    "promitente": "Paulo",
+    "ancora": "então veremos face a face",
+    "resumo": "Os crentes verão face a face e conhecerão plenamente."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-1CO-013:012-1",
+    "ref": "1CO 13:12",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": null,
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "então veremos face a face",
+    "resumo": "À visão obscura do presente sucederá a visão face a face."
+   },
+   {
+    "uid": "U2-1CO-013:012-2",
+    "ref": "1CO 13:12",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": null,
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "então conhecerei plenamente",
+    "resumo": "Paulo prevê conhecer plenamente após conhecer apenas em parte."
+   }
+  ]
+ },
+ {
+  "id": "F3-1CO-008",
+  "livro": "1CO",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "1CO 14:21",
+  "fim": "1CO 14:21",
+  "texto": {
+   "1CO 14:21": "Na lei está escrito: Por pessoas de outras línguas e por lábios estrangeiros falarei a este povo; nem assim me ouvirão, diz o Senhor."
+  },
+  "p1": [
+   {
+    "uid": "U1-1CO-014:021-1",
+    "ref": "1CO 14:21",
+    "tipo": "promessa",
+    "origem": "divina_relatada_por_humano",
+    "natureza": "juizo",
+    "destinatario": "israel",
+    "condicao": null,
+    "promitente": "Paulo",
+    "ancora": "Por pessoas de outras línguas e por lábios estrangeiros falarei a este povo",
+    "resumo": "O Senhor falará a este povo por línguas estrangeiras, e nem assim o ouvirão."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-1CO-014:021-1",
+    "ref": "1CO 14:21",
+    "tipo": "declaracao_sem_compromisso",
+    "origem": "divina_relatada_por_humano",
+    "natureza": null,
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "Paulo",
+    "ancora": "Por pessoas de outras línguas e por lábios estrangeiros falarei a este povo",
+    "resumo": "Paulo cita a fala do Senhor ao povo por lábios estrangeiros para explicar a função das línguas."
+   }
+  ]
+ },
+ {
+  "id": "F3-1CO-009",
+  "livro": "1CO",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "1CO 15:24",
+  "fim": "1CO 15:26",
+  "texto": {
+   "1CO 15:24": "Então virá o fim, quando ele entregar o reino a Deus, o Pai, depois de abolir todo governo, toda autoridade e todo poder.",
+   "1CO 15:25": "Pois é necessário que ele reine até que tenha posto todos os inimigos debaixo de seus pés.",
+   "1CO 15:26": "O último inimigo a ser abolido é a morte."
+  },
+  "p1": [
+   {
+    "uid": "U1-1CO-015:024-1",
+    "ref": "1CO 15:24-15:26",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "humanidade",
+    "condicao": null,
+    "promitente": "Paulo",
+    "ancora": "Então virá o fim, quando ele entregar o reino a Deus",
+    "resumo": "Cristo abolirá todo governo e a morte, o último inimigo, e entregará o reino ao Pai."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-1CO-015:024-1",
+    "ref": "1CO 15:24",
+    "tipo": "profecia_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": null,
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "ele entregar o reino a Deus, o Pai",
+    "resumo": "Cristo entregará o reino ao Pai quando vier o fim."
+   }
+  ]
+ },
+ {
+  "id": "F3-1CO-010",
+  "livro": "1CO",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "1CO 15:42",
+  "fim": "1CO 15:44",
+  "texto": {
+   "1CO 15:42": "Assim também é a ressurreição dos mortos: semeia-se em corrupção, ressuscita em incorrupção.",
+   "1CO 15:43": "Semeia-se em desonra, ressuscita em glória; semeia-se em fraqueza, ressuscita em poder.",
+   "1CO 15:44": "Semeia-se corpo natural, ressuscita corpo espiritual. Há corpo natural e há corpo espiritual."
+  },
+  "p1": [
+   {
+    "uid": "U1-1CO-015:042-1",
+    "ref": "1CO 15:42-15:44",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "crente_individual",
+    "condicao": null,
+    "promitente": "Paulo",
+    "ancora": "ressuscita em incorrupção",
+    "resumo": "Os mortos em Cristo ressuscitarão em incorrupção, glória, poder e corpo espiritual."
+   }
+  ],
+  "p2": []
+ },
+ {
+  "id": "F3-1CO-011",
+  "livro": "1CO",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "1CO 15:58",
+  "fim": "1CO 15:58",
+  "texto": {
+   "1CO 15:58": "Portanto, meus amados irmãos, sede firmes e inabaláveis, sempre abundantes na obra do Senhor, sabendo que vosso trabalho no Senhor não é vazio."
+  },
+  "p1": [
+   {
+    "uid": "U1-1CO-015:058-1",
+    "ref": "1CO 15:58",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "crente_individual",
+    "condicao": null,
+    "promitente": "Paulo",
+    "ancora": "vosso trabalho no Senhor não é vazio",
+    "resumo": "O trabalho no Senhor não é em vão."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-1CO-015:058-1",
+    "ref": "1CO 15:58",
+    "tipo": "mandamento",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "Paulo",
+    "ancora": "vosso trabalho no Senhor não é vazio",
+    "resumo": "Paulo exorta os irmãos à firmeza e à dedicação, com a garantia de que o trabalho no Senhor tem valor."
+   }
+  ]
+ },
+ {
+  "id": "F3-1CO-012",
+  "livro": "1CO",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "1CO 16:22",
+  "fim": "1CO 16:22",
+  "texto": {
+   "1CO 16:22": "Se alguém não ama o Senhor Jesus Cristo, seja anátema. Maranata."
+  },
+  "p1": [
+   {
+    "uid": "U1-1CO-016:022-1",
+    "ref": "1CO 16:22",
+    "tipo": "desejo_ou_bencao_votiva",
+    "origem": "humana_votiva",
+    "natureza": "juizo",
+    "destinatario": null,
+    "condicao": null,
+    "promitente": "Paulo",
+    "ancora": "seja anátema",
+    "resumo": "Maldição votiva de Paulo sobre quem não ama o Senhor."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-1CO-016:022-1",
+    "ref": "1CO 16:22",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "juizo",
+    "destinatario": "grupo_especifico",
+    "condicao": "explicita",
+    "promitente": "Paulo",
+    "ancora": "Se alguém não ama o Senhor Jesus Cristo, seja anátema.",
+    "resumo": "Paulo pronuncia anátema sobre quem não ama o Senhor Jesus Cristo."
+   }
+  ]
+ },
+ {
+  "id": "F3-1CO-013",
+  "livro": "1CO",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "1CO 1:7",
+  "fim": "1CO 1:7",
+  "texto": {
+   "1CO 1:7": "Desse modo, não vos falta dom algum enquanto aguardais a revelação de nosso Senhor Jesus Cristo."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-1CO-001:007-1",
+    "ref": "1CO 1:7",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "igreja_local",
+    "condicao": null,
+    "promitente": "Paulo",
+    "ancora": "não vos falta dom algum enquanto aguardais a revelação de nosso Senhor Jesus Cristo",
+    "resumo": "A igreja dispõe dos dons enquanto aguarda a revelação de Cristo."
+   }
+  ]
+ },
+ {
+  "id": "F3-1CO-014",
+  "livro": "1CO",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "1CO 1:21",
+  "fim": "1CO 1:21",
+  "texto": {
+   "1CO 1:21": "Visto que, na sabedoria de Deus, o mundo não conheceu a Deus por sua própria sabedoria, agradou a Deus salvar os que creem por meio da loucura da mensagem anunciada."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-1CO-001:021-1",
+    "ref": "1CO 1:21",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": "explicita",
+    "promitente": "Paulo",
+    "ancora": "agradou a Deus salvar os que creem por meio da loucura da mensagem anunciada",
+    "resumo": "Deus salva os que creem por meio da mensagem anunciada."
+   }
+  ]
+ },
+ {
+  "id": "F3-1CO-015",
+  "livro": "1CO",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "1CO 2:7",
+  "fim": "1CO 2:7",
+  "texto": {
+   "1CO 2:7": "Falamos, porém, da sabedoria de Deus em mistério, aquela que estava oculta e que Deus predestinou antes das eras para nossa glória."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-1CO-002:007-1",
+    "ref": "1CO 2:7",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "igreja",
+    "condicao": "nenhuma",
+    "promitente": "Paulo",
+    "ancora": "Deus predestinou antes das eras para nossa glória",
+    "resumo": "Deus destinou sua sabedoria para a glória dos que Paulo inclui em «nós»."
+   }
+  ]
+ },
+ {
+  "id": "F3-1CO-016",
+  "livro": "1CO",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "1CO 2:12",
+  "fim": "1CO 2:12",
+  "texto": {
+   "1CO 2:12": "Nós não recebemos o espírito do mundo, mas o Espírito que procede de Deus, para conhecermos o que Deus nos concedeu gratuitamente."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-1CO-002:012-1",
+    "ref": "1CO 2:12",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "igreja",
+    "condicao": "nenhuma",
+    "promitente": "Paulo",
+    "ancora": "para conhecermos o que Deus nos concedeu gratuitamente",
+    "resumo": "O Espírito recebido de Deus dá aos destinatários da afirmação conhecimento do que Deus lhes concedeu."
+   }
+  ]
+ },
+ {
+  "id": "F3-1CO-017",
+  "livro": "1CO",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "1CO 2:16",
+  "fim": "1CO 2:16",
+  "texto": {
+   "1CO 2:16": "Pois quem conheceu a mente do Senhor para poder instruí-lo? Nós, porém, temos a mente de Cristo."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-1CO-002:016-1",
+    "ref": "1CO 2:16",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "igreja",
+    "condicao": "nenhuma",
+    "promitente": "Paulo",
+    "ancora": "Nós, porém, temos a mente de Cristo",
+    "resumo": "Paulo afirma que os incluídos em «nós» têm a mente de Cristo."
+   }
+  ]
+ },
+ {
+  "id": "F3-1CO-018",
+  "livro": "1CO",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "1CO 4:19",
+  "fim": "1CO 4:19",
+  "texto": {
+   "1CO 4:19": "Mas irei em breve, se o Senhor quiser, e conhecerei não apenas as palavras dos orgulhosos, mas seu poder."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-1CO-004:019-1",
+    "ref": "1CO 4:19",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": null,
+    "destinatario": "igreja",
+    "condicao": "explicita",
+    "promitente": "Paulo",
+    "ancora": "Mas irei em breve, se o Senhor quiser",
+    "resumo": "Paulo se compromete a visitar em breve os destinatários, se o Senhor quiser."
+   }
+  ]
+ },
+ {
+  "id": "F3-1CO-019",
+  "livro": "1CO",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "1CO 4:19",
+  "fim": "1CO 4:19",
+  "texto": {
+   "1CO 4:19": "Mas irei em breve, se o Senhor quiser, e conhecerei não apenas as palavras dos orgulhosos, mas seu poder."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-1CO-004:019-2",
+    "ref": "1CO 4:19",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": null,
+    "destinatario": "igreja",
+    "condicao": "explicita",
+    "promitente": "Paulo",
+    "ancora": "e conhecerei não apenas as palavras dos orgulhosos, mas seu poder.",
+    "resumo": "Na visita condicionada à vontade do Senhor, Paulo verificará o poder dos orgulhosos."
+   }
+  ]
+ },
+ {
+  "id": "F3-1CO-020",
+  "livro": "1CO",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "1CO 6:3",
+  "fim": "1CO 6:3",
+  "texto": {
+   "1CO 6:3": "Não sabeis que julgaremos anjos? Quanto mais as questões desta vida!"
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-1CO-006:003-1",
+    "ref": "1CO 6:3",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "igreja",
+    "condicao": null,
+    "promitente": "Paulo",
+    "ancora": "julgaremos anjos",
+    "resumo": "Os santos julgarão anjos."
+   }
+  ]
+ },
+ {
+  "id": "F3-1CO-021",
+  "livro": "1CO",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "1CO 6:19",
+  "fim": "1CO 6:19",
+  "texto": {
+   "1CO 6:19": "Ou não sabeis que vosso corpo é templo do Espírito Santo, que habita em vós e que recebestes de Deus? Vós não pertenceis a vós mesmos,"
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-1CO-006:019-1",
+    "ref": "1CO 6:19",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "igreja_local",
+    "condicao": null,
+    "promitente": "Paulo",
+    "ancora": "que habita em vós e que recebestes de Deus",
+    "resumo": "O Espírito Santo recebido de Deus habita nos destinatários."
+   }
+  ]
+ },
+ {
+  "id": "F3-1CO-022",
+  "livro": "1CO",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "1CO 7:22",
+  "fim": "1CO 7:22",
+  "texto": {
+   "1CO 7:22": "Pois aquele que foi chamado no Senhor sendo servo é liberto do Senhor; semelhantemente, aquele que foi chamado sendo livre é servo de Cristo."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-1CO-007:022-1",
+    "ref": "1CO 7:22",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "Paulo",
+    "ancora": "é liberto do Senhor",
+    "resumo": "Paulo garante ao chamado no Senhor enquanto servo sua condição permanente de liberto do Senhor."
+   }
+  ]
+ },
+ {
+  "id": "F3-1CO-023",
+  "livro": "1CO",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "1CO 8:13",
+  "fim": "1CO 8:13",
+  "texto": {
+   "1CO 8:13": "Por isso, se um alimento leva meu irmão a tropeçar, jamais comerei carne, para não levar meu irmão a tropeçar."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-1CO-008:013-1",
+    "ref": "1CO 8:13",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "crente_individual",
+    "condicao": "explicita",
+    "promitente": "Paulo",
+    "ancora": "jamais comerei carne",
+    "resumo": "Paulo se compromete a não comer carne se um alimento levar seu irmão a tropeçar."
+   }
+  ]
+ },
+ {
+  "id": "F3-1CO-024",
+  "livro": "1CO",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "1CO 10:13",
+  "fim": "1CO 10:13",
+  "texto": {
+   "1CO 10:13": "Nenhuma tentação vos atingiu que não seja humana. Deus é fiel e não permitirá que sejais tentados além do que podeis suportar; juntamente com a tentação, providenciará também a saída para que possais resistir."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-1CO-010:013-2",
+    "ref": "1CO 10:13",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "igreja_local",
+    "condicao": null,
+    "promitente": "Paulo",
+    "ancora": "providenciará também a saída para que possais resistir",
+    "resumo": "Deus dará uma saída juntamente com a tentação, para que os destinatários possam resistir."
+   }
+  ]
+ },
+ {
+  "id": "F3-1CO-025",
+  "livro": "1CO",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "1CO 12:6",
+  "fim": "1CO 12:11",
+  "texto": {
+   "1CO 12:6": "Há diversidade de realizações, mas é o mesmo Deus quem realiza todas as coisas em todos.",
+   "1CO 12:7": "A manifestação do Espírito é concedida a cada um para o benefício comum.",
+   "1CO 12:8": "Pois a um é dada, por meio do Espírito, palavra de sabedoria; a outro, segundo o mesmo Espírito, palavra de conhecimento.",
+   "1CO 12:9": "A outro é dada fé, no mesmo Espírito; e a outro, dons de curas, pelo mesmo Espírito.",
+   "1CO 12:10": "A outro, realizações de milagres; a outro, profecia; a outro, discernimentos de espíritos; a outro, variedades de línguas; e a outro, interpretação de línguas.",
+   "1CO 12:11": "Um só e o mesmo Espírito realiza todas essas coisas, distribuindo-as individualmente a cada um conforme quer."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-1CO-012:006-1",
+    "ref": "1CO 12:6-12:11",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "igreja_local",
+    "condicao": "nenhuma",
+    "promitente": "Paulo",
+    "ancora": "A manifestação do Espírito é concedida a cada um para o benefício comum.",
+    "resumo": "O Espírito concede a cada membro uma manifestação para o bem comum e distribui os dons conforme quer."
+   }
+  ]
+ },
+ {
+  "id": "F3-1CO-026",
+  "livro": "1CO",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "1CO 12:31",
+  "fim": "1CO 12:31",
+  "texto": {
+   "1CO 12:31": "Desejai com zelo os melhores dons. E ainda vos mostro um caminho muito mais excelente."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-1CO-012:031-1",
+    "ref": "1CO 12:31",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "igreja_local",
+    "condicao": "nenhuma",
+    "promitente": "Paulo",
+    "ancora": "E ainda vos mostro um caminho muito mais excelente.",
+    "resumo": "Paulo se dispõe a mostrar aos destinatários um caminho mais excelente."
+   }
+  ]
+ },
+ {
+  "id": "F3-1CO-027",
+  "livro": "1CO",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "1CO 15:54",
+  "fim": "1CO 15:57",
+  "texto": {
+   "1CO 15:54": "Quando este corpo corruptível se revestir de incorrupção e este corpo mortal se revestir de imortalidade, então se cumprirá a palavra escrita: A morte foi tragada pela vitória.",
+   "1CO 15:55": "Ó morte, onde está teu aguilhão? Ó inferno, onde está tua vitória?",
+   "1CO 15:56": "O aguilhão da morte é o pecado, e o poder do pecado é a lei.",
+   "1CO 15:57": "Graças a Deus, que nos dá a vitória por meio de nosso Senhor Jesus Cristo."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-1CO-015:054-1",
+    "ref": "1CO 15:54-15:57",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "igreja",
+    "condicao": "nenhuma",
+    "promitente": "Paulo",
+    "ancora": "A morte foi tragada pela vitória",
+    "resumo": "Deus dá aos crentes a vitória por Jesus Cristo, consumada quando a mortalidade der lugar à imortalidade."
+   }
+  ]
+ },
+ {
+  "id": "F3-1CO-028",
+  "livro": "1CO",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "1CO 16:3",
+  "fim": "1CO 16:3",
+  "texto": {
+   "1CO 16:3": "Quando eu chegar, enviarei a Jerusalém aqueles que aprovardes por cartas, levando vossa oferta."
+  },
+  "p1": [],
+  "p2": [
+   {
+    "uid": "U2-1CO-016:003-1",
+    "ref": "1CO 16:3",
+    "tipo": "promessa",
+    "origem": "humana_em_nome_proprio",
+    "natureza": "bencao",
+    "destinatario": "igreja",
+    "condicao": "explicita",
+    "promitente": "Paulo",
+    "ancora": "enviarei a Jerusalém aqueles que aprovardes por cartas",
+    "resumo": "Paulo se compromete a enviar a Jerusalém os representantes aprovados para levar a oferta, quando chegar."
+   }
+  ]
+ },
+ {
+  "id": "F3-2CO-001",
+  "livro": "2CO",
+  "leitor_p1": "Claude",
+  "leitor_p2": "Codex",
+  "arbitro_designado": "gemini",
+  "ini": "2CO 1:10",
+  "fim": "2CO 1:11",
+  "texto": {
+   "2CO 1:10": "Ele nos livrou de tão grande morte e continua a livrar-nos; nele esperamos que ainda nos livrará,",
+   "2CO 1:11": "enquanto também cooperais em favor de nós por meio da oração, para que muitos deem graças por nós pela dádiva que nos foi concedida mediante muitas pessoas."
+  },
+  "p1": [
+   {
+    "uid": "U1-2CO-001:010-1",
+    "ref": "2CO 1:10",
+    "tipo": "promessa",
+    "origem": "apostolica_garantia",
+    "natureza": "bencao",
+    "destinatario": "grupo_especifico",
+    "condicao": null,
+    "promitente": "Paulo",
+    "ancora": "nele esperamos que ainda nos livrará",
+    "resumo": "Paulo e companheiros esperam que Deus ainda os livrará, como já livrou da morte."
+   }
+  ],
+  "p2": [
+   {
+    "uid": "U2-2CO-001:010-2",
+    "ref": "2CO 1:10-1:11",
+    "tipo": "declaracao_sem_compromisso",
+    "origem": "indeterminada",
+    "natureza": null,
+    "destinatario": null,
+    "condicao": null,
+    "promitente": null,
+    "ancora": "nele esperamos que ainda nos livrará",
+    "resumo": "Paulo declara confiança em novo livramento, enquanto os destinatários cooperam em oração."
+   }
+  ]
+ }
+]

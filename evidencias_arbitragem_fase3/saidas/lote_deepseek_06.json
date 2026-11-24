@@ -1,0 +1,212 @@
+[
+ {
+  "id": "F3-1KI-021",
+  "veredito": "confirmar_p2",
+  "origem_override": null,
+  "natureza_override": null
+ },
+ {
+  "id": "F3-1KI-022",
+  "veredito": "confirmar_p2",
+  "origem_override": null,
+  "natureza_override": null
+ },
+ {
+  "id": "F3-1KI-023",
+  "veredito": "confirmar_p2",
+  "origem_override": null,
+  "natureza_override": null
+ },
+ {
+  "id": "F3-1KI-024",
+  "veredito": "confirmar_p2",
+  "origem_override": null,
+  "natureza_override": null
+ },
+ {
+  "id": "F3-1KI-025",
+  "veredito": "confirmar_p2",
+  "origem_override": null,
+  "natureza_override": null
+ },
+ {
+  "id": "F3-1KI-026",
+  "veredito": "confirmar_p2",
+  "origem_override": null,
+  "natureza_override": null
+ },
+ {
+  "id": "F3-2KI-001",
+  "veredito": "confirmar_p1",
+  "origem_override": null,
+  "natureza_override": null
+ },
+ {
+  "id": "F3-2KI-002",
+  "veredito": "confirmar_p1",
+  "origem_override": null,
+  "natureza_override": null
+ },
+ {
+  "id": "F3-2KI-003",
+  "veredito": "rejeitar",
+  "origem_override": null,
+  "natureza_override": null
+ },
+ {
+  "id": "F3-2KI-004",
+  "veredito": "rejeitar",
+  "origem_override": null,
+  "natureza_override": null
+ },
+ {
+  "id": "F3-2KI-005",
+  "veredito": "confirmar_p2",
+  "origem_override": null,
+  "natureza_override": null
+ },
+ {
+  "id": "F3-2KI-006",
+  "veredito": "confirmar_p1",
+  "origem_override": null,
+  "natureza_override": null
+ },
+ {
+  "id": "F3-2KI-007",
+  "veredito": "confirmar_p2",
+  "origem_override": null,
+  "natureza_override": null
+ },
+ {
+  "id": "F3-2KI-008",
+  "veredito": "confirmar_p2",
+  "origem_override": null,
+  "natureza_override": null
+ },
+ {
+  "id": "F3-2KI-009",
+  "veredito": "rejeitar",
+  "origem_override": null,
+  "natureza_override": null
+ },
+ {
+  "id": "F3-2KI-010",
+  "veredito": "confirmar_p2",
+  "origem_override": null,
+  "natureza_override": null
+ },
+ {
+  "id": "F3-2KI-011",
+  "veredito": "confirmar_p1",
+  "origem_override": "divina_relatada_por_humano",
+  "natureza_override": null
+ },
+ {
+  "id": "F3-2KI-012",
+  "veredito": "confirmar_p1",
+  "origem_override": null,
+  "natureza_override": null
+ },
+ {
+  "id": "F3-2KI-013",
+  "veredito": "confirmar_p1",
+  "origem_override": null,
+  "natureza_override": null
+ },
+ {
+  "id": "F3-2KI-014",
+  "veredito": "confirmar_p1",
+  "origem_override": null,
+  "natureza_override": null
+ },
+ {
+  "id": "F3-2KI-015",
+  "veredito": "confirmar_p2",
+  "origem_override": null,
+  "natureza_override": null
+ },
+ {
+  "id": "F3-2KI-016",
+  "veredito": "confirmar_p2",
+  "origem_override": null,
+  "natureza_override": null
+ },
+ {
+  "id": "F3-2KI-017",
+  "veredito": "confirmar_p1",
+  "origem_override": null,
+  "natureza_override": null
+ },
+ {
+  "id": "F3-2KI-018",
+  "veredito": "rejeitar",
+  "origem_override": null,
+  "natureza_override": null
+ },
+ {
+  "id": "F3-2KI-019",
+  "veredito": "rejeitar",
+  "origem_override": null,
+  "natureza_override": null
+ },
+ {
+  "id": "F3-2KI-020",
+  "veredito": "rejeitar",
+  "origem_override": null,
+  "natureza_override": null
+ },
+ {
+  "id": "F3-2KI-021",
+  "veredito": "confirmar_p2",
+  "origem_override": null,
+  "natureza_override": null
+ },
+ {
+  "id": "F3-2KI-022",
+  "veredito": "confirmar_p2",
+  "origem_override": null,
+  "natureza_override": null
+ },
+ {
+  "id": "F3-2KI-023",
+  "veredito": "confirmar_p2",
+  "origem_override": null,
+  "natureza_override": null
+ },
+ {
+  "id": "F3-2KI-024",
+  "veredito": "confirmar_p1",
+  "origem_override": "adversaria_ou_falsa",
+  "natureza_override": null
+ },
+ {
+  "id": "F3-2KI-025",
+  "veredito": "confirmar_p1",
+  "origem_override": null,
+  "natureza_override": null
+ },
+ {
+  "id": "F3-2KI-026",
+  "veredito": "confirmar_p1",
+  "origem_override": null,
+  "natureza_override": null
+ },
+ {
+  "id": "F3-2KI-027",
+  "veredito": "confirmar_p1",
+  "origem_override": null,
+  "natureza_override": null
+ },
+ {
+  "id": "F3-2KI-028",
+  "veredito": "confirmar_p1",
+  "origem_override": null,
+  "natureza_override": null
+ },
+ {
+  "id": "F3-2KI-029",
+  "veredito": "confirmar_p1",
+  "origem_override": null,
+  "natureza_override": null
+ }
+]
