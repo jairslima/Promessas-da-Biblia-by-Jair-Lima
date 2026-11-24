@@ -42,7 +42,7 @@ A concepção, a direção intelectual e a responsabilidade autoral da pesquisa 
 | **Categorias de classificação** | **10** | Taxonomia sistemática segundo a origem, a natureza e o promitente do compromisso |
 | **Candidatos pendentes** | **0** | Zero candidatos ou divergências pendentes no catálogo consolidado |
 
-*Nota sobre as grandezas:* A pesquisa distingue rigorosamente **contagem efetiva de unidades confirmadas** (`3.224`), **estimativa lexical de compromessas distintas estimadas** (`2.945` no limiar 0,45) e **projeção estatística corrigida pela revocação piloto de 0,84** (`3.506` no total e `1.763` de bênção divina, que constitui exercício analítico de sensibilidade e não medição exata).
+*Nota sobre as grandezas:* A pesquisa distingue rigorosamente **contagem efetiva de unidades confirmadas** (`3.224`), **total de promessas distintas estimadas por agrupamento lexical** (`2.945` no limiar 0,45) e **projeção estatística corrigida pela revocação piloto de 0,84** (`3.506` no total e `1.763` de bênção divina, que constitui exercício analítico de sensibilidade e não medição exata).
 
 ---
 
@@ -56,7 +56,7 @@ A pesquisa combina onze fundamentos metodológicos que permitem superar a repeti
 4. **Conferência cruzada dos resultados:** duas etapas iniciais de análise textual conduzidas de forma independente sobre todo o corpus.
 5. **Arbitragem exegética das divergências:** terceira etapa de avaliação dedicada exclusivamente aos 1.808 casos de identificação unilateral ou divergência classificatória.
 6. **Identificação de promitentes, comunicadores e destinatários:** separação formal entre o autor do compromisso (Deus, nos oráculos divinos e garantias apostólicas) e o comunicador humano que profetiza, relata ou recorda a palavra (1.487 registros, como em 1Cr 11.2).
-7. **Distinção entre promessas, reafirmações e cumprimentos:** preservação de cada ocorrência no catálogo bruto combinada com agrupamento lexical objetivo para estimar promessas distintas estimadas.
+7. **Distinção entre promessas, reafirmações e cumprimentos:** preservação de cada ocorrência no catálogo bruto combinada com agrupamento lexical objetivo para obter as promessas distintas estimadas.
 8. **Documentação dos critérios de inclusão e exclusão:** separação clara entre atos promissórios, máximas sapienciais gerais (mais de 600 em Provérbios), declarações doutrinárias em terceira pessoa (como Ec 12.14 e Lm 3.22-32) e votos devocionais humanos.
 9. **Disponibilização pública do conjunto de dados:** acesso aberto ao catálogo completo em CSV, Excel e JSONL por livro bíblico.
 10. **Reprodutibilidade dos cálculos:** memória de cálculo explícita (`3.609 - 334 - 37 - 14 = 3.224`) e scripts de verificação utilizando apenas biblioteca padrão do Python.

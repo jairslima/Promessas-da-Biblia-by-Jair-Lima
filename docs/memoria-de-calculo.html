@@ -3,6 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
   <title>Memória de Cálculo da Contagem de Promessas | Observatório das Promessas Bíblicas — Jair Lima</title>
   <style>
     :root {
@@ -12,16 +13,15 @@
       --bg: #faf8f3;
       --card: #ffffff;
       --border: #dfd9cc;
-      --text: #2c3545;
+      --text: #222a36;
     }
     * { box-sizing: border-box; margin: 0; padding: 0; }
-    body { font-family: Georgia, 'Times New Roman', serif; background: var(--bg); color: var(--text); line-height: 1.75; }
+    body { font-family: Georgia, 'Times New Roman', serif; background: var(--bg); color: var(--text); line-height: 1.72; font-size: 11.5pt; }
     header {
       background: linear-gradient(180deg, var(--navy-dark), var(--navy));
       color: #fff; padding: 2rem 1.25rem; text-align: center; border-bottom: 4px solid #b88b1d;
       font-family: 'Segoe UI', system-ui, sans-serif;
     }
-    header a { color: #f3d47c; text-decoration: none; font-weight: 600; }
     .toolbar {
       max-width: 960px; margin: 1.2rem auto 0; padding: 0 1rem;
       display: flex; justify-content: space-between; flex-wrap: wrap; gap: 0.6rem;
@@ -32,46 +32,62 @@
       font-weight: 600; text-decoration: none; background: var(--navy); color: #fff;
     }
     .btn.gold { background: var(--gold); }
+    .btn.ghost { background: #fff; color: var(--navy); border: 1px solid var(--navy); }
     article {
       max-width: 960px; margin: 1.2rem auto 3rem; background: var(--card);
       border: 1px solid var(--border); border-radius: 8px; padding: 2.5rem 2.8rem;
       box-shadow: 0 2px 8px rgba(0,0,0,0.03);
     }
-    h1 { font-size: 1.75rem; color: var(--navy-dark); margin-bottom: 0.8rem; line-height: 1.3; }
-    h2 { font-size: 1.38rem; color: var(--navy); margin: 1.8rem 0 0.8rem; padding-bottom: 0.4rem; border-bottom: 1px solid var(--border); }
-    h3 { font-size: 1.14rem; color: var(--navy-dark); margin: 1.3rem 0 0.5rem; }
-    p { margin-bottom: 1rem; text-align: justify; }
-    ul { margin: 0.5rem 0 1.1rem 1.5rem; }
-    li { margin-bottom: 0.45rem; }
-    hr { border: none; border-top: 1px solid var(--border); margin: 1.6rem 0; }
+    h1 { font-size: 1.55rem; color: var(--navy-dark); margin-bottom: 0.65rem; line-height: 1.3; }
+    h2 { font-size: 1.28rem; color: var(--navy); margin: 1.7rem 0 0.75rem; padding-bottom: 0.35rem; border-bottom: 1px solid var(--border); page-break-after: avoid; }
+    h3 { font-size: 1.08rem; color: var(--navy-dark); margin: 1.25rem 0 0.5rem; page-break-after: avoid; }
+    p { margin-bottom: 0.9rem; text-align: justify; }
+    ul { margin: 0.45rem 0 1rem 1.4rem; }
+    li { margin-bottom: 0.4rem; }
+    hr { border: none; border-top: 1px solid var(--border); margin: 1.4rem 0; }
     code { font-family: Consolas, monospace; font-size: 0.88em; background: #f3f0e8; padding: 0.1rem 0.35rem; border-radius: 3px; }
-    .table-wrap { overflow-x: auto; margin: 1.2rem 0; border: 1px solid var(--border); border-radius: 6px; }
-    table { width: 100%; border-collapse: collapse; font-family: 'Segoe UI', system-ui, sans-serif; font-size: 0.88rem; }
-    th, td { padding: 0.6rem 0.8rem; border-bottom: 1px solid var(--border); text-align: left; vertical-align: top; }
+    .table-wrap { overflow-x: auto; margin: 1.1rem 0; border: 1px solid var(--border); border-radius: 6px; page-break-inside: avoid; }
+    table { width: 100%; border-collapse: collapse; font-family: 'Segoe UI', system-ui, sans-serif; font-size: 9.2pt; }
+    th, td { padding: 0.5rem 0.7rem; border-bottom: 1px solid var(--border); text-align: left; vertical-align: top; }
     th { background: #f3f0e8; color: var(--navy-dark); font-weight: 700; }
-    footer { text-align: center; padding: 2rem 1rem; font-family: 'Segoe UI', system-ui, sans-serif; font-size: 0.86rem; color: #546072; }
+    figure.academic-figure {
+      margin: 1.4rem 0; padding: 1rem; border: 1px solid var(--border); border-radius: 6px;
+      background: #fff; text-align: center; page-break-inside: avoid;
+    }
+    figure.academic-figure img { max-width: 92%; height: auto; max-height: 360px; display: block; margin: 0 auto; }
+    figure.academic-figure figcaption { margin-top: 0.6rem; font-size: 9.5pt; color: #4a5568; font-style: italic; text-align: center; }
+    footer { text-align: center; padding: 1.8rem 1rem; font-family: 'Segoe UI', system-ui, sans-serif; font-size: 0.85rem; color: #546072; }
+    @media print {
+      @page { size: A4; margin: 18mm 16mm 18mm 16mm; }
+      body { background: #fff; font-size: 10.5pt; }
+      header, .toolbar, footer { display: none !important; }
+      article { max-width: 100%; margin: 0; padding: 0; border: none; box-shadow: none; }
+    }
   </style>
 </head>
 <body>
   <header>
     <div style="font-size:0.78rem;text-transform:uppercase;letter-spacing:1.8px;color:#e6c875;font-weight:700;">Observatório das Promessas Bíblicas</div>
-    <div style="font-size:1.35rem;font-weight:700;margin:0.3rem 0;">Memória de Cálculo da Contagem de Promessas</div>
+    <div style="font-size:1.3rem;font-weight:700;margin:0.3rem 0;">Memória de Cálculo da Contagem de Promessas</div>
     <div style="font-size:0.9rem;color:#e2e8f0;">Pesquisa e autoria: Jair Lima • Lima Editora do Brasil, 2026</div>
   </header>
   <div class="toolbar">
     <a class="btn" href="./index.html">← Voltar ao Observatório das Promessas Bíblicas</a>
-    <a class="btn gold" href="./MEMORIA_DE_CALCULO.md" download="MEMORIA_DE_CALCULO.md">Baixar documento original (.MD)</a>
+    <div style="display:flex;gap:0.5rem;flex-wrap:wrap;">
+      
+      <a class="btn ghost" href="./MEMORIA_DE_CALCULO.md" download="MEMORIA_DE_CALCULO.md">Baixar Markdown (.MD)</a>
+    </div>
   </div>
   <article>
     <h1>Memória de cálculo da contagem de promessas</h1>
-<p><strong>Unidades confirmadas e estimativa de promessas distintas estimadas.</strong> Os <strong>3.224 registros</strong> são unidades promissórias confirmadas após a conclusão integral das três etapas metodológicas da pesquisa (dupla análise textual independente nas Etapas 1 e 2 e arbitragem exegética assistida por computador na Etapa 3), restando zero candidatos pendentes; o número de promessas <em>distintas</em> (<strong>2.945</strong> no limiar padrão de 0,45) é uma estimativa obtida por agrupamento lexical dos resumos por similaridade.</p>
+<p><strong>Unidades confirmadas e total de promessas distintas estimadas.</strong> Os <strong>3.224 registros</strong> são unidades promissórias confirmadas após a conclusão integral das três etapas metodológicas da pesquisa (dupla análise textual independente nas Etapas 1 e 2 e arbitragem exegética assistida por computador na Etapa 3), restando zero candidatos pendentes; o número de promessas <em>distintas</em> (<strong>2.945</strong> no limiar padrão de 0,45) é uma estimativa obtida por agrupamento lexical dos resumos por similaridade.</p>
 <h2>1. Método e terminologia das três etapas</h2>
 <ul>
 <li>1. <strong>Unidade promissória confirmada:</strong> trecho do corpus (66 livros examinados, 64 livros com registros catalogados, 1.189 capítulos e 31.104 versículos da Bíblia Almeida Livre) em que a pesquisa confirmou compromisso com conteúdo futuro ou continuado, promitente e destinatário reconhecíveis. Reafirmações em passagens distintas contam como unidades separadas.</li>
 <li>2. <strong>Confirmadas por acordo direto (Etapas 1 e 2):</strong> <strong>1.211 unidades</strong> em que as duas análises independentes iniciais convergiram na identificação da promessa, em sua origem e em sua natureza (1.166 nos livros de Êxodo a Apocalipse e 45 reconciliadas diretamente em Gênesis).</li>
 <li>3. <strong>Confirmadas por arbitragem exegética (Etapa 3):</strong> <strong>2.013 unidades</strong> em que houve divergência inicial entre as duas análises iniciais (ou apenas uma delas apontou promessa) e a terceira etapa de avaliação atuou na arbitragem exegética para confirmar o compromisso, segundo os parâmetros registrados no apêndice técnico de reprodutibilidade (<code>DOCUMENTACAO_TECNICA_REPRODUTIBILIDADE.md</code>).</li>
 <li>4. <strong>Distinta (estimativa por agrupamento lexical):</strong> as unidades confirmadas de uma mesma categoria são agrupadas quando a similaridade de palavras do resumo (índice de Jaccard sobre palavras de 4 ou mais letras, sem palavras vazias nem as palavras <em>Deus, Senhor, promete, garante, anuncia</em> e <em>declara</em>) é igual ou superior ao limiar (padrão: <strong>0,45</strong>). Cada grupo conta como uma promessa distinta.</li>
-<li>5. <strong>Impacto da recuperação dos 276 resumos:</strong> na consolidação preliminar, 276 unidades provenientes de análises com preenchimento parcial traziam o marcador <code>&quot;(resumo não informado pelo leitor)&quot;</code>, cujos 4 vocábulos idênticos (<code>resumo, informado, pelo, leitor</code>, Jaccard = 1,00) colapsavam artificialmente registros distintos em um único grupo por categoria (resultando em 2.763 distintas). Após a recuperação integral dos 276 resumos a partir da análise complementar (202 casos) e do texto bíblico e âncoras originais (74 casos), restaram <strong>0 resumos genéricos</strong>, e a estimativa de promessas distintas estimadas no limiar 0,45 passou a <strong>2.945</strong> (+182 promessas distintas estimadas, sendo <strong>1.481</strong> de bênção divina, +57).</li>
+<li>5. <strong>Impacto da recuperação dos 276 resumos:</strong> na consolidação preliminar, 276 unidades provenientes de análises com preenchimento parcial traziam o marcador <code>&quot;(resumo não informado pelo leitor)&quot;</code>, cujos 4 vocábulos idênticos (<code>resumo, informado, pelo, leitor</code>, Jaccard = 1,00) colapsavam artificialmente registros distintos em um único grupo por categoria (resultando em 2.763 distintas). Após a recuperação integral dos 276 resumos a partir da análise complementar (202 casos) e do texto bíblico e âncoras originais (74 casos), restaram <strong>0 resumos genéricos</strong>, e a total de promessas distintas estimadas no limiar 0,45 passou a <strong>2.945</strong> (+182 promessas distintas estimadas, sendo <strong>1.481</strong> de bênção divina, +57).</li>
 <li>6. <strong>Cenário corrigido pela revocação (0,84):</strong> divide as promessas distintas estimadas pela taxa de revocação medida nos pilotos de calibração (0,84), constituindo exercício analítico de sensibilidade e não medição exata de todas as promessas existentes.</li>
 <li>7. <strong>Indicador principal (bênção divina):</strong> soma das categorias <code>divina_bencao</code> (1.448), <code>apostolica_garantia_bencao</code> (161) e <code>patriarcal_bencao</code> (13), totalizando <strong>1.622 unidades confirmadas</strong> e <strong>1.481 promessas distintas estimadas</strong>.</li>
 </ul>

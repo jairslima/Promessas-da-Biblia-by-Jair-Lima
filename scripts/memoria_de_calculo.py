@@ -87,7 +87,7 @@ def main():
     L = [
         "# Memória de cálculo da contagem de promessas",
         "",
-        "**Unidades confirmadas e estimativa de promessas distintas estimadas.** Os **3.224 registros** são unidades promissórias confirmadas após a conclusão integral das três fases da pesquisa (leitura dupla independente nas Fases 1 e 2 e arbitragem exegética por terceiro agente independente na Fase 3), restando zero candidatos pendentes; o número de promessas *distintas* (**2.945** no limiar padrão de 0,45) é uma estimativa obtida por agrupamento lexical dos resumos por similaridade.",
+        "**Unidades confirmadas e total de promessas distintas estimadas.** Os **3.224 registros** são unidades promissórias confirmadas após a conclusão integral das três fases da pesquisa (leitura dupla independente nas Fases 1 e 2 e arbitragem exegética por terceiro agente independente na Fase 3), restando zero candidatos pendentes; o número de promessas *distintas* (**2.945** no limiar padrão de 0,45) é uma estimativa obtida por agrupamento lexical dos resumos por similaridade.",
         "",
         "## 1. Método e terminologia das três fases",
         "",

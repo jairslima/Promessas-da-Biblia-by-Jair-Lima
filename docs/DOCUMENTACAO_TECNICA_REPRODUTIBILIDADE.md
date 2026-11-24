@@ -27,7 +27,7 @@ A concepção intelectual da pesquisa, a formulação da definição operacional
 # 1. Executar a suíte de 77 testes controlados (validação de esquema e detecção de erros plantados)
 python -I testes/testes_erros_plantados.py
 
-# 2. Recalcular as estimativas de promessas distintas estimadas (limiares de Jaccard 0,35 a 0,65)
+# 2. Recalcular as contagens de promessas distintas estimadas (limiares de Jaccard 0,35 a 0,65)
 python -I scripts/apurar_numero.py
 
 # 3. Gerar e conferir a Memória de Cálculo completa
