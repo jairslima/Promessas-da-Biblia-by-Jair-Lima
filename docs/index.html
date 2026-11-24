@@ -1594,12 +1594,29 @@
       const btnTodos = document.getElementById('btn-mostrar-todos');
       btnTodos.style.display = filtrados.length > fatia.length ? 'inline-block' : 'none';
 
+      const BOOK_SLUGS = {
+        'Gn':'genesis','Êx':'exodo','Lv':'levitico','Nm':'numeros','Dt':'deuteronomio','Js':'josue','Jz':'juizes','Rt':'rute',
+        '1Sm':'1-samuel','2Sm':'2-samuel','1Rs':'1-reis','2Rs':'2-reis','1Cr':'1-cronicas','2Cr':'2-cronicas','Ed':'esdras','Ne':'neemias','Et':'ester',
+        'Jó':'jo','Sl':'salmos','Salmo':'salmos','Pv':'proverbios','Ec':'eclesiastes','Ct':'cantares','Cântico dos Cânticos':'cantares',
+        'Is':'isaias','Jr':'jeremias','Lm':'lamentacoes','Ez':'ezequiel','Dn':'daniel','Os':'oseias','Jl':'joel','Am':'amos','Ob':'obadias',
+        'Jn':'jonas','Mq':'miqueias','Na':'naum','Hc':'habacuque','Sf':'sofonias','Ag':'ageu','Zc':'zacarias','Ml':'malaquias',
+        'Mt':'mateus','Mc':'marcos','Lc':'lucas','Jo':'joao','At':'atos','Rm':'romanos','1Co':'1-corintios','2Co':'2-corintios',
+        'Gl':'galatas','Ef':'efesios','Fp':'filipenses','Cl':'colossenses','1Ts':'1-tessalonicenses','2Ts':'2-tessalonicenses',
+        '1Tm':'1-timoteo','2Tm':'2-timoteo','Tt':'tito','Fm':'filemom','Hb':'hebreus','Tg':'tiago','1Pe':'1-pedro','2Pe':'2-pedro',
+        '1Jo':'1-joao','2Jo':'2-joao','3Jo':'3-joao','Jd':'judas','Ap':'apocalipse'
+      };
       document.getElementById('tabela-corpo').innerHTML = fatia.map(r => {
         const viaLimpa = normalizarVia(r.via);
+        let refHtml = r.ref;
+        const mRef = (r.ref || '').match(/^(.+?)\s+(\d+)\.(\d+)/);
+        if (mRef && BOOK_SLUGS[mRef[1]]) {
+          const readerUrl = `https://bibliasagradalivre.com.br/almeida-livre/${BOOK_SLUGS[mRef[1]]}/${mRef[2]}/${mRef[3]}`;
+          refHtml = `<a href="${readerUrl}" target="_blank" rel="noopener noreferrer" style="color:var(--navy);text-decoration:underline;" title="Ler ${r.ref} na Bíblia Almeida Livre (bibliasagradalivre.com.br)">${r.ref} ↗</a>`;
+        }
         return `
           <tr>
             <td><strong>${r.id}</strong></td>
-            <td style="white-space:nowrap;font-weight:600;color:var(--navy);">${r.ref}</td>
+            <td style="white-space:nowrap;font-weight:600;color:var(--navy);">${refHtml}</td>
             <td><span class="cat-tag ${r.nat}">${r.cat}</span></td>
             <td>${r.obj}</td>
             <td>${r.prom}</td>
@@ -1690,6 +1707,15 @@
     }
 
     popularSelects();
+    const urlQ = new URLSearchParams(window.location.search).get('q');
+    if (urlQ) {
+      const inp = document.getElementById('f-busca');
+      if (inp) inp.value = urlQ;
+      setTimeout(() => {
+        const sec = document.getElementById('catalogo-interativo');
+        if (sec) sec.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }, 150);
+    }
     filtrar();
   </script>
 </body>
