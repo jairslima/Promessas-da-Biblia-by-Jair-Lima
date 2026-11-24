@@ -1,6 +1,6 @@
 # CONTAGEM: 2CH (2CH)
 
-**Provisória.** Unidades classificadas como promessa candidata, **ainda sem deduplicação global** e sem aprovação humana. Cobertura: **822 de 822 versículos lidos** (Claude (agente), Gemini, árbitro DeepSeek Flash high). Fase 3 concluída (acordo=23, adj_ant=0, f3_conf=28, f3_rej=4, dup_rem=0).
+**Provisória.** Unidades classificadas como promessa candidata, **ainda sem deduplicação global** e sem aprovação humana. Cobertura: **822 de 822 versículos lidos** (concluído nas três etapas metodológicas de identificação, conferência cruzada e arbitragem exegética). Etapa 3 concluída (acordo=23, adj_ant=0, f3_conf=28, f3_rej=4, dup_rem=0).
 
 ## Por categoria
 

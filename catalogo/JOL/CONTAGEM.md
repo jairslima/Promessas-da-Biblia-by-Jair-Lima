@@ -1,6 +1,6 @@
 # CONTAGEM: JOL (JOL)
 
-**Provisória.** Unidades classificadas como promessa candidata, **ainda sem deduplicação global** e sem aprovação humana. Cobertura: **73 de 73 versículos lidos** (Claude (agente), DeepSeek Flash high, árbitro Gemini). Fase 3 concluída (acordo=7, adj_ant=0, f3_conf=17, f3_rej=0, dup_rem=1).
+**Provisória.** Unidades classificadas como promessa candidata, **ainda sem deduplicação global** e sem aprovação humana. Cobertura: **73 de 73 versículos lidos** (concluído nas três etapas metodológicas de identificação, conferência cruzada e arbitragem exegética). Etapa 3 concluída (acordo=7, adj_ant=0, f3_conf=17, f3_rej=0, dup_rem=1).
 
 ## Por categoria
 

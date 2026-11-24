@@ -1,6 +1,6 @@
 # CONTAGEM: ZEC (ZEC)
 
-**Provisória.** Unidades classificadas como promessa candidata, **ainda sem deduplicação global** e sem aprovação humana. Cobertura: **211 de 211 versículos lidos** (Claude (agente), DeepSeek Flash high, árbitro Gemini). Fase 3 concluída (acordo=29, adj_ant=0, f3_conf=38, f3_rej=9, dup_rem=0).
+**Provisória.** Unidades classificadas como promessa candidata, **ainda sem deduplicação global** e sem aprovação humana. Cobertura: **211 de 211 versículos lidos** (concluído nas três etapas metodológicas de identificação, conferência cruzada e arbitragem exegética). Etapa 3 concluída (acordo=29, adj_ant=0, f3_conf=38, f3_rej=9, dup_rem=0).
 
 ## Por categoria
 

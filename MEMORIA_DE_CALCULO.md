@@ -1,6 +1,6 @@
 # Memória de cálculo da contagem de promessas
 
-**Unidades confirmadas e estimativa de promessas distintas.** Os **3.224 registros** são unidades promissórias confirmadas após a conclusão integral das três etapas metodológicas da pesquisa (dupla análise textual independente nas Etapas 1 e 2 e arbitragem exegética assistida por computador na Etapa 3), restando zero candidatos pendentes; o número de promessas *distintas* (**2.945** no limiar padrão de 0,45) é uma estimativa obtida por agrupamento lexical dos resumos por similaridade.
+**Unidades confirmadas e estimativa de promessas distintas estimadas.** Os **3.224 registros** são unidades promissórias confirmadas após a conclusão integral das três etapas metodológicas da pesquisa (dupla análise textual independente nas Etapas 1 e 2 e arbitragem exegética assistida por computador na Etapa 3), restando zero candidatos pendentes; o número de promessas *distintas* (**2.945** no limiar padrão de 0,45) é uma estimativa obtida por agrupamento lexical dos resumos por similaridade.
 
 ## 1. Método e terminologia das três etapas
 
@@ -8,7 +8,7 @@
 2. **Confirmadas por acordo direto (Etapas 1 e 2):** **1.211 unidades** em que as duas análises independentes iniciais convergiram na identificação da promessa, em sua origem e em sua natureza (1.166 nos livros de Êxodo a Apocalipse e 45 reconciliadas diretamente em Gênesis).
 3. **Confirmadas por arbitragem exegética (Etapa 3):** **2.013 unidades** em que houve divergência inicial entre as duas análises iniciais (ou apenas uma delas apontou promessa) e a terceira etapa de avaliação atuou na arbitragem exegética para confirmar o compromisso, segundo os parâmetros registrados no apêndice técnico de reprodutibilidade (`DOCUMENTACAO_TECNICA_REPRODUTIBILIDADE.md`).
 4. **Distinta (estimativa por agrupamento lexical):** as unidades confirmadas de uma mesma categoria são agrupadas quando a similaridade de palavras do resumo (índice de Jaccard sobre palavras de 4 ou mais letras, sem palavras vazias nem as palavras *Deus, Senhor, promete, garante, anuncia* e *declara*) é igual ou superior ao limiar (padrão: **0,45**). Cada grupo conta como uma promessa distinta.
-5. **Impacto da recuperação dos 276 resumos:** na consolidação preliminar, 276 unidades provenientes de análises com preenchimento parcial traziam o marcador `"(resumo não informado pelo leitor)"`, cujos 4 vocábulos idênticos (`resumo, informado, pelo, leitor`, Jaccard = 1,00) colapsavam artificialmente registros distintos em um único grupo por categoria (resultando em 2.763 distintas). Após a recuperação integral dos 276 resumos a partir da análise complementar (202 casos) e do texto bíblico e âncoras originais (74 casos), restaram **0 resumos genéricos**, e a estimativa de promessas distintas no limiar 0,45 passou a **2.945** (+182 promessas distintas, sendo **1.481** de bênção divina, +57).
+5. **Impacto da recuperação dos 276 resumos:** na consolidação preliminar, 276 unidades provenientes de análises com preenchimento parcial traziam o marcador `"(resumo não informado pelo leitor)"`, cujos 4 vocábulos idênticos (`resumo, informado, pelo, leitor`, Jaccard = 1,00) colapsavam artificialmente registros distintos em um único grupo por categoria (resultando em 2.763 distintas). Após a recuperação integral dos 276 resumos a partir da análise complementar (202 casos) e do texto bíblico e âncoras originais (74 casos), restaram **0 resumos genéricos**, e a estimativa de promessas distintas estimadas no limiar 0,45 passou a **2.945** (+182 promessas distintas estimadas, sendo **1.481** de bênção divina, +57).
 6. **Cenário corrigido pela revocação (0,84):** divide as promessas distintas estimadas pela taxa de revocação medida nos pilotos de calibração (0,84), constituindo exercício analítico de sensibilidade e não medição exata de todas as promessas existentes.
 7. **Indicador principal (bênção divina):** soma das categorias `divina_bencao` (1.448), `apostolica_garantia_bencao` (161) e `patriarcal_bencao` (13), totalizando **1.622 unidades confirmadas** e **1.481 promessas distintas estimadas**.
 
@@ -50,7 +50,7 @@ A transição entre o levantamento preliminar de **3.609 unidades candidatas** e
 
 ## 5. Sensibilidade ao limiar de similaridade
 
-O limiar é uma escolha do método de agrupamento lexical. Quanto mais exigente (maior), menos grupos se formam e mais promessas distintas a estimativa apresenta.
+O limiar é uma escolha do método de agrupamento lexical. Quanto mais exigente (maior), menos grupos se formam e mais promessas distintas estimadas a estimativa apresenta.
 
 | Limiar | Distintas estimadas (todas) | Projeção c/ revocação (todas) | Bênção divina (distintas) | Bênção divina (projeção) |
 | -----: | --------------------------: | ----------------------------: | ------------------------: | -----------------------: |
@@ -61,6 +61,6 @@ O limiar é uma escolha do método de agrupamento lexical. Quanto mais exigente 
 
 ## 6. Limites
 
-* A contagem de **3.224 unidades promissórias confirmadas** é exata sobre o catálogo auditado nas três etapas; já o número de **2.945 promessas distintas** é uma estimativa condicionada ao limiar lexical de 0,45 sobre os resumos.
+* A contagem de **3.224 unidades promissórias confirmadas** é exata sobre o catálogo auditado nas três etapas; já o número de **2.945 promessas distintas estimadas** é uma estimativa condicionada ao limiar lexical de 0,45 sobre os resumos.
 * A projeção corrigida pela revocação de 0,84 provém dos pilotos de calibração e representa um exercício analítico de sensibilidade, não uma medição exata.
 * O título *As 3 Mil Promessas da Bíblia* permanece justificado e materialmente exato: tanto as **3.224 unidades promissórias confirmadas** quanto as **2.945 promessas distintas estimadas** situam-se diretamente na ordem das **três mil promessas**.

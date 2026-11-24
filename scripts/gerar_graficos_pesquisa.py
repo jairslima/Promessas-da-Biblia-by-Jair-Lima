@@ -1,7 +1,8 @@
-"""Gera os 6 gráficos científicos e editoriais da pesquisa das Promessas da Bíblia em duas versões:
-1. Versão colorida (e-book, GitHub, Zenodo, GitHub Pages, artigo científico e divulgação)
-2. Versão monocromática em escala de cinza de alto contraste com padrões hachurados (edição impressa P&B)
-Todos os números são extraídos diretamente de `catalogo/*/*.jsonl` e `auditoria/apuracao_numero.json` (zero hardcoding manual).
+"""Gera os gráficos individuais redesenhados para leitura confortável no formato A5 (14,8 x 21,0 cm; largura útil de mancha 10,8 cm):
+- Nenhum painel de KPIs em imagem pequena (o painel geral passa a ser página exclusiva com tipografia nativa do Word entre 30 e 44 pt!).
+- Todos os gráficos separados (nenhum gráfico lado a lado / 2 colunas).
+- Proporção calibrada para A5 (largura de figura 6.2 pol., fontes entre 10 e 13 pt, rótulos diretos nas barras).
+- Salva em PNG de alta resolução (450 DPI) E em SVG/PDF vetorial, nas versões colorida (`_cor`) e escala de cinza com hachuras (`_pb`).
 """
 import json
 import sys
@@ -13,11 +14,11 @@ matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 import numpy as np
 
-PESQ = Path(r".")
-PROJ = Path(r"./local_env Estudos Biblicos\Livros Teologia\As Promessas da Biblia (titulo provisorio)")
+PESQ = Path(r"C:\Users\jairs\Claude\Promessas-da-Biblia-by-Jair-Lima")
+PROJ = Path(r"C:\Users\jairs\Documents\Meus Estudos Biblicos\Livros Teologia\As Promessas da Biblia (titulo provisorio)")
 
 sys.path.insert(0, str(PESQ / "scripts"))
-from lib_promessas import CANON, Corpus, ler_jsonl  # noqa: E402
+from lib_promessas import ler_jsonl  # noqa: E402
 
 ROTULO_CAT = {
     "divina_bencao": "Bênção divina",
@@ -33,13 +34,13 @@ ROTULO_CAT = {
 }
 
 DIVISAO_CANON = [
-    ("Pentateuco", ["GEN", "EXO", "LEV", "NUM", "DEU"]),
-    ("Históricos AT", ["JOS", "JDG", "RUT", "1SA", "2SA", "1KI", "2KI", "1CH", "2CH", "EZR", "NEH", "EST"]),
-    ("Poéticos e Sapienciais", ["JOB", "PSA", "PRO", "ECC", "SNG"]),
-    ("Profetas Maiores", ["ISA", "JER", "LAM", "EZK", "DAN"]),
-    ("Profetas Menores", ["HOS", "JOL", "AMO", "OBA", "JON", "MIC", "NAM", "HAB", "ZEP", "HAG", "ZEC", "MAL"]),
-    ("Evangelhos e Atos", ["MAT", "MRK", "LUK", "JHN", "ACT"]),
-    ("Epístolas e Apocalipse", ["ROM", "1CO", "2CO", "GAL", "EPH", "PHP", "COL", "1TH", "2TH", "1TI", "2TI", "TIT", "PHM", "HEB", "JAS", "1PE", "2PE", "1JN", "2JN", "3JN", "JUD", "REV"]),
+    ("Pentateuco (5 livros)", ["GEN", "EXO", "LEV", "NUM", "DEU"]),
+    ("Históricos AT (12 livros)", ["JOS", "JDG", "RUT", "1SA", "2SA", "1KI", "2KI", "1CH", "2CH", "EZR", "NEH", "EST"]),
+    ("Poéticos e Sapienciais (5 livros)", ["JOB", "PSA", "PRO", "ECC", "SNG"]),
+    ("Profetas Maiores (5 livros)", ["ISA", "JER", "LAM", "EZK", "DAN"]),
+    ("Profetas Menores (12 livros)", ["HOS", "JOL", "AMO", "OBA", "JON", "MIC", "NAM", "HAB", "ZEP", "HAG", "ZEC", "MAL"]),
+    ("Evangelhos e Atos (5 livros)", ["MAT", "MRK", "LUK", "JHN", "ACT"]),
+    ("Epístolas e Apocalipse (22 livros)", ["ROM", "1CO", "2CO", "GAL", "EPH", "PHP", "COL", "1TH", "2TH", "1TI", "2TI", "TIT", "PHM", "HEB", "JAS", "1PE", "2PE", "1JN", "2JN", "3JN", "JUD", "REV"]),
 ]
 
 NOMES_LIV = {
@@ -76,53 +77,20 @@ def carregar_dados():
 
 def configurar_estilo():
     plt.rcParams["font.sans-serif"] = ["Segoe UI", "Arial", "DejaVu Sans"]
-    plt.rcParams["axes.edgecolor"] = "#CCCCCC"
-    plt.rcParams["axes.linewidth"] = 0.8
+    plt.rcParams["axes.edgecolor"] = "#999999"
+    plt.rcParams["axes.linewidth"] = 0.9
+    plt.rcParams["xtick.labelsize"] = 9.5
+    plt.rcParams["ytick.labelsize"] = 10.0
 
 
-def g1_painel_geral(regs, apur, mc, dest_dir, mono=False):
-    fig, ax = plt.subplots(figsize=(10, 5.6), dpi=300)
-    ax.axis("off")
-    cor_fundo = "#F7F7F7" if mono else "#F4F6F9"
-    cor_borda = "#444444" if mono else "#1E3A5F"
-    cor_num = "#111111" if mono else "#1E3A5F"
-    cor_dest = "#222222" if mono else "#8B6914"
-    cor_sub = "#333333" if mono else "#4A5568"
-
-    fig.patch.set_facecolor("white")
-    ax.text(0.5, 0.94, "A BÍBLIA DAS PROMESSAS EM NÚMEROS", ha="center", va="top", fontsize=16, fontweight="bold", color=cor_num)
-    ax.text(0.5, 0.88, "Levantamento exaustivo nos 66 livros da Bíblia Almeida Livre (leitura dupla independente e arbitragem na Fase 3)", ha="center", va="top", fontsize=9.5, color=cor_sub)
-
-    cards = [
-        ("66 Livros | 1.189 Capítulos", fmt(apur["versiculos_no_corpus"]), "Versículos lidos (100% do corpus)", False),
-        ("Cobertura Promissória", f"{fmt(apur['central']['todas']['versiculos'])} ({100*apur['central']['todas']['versiculos']/apur['versiculos_no_corpus']:.1f}%)", "Versículos com promessas confirmadas", False),
-        ("Unidades Confirmadas", fmt(len(regs)), "De 3.609 candidatas iniciais (0 pendentes)", True),
-        ("Promessas Distintas", fmt(apur["central"]["todas"]["distintas_estimadas"]), "Agrupamento lexical (limiar 0,45)", True),
-        ("Bênção Divina (Unidades)", fmt(apur["central"]["principal_divinas_de_bencao"]["unidades"]), f"{fmt(apur['central']['principal_divinas_de_bencao']['distintas_estimadas'])} promessas distintas de bênção", True),
-        ("Vias de Confirmação", f"{fmt(mc['confirmadas_acordo_direto'])} + {fmt(mc['confirmadas_arbitragem_independente'])}", "1.211 acordo direto | 2.013 arbitragem Fase 3", False),
-    ]
-
-    posicoes = [
-        (0.04, 0.48, 0.28, 0.32),
-        (0.36, 0.48, 0.28, 0.32),
-        (0.68, 0.48, 0.28, 0.32),
-        (0.04, 0.10, 0.28, 0.32),
-        (0.36, 0.10, 0.28, 0.32),
-        (0.68, 0.10, 0.28, 0.32),
-    ]
-    for (x, y, w, h), (topo, numero, rodape, dest) in zip(posicoes, cards):
-        rect = plt.Rectangle((x, y), w, h, facecolor=cor_fundo, edgecolor=cor_borda, linewidth=1.6 if dest else 1.0, transform=ax.transAxes, zorder=2)
-        ax.add_patch(rect)
-        ax.text(x + w / 2, y + h - 0.05, topo.upper(), ha="center", va="top", fontsize=8.5, fontweight="bold", color=cor_sub, transform=ax.transAxes, zorder=3)
-        ax.text(x + w / 2, y + h / 2, numero, ha="center", va="center", fontsize=19 if len(numero) < 10 else 14.5, fontweight="bold", color=cor_dest if dest else cor_num, transform=ax.transAxes, zorder=3)
-        ax.text(x + w / 2, y + 0.04, rodape, ha="center", va="bottom", fontsize=8, color=cor_sub, transform=ax.transAxes, zorder=3)
-
-    ax.text(0.5, 0.02, "Fonte: Pesquisa Promessas da Bíblia by Jair Lima (2026) — Corpus: Bíblia Almeida Livre (CC BY-ND 4.0).", ha="center", va="bottom", fontsize=7.5, color="#666666")
+def salvar(fig, dest_dir, nome_base, mono):
     suf = "_pb" if mono else "_cor"
-    arq = dest_dir / f"grafico_01_painel_geral{suf}.png"
-    fig.savefig(arq, bbox_inches="tight", dpi=300)
+    arq_png = dest_dir / f"{nome_base}{suf}.png"
+    arq_svg = dest_dir / f"{nome_base}{suf}.svg"
+    fig.savefig(arq_png, bbox_inches="tight", dpi=450)
+    fig.savefig(arq_svg, bbox_inches="tight")
     plt.close(fig)
-    return arq
+    return arq_png
 
 
 def g2_categorias(regs, dest_dir, mono=False):
@@ -132,11 +100,11 @@ def g2_categorias(regs, dest_dir, mono=False):
     vals = [v for _, v in itens]
     tot = len(regs)
 
-    fig, ax = plt.subplots(figsize=(9.5, 5.4), dpi=300)
+    fig, ax = plt.subplots(figsize=(6.4, 4.8), dpi=450)
     cores = []
     for k, _ in itens:
         if mono:
-            cores.append("#333333" if "bencao" in k or "beneficio" in k else "#888888")
+            cores.append("#2B2B2B" if "bencao" in k or "beneficio" in k else "#8C8C8C")
         else:
             if k in ("divina_bencao", "apostolica_garantia_bencao", "patriarcal_bencao"):
                 cores.append("#1E56A0")
@@ -147,72 +115,62 @@ def g2_categorias(regs, dest_dir, mono=False):
             else:
                 cores.append("#6B5B95")
 
-    bars = ax.barh(nomes, vals, color=cores, edgecolor="#222222" if mono else "none", height=0.68)
+    bars = ax.barh(nomes, vals, color=cores, edgecolor="#111111" if mono else "#222222", linewidth=0.6, height=0.68)
     if mono:
         for bar, (k, _) in zip(bars, itens):
             if "juizo" in k or "sentenca" in k or "prejuizo" in k:
                 bar.set_hatch("//")
 
-    ax.set_xlim(0, max(vals) * 1.24)
+    ax.set_xlim(0, max(vals) * 1.30)
     for bar, v in zip(bars, vals):
         pct = 100 * v / tot
-        ax.text(v + 18, bar.get_y() + bar.get_height() / 2, f"{fmt(v)} ({pct:.1f}%)", va="center", ha="left", fontsize=8.5, fontweight="bold", color="#222222")
+        ax.text(v + 20, bar.get_y() + bar.get_height() / 2, f"{fmt(v)} ({pct:.1f}%)", va="center", ha="left", fontsize=9.5, fontweight="bold", color="#111111")
 
-    ax.set_title("Distribuição das 3.224 Unidades Promissórias Confirmadas nas 10 Categorias", fontsize=12.5, fontweight="bold", pad=12, color="#111111" if mono else "#1E3A5F")
-    ax.set_xlabel("Unidades promissórias confirmadas", fontsize=9.5)
+    ax.set_title("As 10 Categorias da Pesquisa (3.224 Unidades Confirmadas)", fontsize=11.5, fontweight="bold", pad=10, color="#111111" if mono else "#1E3A5F")
+    ax.set_xlabel("Unidades promissórias confirmadas", fontsize=10)
     ax.spines["top"].set_visible(False)
     ax.spines["right"].set_visible(False)
-    ax.grid(axis="x", linestyle="--", alpha=0.4)
-
-    suf = "_pb" if mono else "_cor"
-    arq = dest_dir / f"grafico_02_dez_categorias{suf}.png"
-    fig.savefig(arq, bbox_inches="tight", dpi=300)
-    plt.close(fig)
-    return arq
+    ax.grid(axis="x", linestyle="--", alpha=0.45)
+    return salvar(fig, dest_dir, "grafico_02_dez_categorias", mono)
 
 
 def g3_funil_fase3(regs, mc, dest_dir, mono=False):
     etapas = [
-        "1. Unidades candidatas iniciais\n(Fases 1 e 2 combinadas)",
-        "2. Rejeitadas pelo árbitro (Fase 3)\n(332 casos = 334 unidades preliminares)",
-        "3. Consolidadas por granularidade (Fase 3)\n(34 casos com subdivisões fundidas)",
-        "4. Duplicatas técnicas estritas\n(mesmo versículo, categoria e objeto)",
-        "5. Unidades confirmadas finais\n(1.211 acordo direto + 2.013 arbitradas)",
-        "6. Promessas distintas estimadas\n(após recuperação dos 276 resumos, limiar 0,45)",
+        "1. Candidatas iniciais\n(Fases 1 e 2)",
+        "2. Rejeitadas na Fase 3\n(332 casos = 334 unid.)",
+        "3. Consolidadas na Fase 3\n(granularidade: 34 casos)",
+        "4. Duplicatas estritas\n(mesmo versículo/objeto)",
+        "5. Unidades confirmadas\n(1.211 acordo + 2.013 arb.)",
+        "6. Promessas distintas estimadas\n(estimativa Jaccard 0,45)",
     ]
     valores = [3609, -334, -37, -14, 3224, 2945]
     textos = ["3.609", "-334", "-37", "-14", "3.224", "2.945"]
 
-    fig, ax = plt.subplots(figsize=(9.2, 4.8), dpi=300)
+    fig, ax = plt.subplots(figsize=(6.4, 4.5), dpi=450)
     y = np.arange(len(etapas))[::-1]
     larguras = [abs(v) for v in valores]
     if mono:
-        cores = ["#555555", "#AAAAAA", "#AAAAAA", "#AAAAAA", "#222222", "#444444"]
+        cores = ["#4D4D4D", "#B0B0B0", "#B0B0B0", "#B0B0B0", "#1F1F1F", "#3B3B3B"]
     else:
         cores = ["#4A6FA5", "#C0392B", "#D35400", "#8E44AD", "#1B4F72", "#1E8449"]
 
-    bars = ax.barh(y, larguras, color=cores, edgecolor="#222222" if mono else "none", height=0.6)
+    bars = ax.barh(y, larguras, color=cores, edgecolor="#111111" if mono else "#222222", linewidth=0.6, height=0.62)
     if mono:
         for i in (1, 2, 3):
             bars[i].set_hatch("//")
 
     ax.set_yticks(y)
-    ax.set_yticklabels(etapas, fontsize=8.8)
-    ax.set_xlim(0, 4200)
+    ax.set_yticklabels(etapas, fontsize=9.5)
+    ax.set_xlim(0, 4450)
     for bar, t, v in zip(bars, textos, larguras):
-        ax.text(v + 55, bar.get_y() + bar.get_height() / 2, f"{t} unidades", va="center", ha="left", fontsize=9.5, fontweight="bold", color="#111111")
+        ax.text(v + 60, bar.get_y() + bar.get_height() / 2, f"{t}", va="center", ha="left", fontsize=10, fontweight="bold", color="#111111")
 
-    ax.set_title("Conciliação Aritmética das Três Fases: de 3.609 Candidatas a 3.224 Confirmadas (2.945 Distintas)", fontsize=11.5, fontweight="bold", pad=12, color="#111111" if mono else "#1E3A5F")
-    ax.set_xlabel("Quantidade de unidades / promessas", fontsize=9.5)
+    ax.set_title("Conciliação das 3 Fases: de 3.609 Candidatas a 3.224 Confirmadas", fontsize=11.2, fontweight="bold", pad=10, color="#111111" if mono else "#1E3A5F")
+    ax.set_xlabel("Unidades promissórias", fontsize=10)
     ax.spines["top"].set_visible(False)
     ax.spines["right"].set_visible(False)
-    ax.grid(axis="x", linestyle="--", alpha=0.4)
-
-    suf = "_pb" if mono else "_cor"
-    arq = dest_dir / f"grafico_03_funil_conciliacao{suf}.png"
-    fig.savefig(arq, bbox_inches="tight", dpi=300)
-    plt.close(fig)
-    return arq
+    ax.grid(axis="x", linestyle="--", alpha=0.45)
+    return salvar(fig, dest_dir, "grafico_03_funil_conciliacao", mono)
 
 
 def g4_top_livros(regs, dest_dir, mono=False):
@@ -220,37 +178,32 @@ def g4_top_livros(regs, dest_dir, mono=False):
     bencao_liv = Counter(r["livro"] for r in regs if r["categoria"] in ("divina_bencao", "apostolica_garantia_bencao", "patriarcal_bencao"))
     top15 = por_liv.most_common(15)[::-1]
 
-    nomes = [f"{NOMES_LIV[k]} ({k})" for k, _ in top15]
+    nomes = [f"{NOMES_LIV[k]}" for k, _ in top15]
     totais = [v for _, v in top15]
     bencaos = [bencao_liv[k] for k, _ in top15]
     outros = [t - b for t, b in zip(totais, bencaos)]
 
-    fig, ax = plt.subplots(figsize=(9.5, 5.5), dpi=300)
-    c_benc = "#333333" if mono else "#1E56A0"
-    c_outr = "#BBBBBB" if mono else "#D98880"
+    fig, ax = plt.subplots(figsize=(6.4, 5.2), dpi=450)
+    c_benc = "#2B2B2B" if mono else "#1E56A0"
+    c_outr = "#BDBDBD" if mono else "#D98880"
 
-    b1 = ax.barh(nomes, bencaos, color=c_benc, edgecolor="#222222" if mono else "none", height=0.65, label="Bênção divina (indicador principal)")
-    b2 = ax.barh(nomes, outros, left=bencaos, color=c_outr, edgecolor="#222222" if mono else "none", height=0.65, label="Juízo divino, compromissos humanos e outros")
+    b1 = ax.barh(nomes, bencaos, color=c_benc, edgecolor="#111111" if mono else "#222222", linewidth=0.5, height=0.66, label="Bênção divina (ind. principal)")
+    b2 = ax.barh(nomes, outros, left=bencaos, color=c_outr, edgecolor="#111111" if mono else "#222222", linewidth=0.5, height=0.66, label="Juízo divino, humanas e outras")
     if mono:
         for bar in b2:
             bar.set_hatch("//")
 
-    ax.set_xlim(0, max(totais) * 1.18)
+    ax.set_xlim(0, max(totais) * 1.25)
     for y_pos, t, b in zip(range(len(nomes)), totais, bencaos):
-        ax.text(t + 5, y_pos, f"{t} ({b} bênção)", va="center", ha="left", fontsize=8.3, fontweight="bold", color="#222222")
+        ax.text(t + 6, y_pos, f"{t} ({b} bênção)", va="center", ha="left", fontsize=9.0, fontweight="bold", color="#111111")
 
-    ax.set_title("Os 15 Livros Bíblicos com Maior Número de Unidades Promissórias Confirmadas", fontsize=12, fontweight="bold", pad=12, color="#111111" if mono else "#1E3A5F")
-    ax.set_xlabel("Unidades confirmadas", fontsize=9.5)
-    ax.legend(loc="lower right", fontsize=8.5, frameon=True)
+    ax.set_title("Os 15 Livros com Maior Número de Unidades Confirmadas", fontsize=11.5, fontweight="bold", pad=10, color="#111111" if mono else "#1E3A5F")
+    ax.set_xlabel("Unidades confirmadas", fontsize=10)
+    ax.legend(loc="lower right", fontsize=8.8, frameon=True)
     ax.spines["top"].set_visible(False)
     ax.spines["right"].set_visible(False)
-    ax.grid(axis="x", linestyle="--", alpha=0.4)
-
-    suf = "_pb" if mono else "_cor"
-    arq = dest_dir / f"grafico_04_top15_livros{suf}.png"
-    fig.savefig(arq, bbox_inches="tight", dpi=300)
-    plt.close(fig)
-    return arq
+    ax.grid(axis="x", linestyle="--", alpha=0.45)
+    return salvar(fig, dest_dir, "grafico_04_top15_livros", mono)
 
 
 def g5_divisoes_canon(regs, dest_dir, mono=False):
@@ -264,117 +217,121 @@ def g5_divisoes_canon(regs, dest_dir, mono=False):
     hum = [sum(por_liv[l] - benc_liv[l] - juiz_liv[l] for l in ls) for _, ls in DIVISAO_CANON][::-1]
     tots = [b + j + h for b, j, h in zip(benc, juiz, hum)]
 
-    fig, ax = plt.subplots(figsize=(9.5, 4.8), dpi=300)
+    fig, ax = plt.subplots(figsize=(6.4, 4.6), dpi=450)
     c1 = "#222222" if mono else "#1E56A0"
     c2 = "#888888" if mono else "#C0392B"
-    c3 = "#DDDDDD" if mono else "#2E7D5B"
+    c3 = "#DEDEDE" if mono else "#2E7D5B"
 
-    b_bar = ax.barh(grupos, benc, color=c1, edgecolor="#222222" if mono else "none", height=0.6, label="Bênção divina (1.622)")
-    j_bar = ax.barh(grupos, juiz, left=benc, color=c2, edgecolor="#222222" if mono else "none", height=0.6, label="Juízo e sentença divina (1.065)")
+    ax.barh(grupos, benc, color=c1, edgecolor="#111111", linewidth=0.5, height=0.6, label="Bênção divina (1.622)")
+    j_bar = ax.barh(grupos, juiz, left=benc, color=c2, edgecolor="#111111", linewidth=0.5, height=0.6, label="Juízo e sentença divina (1.065)")
     left_h = [b + j for b, j in zip(benc, juiz)]
-    h_bar = ax.barh(grupos, hum, left=left_h, color=c3, edgecolor="#222222" if mono else "none", height=0.6, label="Compromissos humanos e adversários (537)")
+    h_bar = ax.barh(grupos, hum, left=left_h, color=c3, edgecolor="#111111", linewidth=0.5, height=0.6, label="Compromissos humanos e outros (537)")
     if mono:
         for bar in j_bar:
             bar.set_hatch("//")
         for bar in h_bar:
             bar.set_hatch("..")
 
-    ax.set_xlim(0, max(tots) * 1.18)
+    ax.set_xlim(0, max(tots) * 1.24)
     for y_pos, t in enumerate(tots):
-        ax.text(t + 12, y_pos, f"{fmt(t)} unidades ({100*t/len(regs):.1f}%)", va="center", ha="left", fontsize=8.8, fontweight="bold", color="#222222")
+        ax.text(t + 14, y_pos, f"{fmt(t)} ({100*t/len(regs):.1f}%)", va="center", ha="left", fontsize=9.2, fontweight="bold", color="#111111")
 
-    ax.set_title("Distribuição das Promessas pelas 7 Grandes Divisões do Cânon Bíblico", fontsize=12, fontweight="bold", pad=12, color="#111111" if mono else "#1E3A5F")
-    ax.set_xlabel("Unidades promissórias confirmadas", fontsize=9.5)
-    ax.legend(loc="lower right", fontsize=8.3, frameon=True)
+    ax.set_title("Unidades Confirmadas pelas 7 Divisões do Cânon (66 Livros)", fontsize=11.3, fontweight="bold", pad=10, color="#111111" if mono else "#1E3A5F")
+    ax.set_xlabel("Unidades promissórias confirmadas", fontsize=10)
+    ax.legend(loc="lower right", fontsize=8.5, frameon=True)
     ax.spines["top"].set_visible(False)
     ax.spines["right"].set_visible(False)
-    ax.grid(axis="x", linestyle="--", alpha=0.4)
-
-    suf = "_pb" if mono else "_cor"
-    arq = dest_dir / f"grafico_05_divisoes_canon{suf}.png"
-    fig.savefig(arq, bbox_inches="tight", dpi=300)
-    plt.close(fig)
-    return arq
+    ax.grid(axis="x", linestyle="--", alpha=0.45)
+    return salvar(fig, dest_dir, "grafico_05_divisoes_canon", mono)
 
 
-def g6_sensibilidade_e_comparacao(mc, dest_dir, mono=False):
-    fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(10.5, 4.5), dpi=300)
-
-    # Subplot 1: Sensibilidade ao limiar e impacto dos 276 resumos
-    lims = ["0,35", "0,45\n(padrão)", "0,55", "0,65"]
+def g6_sensibilidade_individual(mc, dest_dir, mono=False):
+    """Gráfico individual (não lado a lado!) para leitura confortável em A5: Impacto dos 276 resumos e sensibilidade ao limiar."""
+    fig, ax = plt.subplots(figsize=(6.2, 4.2), dpi=450)
+    lims = ["0,35", "0,45 (padrão)", "0,55", "0,65"]
     chaves = ["0.35", "0.45", "0.55", "0.65"]
     antes_276 = [2559, 2763, 2858, 2897]
     depois_276 = [mc["sensibilidade"][k]["distintas_confirmadas"] for k in chaves]
     bencao_276 = [mc["sensibilidade"][k]["bencao_distintas_confirmadas"] for k in chaves]
 
     x = np.arange(len(lims))
-    w = 0.28
-    c_ant = "#AAAAAA" if mono else "#95A5A6"
+    w = 0.27
+    c_ant = "#B0B0B0" if mono else "#95A5A6"
     c_dep = "#222222" if mono else "#1E56A0"
-    c_ben = "#666666" if mono else "#D4AC0D"
+    c_ben = "#6E6E6E" if mono else "#D4AC0D"
 
-    b1 = ax1.bar(x - w, antes_276, width=w, color=c_ant, edgecolor="#222222" if mono else "none", label="Antes dos 276 resumos")
-    b2 = ax1.bar(x, depois_276, width=w, color=c_dep, edgecolor="#222222" if mono else "none", label="Após 276 resumos (todas)")
-    b3 = ax1.bar(x + w, bencao_276, width=w, color=c_ben, edgecolor="#222222" if mono else "none", label="Bênção divina (distintas)")
+    b1 = ax.bar(x - w, antes_276, width=w, color=c_ant, edgecolor="#111111", linewidth=0.6, label="Antes dos 276 resumos (todas)")
+    b2 = ax.bar(x, depois_276, width=w, color=c_dep, edgecolor="#111111", linewidth=0.6, label="Após 276 resumos (todas distintas)")
+    b3 = ax.bar(x + w, bencao_276, width=w, color=c_ben, edgecolor="#111111", linewidth=0.6, label="Bênção divina (distintas)")
     if mono:
         for b in b1:
             b.set_hatch("//")
         for b in b3:
             b.set_hatch("..")
 
-    ax1.set_xticks(x)
-    ax1.set_xticklabels(lims, fontsize=8.5)
-    ax1.set_ylim(0, 3600)
+    ax.set_xticks(x)
+    ax.set_xticklabels(lims, fontsize=9.5, fontweight="bold")
+    ax.set_ylim(0, 3650)
+    for b in b1:
+        v = int(b.get_height())
+        ax.text(b.get_x() + b.get_width() / 2, v + 40, fmt(v), ha="center", va="bottom", fontsize=8.0, color="#444444")
     for b in b2:
         v = int(b.get_height())
-        ax1.text(b.get_x() + b.get_width() / 2, v + 45, fmt(v), ha="center", va="bottom", fontsize=7.8, fontweight="bold")
-    ax1.set_title("Impacto dos 276 Resumos e Limiar de Similaridade", fontsize=10.5, fontweight="bold", color="#111111" if mono else "#1E3A5F")
-    ax1.set_xlabel("Limiar de Jaccard", fontsize=9)
-    ax1.set_ylabel("Promessas distintas estimadas", fontsize=9)
-    ax1.legend(loc="upper left", fontsize=7.5, frameon=True)
-    ax1.spines["top"].set_visible(False)
-    ax1.spines["right"].set_visible(False)
-    ax1.grid(axis="y", linestyle="--", alpha=0.4)
+        ax.text(b.get_x() + b.get_width() / 2, v + 40, fmt(v), ha="center", va="bottom", fontsize=8.8, fontweight="bold", color="#111111")
+    for b in b3:
+        v = int(b.get_height())
+        ax.text(b.get_x() + b.get_width() / 2, v + 40, fmt(v), ha="center", va="bottom", fontsize=8.3, fontweight="bold", color="#222222")
 
-    # Subplot 2: Comparação com Everek Storms (meados da década de 1950)
-    cats_comp = ["Total geral\nregistrado", "Promessas divinas\n(total)", "Bênção divina\n(unidades / distintas)", "Compromissos\nhumanos"]
-    storms_v = [8810, 7487, 7487, 1281]  # 991 humano-humano + 290 humano-Deus
-    lima_v = [3224, 2687, 1622, 514]     # 3224 total, 2687 divinas (bencao+juizo), 1622 bencao divina, 514 humanas
+    ax.set_title("Sensibilidade ao Limiar de Jaccard e Recuperação dos 276 Resumos", fontsize=11.0, fontweight="bold", pad=10, color="#111111" if mono else "#1E3A5F")
+    ax.set_xlabel("Limiar de similaridade lexical de Jaccard", fontsize=9.8)
+    ax.set_ylabel("Promessas distintas estimadas", fontsize=9.8)
+    ax.legend(loc="upper left", fontsize=8.5, frameon=True)
+    ax.spines["top"].set_visible(False)
+    ax.spines["right"].set_visible(False)
+    ax.grid(axis="y", linestyle="--", alpha=0.45)
+    return salvar(fig, dest_dir, "grafico_06_sensibilidade_jaccard", mono)
 
-    x2 = np.arange(len(cats_comp))
-    w2 = 0.34
-    cs1 = "#999999" if mono else "#7F8C8D"
+
+def g7_comparacao_storms_individual(dest_dir, mono=False):
+    """Gráfico individual (separado do de sensibilidade!) para leitura ampla e confortável em A5: Storms vs. Pesquisa Atual."""
+    fig, ax = plt.subplots(figsize=(6.2, 4.2), dpi=450)
+    cats_comp = [
+        "Total geral\nde registros",
+        "Promessas divinas\n(total)",
+        "Bênção divina\n(unidades confirmadas)",
+        "Compromissos\nhumanos",
+    ]
+    storms_v = [8810, 7487, 7487, 1281]
+    lima_v = [3224, 2687, 1622, 514]
+
+    x = np.arange(len(cats_comp))
+    w = 0.35
+    cs1 = "#A0A0A0" if mono else "#7F8C8D"
     cs2 = "#222222" if mono else "#1B4F72"
 
-    bs1 = ax2.bar(x2 - w2 / 2, storms_v, width=w2, color=cs1, edgecolor="#222222" if mono else "none", label="Contagem de E. R. Storms (déc. 1950)")
-    bs2 = ax2.bar(x2 + w2 / 2, lima_v, width=w2, color=cs2, edgecolor="#222222" if mono else "none", label="Pesquisa atual — Jair Lima (2026)")
+    bs1 = ax.bar(x - w / 2, storms_v, width=w, color=cs1, edgecolor="#111111", linewidth=0.6, label="Contagem de E. R. Storms (déc. 1950)")
+    bs2 = ax.bar(x + w / 2, lima_v, width=w, color=cs2, edgecolor="#111111", linewidth=0.6, label="Pesquisa atual — Jair Lima (2026)")
     if mono:
         for b in bs1:
             b.set_hatch("//")
 
-    ax2.set_xticks(x2)
-    ax2.set_xticklabels(cats_comp, fontsize=8)
-    ax2.set_ylim(0, 9900)
+    ax.set_xticks(x)
+    ax.set_xticklabels(cats_comp, fontsize=9.2, fontweight="bold")
+    ax.set_ylim(0, 10100)
     for b in bs1:
         v = int(b.get_height())
-        ax2.text(b.get_x() + b.get_width() / 2, v + 120, fmt(v), ha="center", va="bottom", fontsize=7.8, color="#444444")
+        ax.text(b.get_x() + b.get_width() / 2, v + 140, fmt(v), ha="center", va="bottom", fontsize=8.8, color="#333333")
     for b in bs2:
         v = int(b.get_height())
-        ax2.text(b.get_x() + b.get_width() / 2, v + 120, fmt(v), ha="center", va="bottom", fontsize=8, fontweight="bold", color="#111111")
+        ax.text(b.get_x() + b.get_width() / 2, v + 140, fmt(v), ha="center", va="bottom", fontsize=9.2, fontweight="bold", color="#111111")
 
-    ax2.set_title("Contagem Tradicional (Storms) vs. Pesquisa Atual", fontsize=10.5, fontweight="bold", color="#111111" if mono else "#1E3A5F")
-    ax2.set_ylabel("Unidades contabilizadas", fontsize=9)
-    ax2.legend(loc="upper right", fontsize=7.8, frameon=True)
-    ax2.spines["top"].set_visible(False)
-    ax2.spines["right"].set_visible(False)
-    ax2.grid(axis="y", linestyle="--", alpha=0.4)
-
-    plt.tight_layout()
-    suf = "_pb" if mono else "_cor"
-    arq = dest_dir / f"grafico_06_sensibilidade_e_comparacao{suf}.png"
-    fig.savefig(arq, bbox_inches="tight", dpi=300)
-    plt.close(fig)
-    return arq
+    ax.set_title("Contagem Histórica de E. R. Storms vs. Pesquisa Atual (2026)", fontsize=11.2, fontweight="bold", pad=10, color="#111111" if mono else "#1E3A5F")
+    ax.set_ylabel("Unidades contabilizadas", fontsize=9.8)
+    ax.legend(loc="upper right", fontsize=8.8, frameon=True)
+    ax.spines["top"].set_visible(False)
+    ax.spines["right"].set_visible(False)
+    ax.grid(axis="y", linestyle="--", alpha=0.45)
+    return salvar(fig, dest_dir, "grafico_07_comparacao_storms", mono)
 
 
 def main():
@@ -385,16 +342,18 @@ def main():
 
     gerados = []
     for mono in (False, True):
-        gerados.append(g1_painel_geral(regs, apur, mc, dest_dir, mono))
         gerados.append(g2_categorias(regs, dest_dir, mono))
         gerados.append(g3_funil_fase3(regs, mc, dest_dir, mono))
         gerados.append(g4_top_livros(regs, dest_dir, mono))
         gerados.append(g5_divisoes_canon(regs, dest_dir, mono))
-        gerados.append(g6_sensibilidade_e_comparacao(mc, dest_dir, mono))
+        gerados.append(g6_sensibilidade_individual(mc, dest_dir, mono))
+        gerados.append(g7_comparacao_storms_individual(dest_dir, mono))
+        # Mantém cópia em grafico_06_sensibilidade_e_comparacao para compatibilidade com links antigos
+        import shutil
+        suf = "_pb" if mono else "_cor"
+        shutil.copyfile(dest_dir / f"grafico_07_comparacao_storms{suf}.png", dest_dir / f"grafico_06_sensibilidade_e_comparacao{suf}.png")
 
-    print(f"Gerados {len(gerados)} gráficos em {dest_dir}:")
-    for g in gerados:
-        print(" ", g.name, f"({g.stat().st_size // 1024} KB)")
+    print(f"Gerados {len(gerados)} gráficos individuais de alta legibilidade (450 DPI + SVG vetorial) para formato A5.")
 
 
 if __name__ == "__main__":

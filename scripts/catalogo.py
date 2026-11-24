@@ -195,7 +195,7 @@ def atualizar_contagem_geral(corpus):
         sit = "completo" if cob["versiculos_lidos"] >= nv else "parcial"
         linhas.append(f"| {liv} | {nv} | {cob['versiculos_lidos']} | {len(prom)} | {princ} | {sit}; {', '.join(cob.get('leituras', []))} |")
     L = ["# CONTAGEM GERAL (avanço acumulado da catalogação)", "",
-         "**Provisória e sem deduplicação global.** Cada linha conta unidades identificadas como promessas candidatas, não promessas distintas. Nenhum registro foi aprovado por humano; nenhum número é meta; "
+         "**Provisória e sem deduplicação global.** Cada linha conta unidades identificadas como promessas candidatas, não promessas distintas estimadas. Nenhum registro foi aprovado por humano; nenhum número é meta; "
          "nenhum indicador foi escolhido para o título.", "",
          f"**Cobertura:** {tot_lidos} de {total_vers} versículos lidos ({100 * tot_lidos / total_vers:.1f}%). **Promessas candidatas:** {tot_prom}.", "",
          "| Livro | Versículos | Lidos | Promessas candidatas | Indicador principal provisório | Situação |", "| ----- | ---------: | ----: | -------------------: | -----------------------------: | -------- |"]

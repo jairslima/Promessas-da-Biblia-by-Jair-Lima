@@ -1,6 +1,6 @@
 # CONTAGEM: JOB (JOB)
 
-**Provisória.** Unidades classificadas como promessa candidata, **ainda sem deduplicação global** e sem aprovação humana. Cobertura: **1070 de 1070 versículos lidos** (Claude (agente), Gemini, árbitro DeepSeek Flash high). Fase 3 concluída (acordo=1, adj_ant=0, f3_conf=10, f3_rej=1, dup_rem=0).
+**Provisória.** Unidades classificadas como promessa candidata, **ainda sem deduplicação global** e sem aprovação humana. Cobertura: **1070 de 1070 versículos lidos** (concluído nas três etapas metodológicas de identificação, conferência cruzada e arbitragem exegética). Etapa 3 concluída (acordo=1, adj_ant=0, f3_conf=10, f3_rej=1, dup_rem=0).
 
 ## Por categoria
 

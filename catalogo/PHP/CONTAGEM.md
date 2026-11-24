@@ -1,6 +1,6 @@
 # CONTAGEM: PHP (PHP)
 
-**Provisória.** Unidades classificadas como promessa candidata, **ainda sem deduplicação global** e sem aprovação humana. Cobertura: **104 de 104 versículos lidos** (Claude (agente), DeepSeek Flash high, árbitro Gemini). Fase 3 concluída (acordo=5, adj_ant=0, f3_conf=3, f3_rej=4, dup_rem=0).
+**Provisória.** Unidades classificadas como promessa candidata, **ainda sem deduplicação global** e sem aprovação humana. Cobertura: **104 de 104 versículos lidos** (concluído nas três etapas metodológicas de identificação, conferência cruzada e arbitragem exegética). Etapa 3 concluída (acordo=5, adj_ant=0, f3_conf=3, f3_rej=4, dup_rem=0).
 
 ## Por categoria
 

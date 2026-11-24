@@ -1,6 +1,6 @@
 # CONTAGEM: JER (JER)
 
-**Provisória.** Unidades classificadas como promessa candidata, **ainda sem deduplicação global** e sem aprovação humana. Cobertura: **1364 de 1364 versículos lidos** (Claude (agente), DeepSeek Flash high, árbitro Gemini). Fase 3 concluída (acordo=162, adj_ant=0, f3_conf=231, f3_rej=7, dup_rem=4).
+**Provisória.** Unidades classificadas como promessa candidata, **ainda sem deduplicação global** e sem aprovação humana. Cobertura: **1364 de 1364 versículos lidos** (concluído nas três etapas metodológicas de identificação, conferência cruzada e arbitragem exegética). Etapa 3 concluída (acordo=162, adj_ant=0, f3_conf=231, f3_rej=7, dup_rem=4).
 
 ## Por categoria
 

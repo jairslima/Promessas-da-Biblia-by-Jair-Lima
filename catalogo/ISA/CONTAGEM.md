@@ -1,6 +1,6 @@
 # CONTAGEM: ISA (ISA)
 
-**Provisória.** Unidades classificadas como promessa candidata, **ainda sem deduplicação global** e sem aprovação humana. Cobertura: **1292 de 1292 versículos lidos** (Claude (agente), DeepSeek Flash high, árbitro Gemini). Fase 3 concluída (acordo=97, adj_ant=0, f3_conf=254, f3_rej=24, dup_rem=1).
+**Provisória.** Unidades classificadas como promessa candidata, **ainda sem deduplicação global** e sem aprovação humana. Cobertura: **1292 de 1292 versículos lidos** (concluído nas três etapas metodológicas de identificação, conferência cruzada e arbitragem exegética). Etapa 3 concluída (acordo=97, adj_ant=0, f3_conf=254, f3_rej=24, dup_rem=1).
 
 ## Por categoria
 

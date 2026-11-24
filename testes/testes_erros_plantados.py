@@ -110,7 +110,7 @@ def teste_linha_de_base():
                 and sum(pb.values()) == 8, str(c1["unidades_fora_da_contagem_de_promessas_por_tipo"]))
         afirmar("CONT promessa de Cristo contada com promitente filho",
                 c1["promessas_divinas_por_promitente"].get("divina_bencao:filho") == 1)
-        afirmar("CONT versículos com 2+ promessas distintas (classificação por unidade, não por versículo)",
+        afirmar("CONT versículos com 2+ promessas distintas estimadas (classificação por unidade, não por versículo)",
                 c1["versiculos_com_duas_ou_mais_promessas_distintas"] == 3, str(c1["versiculos_com_duas_ou_mais_promessas_distintas"]))
     finally:
         shutil.rmtree(base, ignore_errors=True)

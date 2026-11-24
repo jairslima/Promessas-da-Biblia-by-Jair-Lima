@@ -8,7 +8,7 @@
 * **Repositório oficial:** https://github.com/jairslima/Promessas-da-Biblia-by-Jair-Lima
 
 ## Resumo da pesquisa
-Investigação integral dos **66 livros, 1.189 capítulos e 31.104 versículos** do cânon protestante (tendo como corpus de referência a *Bíblia Almeida Livre*, CC BY-ND 4.0), estruturada em três etapas metodológicas de identificação, conferência cruzada e arbitragem exegética assistida por computador. O estudo confirmou **3.224 unidades promissórias** (em 64 livros com registros catalogados e 4.373 versículos associados, equivalentes a 14,1% do corpus), das quais se estimam **2.945 promessas distintas** pelo agrupamento de similaridade lexical de Jaccard (limiar 0,45). O indicador principal de bênção divina soma **1.622 unidades confirmadas** e **1.481 promessas distintas estimadas**.
+Investigação integral dos **66 livros, 1.189 capítulos e 31.104 versículos** do cânon protestante (tendo como corpus de referência a *Bíblia Almeida Livre*, CC BY-ND 4.0), estruturada em três etapas metodológicas de identificação, conferência cruzada e arbitragem exegética assistida por computador. O estudo confirmou **3.224 unidades promissórias** (em 64 livros com registros catalogados e 4.373 versículos associados, equivalentes a 14,1% do corpus), das quais se estimam **2.945 promessas distintas estimadas** pelo agrupamento de similaridade lexical de Jaccard (limiar 0,45). O indicador principal de bênção divina soma **1.622 unidades confirmadas** e **1.481 promessas distintas estimadas**.
 
 ## Organização dos arquivos públicos
 * `catalogo-digital-completo.csv` e `catalogo-digital-completo.xlsx`: Catálogo consolidado das 3.224 unidades promissórias confirmadas.

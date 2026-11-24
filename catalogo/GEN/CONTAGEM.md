@@ -1,6 +1,6 @@
 # CONTAGEM: Gênesis (GEN)
 
-**Provisória.** Unidades classificadas como promessa candidata, **ainda sem deduplicação global** e sem aprovação humana. Cobertura: **1533 de 1533 versículos lidos** (2 leitores, árbitro Gemini, conferência de campos pelo texto). Gênesis homologado com 100% dos registros aprovados na Fase 3.
+**Provisória.** Unidades classificadas como promessa candidata, **ainda sem deduplicação global** e sem aprovação humana. Cobertura: **1533 de 1533 versículos lidos** (concluído nas três etapas metodológicas de identificação, conferência cruzada e arbitragem exegética). Gênesis homologado com 100% dos registros aprovados na Fase 3.
 
 ## Por categoria
 

@@ -9,7 +9,7 @@
 
 Para situar o levantamento das **3.224 unidades promissórias confirmadas** (**2.945 promessas distintas estimadas**) nos 66 livros do cânon protestante dentro da literatura científica e teológica internacional, realizou-se uma revisão bibliográfica direcionada ao estado da arte em três idiomas (**português, inglês e espanhol**), consultando as bases e repositórios:
 * **Google Scholar, Crossref, OpenAlex e Semantic Scholar** (literatura em estudos bíblicos, teologia bíblica, humanidades digitais, linguística de corpus e análise computacional aplicada a textos bíblicos);
-* **Zenodo e OSF** (conjuntos de dados abertos de estudos bíblicos e humanidades digitais);
+* **repositórios científicos abertos** (conjuntos de dados abertos de estudos bíblicos e humanidades digitais);
 * **GitHub** (repositórios estruturados de dados bíblicos, morfologia, anotações sintáticas e análise de corpus).
 
 **Descritores utilizados:**
@@ -32,7 +32,7 @@ Para situar o levantamento das **3.224 unidades promissórias confirmadas** (**2
 
 ### 2.3. Teoria dos Atos de Fala e Pesquisa Computacional Aplicada ao Texto Bíblico
 * A aplicação da **Teoria dos Atos de Fala** (Austin, 1962; Searle, 1969, 1979; Thiselton, 1992; Vanhoozer, 1998; Briggs, 2001) à hermenêutica bíblica estabeleceu teoricamente que uma promessa bíblica é um **ato ilocucionário comissivo** (em que o falante se obriga a uma ação futura ou continuada em relação a um destinatário), não redutível à simples ocorrência lexical do vocábulo "promessa" ou ao tempo verbal futuro.
-* Na literatura consultada (Google Scholar, Crossref, OpenAlex, Semantic Scholar, Zenodo e GitHub), não foi localizado um conjunto público de dados que reúna simultaneamente: (1) investigação integral dos 31.104 versículos dos 66 livros sob definição operacional comissiva explícita; (2) conferência cruzada independente seguida de terceira etapa de arbitragem exegética sobre todas as divergências; (3) separação sistemática entre promitente e comunicador humano; e (4) estimativa matemática de promessas distintas com análise de sensibilidade de limiar e memória de cálculo aberta.
+* Na literatura consultada (Google Scholar, Crossref, OpenAlex, Semantic Scholar, repositórios científicos e GitHub), não foi localizado um conjunto público de dados que reúna simultaneamente: (1) investigação integral dos 31.104 versículos dos 66 livros sob definição operacional comissiva explícita; (2) conferência cruzada independente seguida de terceira etapa de arbitragem exegética sobre todas as divergências; (3) separação sistemática entre promitente e comunicador humano; e (4) estimativa matemática de promessas distintas estimadas com análise de sensibilidade de limiar e memória de cálculo aberta.
 
 ---
 
@@ -45,17 +45,17 @@ Para situar o levantamento das **3.224 unidades promissórias confirmadas** (**2
 | **Definição Operacional Exegética** | Consolação e deveres cristãos | Critérios internos não publicados caso a caso (inclui votos do homem a Deus) | Gramatical e morfossintática (sem camada promissória) | Classificação temática ou lexical | **Compromisso futuro/continuado com promitente, objeto e destinatário; exclui máximas sapienciais sem falante comissivo** |
 | **Método de Verificação e Arbitragem** | Seleção autoral única | Leitura única sem conferência cruzada | Anotação acadêmica morfológica | Classificação automatizada simples | **3 Etapas: 2 análises independentes + 3ª etapa de arbitragem exegética nos 1.808 casos divergentes** |
 | **Separação Promitente vs. Comunicador** | Não | Parcial (apenas em totais gerais) | Participantes sintáticos | Não documentada | **Sim (promitente divino separado do comunicador humano em 1.487 registros)** |
-| **Distinção entre Unidades e Promessas Distintas** | Não | Não (repetições não separadas por agrupamento) | Não aplicável | Não calibrada para promessas | **Sim: 3.224 unidades confirmadas vs. 2.945 promessas distintas estimadas (Jaccard 0,45; faixa 0,35 a 0,65)** |
-| **Dados Abertos e Reprodutibilidade** | Texto impresso em domínio público | Lista individual não localizada em banco de dados | Sim (GitHub / Zenodo / SHEBANQ) | Parcial | **Sim: CSV, XLSX, JSONL por livro, scripts Python, testes controlados e memória de cálculo** |
+| **Distinção entre Unidades e Promessas Distintas Estimadas** | Não | Não (repetições não separadas por agrupamento) | Não aplicável | Não calibrada para promessas | **Sim: 3.224 unidades confirmadas vs. 2.945 promessas distintas estimadas (Jaccard 0,45; faixa 0,35 a 0,65)** |
+| **Dados Abertos e Reprodutibilidade** | Texto impresso em domínio público | Lista individual não localizada em banco de dados | Sim (GitHub / SHEBANQ) | Parcial | **Sim: CSV, XLSX, JSONL por livro, scripts Python, testes controlados e memória de cálculo** |
 
 ---
 
 ## 4. Contribuição Científica e Originalidade da Combinação Metodológica
 
-Sem reivindicar pioneirismo mundial absoluto sobre iniciativas não indexadas, a pesquisa de **Jair Lima** oferece uma combinação metodológica original e integralmente verificável para a teologia bíblica e as humanidades digitais:
+Sem atribuir exclusividade absoluta sobre iniciativas não indexadas nas bases consultadas, a pesquisa de **Jair Lima** oferece uma combinação metodológica original e integralmente verificável para a teologia bíblica e as humanidades digitais:
 
 1. **Catálogo aberto versículo a versículo das promessas dos 66 livros:** cada uma das **3.224 unidades confirmadas** possui identificador único, referência de início e fim, categoria taxonômica, natureza, promitente, comunicador humano, destinatário, condição, resumo exegético e via de confirmação.
 2. **Procedimento em três etapas com arbitragem exegética das divergências:** nenhuma unidade apontada unilateralmente nas duas primeiras etapas ingressou no catálogo final sem avaliação individualizada na terceira etapa (que confirmou 1.511 unidades e rejeitou 332 casos de falsos positivos).
 3. **Distinção rigorosa entre atos comissivos, princípios sapienciais e declarações doutrinárias:** explicitação metodológica do motivo pelo qual máximas gerais de sabedoria (como em Provérbios) e afirmações doutrinárias em terceira pessoa (como em Ec 12.14 e Lm 3.22-32) não se confundem com oráculos promissórios em primeira pessoa.
-4. **Modelagem da repetição promissória e análise de sensibilidade:** aplicação transparente do índice de similaridade lexical de Jaccard por categoria (limiares 0,35 a 0,65), distinguindo **contagem efetiva de unidades confirmadas (3.224)**, **estimativa de promessas distintas (2.945)** e **projeção analítica pela revocação (3.506)**.
+4. **Modelagem da repetição promissória e análise de sensibilidade:** aplicação transparente do índice de similaridade lexical de Jaccard por categoria (limiares 0,35 a 0,65), distinguindo **contagem efetiva de unidades confirmadas (3.224)**, **estimativa de promessas distintas estimadas (2.945)** e **projeção analítica pela revocação (3.506)**.
 5. **Reprodutibilidade integral em código aberto:** disponibilização dos scripts de validação, consolidação e cálculo aritmético sem dependência de softwares proprietários.

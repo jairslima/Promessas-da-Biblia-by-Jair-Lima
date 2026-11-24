@@ -34,7 +34,7 @@ A concepção, a direção intelectual e a responsabilidade autoral da pesquisa 
 | **Unidades promissórias confirmadas** | **3.224** | Contagem efetiva confirmada pelo método (`1.211` acordo direto + `2.013` arbitragem exegética) |
 | **Promessas distintas estimadas** | **2.945** | Estimativa por agrupamento lexical (limiar de Jaccard 0,45; faixa de 2.729 a 3.096) |
 | **Unidades de bênção divina** | **1.622** | Bênção divina (`1.448`) + Garantia apostólica de bênção (`161`) + Bênção patriarcal (`13`) |
-| **Promessas distintas de bênção divina** | **1.481** | Estimativa lexical de compromissos distintos de bênção divina (limiar 0,45) |
+| **Promessas distintas estimadas de bênção divina** | **1.481** | Estimativa lexical de compromissos distintos de bênção divina (limiar 0,45) |
 | **Livros examinados** | **66** | 39 do Antigo Testamento e 27 do Novo Testamento (64 livros com registros catalogados) |
 | **Capítulos investigados** | **1.189** | Cobertura integral dos capítulos do cânon protestante |
 | **Versículos examinados** | **31.104** | **100%** do corpus da Bíblia Almeida Livre examinados versículo a versículo |
@@ -42,7 +42,7 @@ A concepção, a direção intelectual e a responsabilidade autoral da pesquisa 
 | **Categorias de classificação** | **10** | Taxonomia sistemática segundo a origem, a natureza e o promitente do compromisso |
 | **Candidatos pendentes** | **0** | Zero candidatos ou divergências pendentes no catálogo consolidado |
 
-*Nota sobre as grandezas:* A pesquisa distingue rigorosamente **contagem efetiva de unidades confirmadas** (`3.224`), **estimativa lexical de compromessas distintas** (`2.945` no limiar 0,45) e **projeção estatística corrigida pela revocação piloto de 0,84** (`3.506` no total e `1.763` de bênção divina, que constitui exercício analítico de sensibilidade e não medição exata).
+*Nota sobre as grandezas:* A pesquisa distingue rigorosamente **contagem efetiva de unidades confirmadas** (`3.224`), **estimativa lexical de compromessas distintas estimadas** (`2.945` no limiar 0,45) e **projeção estatística corrigida pela revocação piloto de 0,84** (`3.506` no total e `1.763` de bênção divina, que constitui exercício analítico de sensibilidade e não medição exata).
 
 ---
 
@@ -56,11 +56,11 @@ A pesquisa combina onze fundamentos metodológicos que permitem superar a repeti
 4. **Conferência cruzada dos resultados:** duas etapas iniciais de análise textual conduzidas de forma independente sobre todo o corpus.
 5. **Arbitragem exegética das divergências:** terceira etapa de avaliação dedicada exclusivamente aos 1.808 casos de identificação unilateral ou divergência classificatória.
 6. **Identificação de promitentes, comunicadores e destinatários:** separação formal entre o autor do compromisso (Deus, nos oráculos divinos e garantias apostólicas) e o comunicador humano que profetiza, relata ou recorda a palavra (1.487 registros, como em 1Cr 11.2).
-7. **Distinção entre promessas, reafirmações e cumprimentos:** preservação de cada ocorrência no catálogo bruto combinada com agrupamento lexical objetivo para estimar promessas distintas.
+7. **Distinção entre promessas, reafirmações e cumprimentos:** preservação de cada ocorrência no catálogo bruto combinada com agrupamento lexical objetivo para estimar promessas distintas estimadas.
 8. **Documentação dos critérios de inclusão e exclusão:** separação clara entre atos promissórios, máximas sapienciais gerais (mais de 600 em Provérbios), declarações doutrinárias em terceira pessoa (como Ec 12.14 e Lm 3.22-32) e votos devocionais humanos.
 9. **Disponibilização pública do conjunto de dados:** acesso aberto ao catálogo completo em CSV, Excel e JSONL por livro bíblico.
 10. **Reprodutibilidade dos cálculos:** memória de cálculo explícita (`3.609 - 334 - 37 - 14 = 3.224`) e scripts de verificação utilizando apenas biblioteca padrão do Python.
-11. **Contribuição para a teologia bíblica e as humanidades digitais:** diálogo documentado com a literatura histórica e contemporânea, sem reivindicar pioneirismo mundial absoluto sem comprovação bibliográfica.
+11. **Contribuição para a teologia bíblica e as humanidades digitais:** diálogo documentado com a literatura histórica e contemporânea, sem atribuir exclusividade absoluta sem comprovação bibliográfica.
 
 ![Distribuição das 3.224 unidades confirmadas nas dez categorias](graficos/grafico_02_dez_categorias_cor.png)
 
@@ -75,7 +75,7 @@ A cifra de **8.810 promessas** (sendo **7.487 promessas de Deus ao ser humano**)
 | Dimensão Comparada | Levantamento Histórico (E. R. Storms, 1956) | Pesquisa Atual (Jair Lima, 2026) |
 | :--- | ---: | ---: |
 | **Total de registros contabilizados** | 8.810 | **3.224 unidades confirmadas** |
-| **Promessas distintas estimadas** | Não calculado | **2.945 promessas distintas** |
+| **Promessas distintas estimadas** | Não calculado | **2.945 promessas distintas estimadas** |
 | **Promessas de origem divina (total)** | 7.487 (sem separação publicada entre bênção e juízo) | **2.687 unidades** (`1.622` bênção + `1.065` juízo/sentença) |
 | **Promessas divinas de bênção** | Incluídas nas 7.487 | **1.622 unidades** (**1.481 distintas estimadas**) |
 | **Compromissos humanos** | 1.281 (`991` pessoa a pessoa + `290` votos do homem a Deus) | **514 unidades** (votos humanos a Deus excluídos por definição) |

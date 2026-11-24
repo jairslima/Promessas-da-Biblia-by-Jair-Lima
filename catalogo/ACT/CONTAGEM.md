@@ -1,6 +1,6 @@
 # CONTAGEM: ACT (ACT)
 
-**Provisória.** Unidades classificadas como promessa candidata, **ainda sem deduplicação global** e sem aprovação humana. Cobertura: **1007 de 1007 versículos lidos** (DeepSeek Flash high, Claude (agente), árbitro Gemini). Fase 3 concluída (acordo=19, adj_ant=0, f3_conf=32, f3_rej=6, dup_rem=0).
+**Provisória.** Unidades classificadas como promessa candidata, **ainda sem deduplicação global** e sem aprovação humana. Cobertura: **1007 de 1007 versículos lidos** (concluído nas três etapas metodológicas de identificação, conferência cruzada e arbitragem exegética). Etapa 3 concluída (acordo=19, adj_ant=0, f3_conf=32, f3_rej=6, dup_rem=0).
 
 ## Por categoria
 

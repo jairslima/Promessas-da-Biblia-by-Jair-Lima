@@ -1,6 +1,6 @@
 # CONTAGEM: RUT (RUT)
 
-**Provisória.** Unidades classificadas como promessa candidata, **ainda sem deduplicação global** e sem aprovação humana. Cobertura: **85 de 85 versículos lidos** (Claude (agente), Gemini, árbitro DeepSeek Flash high). Fase 3 concluída (acordo=5, adj_ant=0, f3_conf=3, f3_rej=0, dup_rem=0).
+**Provisória.** Unidades classificadas como promessa candidata, **ainda sem deduplicação global** e sem aprovação humana. Cobertura: **85 de 85 versículos lidos** (concluído nas três etapas metodológicas de identificação, conferência cruzada e arbitragem exegética). Etapa 3 concluída (acordo=5, adj_ant=0, f3_conf=3, f3_rej=0, dup_rem=0).
 
 ## Por categoria
 

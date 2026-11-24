@@ -1,6 +1,6 @@
 # CONTAGEM: 2SA (2SA)
 
-**Provisória.** Unidades classificadas como promessa candidata, **ainda sem deduplicação global** e sem aprovação humana. Cobertura: **695 de 695 versículos lidos** (Claude (agente), Gemini, árbitro DeepSeek Flash high). Fase 3 concluída (acordo=37, adj_ant=0, f3_conf=35, f3_rej=6, dup_rem=1).
+**Provisória.** Unidades classificadas como promessa candidata, **ainda sem deduplicação global** e sem aprovação humana. Cobertura: **695 de 695 versículos lidos** (concluído nas três etapas metodológicas de identificação, conferência cruzada e arbitragem exegética). Etapa 3 concluída (acordo=37, adj_ant=0, f3_conf=35, f3_rej=6, dup_rem=1).
 
 ## Por categoria
 
