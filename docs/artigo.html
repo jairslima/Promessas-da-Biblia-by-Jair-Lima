@@ -16,7 +16,7 @@
       --text: #222a36;
     }
     * { box-sizing: border-box; margin: 0; padding: 0; }
-    body { font-family: Georgia, 'Times New Roman', serif; background: var(--bg); color: var(--text); line-height: 1.72; font-size: 11.5pt; }
+    body { font-family: Georgia, 'Times New Roman', serif; background: var(--bg); color: var(--text); line-height: 1.66; font-size: 11pt; }
     header {
       background: linear-gradient(180deg, var(--navy-dark), var(--navy));
       color: #fff; padding: 2rem 1.25rem; text-align: center; border-bottom: 4px solid #b88b1d;
@@ -35,31 +35,44 @@
     .btn.ghost { background: #fff; color: var(--navy); border: 1px solid var(--navy); }
     article {
       max-width: 960px; margin: 1.2rem auto 3rem; background: var(--card);
-      border: 1px solid var(--border); border-radius: 8px; padding: 2.5rem 2.8rem;
+      border: 1px solid var(--border); border-radius: 8px; padding: 2.4rem 2.7rem;
       box-shadow: 0 2px 8px rgba(0,0,0,0.03);
     }
-    h1 { font-size: 1.55rem; color: var(--navy-dark); margin-bottom: 0.65rem; line-height: 1.3; }
-    h2 { font-size: 1.28rem; color: var(--navy); margin: 1.7rem 0 0.75rem; padding-bottom: 0.35rem; border-bottom: 1px solid var(--border); page-break-after: avoid; }
-    h3 { font-size: 1.08rem; color: var(--navy-dark); margin: 1.25rem 0 0.5rem; page-break-after: avoid; }
-    p { margin-bottom: 0.9rem; text-align: justify; }
-    ul { margin: 0.45rem 0 1rem 1.4rem; }
-    li { margin-bottom: 0.4rem; }
-    hr { border: none; border-top: 1px solid var(--border); margin: 1.4rem 0; }
-    code { font-family: Consolas, monospace; font-size: 0.88em; background: #f3f0e8; padding: 0.1rem 0.35rem; border-radius: 3px; }
-    .table-wrap { overflow-x: auto; margin: 1.1rem 0; border: 1px solid var(--border); border-radius: 6px; page-break-inside: avoid; }
-    table { width: 100%; border-collapse: collapse; font-family: 'Segoe UI', system-ui, sans-serif; font-size: 9.2pt; }
-    th, td { padding: 0.5rem 0.7rem; border-bottom: 1px solid var(--border); text-align: left; vertical-align: top; }
+    h1 { font-size: 1.48rem; color: var(--navy-dark); margin-bottom: 0.55rem; line-height: 1.28; page-break-after: avoid; break-after: avoid; }
+    h2 { font-size: 1.22rem; color: var(--navy); margin: 1.45rem 0 0.6rem; padding-bottom: 0.3rem; border-bottom: 1px solid var(--border); page-break-after: avoid; break-after: avoid; }
+    h3 { font-size: 1.05rem; color: var(--navy-dark); margin: 1.15rem 0 0.45rem; page-break-after: avoid; break-after: avoid; }
+    p { margin-bottom: 0.72rem; text-align: justify; orphans: 3; widows: 3; }
+    caption.table-caption, p.table-caption {
+      caption-side: top;
+      font-family: 'Segoe UI', system-ui, sans-serif;
+      font-size: 9.6pt;
+      color: var(--navy-dark);
+      margin-bottom: 0.4rem;
+      text-align: left;
+      page-break-after: avoid !important;
+      break-after: avoid !important;
+    }
+    ul, ol { margin: 0.38rem 0 0.85rem 1.45rem; }
+    ol li { margin-bottom: 0.32rem; text-align: justify; }
+    ul li { margin-bottom: 0.32rem; text-align: left; overflow-wrap: break-word; }
+    hr { border: none; border-top: 1px solid var(--border); margin: 1.05rem 0; }
+    code { font-family: Consolas, monospace; font-size: 0.88em; background: #f3f0e8; padding: 0.08rem 0.3rem; border-radius: 3px; }
+    .table-wrap { overflow-x: auto; margin: 0.85rem 0 1.05rem; }
+    table { width: 100%; border-collapse: collapse; font-family: 'Segoe UI', system-ui, sans-serif; font-size: 8.6pt; border: 1px solid var(--border); }
+    thead { display: table-header-group; }
+    tr { page-break-inside: avoid; break-inside: avoid; }
+    th, td { padding: 0.34rem 0.55rem; border-bottom: 1px solid var(--border); text-align: left; vertical-align: top; line-height: 1.35; }
     th { background: #f3f0e8; color: var(--navy-dark); font-weight: 700; }
     figure.academic-figure {
-      margin: 1.4rem 0; padding: 1rem; border: 1px solid var(--border); border-radius: 6px;
-      background: #fff; text-align: center; page-break-inside: avoid;
+      margin: 1.0rem 0; padding: 0.75rem; border: 1px solid var(--border); border-radius: 6px;
+      background: #fff; text-align: center; page-break-inside: avoid; break-inside: avoid;
     }
-    figure.academic-figure img { max-width: 92%; height: auto; max-height: 360px; display: block; margin: 0 auto; }
-    figure.academic-figure figcaption { margin-top: 0.6rem; font-size: 9.5pt; color: #4a5568; font-style: italic; text-align: center; }
+    figure.academic-figure img { max-width: 85%; height: auto; max-height: 275px; display: block; margin: 0 auto; }
+    figure.academic-figure figcaption { margin-top: 0.45rem; font-size: 8.8pt; color: #4a5568; font-style: italic; text-align: center; }
     footer { text-align: center; padding: 1.8rem 1rem; font-family: 'Segoe UI', system-ui, sans-serif; font-size: 0.85rem; color: #546072; }
     @media print {
-      @page { size: A4; margin: 18mm 16mm 18mm 16mm; }
-      body { background: #fff; font-size: 10.5pt; }
+      @page { size: A4; margin: 19mm 16mm 21mm 16mm; }
+      body { background: #fff; font-size: 10pt; line-height: 1.52; }
       header, .toolbar, footer { display: none !important; }
       article { max-width: 100%; margin: 0; padding: 0; border: none; box-shadow: none; }
     }
@@ -85,6 +98,8 @@
 <p><strong>Afiliação / Affiliation:</strong> Lima Editora do Brasil; Assembleia de Deus de Três Coroas, Rio Grande do Sul, Brasil</p>
 <p><strong>Data / Date:</strong> 24 de novembro de 2026</p>
 <p><strong>Versão dos dados / Data version:</strong> v1.0.0 (<code>Promessas-da-Biblia-by-Jair-Lima</code>)</p>
+<p><strong>Observatório público / Public Observatory:</strong> https://jairslima.github.io/Promessas-da-Biblia-by-Jair-Lima/</p>
+<p><strong>Repositório de dados / Data Repository:</strong> https://github.com/jairslima/Promessas-da-Biblia-by-Jair-Lima</p>
 <p><strong>Status editorial:</strong> Preprint de pesquisa, ainda não avaliado por pares / <em>Research preprint, not yet peer-reviewed</em></p>
 <hr />
 <h2>Resumo</h2>
@@ -103,33 +118,33 @@
 <hr />
 <h2>2. Revisão da Literatura</h2>
 <p>A literatura pertinente ao problema divide-se em três tradições principais:</p>
-<ul>
-<li>1. <strong>Antologias Temáticas e Recenseamentos Manuais (Séculos XVIII a XX):</strong></li>
-</ul>
+<ol start="1">
+<li value="1"><strong>Antologias Temáticas e Recenseamentos Manuais (Séculos XVIII a XX):</strong></li>
+</ol>
 <p>Em 1720, o clérigo inglês não conformista Samuel Clarke (1684 a 1750) publicou <em>A Collection of the Promises of Scripture, under their Proper Heads</em> (Londres: J. Clark; 2ª ed. 1738 com prefácio de Isaac Watts), organizando promessas de bênção temporal, espiritual e eterna por categorias pastorais. Em meados da década de 1950, o professor canadense Everek R. Storms (Kitchener, Ontário), insatisfeito com a alegação popular de que existiriam 30.000 promessas na Bíblia, realizou ao longo de dezoito meses, durante sua vigésima sétima leitura bíblica, uma contagem manual que totalizou <strong>8.810 promessas</strong>, subdivididas em <strong>7.487</strong> promessas de Deus ao homem, <strong>991</strong> de um ser humano a outro, <strong>290</strong> do homem a Deus, <strong>28</strong> de anjos, <strong>9</strong> de Satanás, <strong>2</strong> de Deus Pai a Deus Filho, <strong>2</strong> de espíritos malignos ao Senhor e <strong>1</strong> de um homem a um anjo (noticiada pela revista <em>Time</em>, v. 68, n. 26, p. 49, 24 dez. 1956, seção <em>Religion</em>, sob o título &quot;Promises&quot;). Em 1962, Herbert Lockyer publicou <em>All the Promises of the Bible</em> (Grand Rapids: Zondervan, 1962, p. 10), difundindo amplamente o recenseamento de Storms. Apesar de seu valor histórico, o levantamento de Storms não foi localizado, nas fontes consultadas para este artigo, em formato de catálogo estruturado versículo a versículo que permita conferir suas decisões de segmentação.</p>
-<ul>
-<li>2. <strong>Teoria dos Atos de Fala e Hermenêutica Bíblica:</strong></li>
-</ul>
+<ol start="2">
+<li value="2"><strong>Teoria dos Atos de Fala e Hermenêutica Bíblica:</strong></li>
+</ol>
 <p>A filosofia da linguagem ordinária (Austin, 1962; Searle, 1969, 1979) e sua recepção na hermenêutica bíblica (Thiselton, 1992; Vanhoozer, 1998; Briggs, 2001) demonstraram que uma <em>promessa</em> pertence à classe dos <strong>atos ilocucionários comissivos</strong> (<em>commissives</em>): enunciados cujo propósito ilocucionário é comprometer o falante (<em>promisor</em>) com a realização de um curso futuro de ação em relação a um destinatário. Essa distinção teórica é crucial para a exegese de corpus, pois separa atos comissivos de atos <em>diretivos</em> (mandamentos e exortações), <em>assertivos</em> (relatos históricos consumados, descrições de atributos divinos e afirmações doutrinárias em terceira pessoa) e <em>expressivos</em> (orações, desejos e bênçãos votivas humanas).</p>
-<ul>
-<li>3. <strong>Linguística de corpus e humanidades digitais:</strong></li>
-</ul>
+<ol start="3">
+<li value="3"><strong>Linguística de corpus e humanidades digitais:</strong></li>
+</ol>
 <p>Recursos como ETCBC/BHSA (Roorda; Van Peursem et al., 2018), MACULA (Clear Bible, Inc., 2023) e STEPBible (Tyndale House, 2023) exemplificam a organização computacional de informações linguísticas sobre os textos bíblicos. O presente estudo utiliza uma abordagem complementar, voltada à identificação e classificação de compromissos promissórios. A aplicação de procedimentos computacionais à interpretação do corpus permite organizar os dados e explicitar decisões, sem eliminar a necessidade de avaliação exegética.</p>
 <hr />
 <h2>3. Questão de Pesquisa e Definição Operacional</h2>
 <h3>3.1. Questões de Pesquisa</h3>
-<ul>
-<li>1. Quantas unidades textuais promissórias (atos comissivos) são identificáveis nos 31.104 versículos dos 66 livros do cânon protestante quando submetidas a dupla leitura independente e arbitragem exegética de terceira fase?</li>
-<li>2. Como essas unidades se distribuem entre promessas divinas de bênção, promessas divinas de juízo/sentença, garantias apostólicas e patriarcais, compromissos humanos e promessas adversárias?</li>
-<li>3. Qual é o total de <strong>promessas distintas estimadas</strong> quando se desconta a redundância de reafirmações por agrupamento de similaridade lexical, e por que o resultado diverge da cifra histórica de Everek R. Storms (8.810 / 7.487)?</li>
-</ul>
+<ol start="1">
+<li value="1">Quantas unidades textuais promissórias (atos comissivos) são identificáveis nos 31.104 versículos dos 66 livros do cânon protestante quando submetidas a dupla leitura independente e arbitragem exegética de terceira fase?</li>
+<li value="2">Como essas unidades se distribuem entre promessas divinas de bênção, promessas divinas de juízo/sentença, garantias apostólicas e patriarcais, compromissos humanos e promessas adversárias?</li>
+<li value="3">Qual é o total de <strong>promessas distintas estimadas</strong> quando se desconta a redundância de reafirmações por agrupamento de similaridade lexical, e por que o resultado diverge da cifra histórica de Everek R. Storms (8.810 / 7.487)?</li>
+</ol>
 <h3>3.2. Definição Operacional de Promessa</h3>
 <p>Define-se operacionalmente uma <strong>unidade promissória</strong> como toda declaração textual do corpus que:</p>
-<ul>
-<li>1. Atribui a um <strong>promitente identificável</strong> (Deus Pai, Filho, Espírito Santo, Deus sem distinção de pessoa, mensageiro autorizado, patriarca, apóstolo, agente humano em nome próprio ou voz adversária) o <strong>compromisso verificável</strong> de realizar, garantir, manter ou executar algo futuro ou continuado;</li>
-<li>2. Possui <strong>conteúdo (objeto prometido)</strong> e <strong>destinatário reconhecível</strong> (indivíduo, família/linhagem, Israel, Igreja, grupo específico, nações, humanidade ou criação), além de condição explícita ou contextual quando o próprio texto a estabelece;</li>
-<li>3. Distingue a <strong>origem do compromisso</strong> (<code>origem_real</code>) da identidade do <strong>comunicador humano</strong> que relata, profetiza ou recorda a palavra.</li>
-</ul>
+<ol start="1">
+<li value="1">Atribui a um <strong>promitente identificável</strong> (Deus Pai, Filho, Espírito Santo, Deus sem distinção de pessoa, mensageiro autorizado, patriarca, apóstolo, agente humano em nome próprio ou voz adversária) o <strong>compromisso verificável</strong> de realizar, garantir, manter ou executar algo futuro ou continuado;</li>
+<li value="2">Possui <strong>conteúdo (objeto prometido)</strong> e <strong>destinatário reconhecível</strong> (indivíduo, família/linhagem, Israel, Igreja, grupo específico, nações, humanidade ou criação), além de condição explícita ou contextual quando o próprio texto a estabelece;</li>
+<li value="3">Distingue a <strong>origem do compromisso</strong> (<code>origem_real</code>) da identidade do <strong>comunicador humano</strong> que relata, profetiza ou recorda a palavra.</li>
+</ol>
 <p><strong>Critérios de exclusão (Não Promessas):</strong></p>
 <p>Não são contabilizadas como promessas: (a) mandamentos e imperativos de tarefa sem garantia de benefício; (b) desejos, saudações ou bênçãos votivas humanas sem obrigação assumida pelo falante (ex.: <em>&quot;O SENHOR te abençoe&quot;</em>, <em>&quot;Viva o rei&quot;</em>); (c) relatos históricos de fatos já consumados sem efeito futuro projetado; (d) princípios sapienciais e máximas gerais de causa e efeito moral sem falante que se obrigue em primeira pessoa (ex.: provérbios gerais); (e) declarações doutrinárias ou confissões teológicas em terceira pessoa sobre atributos ou atos universais de Deus sem estrutura de oráculo promissório (ex.: Ec 12.14; Lm 3.22-32); e (f) votos devocionais do homem a Deus.</p>
 <hr />
@@ -148,33 +163,33 @@
 <h2>5. Resultados</h2>
 <h3>5.1. Indicadores Globais e Conciliação Aritmética das Três Fases</h3>
 <p>A Tabela 1 apresenta a síntese quantitativa oficial e a conciliação exata entre o levantamento preliminar das Fases 1 e 2 e o fechamento definitivo pós-Fase 3.</p>
-<p><strong>Tabela 1: Indicadores globais e conciliação aritmética da pesquisa</strong></p>
 <div class="table-wrap"><table>
+<caption class="table-caption"><strong>Tabela 1: Indicadores globais e conciliação aritmética da pesquisa</strong></caption>
 <thead><tr><th>Indicador / Etapa metodológica</th><th>Quantidade</th><th>Proporção / Observação</th></tr></thead><tbody>
 <tr><td>Livros bíblicos examinados</td><td>66</td><td>39 AT / 27 NT (100% do cânon protestante; 64 livros com registros)</td></tr>
 <tr><td>Capítulos examinados</td><td>1.189</td><td>100% dos capítulos</td></tr>
 <tr><td>Versículos examinados</td><td>31.104</td><td>100% dos versículos do corpus</td></tr>
 <tr><td>Unidades candidatas preliminares (Fases 1 e 2)</td><td>3.609</td><td>Levantamento bruto antes da Fase 3</td></tr>
 <tr><td>Casos divergentes submetidos ao árbitro (Fase 3)</td><td>1.808</td><td>Continham 1.882 unidades preliminares</td></tr>
-<tr><td>$( - )$ Unidades em casos rejeitados pelo árbitro (Fase 3)</td><td>$-334$</td><td>332 casos rejeitados (2 casos tinham 2 unidades)</td></tr>
-<tr><td>$( - )$ Subdivisões consolidadas por granularidade (Fase 3)</td><td>$-37$</td><td>34 casos confirmados na formulação mais coesa</td></tr>
-<tr><td>$( - )$ Duplicatas técnicas estritas removidas</td><td>$-14$</td><td>Mesmo versículo, categoria e objeto prometido</td></tr>
-<tr><td><strong>$( = )$ Unidades promissórias confirmadas (Total Final)</strong></td><td><strong>3.224</strong></td><td><strong>Zero candidatos ou divergências pendentes</strong></td></tr>
-<tr><td>$\quad$ • Confirmadas por acordo direto (Fases 1 e 2)</td><td>1.211</td><td>37,6% das unidades confirmadas</td></tr>
-<tr><td>$\quad$ • Confirmadas por arbitragem independente (Fase 3)</td><td>2.013</td><td>62,4% das unidades confirmadas</td></tr>
+<tr><td>(−) Unidades em casos rejeitados pelo árbitro (Fase 3)</td><td>−334</td><td>332 casos rejeitados (2 casos tinham 2 unidades)</td></tr>
+<tr><td>(−) Subdivisões consolidadas por granularidade (Fase 3)</td><td>−37</td><td>34 casos confirmados na formulação mais coesa</td></tr>
+<tr><td>(−) Duplicatas técnicas estritas removidas</td><td>−14</td><td>Mesmo versículo, categoria e objeto prometido</td></tr>
+<tr><td><strong>(=) Unidades promissórias confirmadas (Total Final)</strong></td><td><strong>3.224</strong></td><td><strong>Zero candidatos ou divergências pendentes</strong></td></tr>
+<tr><td>• Confirmadas por acordo direto (Fases 1 e 2)</td><td>1.211</td><td>37,6% das unidades confirmadas</td></tr>
+<tr><td>• Confirmadas por arbitragem independente (Fase 3)</td><td>2.013</td><td>62,4% das unidades confirmadas</td></tr>
 <tr><td>Versículos únicos cobertos por promessas confirmadas</td><td>4.373</td><td><strong>14,1%</strong> de todos os versículos da Bíblia</td></tr>
-<tr><td><strong>Promessas distintas estimadas (Jaccard $\tau = 0,45$)</strong></td><td><strong>2.945</strong></td><td>Faixa de sensibilidade: 2.729 ($\tau=0,35$) a 3.096 ($\tau=0,65$)</td></tr>
-<tr><td>Projeção de distintas corrigida pela revocação ($0,84$)</td><td>3.506</td><td>Cenário ilustrativo de extrapolação</td></tr>
+<tr><td><strong>Promessas distintas estimadas (Jaccard τ = 0,45)</strong></td><td><strong>2.945</strong></td><td>Faixa de sensibilidade: 2.729 (τ = 0,35) a 3.096 (τ = 0,65)</td></tr>
+<tr><td>Projeção de distintas corrigida pela revocação (0,84)</td><td>3.506</td><td>Cenário ilustrativo de extrapolação</td></tr>
 <tr><td><strong>Indicador Principal: Bênção Divina (Unidades)</strong></td><td><strong>1.622</strong></td><td>50,3% de todas as unidades promissórias</td></tr>
-<tr><td><strong>Indicador Principal: Bênção Divina (Distintas, $\tau = 0,45$)</strong></td><td><strong>1.481</strong></td><td>Até 1.763 com correção pela revocação ($0,84$)</td></tr>
+<tr><td><strong>Indicador Principal: Bênção Divina (Distintas, τ = 0,45)</strong></td><td><strong>1.481</strong></td><td>Até 1.763 com correção pela revocação (0,84)</td></tr>
 </tbody></table></div>
-<p>A conciliação matemática entre os <strong>1.808 casos arbitrados</strong> na Fase 3 e os <strong>1.843 resultados de unidades</strong> (<code>1.511 unidades confirmadas + 332 casos rejeitados</code>) decorre do fato de que, dos 1.808 casos, <strong>332 casos</strong> foram rejeitados e <strong>1.476 casos</strong> foram confirmados (<code>332 + 1.476 = 1.808</code>). Como <strong>32 dos 1.476 casos confirmados</strong> continham múltiplas promessas distintas no mesmo trecho (30 casos com 2 unidades, 1 caso com 3 unidades e 1 caso com 4 unidades, somando $+35$ unidades), os 1.476 casos confirmados geraram exatamente <strong>1.511 unidades confirmadas</strong> (<code>1.476 + 35 = 1.511</code>).</p>
+<p>A conciliação matemática entre os <strong>1.808 casos arbitrados</strong> na Fase 3 e os <strong>1.843 resultados de unidades</strong> (<code>1.511 unidades confirmadas + 332 casos rejeitados</code>) decorre do fato de que, dos 1.808 casos, <strong>332 casos</strong> foram rejeitados e <strong>1.476 casos</strong> foram confirmados (<code>332 + 1.476 = 1.808</code>). Como <strong>32 dos 1.476 casos confirmados</strong> continham múltiplas promessas distintas no mesmo trecho (30 casos com 2 unidades, 1 caso com 3 unidades e 1 caso com 4 unidades, somando +35 unidades), os 1.476 casos confirmados geraram exatamente <strong>1.511 unidades confirmadas</strong> (<code>1.476 + 35 = 1.511</code>).</p>
 <p>Por sua vez, a diferença de <strong>39 unidades</strong> entre a subtração simples <code>3.609 - 332 - 14 = 3.263</code> e o total final de <strong>3.224</strong> explica-se pela soma das <strong>2 unidades adicionais</strong> existentes nos 2 casos rejeitados que possuíam 2 subdivisões preliminares (<code>334 - 332 = 2</code>) com as <strong>37 subdivisões excedentes</strong> consolidadas pelo árbitro nos 34 casos confirmados em que o catálogo preliminar havia tomado provisoriamente a análise com maior número de subdivisões (<code>2 + 37 = 39</code>).</p>
 <figure class="academic-figure"><img src="./graficos/grafico_03_funil_conciliacao_cor.svg" alt="Figura 1: Consolidação das 3.609 unidades preliminares em 3.224 unidades promissórias confirmadas" /><figcaption>Figura 1: Consolidação das 3.609 unidades preliminares em 3.224 unidades promissórias confirmadas</figcaption></figure>
 <h3>5.2. Análise das Dez Categorias Promissórias</h3>
 <p>A Tabela 2 detalha a distribuição das <strong>3.224 unidades confirmadas</strong> nas dez categorias taxonômicas da pesquisa.</p>
-<p><strong>Tabela 2: Distribuição das unidades confirmadas por categoria taxonômica</strong></p>
 <div class="table-wrap"><table>
+<caption class="table-caption"><strong>Tabela 2: Distribuição das unidades confirmadas por categoria taxonômica</strong></caption>
 <thead><tr><th>Categoria Taxonômica</th><th>Código</th><th>Origem e Natureza</th><th>Unidades</th><th>% do Total</th></tr></thead><tbody>
 <tr><td><strong>Bênção divina</strong> <em>(Indicador Principal)</em></td><td><code>divina_bencao</code></td><td>Divina direta ou relatada / Bênção</td><td>1.448</td><td>44,91%</td></tr>
 <tr><td><strong>Juízo divino</strong></td><td><code>divina_juizo</code></td><td>Divina direta ou relatada / Juízo</td><td>952</td><td>29,53%</td></tr>
@@ -191,16 +206,16 @@
 <p>Observa-se que as promessas de origem divina ou apostólica/patriarcal inspirada somam <strong>2.687 unidades (83,34%)</strong>, divididas entre <strong>1.622 unidades de bênção divina (50,31%)</strong> e <strong>1.065 unidades de juízo e sentença divina (33,03%)</strong>. Os compromissos humanos em nome próprio respondem por <strong>514 unidades (15,94%)</strong>, e as promessas de voz adversária ou falsa (como as ofertas enganosas da serpente em Gn 3.4-5, do diabo na tentação de Cristo em Mt 4.9/Lc 4.6-7 e de falsos profetas como Hananias em Jr 28) somam <strong>23 unidades (0,71%)</strong>.</p>
 <figure class="academic-figure"><img src="./graficos/grafico_02_dez_categorias_cor.svg" alt="Figura 2: Distribuição dos compromissos por natureza e origem nas dez categorias" /><figcaption>Figura 2: Distribuição dos compromissos por natureza e origem nas dez categorias</figcaption></figure>
 <h3>5.3. Distribuição pelas Divisões do Cânon e Comportamento dos Livros Sapienciais</h3>
-<p>A distribuição das 3.224 unidades pelas sete divisões canônicas (cuja soma exata é $1.006 + 560 + 595 + 332 + 344 + 289 + 98 = 3.224$) revela forte concentração na literatura profética e nas narrativas de aliança:</p>
-<ul>
-<li>1. <strong>Profetas Maiores (Isaías a Daniel):</strong> <strong>1.006 unidades (31,20%)</strong>, liderados por Jeremias (389), Isaías (350) e Ezequiel (241), além de Daniel (26) e Lamentações (0), onde se concentram tanto os oráculos de juízo sobre Judá e as nações quanto as grandes promessas messiânicas e de restauração da Nova Aliança.</li>
-<li>2. <strong>Pentateuco (Gênesis a Deuteronômio):</strong> <strong>560 unidades (17,37%)</strong>, com destaque para Gênesis (181), Êxodo (132), Deuteronômio (132), Números (79) e Levítico (36).</li>
-<li>3. <strong>Livros Históricos do AT (Josué a Ester):</strong> <strong>595 unidades (18,46%)</strong>, com alta presença de compromissos reais, aliança davídica (2Sm 7; 1Cr 17) e palavras proféticas na monarquia (1Sm: 108; 1Rs: 94; 2Sm: 71; 2Rs: 71; Jz: 63; Js: 53; 2Cr: 51; 1Cr: 34; Ne: 16; Et: 16; Ed: 10; Rt: 8).</li>
-<li>4. <strong>Profetas Menores (Oseias a Malaquias):</strong> <strong>332 unidades (10,30%)</strong>, destacando-se Oseias (72), Zacarias (67) e Amós (56).</li>
-<li>5. <strong>Evangelhos e Atos (Mateus a Atos):</strong> <strong>344 unidades (10,67%)</strong>, com altíssima densidade de bênção divina nas palavras de Cristo em João (94 unidades, sendo 86 de bênção), Lucas (89), Mateus (79), Atos (51) e Marcos (31).</li>
-<li>6. <strong>Epístolas e Apocalipse (Romanos a Apocalipse):</strong> <strong>289 unidades (8,96%)</strong>, lideradas por Romanos (58), Apocalipse (46), 1 Coríntios (32), Hebreus (28) e 2 Coríntios (22).</li>
-<li>7. <strong>Poéticos e Sapienciais (Jó a Cantares):</strong> <strong>98 unidades (3,04%)</strong>, concentradas nos Salmos (82 unidades, sobretudo salmos reais, messiânicos e oráculos divinos como Sl 2, 50, 89, 91, 110 e 132), Jó (11), Cantares (4) e Provérbios (1), com Eclesiastes (0).</li>
-</ul>
+<p>A distribuição das 3.224 unidades pelas sete divisões canônicas (cuja soma exata é 1.006 + 560 + 595 + 332 + 344 + 289 + 98 = 3.224) revela forte concentração na literatura profética e nas narrativas de aliança:</p>
+<ol start="1">
+<li value="1"><strong>Profetas Maiores (Isaías a Daniel):</strong> <strong>1.006 unidades (31,20%)</strong>, liderados por Jeremias (389), Isaías (350) e Ezequiel (241), além de Daniel (26) e Lamentações (0), onde se concentram tanto os oráculos de juízo sobre Judá e as nações quanto as grandes promessas messiânicas e de restauração da Nova Aliança.</li>
+<li value="2"><strong>Pentateuco (Gênesis a Deuteronômio):</strong> <strong>560 unidades (17,37%)</strong>, com destaque para Gênesis (181), Êxodo (132), Deuteronômio (132), Números (79) e Levítico (36).</li>
+<li value="3"><strong>Livros Históricos do AT (Josué a Ester):</strong> <strong>595 unidades (18,46%)</strong>, com alta presença de compromissos reais, aliança davídica (2Sm 7; 1Cr 17) e palavras proféticas na monarquia (1Sm: 108; 1Rs: 94; 2Sm: 71; 2Rs: 71; Jz: 63; Js: 53; 2Cr: 51; 1Cr: 34; Ne: 16; Et: 16; Ed: 10; Rt: 8).</li>
+<li value="4"><strong>Profetas Menores (Oseias a Malaquias):</strong> <strong>332 unidades (10,30%)</strong>, destacando-se Oseias (72), Zacarias (67) e Amós (56).</li>
+<li value="5"><strong>Evangelhos e Atos (Mateus a Atos):</strong> <strong>344 unidades (10,67%)</strong>, com altíssima densidade de bênção divina nas palavras de Cristo em João (94 unidades, sendo 86 de bênção), Lucas (89), Mateus (79), Atos (51) e Marcos (31).</li>
+<li value="6"><strong>Epístolas e Apocalipse (Romanos a Apocalipse):</strong> <strong>289 unidades (8,96%)</strong>, lideradas por Romanos (58), Apocalipse (46), 1 Coríntios (32), Hebreus (28) e 2 Coríntios (22).</li>
+<li value="7"><strong>Poéticos e Sapienciais (Jó a Cantares):</strong> <strong>98 unidades (3,04%)</strong>, concentradas nos Salmos (82 unidades, sobretudo salmos reais, messiânicos e oráculos divinos como Sl 2, 50, 89, 91, 110 e 132), Jó (11), Cantares (4) e Provérbios (1), com Eclesiastes (0).</li>
+</ol>
 <p><strong>Análise específica de Provérbios (1), Eclesiastes (0) e Lamentações (0):</strong></p>
 <p>A baixa contagem nos livros estritamente sapienciais e elegíacos é consequência direta e intencional da definição operacional comissiva:</p>
 <ul>
@@ -209,22 +224,22 @@
 <li>Em <strong>Lamentações (0 unidades)</strong>, as duas análises convergiram na ausência de atos comissivos diretos nos 154 versículos; passagens célebres de esperança, como <strong>Lm 3.22-32</strong>, são meditações e confissões do poeta sobre os atributos de misericórdia e fidelidade do Senhor, sem estrutura ilocucionária de promessa direta.</li>
 </ul>
 <h3>5.4. Impacto da Recuperação dos 276 Resumos e Sensibilidade ao Limiar de Jaccard</h3>
-<p>Na consolidação preliminar, 276 registros oriundos de análises com preenchimento parcial continham o marcador padronizado <code>&quot;(resumo não informado pelo leitor)&quot;</code>. Como o algoritmo de agrupamento lexical (<code>apurar_numero.py</code>) calcula o índice de Jaccard sobre termos de 4 ou mais letras dentro da mesma categoria, essas 276 unidades compartilhavam exatamente o conjunto de termos <code>{&#x27;resumo&#x27;, &#x27;informado&#x27;, &#x27;pelo&#x27;, &#x27;leitor&#x27;}</code> ($J = 1,00$), colapsando artificialmente em um único grupo por categoria e subestimando o resultado preliminar em 2.763 compromissos distintos.</p>
-<p>Após a recuperação integral dos 276 resumos reais (zerando os resumos genéricos), o agrupamento lexical foi recalculado nos quatro limiares de sensibilidade (Tabela 3), resultando no valor central ($\tau = 0,45$) de <strong>2.945 promessas distintas estimadas</strong> ($+182$) e, para o indicador principal de bênção divina, em <strong>1.481 promessas distintas estimadas</strong> ($+57$).</p>
-<p><strong>Tabela 3: Sensibilidade das promessas distintas estimadas ao limiar de Jaccard ($\tau$)</strong></p>
+<p>Na consolidação preliminar, 276 registros oriundos de análises com preenchimento parcial continham o marcador padronizado <code>&quot;(resumo não informado pelo leitor)&quot;</code>. Como o algoritmo de agrupamento lexical (<code>apurar_numero.py</code>) calcula o índice de Jaccard sobre termos de 4 ou mais letras dentro da mesma categoria, essas 276 unidades compartilhavam exatamente o conjunto de termos <code>{&#x27;resumo&#x27;, &#x27;informado&#x27;, &#x27;pelo&#x27;, &#x27;leitor&#x27;}</code> (J = 1,00), colapsando artificialmente em um único grupo por categoria e subestimando o resultado preliminar em 2.763 compromissos distintos.</p>
+<p>Após a recuperação integral dos 276 resumos reais (zerando os resumos genéricos), o agrupamento lexical foi recalculado nos quatro limiares de sensibilidade (Tabela 3), resultando no valor central (τ = 0,45) de <strong>2.945 promessas distintas estimadas</strong> (+182) e, para o indicador principal de bênção divina, em <strong>1.481 promessas distintas estimadas</strong> (+57).</p>
 <div class="table-wrap"><table>
-<thead><tr><th>Limiar de Jaccard ($\tau$)</th><th>Promessas distintas estimadas (Todas)</th><th>Projeção c/ Revocação 0,84 (Todas)</th><th>Bênção Divina (Distintas estimadas)</th><th>Bênção Divina (Projeção c/ Revocação)</th></tr></thead><tbody>
-<tr><td>$0,35$</td><td>2.729</td><td>3.249</td><td>1.357</td><td>1.615</td></tr>
-<tr><td><strong>$0,45$ (Padrão)</strong></td><td><strong>2.945</strong></td><td><strong>3.506</strong></td><td><strong>1.481</strong></td><td><strong>1.763</strong></td></tr>
-<tr><td>$0,55$</td><td>3.052</td><td>3.633</td><td>1.539</td><td>1.832</td></tr>
-<tr><td>$0,65$</td><td>3.096</td><td>3.686</td><td>1.564</td><td>1.862</td></tr>
+<caption class="table-caption"><strong>Tabela 3: Sensibilidade das promessas distintas estimadas ao limiar de Jaccard (τ)</strong></caption>
+<thead><tr><th>Limiar de Jaccard (τ)</th><th>Promessas distintas estimadas (Todas)</th><th>Projeção c/ Revocação 0,84 (Todas)</th><th>Bênção Divina (Distintas estimadas)</th><th>Bênção Divina (Projeção c/ Revocação)</th></tr></thead><tbody>
+<tr><td>0,35</td><td>2.729</td><td>3.249</td><td>1.357</td><td>1.615</td></tr>
+<tr><td><strong>0,45 (Padrão)</strong></td><td><strong>2.945</strong></td><td><strong>3.506</strong></td><td><strong>1.481</strong></td><td><strong>1.763</strong></td></tr>
+<tr><td>0,55</td><td>3.052</td><td>3.633</td><td>1.539</td><td>1.832</td></tr>
+<tr><td>0,65</td><td>3.096</td><td>3.686</td><td>1.564</td><td>1.862</td></tr>
 </tbody></table></div>
 <figure class="academic-figure"><img src="./graficos/grafico_06_sensibilidade_jaccard_cor.svg" alt="Figura 3: Análise de sensibilidade do agrupamento lexical ao limiar de Jaccard" /><figcaption>Figura 3: Análise de sensibilidade do agrupamento lexical ao limiar de Jaccard</figcaption></figure>
 <hr />
 <h2>6. Discussão e Comparação com Contagens Históricas</h2>
 <p>A Tabela 4 confronta os resultados do presente levantamento com a contagem manual realizada por Everek R. Storms em meados da década de 1950.</p>
-<p><strong>Tabela 4: Comparação entre o recenseamento de Everek R. Storms (1956) e a pesquisa atual (Lima, 2026)</strong></p>
 <div class="table-wrap"><table>
+<caption class="table-caption"><strong>Tabela 4: Comparação entre o recenseamento de Everek R. Storms (1956) e a pesquisa atual (Lima, 2026)</strong></caption>
 <thead><tr><th>Dimensão / Categoria</th><th>Everek R. Storms (1956)</th><th>Pesquisa Atual: Jair Lima (2026)</th><th>Razão Metodológica da Diferença</th></tr></thead><tbody>
 <tr><td><strong>Total geral de promessas registradas</strong></td><td>8.810</td><td><strong>3.224 unidades</strong> (<strong>2.945 distintas estimadas</strong>)</td><td>Os critérios completos de segmentação de Storms não foram recuperados; a pesquisa atual aplica definição operacional explícita.</td></tr>
 <tr><td><strong>Promessas de origem divina (totais segundo cada classificação)</strong></td><td>7.487</td><td><strong>2.687 unidades</strong> (1.622 bênção + 1.065 juízo)</td><td>Categorias não necessariamente equivalentes; a pesquisa atual exige compromisso identificável.</td></tr>
@@ -237,23 +252,23 @@
 <p>A diferença entre os totais deve ser interpretada à luz das definições operacionais e das unidades de contagem. A documentação histórica citada não permite reconstruir, caso a caso, todas as escolhas de segmentação de Storms. Portanto, não se pode atribuir a diferença exclusivamente a um procedimento específico do levantamento anterior, nem concluir que ele seja falso apenas por divergir do resultado atual.</p>
 <h3>6.1. Originalidade e contribuição científica da pesquisa</h3>
 <p>O confronto com a literatura histórica e com os recursos contemporâneos de linguística de corpus permite delimitar a originalidade e a contribuição científica desta investigação em cinco eixos complementares, sem reivindicar prioridade mundial absoluta sobre iniciativas não indexadas nas bases consultadas:</p>
-<ul>
-<li>1. <strong>Investigação integral do cânon associada a definição operacional explícita:</strong> em vez de compilar seleções temáticas devocionais (como na tradição iniciada por Samuel Clarke em 1720) ou divulgar apenas somatórios agregados sem lista verificável passagem por passagem (como no recenseamento de Everek R. Storms noticiado em 1956), o estudo examinou os 31.104 versículos dos 66 livros do cânon protestante sob um critério ilocucionário comissivo uniforme e documentado.</li>
-<li>2. <strong>Arquitetura de conferência cruzada e arbitragem exegética das divergências:</strong> a organização em três etapas metodológicas impediu que identificações unilaterais ingressassem automaticamente no catálogo final, submetendo todos os 1.808 casos divergentes à avaliação de terceira etapa e documentando a rejeição de 332 casos de falsos positivos e a consolidação de 37 subdivisões excedentes.</li>
-<li>3. <strong>Taxonomia em dez categorias e distinção entre promitente e comunicador humano:</strong> o conjunto de dados separa sistematicamente bênção divina, juízo divino, sentença divina, garantias apostólicas, bênçãos e juízos patriarcais, compromissos humanos e promessas adversárias, além de distinguir a origem divina do compromisso da identidade do comunicador humano em 1.487 registros (como em 1Cr 11.2).</li>
-<li>4. <strong>Distinção rigorosa entre unidades textuais e compromissos distintos com análise de sensibilidade:</strong> a combinação entre o catálogo bruto (3.224 unidades confirmadas) e o agrupamento por similaridade lexical de Jaccard (2.945 promessas distintas estimadas em $\tau = 0,45$, com faixa documentada entre 2.729 em $\tau = 0,35$ e 3.096 em $\tau = 0,65$) explicita matematicamente o papel das reafirmações pactuais ao longo das Escrituras.</li>
-<li>5. <strong>Ciência aberta e reprodutibilidade integral:</strong> a disponibilização pública dos registros estruturados (em CSV, XLSX e JSONL por livro), da memória de cálculo aritmética e dos procedimentos de validação oferece uma camada pragmático-teológica verificável que complementa os corpora morfossintáticos existentes (ETCBC/BHSA, MACULA e STEPBible).</li>
-</ul>
+<ol start="1">
+<li value="1"><strong>Investigação integral do cânon associada a definição operacional explícita:</strong> em vez de compilar seleções temáticas devocionais (como na tradição iniciada por Samuel Clarke em 1720) ou divulgar apenas somatórios agregados sem lista verificável passagem por passagem (como no recenseamento de Everek R. Storms noticiado em 1956), o estudo examinou os 31.104 versículos dos 66 livros do cânon protestante sob um critério ilocucionário comissivo uniforme e documentado.</li>
+<li value="2"><strong>Arquitetura de conferência cruzada e arbitragem exegética das divergências:</strong> a organização em três etapas metodológicas impediu que identificações unilaterais ingressassem automaticamente no catálogo final, submetendo todos os 1.808 casos divergentes à avaliação de terceira etapa e documentando a rejeição de 332 casos de falsos positivos e a consolidação de 37 subdivisões excedentes.</li>
+<li value="3"><strong>Taxonomia em dez categorias e distinção entre promitente e comunicador humano:</strong> o conjunto de dados separa sistematicamente bênção divina, juízo divino, sentença divina, garantias apostólicas, bênçãos e juízos patriarcais, compromissos humanos e promessas adversárias, além de distinguir a origem divina do compromisso da identidade do comunicador humano em 1.487 registros (como em 1Cr 11.2).</li>
+<li value="4"><strong>Distinção rigorosa entre unidades textuais e compromissos distintos com análise de sensibilidade:</strong> a combinação entre o catálogo bruto (3.224 unidades confirmadas) e o agrupamento por similaridade lexical de Jaccard (2.945 promessas distintas estimadas em τ = 0,45, com faixa documentada entre 2.729 em τ = 0,35 e 3.096 em τ = 0,65) explicita matematicamente o papel das reafirmações pactuais ao longo das Escrituras.</li>
+<li value="5"><strong>Ciência aberta, reprodutibilidade dos cálculos e transparência metodológica:</strong> a disponibilização pública dos registros estruturados (em CSV, XLSX e JSONL por livro), da memória de cálculo aritmética e dos procedimentos de validação oferece uma camada pragmático-teológica verificável que complementa os corpora morfossintáticos existentes (ETCBC/BHSA, MACULA e STEPBible).</li>
+</ol>
 <hr />
 <h2>7. Limitações</h2>
-<ul>
-<li>1. <strong>Dependência hermenêutica.</strong> As fronteiras entre promessa, advertência, profecia e declaração doutrinária dependem dos critérios exegéticos adotados. A exclusão de determinadas passagens sapienciais ou doutrinárias pode ser contestada sob outra definição de promessa.</li>
-<li>2. <strong>Similaridade lexical.</strong> O total de 2.945 promessas distintas estimadas depende do limiar de Jaccard de 0,45 e da qualidade dos resumos. Formulações diferentes podem expressar o mesmo compromisso, assim como formulações semelhantes podem referir-se a compromissos diferentes.</li>
-<li>3. <strong>Corpus em tradução.</strong> A investigação utilizou a Bíblia Almeida Livre em português, sem análise morfossintática direta e integral dos textos hebraico, aramaico e grego.</li>
-<li>4. <strong>Validação metodológica.</strong> A identificação e a arbitragem foram realizadas com auxílio de sistemas automatizados, sob critérios definidos pelo autor e verificações programáticas. A conferência amostral e os controles de consistência não equivalem à revisão humana individual de todos os versículos e registros. A separação operacional das análises não exclui erros correlacionados.</li>
-<li>5. <strong>Estimativa de cobertura.</strong> A revocação de 0,84 foi medida nos pilotos de calibração, não em todo o corpus. A projeção de 3.506 compromissos distintos é um cenário ilustrativo condicionado à extrapolação dessa taxa, não um limite superior demonstrado ou intervalo de confiança. A ausência de candidatos pendentes não comprova ausência de omissões.</li>
-<li>6. <strong>Estado da literatura e reprodução.</strong> A comparação histórica depende das fontes disponíveis. A reprodução dos cálculos sobre os dados publicados deve ser distinguida da reprodução integral das classificações, que pode variar conforme as ferramentas e parâmetros utilizados.</li>
-</ul>
+<ol start="1">
+<li value="1"><strong>Dependência hermenêutica.</strong> As fronteiras entre promessa, advertência, profecia e declaração doutrinária dependem dos critérios exegéticos adotados. A exclusão de determinadas passagens sapienciais ou doutrinárias pode ser contestada sob outra definição de promessa.</li>
+<li value="2"><strong>Similaridade lexical.</strong> O total de 2.945 promessas distintas estimadas depende do limiar de Jaccard de 0,45 e da qualidade dos resumos. Formulações diferentes podem expressar o mesmo compromisso, assim como formulações semelhantes podem referir-se a compromissos diferentes.</li>
+<li value="3"><strong>Corpus em tradução.</strong> A investigação utilizou a Bíblia Almeida Livre em português, sem análise morfossintática direta e integral dos textos hebraico, aramaico e grego.</li>
+<li value="4"><strong>Validação metodológica.</strong> A identificação e a arbitragem foram realizadas com auxílio de sistemas automatizados, sob critérios definidos pelo autor e verificações programáticas. A conferência amostral e os controles de consistência não equivalem à revisão humana individual de todos os versículos e registros. A separação operacional das análises não exclui erros correlacionados.</li>
+<li value="5"><strong>Estimativa de cobertura.</strong> A revocação de 0,84 foi medida nos pilotos de calibração, não em todo o corpus. A projeção de 3.506 compromissos distintos é um cenário ilustrativo condicionado à extrapolação dessa taxa, não um limite superior demonstrado ou intervalo de confiança. A ausência de candidatos pendentes não comprova ausência de omissões.</li>
+<li value="6"><strong>Estado da literatura e reprodução.</strong> A comparação histórica depende das fontes disponíveis. A reprodução dos cálculos sobre os dados publicados deve ser distinguida da reprodução das classificações, que pode variar conforme as ferramentas e parâmetros utilizados.</li>
+</ol>
 <hr />
 <h2>8. Conclusão</h2>
 <p>A investigação dos 66 livros do cânon protestante permitiu consolidar 3.224 unidades promissórias segundo os critérios adotados, associadas a 4.373 versículos (14,1% do corpus). Desse total, 1.211 foram confirmadas por acordo direto e 2.013 por arbitragem. O agrupamento lexical no limiar padrão de 0,45 resultou em 2.945 promessas distintas estimadas, das quais 1.481 correspondem ao indicador de bênção divina.</p>
@@ -262,7 +277,13 @@
 <p>O catálogo estruturado e a memória de cálculo oferecem uma base para a verificação pública dos resultados, para o debate exegético e para pesquisas posteriores. O valor da contribuição não se restringe ao número obtido: consiste também em explicitar como ele foi construído.</p>
 <hr />
 <h2>Disponibilidade dos dados</h2>
-<p>O repositório da pesquisa <a href="https://github.com/jairslima/Promessas-da-Biblia-by-Jair-Lima">Promessas da Bíblia</a> e o portal público do <a href="https://jairslima.github.io/Promessas-da-Biblia-by-Jair-Lima/">Observatório das Promessas Bíblicas</a> reúnem os materiais destinados à consulta e à verificação dos resultados, incluindo os catálogos estruturados, a memória de cálculo e os procedimentos de validação. A documentação de cada versão indica os arquivos disponíveis, as licenças aplicáveis e as instruções de reprodução. O DOI do depósito no Zenodo deverá ser informado após confirmação do registro.</p>
+<p>Os dados, catálogos estruturados, memória de cálculo e procedimentos de validação encontram-se publicamente disponíveis nos endereços oficiais da pesquisa:</p>
+<ul>
+<li><strong>Observatório das Promessas Bíblicas (Portal e Catálogo Interativo):</strong> https://jairslima.github.io/Promessas-da-Biblia-by-Jair-Lima/</li>
+<li><strong>Repositório Oficial no GitHub:</strong> https://github.com/jairslima/Promessas-da-Biblia-by-Jair-Lima</li>
+<li><strong>Release Oficial do Conjunto de Dados (<code>v1.0.0</code>):</strong> https://github.com/jairslima/Promessas-da-Biblia-by-Jair-Lima/releases/tag/v1.0.0</li>
+</ul>
+<p>A documentação de cada versão indica os arquivos disponíveis, as licenças aplicáveis (CC BY 4.0 para os metadados analíticos, MIT para os procedimentos computacionais e CC BY-ND 4.0 para o texto da Bíblia Almeida Livre) e as instruções para reprodutibilidade dos cálculos e transparência metodológica. O DOI do depósito no Zenodo será incorporado após confirmação do registro.</p>
 <p>O manuscrito literário de <em>As 3 Mil Promessas da Bíblia</em> não integra o conjunto público de dados.</p>
 <h2>Autoria e recursos de pesquisa</h2>
 <p>A concepção do estudo, a definição dos critérios exegéticos, a direção da pesquisa e a responsabilidade intelectual são de Jair Lima. Foram empregados recursos computacionais, incluindo modelos de linguagem, na análise textual, na classificação e na arbitragem das divergências. Os detalhes de implementação e identificação das ferramentas pertencem à documentação técnica de reprodutibilidade. Os resultados devem ser interpretados à luz das limitações metodológicas apresentadas neste artigo.</p>
@@ -282,7 +303,7 @@
 <li>SEARLE, John R. <em>Expression and Meaning: Studies in the Theory of Speech Acts</em>. Cambridge: Cambridge University Press, 1979.</li>
 <li>STORMS, Everek Richard. Levantamento estatístico das 8.810 promessas bíblicas (7.487 promessas divinas ao homem). Kitchener, Ontário, c. 1954 a 1956. Documentado em PROMISES, <em>Time</em>, New York, v. 68, n. 26, seção Religion, p. 49, 24 dez. 1956, e reproduzido em LOCKYER, Herbert, <em>All the Promises of the Bible</em>, Grand Rapids: Zondervan Publishing House, 1962, p. 10.</li>
 <li>THISELTON, Anthony C. <em>New Horizons in Hermeneutics: The Theory and Practice of Transforming Biblical Reading</em>. Grand Rapids: Zondervan, 1992.</li>
-<li>TYNDALE HOUSE. <em>STEPBible Data: Scripture Tools for Every Person — Open-Access Lexical and Morphological Datasets for Biblical Hebrew and Greek</em>. Cambridge: Tyndale House, 2023. Disponível em: https://github.com/STEPBible/STEPBible-Data. Acesso em: 24 nov. 2026.</li>
+<li>TYNDALE HOUSE. <em>STEPBible Data: Scripture Tools for Every Person: Open-Access Lexical and Morphological Datasets for Biblical Hebrew and Greek</em>. Cambridge: Tyndale House, 2023. Disponível em: https://github.com/STEPBible/STEPBible-Data. Acesso em: 24 nov. 2026.</li>
 <li>VANHOOZER, Kevin J. <em>Is There a Meaning in This Text? The Bible, the Reader, and the Morality of Literary Knowledge</em>. Grand Rapids: Zondervan, 1998.</li>
 </ul>
   </article>

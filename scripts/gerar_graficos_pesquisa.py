@@ -141,7 +141,7 @@ def g3_funil_fase3(regs, mc, dest_dir, mono=False):
         "3. Consolidadas na Fase 3\n(granularidade: 34 casos)",
         "4. Duplicatas estritas\n(mesmo versículo/objeto)",
         "5. Unidades confirmadas\n(1.211 acordo + 2.013 arb.)",
-        "6. Promessas distintas estimadas\n(estimativa Jaccard 0,45)",
+        "6. Promessas distintas estimadas\n(limiar Jaccard 0,45)",
     ]
     valores = [3609, -334, -37, -14, 3224, 2945]
     textos = ["3.609", "-334", "-37", "-14", "3.224", "2.945"]
@@ -271,7 +271,7 @@ def g6_sensibilidade_individual(mc, dest_dir, mono=False):
 
     ax.set_xticks(x)
     ax.set_xticklabels(lims, fontsize=9.5, fontweight="bold")
-    ax.set_ylim(0, 3650)
+    ax.set_ylim(0, 4200)
     for b in b1:
         v = int(b.get_height())
         ax.text(b.get_x() + b.get_width() / 2, v + 40, fmt(v), ha="center", va="bottom", fontsize=8.0, color="#444444")
