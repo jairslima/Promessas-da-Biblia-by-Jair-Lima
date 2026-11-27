@@ -1,5 +1,10 @@
 # Histórico de Versões (`CHANGELOG.md`)
 
+## [1.0.2] - 2026-11-27 (ainda não lançada)
+### Artigo científico e referências
+* Artigo atualizado: data, versão dos dados (1.0.1), DOI conceitual `10.5281/zenodo.24510900` e link da release 1.0.1.
+* README, Observatório e `CITATION.cff` passam a citar o DOI conceitual.
+
 ## [1.0.1] - 2026-11-27
 ### Correção de texto descritivo
 * Retiradas frases sobre o estado de aprovação humana nos `CATALOGO.md` e `CONTAGEM.md` de cada livro, na contagem, no artigo (Markdown, HTML e PDF), no relatório de limitações e nos scripts geradores.

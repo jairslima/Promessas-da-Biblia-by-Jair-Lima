@@ -4,9 +4,9 @@
 
 **Autor / Author:** Jair Lima  
 **Afiliação / Affiliation:** Lima Editora do Brasil; Assembleia de Deus de Três Coroas, Rio Grande do Sul, Brasil  
-**Data / Date:** 24 de novembro de 2026  
-**Versão dos dados / Data version:** v1.0.0 (`Promessas-da-Biblia-by-Jair-Lima`)  
-**DOI (Zenodo):** https://doi.org/10.5281/zenodo.24510901 (Conceito: https://doi.org/10.5281/zenodo.24510900)  
+**Data / Date:** 27 de novembro de 2026  
+**Versão dos dados / Data version:** v1.0.1 (`Promessas-da-Biblia-by-Jair-Lima`)  
+**DOI (Zenodo):** https://doi.org/10.5281/zenodo.24510900 (conceitual, leva à versão mais recente; versão 1.0.1: https://doi.org/10.5281/zenodo.24590500)  
 **Observatório público / Public Observatory:** https://jairslima.github.io/Promessas-da-Biblia-by-Jair-Lima/  
 **Repositório de dados / Data Repository:** https://github.com/jairslima/Promessas-da-Biblia-by-Jair-Lima  
 **Status editorial:** Preprint de pesquisa, ainda não avaliado por pares / *Research preprint, not yet peer-reviewed*
@@ -241,10 +241,10 @@ O catálogo estruturado e a memória de cálculo oferecem uma base para a verifi
 
 Os dados, catálogos estruturados, memória de cálculo e procedimentos de validação encontram-se publicamente disponíveis nos endereços oficiais da pesquisa:
 
-* **Depósito Permanente no Zenodo (DOI):** https://doi.org/10.5281/zenodo.24510901 (DOI conceitual: `10.5281/zenodo.24510900`)
+* **Depósito Permanente no Zenodo (DOI):** https://doi.org/10.5281/zenodo.24510900 (DOI conceitual; versão 1.0.1: `10.5281/zenodo.24590500`)
 * **Observatório das Promessas Bíblicas (Portal e Catálogo Interativo):** https://jairslima.github.io/Promessas-da-Biblia-by-Jair-Lima/
 * **Repositório Oficial no GitHub:** https://github.com/jairslima/Promessas-da-Biblia-by-Jair-Lima
-* **Release Oficial do Conjunto de Dados (`v1.0.0`):** https://github.com/jairslima/Promessas-da-Biblia-by-Jair-Lima/releases/tag/v1.0.0
+* **Release Oficial do Conjunto de Dados (`v1.0.1`):** https://github.com/jairslima/Promessas-da-Biblia-by-Jair-Lima/releases/tag/v1.0.1
 
 A documentação de cada versão indica os arquivos disponíveis, as licenças aplicáveis (CC BY 4.0 para os metadados analíticos, MIT para os procedimentos computacionais e CC BY-ND 4.0 para o texto da Bíblia Almeida Livre) e as instruções para reprodutibilidade dos cálculos e transparência metodológica.
 
@@ -255,7 +255,7 @@ O manuscrito literário de *As 3 Mil Promessas da Bíblia* não integra o conjun
 A concepção do estudo, a definição dos critérios exegéticos, a direção da pesquisa e a responsabilidade intelectual são de Jair Lima. Foram empregados recursos computacionais, incluindo modelos de linguagem, na análise textual, na classificação e na arbitragem das divergências. Os detalhes de implementação e identificação das ferramentas pertencem à documentação técnica de reprodutibilidade. Os resultados devem ser interpretados à luz das limitações metodológicas apresentadas neste artigo.
 
 **Como citar este artigo:**  
-LIMA, Jair. Quantas promessas existem na Bíblia? Uma análise computacional e exegética dos 66 livros do cânon protestante. Três Coroas, RS: Lima Editora do Brasil, 2026. 13 p. Preprint. DOI: https://doi.org/10.5281/zenodo.24510901. Disponível em: https://jairslima.github.io/Promessas-da-Biblia-by-Jair-Lima/.
+LIMA, Jair. Quantas promessas existem na Bíblia? Uma análise computacional e exegética dos 66 livros do cânon protestante. Três Coroas, RS: Lima Editora do Brasil, 2026. 13 p. Preprint. DOI: https://doi.org/10.5281/zenodo.24510900. Disponível em: https://jairslima.github.io/Promessas-da-Biblia-by-Jair-Lima/.
 
 ---
 
