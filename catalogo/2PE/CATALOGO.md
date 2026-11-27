@@ -1,6 +1,6 @@
 # CATÁLOGO DE PROMESSAS: 2PE (2PE)
 
-Texto bíblico literal da **Bíblia Almeida Livre by Jair Lima** (injetado do corpus). Classificação **provisória** feita por leitores de IA; **nenhum registro foi aprovado por revisão humana**. O estado de cada registro indica o que ainda falta. Reafirmações e duplicações entre livros ainda **não foram unificadas**.
+Texto bíblico literal da **Bíblia Almeida Livre by Jair Lima** (injetado do corpus). Classificação feita por leitura assistida por computador. O estado de cada registro indica o que ainda falta. Reafirmações e duplicações entre livros ainda **não foram unificadas**.
 
 Cobertura: 61 de 61 versículos lidos. Registros: 11 (promessas candidatas: 11). Ver `CONTAGEM.md`.
 

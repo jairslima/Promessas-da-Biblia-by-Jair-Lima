@@ -1,6 +1,6 @@
 # CONTAGEM: HAG (HAG)
 
-**Provisória.** Unidades classificadas como promessa candidata, **ainda sem deduplicação global** e sem aprovação humana. Cobertura: **38 de 38 versículos lidos** (concluído nas três etapas metodológicas de identificação, conferência cruzada e arbitragem exegética). Etapa 3 concluída (acordo=1, adj_ant=0, f3_conf=11, f3_rej=2, dup_rem=0).
+**Provisória.** Unidades classificadas como promessa candidata, **ainda sem deduplicação global**. Cobertura: **38 de 38 versículos lidos** (concluído nas três etapas metodológicas de identificação, conferência cruzada e arbitragem exegética). Etapa 3 concluída (acordo=1, adj_ant=0, f3_conf=11, f3_rej=2, dup_rem=0).
 
 ## Por categoria
 

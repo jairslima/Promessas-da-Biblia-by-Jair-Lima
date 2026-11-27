@@ -1,6 +1,6 @@
 # CATÁLOGO DE PROMESSAS: 2TI (2TI)
 
-Texto bíblico literal da **Bíblia Almeida Livre by Jair Lima** (injetado do corpus). Classificação **provisória** feita por leitores de IA; **nenhum registro foi aprovado por revisão humana**. O estado de cada registro indica o que ainda falta. Reafirmações e duplicações entre livros ainda **não foram unificadas**.
+Texto bíblico literal da **Bíblia Almeida Livre by Jair Lima** (injetado do corpus). Classificação feita por leitura assistida por computador. O estado de cada registro indica o que ainda falta. Reafirmações e duplicações entre livros ainda **não foram unificadas**.
 
 Cobertura: 83 de 83 versículos lidos. Registros: 8 (promessas candidatas: 8). Ver `CONTAGEM.md`.
 

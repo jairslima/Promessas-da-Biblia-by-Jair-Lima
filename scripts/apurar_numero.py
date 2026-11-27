@@ -84,7 +84,7 @@ def main():
     lib = {k: {m: (round(v / 0.84) if m in ("unidades", "distintas_estimadas") else v) for m, v in d.items()} for k, d in central.items()}
     res = {"limiar_de_similaridade": a.limiar, "conservador": cons, "central": central,
            "liberal_(central_dividido_por_0,84)": lib,
-           "versiculos_no_corpus": len(corpus.pos), "aviso": "Provisório: sem aprovação humana e sem deduplicação global. Faixas, não pontos. Nenhum indicador foi escolhido para o título."}
+           "versiculos_no_corpus": len(corpus.pos), "aviso": "Sem deduplicação global. Faixas, não pontos. Nenhum indicador foi escolhido para o título."}
     (RAIZ / "auditoria" / "apuracao_numero.json").write_text(json.dumps(res, ensure_ascii=False, indent=1), encoding="utf-8")
     for nome in ("conservador", "central", "liberal_(central_dividido_por_0,84)"):
         d = res[nome]

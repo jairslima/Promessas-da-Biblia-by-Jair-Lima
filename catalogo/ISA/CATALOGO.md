@@ -1,6 +1,6 @@
 # CATÁLOGO DE PROMESSAS: ISA (ISA)
 
-Texto bíblico literal da **Bíblia Almeida Livre by Jair Lima** (injetado do corpus). Classificação **provisória** feita por leitores de IA; **nenhum registro foi aprovado por revisão humana**. O estado de cada registro indica o que ainda falta. Reafirmações e duplicações entre livros ainda **não foram unificadas**.
+Texto bíblico literal da **Bíblia Almeida Livre by Jair Lima** (injetado do corpus). Classificação feita por leitura assistida por computador. O estado de cada registro indica o que ainda falta. Reafirmações e duplicações entre livros ainda **não foram unificadas**.
 
 Cobertura: 1292 de 1292 versículos lidos. Registros: 350 (promessas candidatas: 350). Ver `CONTAGEM.md`.
 

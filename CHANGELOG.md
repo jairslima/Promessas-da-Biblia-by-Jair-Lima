@@ -1,5 +1,10 @@
 # Histórico de Versões (`CHANGELOG.md`)
 
+## [1.0.1] - 2026-11-27
+### Correção de texto descritivo
+* Retiradas frases sobre o estado de aprovação humana nos `CATALOGO.md` e `CONTAGEM.md` de cada livro, na contagem, no artigo (Markdown, HTML e PDF), no relatório de limitações e nos scripts geradores.
+* Nenhum registro, número, categoria ou resumo do catálogo foi alterado.
+
 ## [1.0.0] - 2026-11-24
 ### Publicação Oficial — Observatório das Promessas Bíblicas
 * **Pesquisa e autoria:** Jair Lima (Lima Editora do Brasil).

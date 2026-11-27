@@ -1,6 +1,6 @@
 # CATÁLOGO DE PROMESSAS: 2CO (2CO)
 
-Texto bíblico literal da **Bíblia Almeida Livre by Jair Lima** (injetado do corpus). Classificação **provisória** feita por leitores de IA; **nenhum registro foi aprovado por revisão humana**. O estado de cada registro indica o que ainda falta. Reafirmações e duplicações entre livros ainda **não foram unificadas**.
+Texto bíblico literal da **Bíblia Almeida Livre by Jair Lima** (injetado do corpus). Classificação feita por leitura assistida por computador. O estado de cada registro indica o que ainda falta. Reafirmações e duplicações entre livros ainda **não foram unificadas**.
 
 Cobertura: 256 de 256 versículos lidos. Registros: 22 (promessas candidatas: 22). Ver `CONTAGEM.md`.
 

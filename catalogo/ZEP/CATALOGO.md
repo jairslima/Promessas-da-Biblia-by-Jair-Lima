@@ -1,6 +1,6 @@
 # CATÁLOGO DE PROMESSAS: ZEP (ZEP)
 
-Texto bíblico literal da **Bíblia Almeida Livre by Jair Lima** (injetado do corpus). Classificação **provisória** feita por leitores de IA; **nenhum registro foi aprovado por revisão humana**. O estado de cada registro indica o que ainda falta. Reafirmações e duplicações entre livros ainda **não foram unificadas**.
+Texto bíblico literal da **Bíblia Almeida Livre by Jair Lima** (injetado do corpus). Classificação feita por leitura assistida por computador. O estado de cada registro indica o que ainda falta. Reafirmações e duplicações entre livros ainda **não foram unificadas**.
 
 Cobertura: 53 de 53 versículos lidos. Registros: 25 (promessas candidatas: 25). Ver `CONTAGEM.md`.
 

@@ -1,7 +1,7 @@
 {
   "upload_type": "dataset",
   "title": "Observatório das Promessas Bíblicas: Uma investigação integral das promessas de Gênesis a Apocalipse (3.224 unidades promissórias confirmadas e 2.945 promessas distintas estimadas)",
-  "publication_date": "2026-11-24",
+  "publication_date": "2026-11-27",
   "creators": [
     {
       "name": "Lima, Jair",
@@ -12,7 +12,7 @@
   "access_right": "open",
   "license": "cc-by-4.0",
   "language": "por",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "keywords": [
     "Promessas bíblicas",
     "Teologia bíblica",

@@ -1,6 +1,6 @@
 # CONTAGEM: Levítico (LEV)
 
-**Provisória.** Unidades classificadas como promessa candidata, **ainda sem deduplicação global** e sem aprovação humana. Cobertura: **859 de 859 versículos lidos** (concluído nas três etapas metodológicas de identificação, conferência cruzada e arbitragem exegética). Etapa 3 concluída (acordo=17, adj_ant=19, f3_conf=0, f3_rej=0, dup_rem=0).
+**Provisória.** Unidades classificadas como promessa candidata, **ainda sem deduplicação global**. Cobertura: **859 de 859 versículos lidos** (concluído nas três etapas metodológicas de identificação, conferência cruzada e arbitragem exegética). Etapa 3 concluída (acordo=17, adj_ant=19, f3_conf=0, f3_rej=0, dup_rem=0).
 
 ## Por categoria
 

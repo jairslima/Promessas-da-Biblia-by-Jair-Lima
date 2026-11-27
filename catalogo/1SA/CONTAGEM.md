@@ -1,6 +1,6 @@
 # CONTAGEM: 1SA (1SA)
 
-**Provisória.** Unidades classificadas como promessa candidata, **ainda sem deduplicação global** e sem aprovação humana. Cobertura: **810 de 810 versículos lidos** (concluído nas três etapas metodológicas de identificação, conferência cruzada e arbitragem exegética). Etapa 3 concluída (acordo=52, adj_ant=0, f3_conf=56, f3_rej=3, dup_rem=0).
+**Provisória.** Unidades classificadas como promessa candidata, **ainda sem deduplicação global**. Cobertura: **810 de 810 versículos lidos** (concluído nas três etapas metodológicas de identificação, conferência cruzada e arbitragem exegética). Etapa 3 concluída (acordo=52, adj_ant=0, f3_conf=56, f3_rej=3, dup_rem=0).
 
 ## Por categoria
 

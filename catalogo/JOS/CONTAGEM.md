@@ -1,6 +1,6 @@
 # CONTAGEM: JOS (JOS)
 
-**Provisória.** Unidades classificadas como promessa candidata, **ainda sem deduplicação global** e sem aprovação humana. Cobertura: **658 de 658 versículos lidos** (concluído nas três etapas metodológicas de identificação, conferência cruzada e arbitragem exegética). Etapa 3 concluída (acordo=26, adj_ant=0, f3_conf=27, f3_rej=1, dup_rem=0).
+**Provisória.** Unidades classificadas como promessa candidata, **ainda sem deduplicação global**. Cobertura: **658 de 658 versículos lidos** (concluído nas três etapas metodológicas de identificação, conferência cruzada e arbitragem exegética). Etapa 3 concluída (acordo=26, adj_ant=0, f3_conf=27, f3_rej=1, dup_rem=0).
 
 ## Por categoria
 

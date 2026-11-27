@@ -1,6 +1,6 @@
 # CONTAGEM: 1CO (1CO)
 
-**Provisória.** Unidades classificadas como promessa candidata, **ainda sem deduplicação global** e sem aprovação humana. Cobertura: **437 de 437 versículos lidos** (concluído nas três etapas metodológicas de identificação, conferência cruzada e arbitragem exegética). Etapa 3 concluída (acordo=17, adj_ant=0, f3_conf=15, f3_rej=13, dup_rem=0).
+**Provisória.** Unidades classificadas como promessa candidata, **ainda sem deduplicação global**. Cobertura: **437 de 437 versículos lidos** (concluído nas três etapas metodológicas de identificação, conferência cruzada e arbitragem exegética). Etapa 3 concluída (acordo=17, adj_ant=0, f3_conf=15, f3_rej=13, dup_rem=0).
 
 ## Por categoria
 

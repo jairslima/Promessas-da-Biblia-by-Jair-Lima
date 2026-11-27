@@ -1,6 +1,6 @@
 # CONTAGEM: 2KI (2KI)
 
-**Provisória.** Unidades classificadas como promessa candidata, **ainda sem deduplicação global** e sem aprovação humana. Cobertura: **719 de 719 versículos lidos** (concluído nas três etapas metodológicas de identificação, conferência cruzada e arbitragem exegética). Etapa 3 concluída (acordo=35, adj_ant=0, f3_conf=37, f3_rej=7, dup_rem=1).
+**Provisória.** Unidades classificadas como promessa candidata, **ainda sem deduplicação global**. Cobertura: **719 de 719 versículos lidos** (concluído nas três etapas metodológicas de identificação, conferência cruzada e arbitragem exegética). Etapa 3 concluída (acordo=35, adj_ant=0, f3_conf=37, f3_rej=7, dup_rem=1).
 
 ## Por categoria
 

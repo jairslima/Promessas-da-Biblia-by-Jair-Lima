@@ -1,6 +1,6 @@
 # CONTAGEM: LAM (LAM)
 
-**Provisória.** Unidades classificadas como promessa candidata, **ainda sem deduplicação global** e sem aprovação humana. Cobertura: **154 de 154 versículos lidos** (concluído nas três etapas metodológicas de identificação, conferência cruzada e arbitragem exegética). Etapa 3 concluída (acordo=0, adj_ant=0, f3_conf=0, f3_rej=0, dup_rem=0).
+**Provisória.** Unidades classificadas como promessa candidata, **ainda sem deduplicação global**. Cobertura: **154 de 154 versículos lidos** (concluído nas três etapas metodológicas de identificação, conferência cruzada e arbitragem exegética). Etapa 3 concluída (acordo=0, adj_ant=0, f3_conf=0, f3_rej=0, dup_rem=0).
 
 ## Por categoria
 

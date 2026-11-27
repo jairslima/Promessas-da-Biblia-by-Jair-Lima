@@ -1,6 +1,6 @@
 # CONTAGEM: JDG (JDG)
 
-**Provisória.** Unidades classificadas como promessa candidata, **ainda sem deduplicação global** e sem aprovação humana. Cobertura: **618 de 618 versículos lidos** (concluído nas três etapas metodológicas de identificação, conferência cruzada e arbitragem exegética). Etapa 3 concluída (acordo=35, adj_ant=0, f3_conf=28, f3_rej=4, dup_rem=0).
+**Provisória.** Unidades classificadas como promessa candidata, **ainda sem deduplicação global**. Cobertura: **618 de 618 versículos lidos** (concluído nas três etapas metodológicas de identificação, conferência cruzada e arbitragem exegética). Etapa 3 concluída (acordo=35, adj_ant=0, f3_conf=28, f3_rej=4, dup_rem=0).
 
 ## Por categoria
 

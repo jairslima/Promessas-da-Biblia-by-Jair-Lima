@@ -1,6 +1,6 @@
 # CONTAGEM: HOS (HOS)
 
-**Provisória.** Unidades classificadas como promessa candidata, **ainda sem deduplicação global** e sem aprovação humana. Cobertura: **197 de 197 versículos lidos** (concluído nas três etapas metodológicas de identificação, conferência cruzada e arbitragem exegética). Etapa 3 concluída (acordo=37, adj_ant=0, f3_conf=35, f3_rej=1, dup_rem=0).
+**Provisória.** Unidades classificadas como promessa candidata, **ainda sem deduplicação global**. Cobertura: **197 de 197 versículos lidos** (concluído nas três etapas metodológicas de identificação, conferência cruzada e arbitragem exegética). Etapa 3 concluída (acordo=37, adj_ant=0, f3_conf=35, f3_rej=1, dup_rem=0).
 
 ## Por categoria
 

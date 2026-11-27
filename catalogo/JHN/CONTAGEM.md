@@ -1,6 +1,6 @@
 # CONTAGEM: JHN (JHN)
 
-**Provisória.** Unidades classificadas como promessa candidata, **ainda sem deduplicação global** e sem aprovação humana. Cobertura: **879 de 879 versículos lidos** (concluído nas três etapas metodológicas de identificação, conferência cruzada e arbitragem exegética). Etapa 3 concluída (acordo=51, adj_ant=0, f3_conf=43, f3_rej=14, dup_rem=0).
+**Provisória.** Unidades classificadas como promessa candidata, **ainda sem deduplicação global**. Cobertura: **879 de 879 versículos lidos** (concluído nas três etapas metodológicas de identificação, conferência cruzada e arbitragem exegética). Etapa 3 concluída (acordo=51, adj_ant=0, f3_conf=43, f3_rej=14, dup_rem=0).
 
 ## Por categoria
 

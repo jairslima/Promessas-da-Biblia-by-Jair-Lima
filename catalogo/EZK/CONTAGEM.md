@@ -1,6 +1,6 @@
 # CONTAGEM: EZK (EZK)
 
-**Provisória.** Unidades classificadas como promessa candidata, **ainda sem deduplicação global** e sem aprovação humana. Cobertura: **1273 de 1273 versículos lidos** (concluído nas três etapas metodológicas de identificação, conferência cruzada e arbitragem exegética). Etapa 3 concluída (acordo=110, adj_ant=0, f3_conf=131, f3_rej=57, dup_rem=0).
+**Provisória.** Unidades classificadas como promessa candidata, **ainda sem deduplicação global**. Cobertura: **1273 de 1273 versículos lidos** (concluído nas três etapas metodológicas de identificação, conferência cruzada e arbitragem exegética). Etapa 3 concluída (acordo=110, adj_ant=0, f3_conf=131, f3_rej=57, dup_rem=0).
 
 ## Por categoria
 

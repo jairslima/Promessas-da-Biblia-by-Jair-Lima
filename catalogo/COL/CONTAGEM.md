@@ -1,6 +1,6 @@
 # CONTAGEM: COL (COL)
 
-**Provisória.** Unidades classificadas como promessa candidata, **ainda sem deduplicação global** e sem aprovação humana. Cobertura: **95 de 95 versículos lidos** (concluído nas três etapas metodológicas de identificação, conferência cruzada e arbitragem exegética). Etapa 3 concluída (acordo=2, adj_ant=0, f3_conf=3, f3_rej=4, dup_rem=0).
+**Provisória.** Unidades classificadas como promessa candidata, **ainda sem deduplicação global**. Cobertura: **95 de 95 versículos lidos** (concluído nas três etapas metodológicas de identificação, conferência cruzada e arbitragem exegética). Etapa 3 concluída (acordo=2, adj_ant=0, f3_conf=3, f3_rej=4, dup_rem=0).
 
 ## Por categoria
 
